@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Micro Something
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my notes, bla bla bla
