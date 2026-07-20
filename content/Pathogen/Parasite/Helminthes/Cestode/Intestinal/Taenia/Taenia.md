@@ -1,7 +1,6 @@
 ---
 date: 2026-07-19
-draft: "false"
-aliases:
-  - Epstein-Barr Virus
+draft: "true"
 ---
+
 **This file is empty**
