@@ -1,3 +1,8 @@
+---
+date: "2026-07-22"
+draft: "true"
+---
+**This file is empty**
 ## The T-Cell Arsenal: Receptors, Co-receptors, and Checkpoints
 This group includes molecules directly involved in T-cell antigen recognition, activation, and critical regulatory checkpoints.
 - **CD3 (γ, δ, ε) & CD247 (TCR ζ chain):** These molecules associate to form the T-cell antigen receptor (TCR) complex. They all contain Immunoreceptor Tyrosine-based Activation Motifs (ITAMs) in their cytoplasmic tails, which are essential for cell surface expression and signal transduction upon antigen binding.
