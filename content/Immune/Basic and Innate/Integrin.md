@@ -1,7 +1,3 @@
----
-date: 2026-07-20
-draft: "false"
----
 The integrin CD molecules, specifically the CD11 and CD18 families, are critical cell surface proteins that orchestrate leukocyte adhesion to the endothelium, cell-to-cell interactions, and the phagocytosis of opsonized microbes. These molecules constitute the **β2 integrin family**, which is indispensable for both innate and adaptive immune responses.
 
 ### Overview of β2 Integrins (CD11 and CD18)

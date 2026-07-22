@@ -1,8 +1,7 @@
 ---
-date: 2026-07-20
+date: 2026-07-22
 draft: "false"
 aliases:
-  - T Cells
-  - T-Cell
+  - Plasma Cells
 ---
 **This file is empty**
