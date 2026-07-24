@@ -1,6 +1,6 @@
 ---
 date: 2026-07-22
-draft: "false"
+draft: false
 ---
 Mucosa-associated lymphoid tissue (MALT) consists of unencapsulated but highly organized secondary lymphoid structures situated directly beneath the epithelial barriers of the gastrointestinal, bronchopulmonary, and genitourinary tracts. Because the physical features of these distinct mucosal surfaces differ greatly—ranging from the soft, wet, and warm environment of the gut to the ciliated surfaces of the respiratory tree—the regional MALT structures are anatomically tailored to sample antigens and initiate adaptive immune responses against the specific environmental microbes encountered at each barrier.
 

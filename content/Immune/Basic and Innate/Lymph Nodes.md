@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 ## Anatomy and Histology
 Lymph nodes are encapsulated, vascularized secondary lymphoid organs numbering approximately 500 in the human body. Structurally, a lymph node is enveloped by a fibrous capsule, beneath which lies a network of sinuses supported by collagen fibrils and other extracellular matrix proteins. These subcapsular sinuses are lined by reticular cells and are filled with various cell types including lymphocytes, macrophages, and dendritic cells (DCs). Afferent lymphatic vessels empty directly into this subcapsular sinus, and the fluid (lymph) subsequently drains into the connected medullary sinus before exiting the lymph node entirely through the efferent lymphatics. The internal architecture of the node is highly compartmentalized into distinct cortical and medullary regions.

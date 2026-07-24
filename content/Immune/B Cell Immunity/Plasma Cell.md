@@ -1,6 +1,6 @@
 ---
 date: 2026-07-22
-draft: "false"
+draft: false
 aliases:
   - Plasma Cells
 ---

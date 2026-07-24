@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 ICAMs, VCAM , and PECAM all belong to the **Immunoglobulin (Ig) superfamily** of cellular adhesion molecules. The extracellular portions of these proteins are composed of repeating globular structures known as Ig domains.
 

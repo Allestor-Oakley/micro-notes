@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 ## Type 1 Complement Receptor (CR1 / CD35)
 CR1 is the master receptor for promoting the clearance of immune complexes and facilitating the phagocytosis of opsonized targets.

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-22
-draft: "false"
+draft: false
 ---
 The bone marrow is the primary generative lymphoid organ responsible for the generation of circulating blood cells—a process called hematopoiesis—and is the principal site of B-lymphocyte maturation.
 

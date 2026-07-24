@@ -1,6 +1,6 @@
 ---
-date: "2026-07-22"
-draft: "true"
+date: 2026-07-22
+draft: false
 ---
 ## Hematopoiesis
 Hematopoiesis is the biological process responsible for the generation of all circulating blood cells, including red blood cells, granulocytes, monocytes, dendritic cells (DCs), mast cells, platelets, innate lymphoid cells (ILCs), B lymphocytes, and T lymphocytes. During fetal development, this process initially occurs in the blood islands of the yolk sac and the para-aortic mesenchyme, shifts to the liver between the third and fourth months of gestation, and ultimately transitions to the bone marrow. At birth, hematopoiesis takes place in bones throughout the entire skeleton, but by puberty, it becomes increasingly restricted to the spongelike reticular framework of red marrow within flat bones, such as the sternum, vertebrae, iliac bones, and ribs. When the bone marrow is compromised or under exceptional demand, the liver and spleen can serve as sites of extramedullary hematopoiesis.
