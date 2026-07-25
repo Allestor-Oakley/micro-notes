@@ -60,14 +60,14 @@ draft: false
 *   **Entry & Attachment Mechanism:** Nocardia infections are exclusively exogenous. Bronchopulmonary disease develops after initial colonization of the upper respiratory tract by inhalation of environmental organisms, followed by aspiration of oral secretions into the lower airways. Primary cutaneous nocardiosis develops after the traumatic introduction of organisms into subcutaneous tissues.
 *   **Intracellular vs Extracellular Survival:** Primarily extracellular, causing neutrophilic inflammation and abscess formation.
 *   **Immune Evasion Strategies:** N/A
-*   **Host Defense & Immunodeficiency Links:** Primarily an opportunistic pathogen. The ubiquitous presence of the organism in soil and water has led to dramatic increases in disease due to a growing immunocompromised population. High-risk populations include individuals with T-cell deficiencies, HIV/AIDS, organ transplant recipients receiving immunosuppressive therapy, patients on corticosteroid treatment, and alcoholics. Immunocompetent patients are also at risk if their pulmonary function is compromised by conditions like bronchitis, emphysema, asthma, bronchiectasis, or alveolar proteinosis.
+*   **Host Defense & Immunodeficiency Links:** Primarily an opportunistic pathogen. The ubiquitous presence of the organism in soil and water has led to dramatic increases in disease due to a growing immunocompromised population. High-risk populations include individuals with [[T Cell|T-cell]] deficiencies, [[HIV]]/AIDS, organ transplant recipients receiving immunosuppressive therapy, patients on corticosteroid treatment, and alcoholics. Immunocompetent patients are also at risk if their pulmonary function is compromised by conditions like bronchitis, emphysema, asthma, bronchiectasis, or alveolar proteinosis.
 
 #### Clinical Syndromes
 *   **Primary Diseases:**
     *   **Bronchopulmonary disease:** An indolent, subacute to chronic pulmonary disease presenting with focal infiltrates, multifocal nodules, necrosis, cavitation, and abscess formation in the lungs. It can mimic tuberculosis and other infections. Symptoms include fever, night sweats, weight loss, chest pain, cough (with or without sputum), and shortness of breath.
     *   **Mycetoma:** A chronic, destructive, progressive disease, generally of the extremities, characterized by suppurative granulomas, progressive fibrosis, necrosis, and sinus tract formation.
     *   **Lymphocutaneous disease:** Primary infection or secondary spread to a cutaneous site, characterized by chronic granuloma formation, erythematous subcutaneous nodules, and eventual ulcer formation.
-    *   **Cellulitis and subcutaneous abscesses:** Granulomatous ulcer formation with surrounding erythema, typically presenting with minimal or no involvement of the draining lymph nodes.
+    *   **Cellulitis and subcutaneous abscesses:** Granulomatous ulcer formation with surrounding erythema, typically presenting with minimal or no involvement of the draining [[lymph nodes]].
     *   **Brain abscess:** Chronic CNS infection presenting with fever, headache, and focal neurologic deficits related to the location of the slowly developing abscess(es).
 *   **Incubation Period:** N/A (Disease is typically subacute to chronic and slowly developing).
 *   **Pathognomonic Signs:** In tissue, the formation of mycetomas with sinus tracts. Under microscopy, the presence of filamentous, branching, beaded Gram-positive rods that stain partially acid-fast.
@@ -86,10 +86,10 @@ draft: false
 *   **Diagnostic Nuances:** Because growth is slow, the laboratory must be specifically notified that a Nocardia infection is suspected so cultures can be incubated well beyond the normal 1 to 2 days.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Trimethoprim-sulfamethoxazole (TMP-SMX) is the drug of choice, particularly as initial empirical therapy for cutaneous infections in immunocompetent patients.
-*   **Alternative / Second-Line Treatment:** Amikacin, imipenem, meropenem, broad-spectrum cephalosporins (e.g., ceftriaxone, cefotaxime), sulfisoxazole, linezolid, tetracyclines, cycloserine, and amoxicillin-clavulanate.
+*   **First-Line Treatment:** Trimethoprim-sulfamethoxazole ([[Cotrimoxazole|TMP-SMX]]) is the drug of choice, particularly as initial empirical therapy for cutaneous infections in immunocompetent patients.
+*   **Alternative / Second-Line Treatment:** [[Amikacin]], [[imipenem]], [[meropenem]], broad-spectrum cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]]), sulfisoxazole, [[linezolid]], tetracyclines, cycloserine, and [[amoxicillin]]-clavulanate.
 *   **Mechanisms of Resistance & Resistance Genes:** The genus contains numerous species and complexes, each possessing unique drug susceptibility patterns. Therefore, in vitro antimicrobial susceptibility testing of clinical isolates is strictly required to guide specific therapy.
-*   **Treatment Nuances & Contraindications:** Therapy for severe infections and cutaneous infections in immunocompromised patients should use combination regimens: TMP-SMX plus amikacin (for pulmonary or cutaneous dissemination) or TMP-SMX plus imipenem or a broad-spectrum cephalosporin (for central nervous system infections). Because the organism grows slowly and causes indolent, chronic abscesses, treatment must be prolonged (often up to 12 months or more) to prevent relapse.
+*   **Treatment Nuances & Contraindications:** Therapy for severe infections and cutaneous infections in immunocompromised patients should use combination regimens: [[Cotrimoxazole|TMP-SMX]] plus [[amikacin]] (for pulmonary or cutaneous dissemination) or [[Cotrimoxazole|TMP-SMX]] plus [[imipenem]] or a broad-spectrum [[cephalosporin]] (for central nervous system infections). Because the organism grows slowly and causes indolent, chronic abscesses, treatment must be prolonged (often up to 12 months or more) to prevent relapse.
 *   **Prophylaxis & Vaccine Protocols:** N/A (No vaccines available; environmental exposure cannot be avoided).
 
 #### Trivia & Edge Cases

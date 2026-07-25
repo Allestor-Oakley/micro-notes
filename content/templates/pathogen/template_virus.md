@@ -38,6 +38,7 @@ draft: true
 
 ## Clinical Syndromes
 - **Primary Diseases:**
+- **Secondary, Atypical & Alternate Presentations:**
 - **Incubation Period:**
 - **Classic Prodrome:**
 - **Pathognomonic Signs:**

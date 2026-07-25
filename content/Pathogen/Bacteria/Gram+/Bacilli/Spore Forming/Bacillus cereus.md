@@ -60,7 +60,7 @@ draft: false
     *   **Mechanism of Action:** Cytotoxic enzymes that cause rapid, severe tissue destruction, particularly important in the pathogenesis of traumatic endophthalmitis and eye infections.
 *   **Endotoxins & Superantigens:** N/A
 *   **Enzymes:** Phospholipase C, cereolysin.
-*   **Genetic Elements:** The emetic toxin is encoded on a plasmid. Certain emerging strains possess *Bacillus anthracis* toxin genes, which lead to fatal, anthrax-like pneumonia.
+*   **Genetic Elements:** The emetic toxin is encoded on a plasmid. Certain emerging strains possess *[[Bacillus anthracis]]* toxin genes, which lead to fatal, anthrax-like pneumonia.
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection or intoxication frequently begins through ingestion of contaminated food products (e.g., rice, meat, vegetables, sauces). It can also be introduced via penetrating trauma to the eye (introducing soil-contaminated foreign bodies) or through intravenous injection or contaminated medical devices/catheters.
@@ -74,12 +74,12 @@ draft: false
     *   **Food Poisoning (Diarrheal Form):** Often associated with meat dishes, sauces, and vegetables. Manifests as profuse watery diarrhea with abdominal pain and cramps; fever and vomiting are uncommon.
     *   **Traumatic Endophthalmitis and Ocular Infections:** Penetrating trauma to the eye introduces the bacteria, causing rapidly progressive intraocular inflammation, pain, and purulence. Tissue destruction is rapid and severe, frequently resulting in evisceration (loss of the eye) despite aggressive medical and surgical interventions. Can also cause conjunctivitis and keratitis.
     *   **Systemic / Opportunistic Infections:** Catheter-associated sepsis, transfusion-associated sepsis, endocarditis, and meningitis.
-    *   **Severe Pneumonia:** An anthrax-like disease causing fatal pneumonia has been documented in immunocompetent humans (e.g., metalworkers) due to inhalation exposure of strains harboring *Bacillus anthracis* toxin genes.
+    *   **Severe Pneumonia:** An anthrax-like disease causing fatal pneumonia has been documented in immunocompetent humans (e.g., metalworkers) due to inhalation exposure of strains harboring *[[Bacillus anthracis]]* toxin genes.
 *   **Incubation Period:**
     *   Emetic Form: 1 to 5 hours (mean: 2 hours).
     *   Diarrheal Form: 1 to 24 hours (mean: 9 hours).
 *   **Pathognomonic Signs:** N/A
-*   **Complications & Sequelae:** Complete loss of the eye (evisceration) following traumatic endophthalmitis; fatal pneumonia in patients exposed to strains with *B. anthracis* toxin genes.
+*   **Complications & Sequelae:** Complete loss of the eye (evisceration) following traumatic endophthalmitis; fatal pneumonia in patients exposed to strains with *[[Bacillus anthracis|B. anthracis]]* toxin genes.
 
 #### Epidemiology & Transmission
 *   **Reservoir:** Ubiquitous in the environment, heavily prevalent in soil, water, and air.
@@ -96,12 +96,12 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:**
     *   Gastrointestinal infections (food poisoning) are treated symptomatically, as they are self-limiting.
-    *   For extraintestinal and severe infections (e.g., endophthalmitis, sepsis), Vancomycin is a primary treatment.
-*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., ciprofloxacin), clindamycin, gentamicin, imipenem, or meropenem. For eye infections, intravitreal injection of vancomycin, ceftazidime, and systemically administered ciprofloxacin (with dexamethasone for inflammation) have been utilized.
+    *   For extraintestinal and severe infections (e.g., endophthalmitis, sepsis), [[Vancomycin]] is a primary treatment.
+*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[ciprofloxacin]]), [[clindamycin]], [[gentamicin]], [[imipenem]], or [[meropenem]]. For eye infections, intravitreal injection of [[vancomycin]], [[ceftazidime]], and systemically administered [[ciprofloxacin]] (with dexamethasone for inflammation) have been utilized.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Traumatic endophthalmitis requires immediate, aggressive surgical intervention (to relieve ocular pressure and drain purulence) combined with local (intravitreal) and systemic antibiotics to attempt to salvage the eye.
 *   **Prophylaxis & Vaccine Protocols:** Gastrointestinal disease is prevented by proper food preparation—foods (especially rice) should be consumed immediately after cooking or refrigerated promptly to prevent spore germination and subsequent toxin production during slow cooling.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Fried rice" food poisoning, "emetic vs. diarrheal form", "dull/frosted-glass colonies" (waxen/*cereus*), "traumatic endophthalmitis", "cereolysin".
-*   **Exceptions to the Rule:** While mostly known for mild food poisoning, *B. cereus* can mimic *Bacillus anthracis* if it acquires its toxin genes, leading to severe, fatal anthrax-like pneumonia in otherwise healthy individuals.
+*   **Exceptions to the Rule:** While mostly known for mild food poisoning, *B. cereus* can mimic *[[Bacillus anthracis]]* if it acquires its toxin genes, leading to severe, fatal anthrax-like pneumonia in otherwise healthy individuals.

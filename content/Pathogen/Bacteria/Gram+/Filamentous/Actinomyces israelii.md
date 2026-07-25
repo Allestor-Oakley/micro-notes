@@ -80,8 +80,8 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Penicillin-based agents combined with surgical debridement or excision.
-*   **Alternative / Second-Line Treatment:** Carbapenems, macrolides, or clindamycin.
+*   **First-Line Treatment:** [[Penicillin]]-based agents combined with surgical debridement or excision.
+*   **Alternative / Second-Line Treatment:** Carbapenems, macrolides, or [[clindamycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Medical management requires long-term antibiotic therapy (usually for several months) along with surgical intervention to drain abscesses and remove necrotic tissue.
 *   **Prophylaxis & Vaccine Protocols:** N/A

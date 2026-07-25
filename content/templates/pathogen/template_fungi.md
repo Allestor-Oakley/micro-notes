@@ -28,6 +28,7 @@ draft: true
 
 ## Clinical Syndromes
 - **Primary Infection:**
+- **Secondary, Atypical & Alternate Presentations:**
 - **Disseminated Disease:**
 - **Opportunistic Presentations:**
 - **Pathognomonic Lesions:**

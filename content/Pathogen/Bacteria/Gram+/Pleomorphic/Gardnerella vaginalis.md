@@ -1,6 +1,5 @@
 ---
 aliases:
-  - N/A
 clinical_syndromes:
   - Bacterial vaginosis ("nonspecific vaginitis")
   - Premature rupture of membranes
@@ -74,7 +73,7 @@ draft: false
 *   **Diagnostic Nuances:** Bacterial culture for aerobes and anaerobes is specifically noted as not useful or recommended for the diagnosis of bacterial vaginosis.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Oral or topical metronidazole is generally curative. Metronidazole successfully suppresses the associated anaerobes and resolves the vaginosis.
+*   **First-Line Treatment:** Oral or topical [[metronidazole]] is generally curative. [[Metronidazole]] successfully suppresses the associated anaerobes and resolves the vaginosis.
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Simultaneous treatment of the sexual partners of affected women who develop repeated episodes of these infections may be attempted, though it is not a standard requirement for initial episodes.

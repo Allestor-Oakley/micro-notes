@@ -2,6 +2,7 @@
 aliases:
   - Coagulase-negative staphylococci
   - CoNS
+  - S. saprophyticus
 clinical_syndromes:
   - Urinary tract infections
 endemic_regions:
@@ -33,7 +34,7 @@ draft: false
 *   **Optimal Growth Conditions:** Facultative anaerobe capable of growing in aerobic and anaerobic atmospheres. Grows at a broad temperature range (18°C to 40°C, with most rapid growth at 37°C) and tolerates high salt concentrations (e.g., 10% sodium chloride).
 *   **Primary Agar:** Enriched sheep blood agar. Colonies are typically nonpigmented and nonhemolytic.
 *   **Selective / Enriched Agar:** Mannitol salt agar (S. saprophyticus does not ferment mannitol) or commercial chromogenic media.
-*   **Metabolic Profile & Biochemical Testing:** Catalase-positive and coagulase-negative. Ferments carbohydrates to produce lactic acid but not [[Streptococcus pyogenes|gas]]. Uniquely characterized by its resistance to novobiocin.
+*   **Metabolic Profile & Biochemical Testing:** Catalase-positive and coagulase-negative. Ferments carbohydrates to produce lactic acid but not gas. Uniquely characterized by its resistance to [[novobiocin]].
 
 #### Virulence Factors & Genetics
 *   **Secretion Systems:** N/A
@@ -71,10 +72,10 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Patients generally respond rapidly to standard antibiotics used for urinary tract infections.
 *   **Alternative / Second-Line Treatment:** N/A
-*   **Mechanisms of Resistance & Resistance Genes:** Exhibits intrinsic resistance to novobiocin, distinguishing it from other coagulase-negative staphylococci.
-*   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing is recommended. For disk diffusion testing, the cefoxitin disk test is specifically recommended by the Clinical and Laboratory Standards Institute (CLSI) for testing S. saprophyticus (zone sizes less than 22 mm indicate nafcillin/oxacillin/methicillin resistance).
+*   **Mechanisms of Resistance & Resistance Genes:** Exhibits intrinsic resistance to [[novobiocin]], distinguishing it from other coagulase-negative staphylococci.
+*   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing is recommended. For disk diffusion testing, the [[cefoxitin]] disk test is specifically recommended by the Clinical and Laboratory Standards Institute (CLSI) for testing S. saprophyticus (zone sizes less than 22 mm indicate [[nafcillin]]/[[oxacillin]]/methicillin resistance).
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Novobiocin resistant", "urinary tract infections in young, sexually active females", "Coagulase-negative staphylococcus (CoNS)", "nonhemolytic and nonpigmented colonies".
+*   **Buzzwords & Descriptors:** "[[Novobiocin]] resistant", "urinary tract infections in young, sexually active females", "Coagulase-negative staphylococcus (CoNS)", "nonhemolytic and nonpigmented colonies".
 *   **Exceptions to the Rule:** Unlike many other clinically relevant staphylococci (such as [[Staphylococcus epidermidis]]), S. saprophyticus rarely causes infections in hospitalized patients or individuals with indwelling medical devices, remaining almost exclusively restricted to community-acquired UTIs in young women.

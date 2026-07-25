@@ -22,8 +22,8 @@ key_plasmids:
   - N/A
 resistance_genes:
   - N/A
-date:
-draft: true
+date: 2026-07-25
+draft: false
 ---
 
 ### Clostridioides difficile
@@ -54,8 +54,8 @@ draft: true
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Found as a minor member of the normal human gastrointestinal microbiome in a small proportion of healthy individuals (<5%). Exposure to broad-spectrum antibiotics disrupts the normal intestinal flora, allowing endogenous *C. difficile* to overgrow. Exogenous infection can also occur via ingestion of spores from contaminated hospital environments. Surface layer proteins mediate binding to the intestinal epithelium, facilitating localized toxin production and tissue damage.
 *   **Intracellular vs Extracellular Survival:** Extracellular.
-*   **Immune Evasion Strategies:** Relies heavily on its ability to form highly resilient spores to evade eradication by both the host environment, exogenous disinfectants, and antibiotic therapy. Intrinsic resistance to various antibiotics (like clindamycin, cephalosporins, and fluoroquinolones) facilitates its overgrowth while competitor normal flora is destroyed.
-*   **Host Defense & Immunodeficiency Links:** The normal intestinal microbiota acts as a primary defense by suppressing the growth of *C. difficile*. Disruption of this microbiota by antibiotic therapy (particularly clindamycin, penicillins, cephalosporins, and fluoroquinolones) is the primary risk factor.
+*   **Immune Evasion Strategies:** Relies heavily on its ability to form highly resilient spores to evade eradication by both the host environment, exogenous disinfectants, and antibiotic therapy. Intrinsic resistance to various antibiotics (like [[clindamycin]], cephalosporins, and fluoroquinolones) facilitates its overgrowth while competitor normal flora is destroyed.
+*   **Host Defense & Immunodeficiency Links:** The normal intestinal microbiota acts as a primary defense by suppressing the growth of *C. difficile*. Disruption of this microbiota by antibiotic therapy (particularly [[clindamycin]], penicillins, cephalosporins, and fluoroquinolones) is the primary risk factor.
 
 #### Clinical Syndromes
 *   **Primary Diseases:**
@@ -78,9 +78,9 @@ draft: true
 *   **Culture:** Isolation of the organism in stool culture only documents colonization, not disease. It is cumbersome due to the organism's extreme oxygen sensitivity and slow turnaround (takes at least 3 days).
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Discontinuation of the implicated antibiotic is generally sufficient to alleviate mild disease. For severe diarrhea or colitis, specific therapy with oral metronidazole, oral vancomycin, or fidaxomicin is necessary.
+*   **First-Line Treatment:** Discontinuation of the implicated antibiotic is generally sufficient to alleviate mild disease. For severe diarrhea or colitis, specific therapy with oral [[metronidazole]], oral [[vancomycin]], or [[fidaxomicin]] is necessary.
 *   **Alternative / Second-Line Treatment:** Fecal transplants of colonic bacteria from healthy individuals can be used to treat recurrent/chronic disease.
-*   **Mechanisms of Resistance & Resistance Genes:** The organism demonstrates prominent intrinsic resistance to clindamycin, cephalosporins, and fluoroquinolones, allowing it to overgrow the normal flora. Spores are entirely resistant to all utilized antibiotics.
+*   **Mechanisms of Resistance & Resistance Genes:** The organism demonstrates prominent intrinsic resistance to [[clindamycin]], cephalosporins, and fluoroquinolones, allowing it to overgrow the normal flora. Spores are entirely resistant to all utilized antibiotics.
 *   **Treatment Nuances & Contraindications:** Relapses are common because antibiotics only kill the vegetative forms, leaving spores behind to germinate once therapy ends. A second course of treatment with the same antibiotic is frequently successful, though multiple courses may be required.
 *   **Prophylaxis & Vaccine Protocols:** Prevention relies heavily on proper antimicrobial stewardship (restricting unnecessary broad-spectrum antibiotic use) and rigorous hospital hygiene.
 
