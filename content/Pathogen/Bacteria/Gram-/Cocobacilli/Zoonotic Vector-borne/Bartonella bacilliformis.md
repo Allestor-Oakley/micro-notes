@@ -23,8 +23,8 @@ key_plasmids:
   - N/A
 resistance_genes:
   - N/A
-date:
-draft: true
+date: 2026-07-26
+draft: false
 ---
 
 ### Bartonella bacilliformis

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-19
-draft: "false"
+draft: false
 aliases:
   - Epstein-Barr Virus
 ---
