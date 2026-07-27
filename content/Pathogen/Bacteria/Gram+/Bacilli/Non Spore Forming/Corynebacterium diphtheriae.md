@@ -54,8 +54,8 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Aerobic. In vitro production of its primary exotoxin depends largely on the concentration of iron in the medium (optimal at 0.14 µg/mL and virtually suppressed at 0.5 µg/mL). Toxin yield is also influenced by osmotic pressure, amino acid concentration, pH, and suitable carbon and nitrogen sources.
 *   **Primary Agar:** Enriched blood agar (nonselective).
-*   **Selective / Enriched Agar:** Cysteine-tellurite blood agar (CTBA), Tinsdale medium, and colistin-nalidixic agar (CNA). Tellurite inhibits most upper respiratory tract bacteria and Gram-negative rods and is reduced by *C. diphtheriae*, producing a characteristic gray to black color on the agar. Tinsdale medium is considered the best for recovery; degradation of cysteine by *C. diphtheriae* cystinase activity produces a brown halo around the colonies.
-*   **Metabolic Profile & Biochemical Testing:** Catalase-positive. Acid is produced from glucose and maltose, but only very rarely from sucrose. Urea and [[pyrazinamide]] are not hydrolyzed. Produces cystinase. The *gravis* biotype uniquely ferments starch.
+*   **Selective / Enriched Agar:** Cysteine-tellurite blood agar (CTBA), Tinsdale medium, and [[Polymyxin E|colistin]]-nalidixic agar (CNA). Tellurite inhibits most upper respiratory tract bacteria and Gram-negative rods and is reduced by *C. diphtheriae*, producing a characteristic gray to black color on the agar. Tinsdale medium is considered the best for recovery; degradation of cysteine by *C. diphtheriae* cystinase activity produces a brown halo around the colonies.
+*   **Metabolic Profile & Biochemical Testing:** Catalase-positive. Acid is produced from glucose and maltose, but only very rarely from sucrose. Urea and [[Pyrazinamide]] are not hydrolyzed. Produces cystinase. The *gravis* biotype uniquely ferments starch.
 
 #### Virulence Factors & Genetics
 *   **Secretion Systems:** N/A

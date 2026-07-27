@@ -1,4 +1,4 @@
 ---
-title: Micro Something
+title: Micro-Notes
 ---
-This is my notes, bla bla bla
+Welcome to micro(biology)-notes
