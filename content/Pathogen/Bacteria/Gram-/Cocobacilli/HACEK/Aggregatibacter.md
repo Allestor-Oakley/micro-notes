@@ -88,4 +88,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "HACEK group", subacute bacterial endocarditis, slow-growing in blood cultures, normal oral flora, "aggregare" (Latin for "to come together", referring to their tendency to clump or aggregate).
 *   **Exceptions to the Rule:** Historically, these organisms were heavily misclassified. *A. actinomycetemcomitans* was previously classified as *Actinobacillus* (and was the CDC's HB-3 and HB-4 subgroups). *A. aphrophilus* combined both the former *Haemophilus aphrophilus* and *Haemophilus paraphrophilus* (CDC's HB-2 subgroup). *A. segnis* was originally *Haemophilus segnis*. They have all been consolidated into the new genus *Aggregatibacter* within the Pasteurellaceae family based on advanced nucleic acid analysis.
-```

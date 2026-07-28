@@ -61,7 +61,7 @@ draft: false
 *   **Entry & Attachment Mechanism:** Infection begins with the ingestion of the organism via contaminated food or water (fecal-oral route). The bacteria invade the intestinal mucosa by attaching to and passing through M cells located in Peyer patches. SPI-1 effectors facilitate host cell invasion.
 *   **Intracellular vs Extracellular Survival:** Facultative intracellular pathogen. After crossing the intestinal epithelium, the bacteria are engulfed by [[Macrophage|macrophages]]. They survive, multiply within these phagocytic cells, and disseminate systemically to the liver, [[spleen]], and [[bone marrow]].
 *   **Immune Evasion Strategies:** The SPI-2 T3SS allows the bacteria to evade the phagocyte NADPH oxidase, ensuring survival within the [[macrophage]]. Additionally, the Vi capsular antigen masks the bacterial LPS, preventing complement receptor 3-mediated clearance, opsonization, and phagocytosis.
-*   **Host Defense & Immunodeficiency Links:** Invasive non-typhoidal and typhoidal diseases are profoundly exacerbated in immunocompromised individuals (e.g., [[HIV]], [[malaria]], malnutrition). Patients with reduced gastric acid levels are also at a significantly higher risk for infection.
+*   **Host Defense & Immunodeficiency Links:** Invasive non-typhoidal and typhoidal diseases are profoundly exacerbated in immunocompromised individuals (e.g., [[HIV]], [[Plasmodium]], malnutrition). Patients with reduced gastric acid levels are also at a significantly higher risk for infection.
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Typhoid fever (also known as enteric fever). Characterized by an insidious onset of malaise, anorexia, myalgias, headache, and a high remittent fever. It often presents generally as an invasive bacteremia without initial diarrhea.
@@ -82,7 +82,7 @@ draft: false
 *   **Serology & Immunology:** Diagnosis can be supported by serologic tests evaluating paired serum samples. Blood and bone-marrow cultures offer high sensitivity.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Fluoroquinolones (e.g., [[ciprofloxacin]]), third-generation cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]]), or [[azithromycin]] (20 mg/kg/day for 7 days). Azithromycin is an ideal first-line treatment for intracellular infections where fluoroquinolone resistance is established.
+*   **First-Line Treatment:** Fluoroquinolones (e.g., [[ciprofloxacin]]), third-generation cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]]), or [[azithromycin]] (20 mg/kg/day for 7 days). [[Azithromycin]] is an ideal first-line treatment for intracellular infections where [[fluoroquinolone]] resistance is established.
 *   **Alternative / Second-Line Treatment:** [[Ampicillin]], [[chloramphenicol]], or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMZ).
 *   **Mechanisms of Resistance & Resistance Genes:** Antimicrobial resistance among *S.* Typhi is an emerging global problem, notably marked by increasing resistance to fluoroquinolones and cephalosporins.
 *   **Treatment Nuances & Contraindications:** Antimicrobial treatment is strictly required for *S.* Typhi (unlike self-limiting enteritis caused by non-typhoidal *Salmonella* where antibiotics might prolong shedding). Carriers must be identified and aggressively treated to halt transmission.

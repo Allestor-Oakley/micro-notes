@@ -80,4 +80,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Collapsed / crescent-shaped cysts", "foamy alveolar exudate", "ground-glass opacities", "Gomori methenamine silver (GMS) stain", "interstitial [[plasma cell]] pneumonitis", "1,3-beta-d-glucan positive".
 *   **Exceptions to the Rule:** *Pneumocystis* breaks nearly every rule of classical mycology: it lacks ergosterol, it is totally resistant to standard antifungal drugs (polyenes, azoles), it cannot be cultured on any known artificial media, and it is susceptible to antiprotozoal and antibacterial drugs ([[Cotrimoxazole|trimethoprim-sulfamethoxazole]], [[pentamidine]]). Furthermore, its cysts morphologically mimic parasitic protozoa, which led to its misclassification for decades before molecular phylogeny proved it was an ascomycetous fungus.
-```

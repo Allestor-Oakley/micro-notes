@@ -67,4 +67,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Pityriasis versicolor", "tinea versicolor", "lipophilic yeast", "olive oil requirement", "intravenous lipid infusions", "premature infants", "central venous catheter fungemia", "Wood's lamp fluorescence".
 *   **Exceptions to the Rule:** Unlike almost all other medically important fungi that grow readily on standard mycologic media (like Sabouraud dextrose agar), *Malassezia furfur* possesses an absolute biological requirement for exogenous long-chain fatty acids and will paradoxically fail to grow in the clinical laboratory unless the culture medium is manually supplemented with lipids, such as an olive oil overlay.
-```

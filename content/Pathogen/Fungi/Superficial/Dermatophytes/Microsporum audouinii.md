@@ -66,4 +66,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** Tinea capitis epidemics in school children, anthropophilic, ectothrix hair invasion, fluoresces under Wood lamp, keratinolytic.
 *   **Exceptions to the Rule:** While the genus *Microsporum* is canonically defined by the production of numerous, large, thick, and rough-walled macroconidia, *Microsporum audouinii* is a morphologic exception and essentially lacks macroconidia (they are extremely rare). It also lacks the numerous microconidia typical of many dermatophytes.
-```

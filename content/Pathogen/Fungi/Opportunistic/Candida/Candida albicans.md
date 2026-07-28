@@ -90,4 +90,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Thrush", "cottage cheese patches", "germ tube test", "pseudohyphae AND true hyphae", "terminal chlamydospores", "CHROMagar green colonies", "phenotypic switching", "ALS glycoproteins".
 *   **Exceptions to the Rule:** While virtually all pathogenic *Candida* species are restricted to forming budding yeasts and pseudohyphae in vivo, *C. albicans* breaks this rule by being dimorphic and capable of producing distinct true hyphae (germ tubes) alongside pseudohyphae. Furthermore, on nutritionally deficient media like cornmeal agar, *C. albicans* is unique among the common species for producing massive, thick-walled terminal chlamydospores.
-```

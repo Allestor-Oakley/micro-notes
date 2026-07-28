@@ -83,4 +83,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Rapid grower" (<7 days), nonchromogen, cystic fibrosis fulminant pneumonia, elderly white female nonsmokers, multidrug-resistant, post-surgical/trauma skin infections.
 *   **Exceptions to the Rule:** Unlike *[[Mycobacterium tuberculosis]]*, which is a slow-growing, human-to-human transmitted pathogen that is highly susceptible to first-line anti-TB drugs, *Mycobacterium abscessus* is a rapidly growing environmental opportunist, cannot spread person-to-person, and is naturally highly resistant to conventional anti-tuberculosis therapy.
-```

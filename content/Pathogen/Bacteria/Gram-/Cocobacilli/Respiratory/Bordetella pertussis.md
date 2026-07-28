@@ -31,7 +31,7 @@ draft: false
 
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Strict aerobe. Fastidious and slow-growing. Recovery in vitro requires prolonged incubation at 35–37°C for 3 to 7 days in a moist environment (e.g., a sealed plastic bag). It is extremely sensitive to drying and requires rapid delivery to the laboratory.
-*   **Primary Agar:** Primary isolation requires enriched media. Regan-Lowe agar (a charcoal-containing medium supplemented with horse blood, cephalexin, and amphotericin B) is preferable because of its longer shelf life. Bordet-Gengou medium (potato-blood-glycerol agar) with penicillin G can also be used.
+*   **Primary Agar:** Primary isolation requires enriched media. Regan-Lowe agar (a charcoal-containing medium supplemented with horse blood, [[cephalexin]], and [[amphotericin B]]) is preferable because of its longer shelf life. Bordet-Gengou medium (potato-blood-glycerol agar) with [[penicillin G]] can also be used.
 *   **Selective / Enriched Agar:** Media must be supplemented with charcoal, starch, blood, or albumin because the organism is highly susceptible to toxic substances and metabolites present in common laboratory media.
 *   **Metabolic Profile & Biochemical Testing:** Oxidase positive and catalase positive, but nitrate, citrate, and urea negative. It is nonfermentative but can oxidize amino acids as an energy source. It does not require X and V factors on subculture.
 
@@ -69,11 +69,11 @@ draft: false
 *   **Serology & Immunology:** Enzyme-linked immunosorbent assay (ELISA) testing can detect IgG or IgA antibodies against pertussis toxin, filamentous hemagglutinin, pertactin, and fimbriae, serving as a confirmatory test.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Macrolide antibiotics (e.g., azithromycin, clarithromycin, or erythromycin).
+*   **First-Line Treatment:** Macrolide antibiotics (e.g., [[azithromycin]], [[clarithromycin]], or [[erythromycin]]).
 *   **Alternative / Second-Line Treatment:** Supportive therapy is crucial.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** While antibiotic treatment effectively eradicates the organism and reduces the length of the infectious shedding stage, it often does not significantly alter the clinical course of the disease if initiated after the paroxysmal stage has begun.
-*   **Prophylaxis & Vaccine Protocols:** Azithromycin is recommended for contact prophylaxis. Disease is highly preventable via vaccination with an acellular vaccine (containing inactivated pertussis toxin, filamentous hemagglutinin, and pertactin). The pediatric vaccine (DTaP) is administered in a five-dose series, with booster doses (Tdap) recommended for older children, adults, and pregnant women.
+*   **Prophylaxis & Vaccine Protocols:** [[Azithromycin]] is recommended for contact prophylaxis. Disease is highly preventable via vaccination with an acellular vaccine (containing inactivated pertussis toxin, filamentous hemagglutinin, and pertactin). The pediatric vaccine (DTaP) is administered in a five-dose series, with booster doses (Tdap) recommended for older children, adults, and pregnant women.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Whooping cough", "inspiratory whoop", profound peripheral lymphocytosis, catarrhal/paroxysmal/convalescent stages, Regan-Lowe agar, Bordet-Gengou agar, A-B5 pertussis toxin, bvgA/bvgS regulatory system.

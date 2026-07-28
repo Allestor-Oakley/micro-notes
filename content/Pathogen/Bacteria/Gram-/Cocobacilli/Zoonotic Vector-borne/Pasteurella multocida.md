@@ -74,12 +74,12 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Penicillin G is the drug of choice for infections resulting from animal bites.
+*   **First-Line Treatment:** [[Penicillin G]] is the drug of choice for infections resulting from animal bites.
 *   **Alternative / Second-Line Treatment:** Expanded-spectrum cephalosporins, macrolides, tetracyclines, and fluoroquinolones.
-*   **Mechanisms of Resistance & Resistance Genes:** The organism demonstrates poor susceptibility or inherent resistance to semisynthetic penicillins (e.g., oxacillin), first-generation cephalosporins, and aminoglycosides.
+*   **Mechanisms of Resistance & Resistance Genes:** The organism demonstrates poor susceptibility or inherent resistance to semisynthetic penicillins (e.g., [[oxacillin]]), first-generation cephalosporins, and aminoglycosides.
 *   **Treatment Nuances & Contraindications:** Aggressive wound care and appropriate prophylactic/therapeutic antibiotics are critical since the organism can rapidly disseminate and cause tissue necrosis, particularly in steroid-dependent or immunocompromised patients.
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Cat and dog bites", rapid onset within hours, "musty odor", indole-positive, bipolar staining, buttery colonies, hyaluronic acid capsule.
-*   **Exceptions to the Rule:** Unlike many other Gram-negative bacilli, it grows very poorly on MacConkey agar. Furthermore, while most Gram-negative rods are inherently resistant to it, this organism remains highly susceptible to Penicillin G.
+*   **Exceptions to the Rule:** Unlike many other Gram-negative bacilli, it grows very poorly on MacConkey agar. Furthermore, while most Gram-negative rods are inherently resistant to it, this organism remains highly susceptible to [[Penicillin G]].

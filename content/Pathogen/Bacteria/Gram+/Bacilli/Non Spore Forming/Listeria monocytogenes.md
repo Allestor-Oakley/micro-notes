@@ -68,7 +68,7 @@ draft: false
 *   **Primary Diseases:**
     *   **Early-onset neonatal disease (Granulomatosis infantiseptica):** Acquired in utero; characterized by disseminated abscesses and granulomas in multiple organs, often resulting in spontaneous abortion or in utero death.
     *   **Late-onset neonatal disease:** Acquired at or shortly after birth; manifests 2 to 3 weeks later typically as meningitis or septicemia.
-    *   **Infections in healthy adults:** Often asymptomatic or presents as a mild, self-limiting [[influenza]]-like febrile gastroenteritis.
+    *   **Infections in healthy adults:** Often asymptomatic or presents as a mild, self-limiting influenza-like febrile gastroenteritis.
     *   **Infections in pregnant females and immunocompromised individuals:** Presents as bacteremia, severe meningitis, or meningoencephalitis; occasionally leads to focal infections like brain abscesses or endocarditis.
 *   **Incubation Period:** Gastroenteritis typically develops 6 to 48 hours after ingestion. Late-onset neonatal meningitis develops between birth and the third week of life.
 *   **Pathognomonic Signs:** Granulomatosis infantiseptica (multiorgan pustular lesions and granulomas in infected neonates).

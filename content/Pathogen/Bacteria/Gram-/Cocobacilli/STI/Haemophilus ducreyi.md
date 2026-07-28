@@ -35,7 +35,7 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Facultatively anaerobic. Highly fastidious organism that grows best at 33°C in an atmosphere enriched with 10% CO2.
 *   **Primary Agar:** Grown best on chocolate agar supplemented with 1% IsoVitaleX. Because it does not require V factor (NAD), it is also capable of growing on standard sheep blood agar (unlike many other *Haemophilus* species).
-*   **Selective / Enriched Agar:** Enriched media containing 3 µg/mL vancomycin is used to suppress contaminating normal flora and other pyogenic microorganisms present in genital ulcers.
+*   **Selective / Enriched Agar:** Enriched media containing 3 µg/mL [[vancomycin]] is used to suppress contaminating normal flora and other pyogenic microorganisms present in genital ulcers.
 *   **Metabolic Profile & Biochemical Testing:** Fermentative. Uniquely requires X factor (hemin) for growth, but does not require V factor (NAD).
 
 #### Virulence Factors & Genetics
@@ -57,7 +57,7 @@ draft: false
 *   **Primary Diseases:** Chancroid (soft chancre), a sexually transmitted genital ulcer disease.
 *   **Secondary, Atypical & Alternate Presentations:** Severe inguinal lymphadenitis (painful buboes). Phagedenic chancroid, characterized by destructive, necrotic ulceration of the penile shaft, can occur in severe cases.
 *   **Incubation Period:** 3 to 5 days.
-*   **Pathognomonic Signs:** A tender genital papule with an erythematous base that rapidly ulcerates (within 24 hours to a few days) into a highly painful, ragged ulcer, accompanied by marked swelling and tender, enlarged regional (inguinal) lymph nodes.
+*   **Pathognomonic Signs:** A tender genital papule with an erythematous base that rapidly ulcerates (within 24 hours to a few days) into a highly painful, ragged ulcer, accompanied by marked swelling and tender, enlarged regional (inguinal) [[lymph nodes]].
 *   **Complications & Sequelae:** Suppurative and painful inguinal buboes that may rupture or require drainage; extensive tissue destruction in phagedenic chancroid.
 
 #### Epidemiology & Transmission
@@ -72,12 +72,12 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** A single oral dose (1 g) of azithromycin is the CDC-recommended treatment.
-*   **Alternative / Second-Line Treatment:** Intramuscular ceftriaxone, oral ciprofloxacin, or oral erythromycin.
+*   **First-Line Treatment:** A single oral dose (1 g) of [[azithromycin]] is the CDC-recommended treatment.
+*   **Alternative / Second-Line Treatment:** Intramuscular [[ceftriaxone]], oral [[ciprofloxacin]], or oral [[erythromycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Because the organism is extremely fastidious and difficult to culture, the diagnosis is often made clinically, and empiric treatment is initiated based on the presentation of painful genital ulcers and inguinal buboes. With appropriate antibiotic therapy, healing typically results in 2 weeks.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Prevention relies on barrier protection (condoms) during sexual intercourse.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Painful ragged ulcer", "soft chancre", Gram-negative rods "in strands", requires X factor but not V factor.
-*   **Exceptions to the Rule:** Unlike *Haemophilus influenzae*, *H. ducreyi* does not require V factor (NAD) for growth. Therefore, while it prefers enriched chocolate agar, it can successfully be cultured on unheated sheep blood agar, whereas *H. influenzae* cannot. Furthermore, unlike the painless chancre of primary syphilis (*Treponema pallidum*), the ulcer of *H. ducreyi* (chancroid) is distinctly tender and painful.
+*   **Exceptions to the Rule:** Unlike *[[Haemophilus influenzae]]*, *H. ducreyi* does not require V factor (NAD) for growth. Therefore, while it prefers enriched chocolate agar, it can successfully be cultured on unheated sheep blood agar, whereas *H. influenzae* cannot. Furthermore, unlike the painless chancre of primary syphilis (*[[Treponema pallidum pallidum|Treponema pallidum]]*), the ulcer of *H. ducreyi* (chancroid) is distinctly tender and painful.

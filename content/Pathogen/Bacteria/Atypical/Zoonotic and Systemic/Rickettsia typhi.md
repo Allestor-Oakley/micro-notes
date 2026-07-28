@@ -56,7 +56,7 @@ draft: false
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Murine typhus (also known as endemic typhus or flea-borne typhus). It typically presents with a gradual onset of fever, headache, myalgias, and a cough. The clinical picture is a systemic vasculitis-like infection that shares many features with epidemic typhus, but the illness is generally much milder.
-*   **Secondary, Atypical & Alternate Presentations:** Often presents as an undifferentiated "Typhus-like illness" that can be easily confused clinically with dengue, leptospirosis, typhoid, [[malaria]], or chikungunya. Severe cases can involve central nervous system complications such as meningoencephalitis.
+*   **Secondary, Atypical & Alternate Presentations:** Often presents as an undifferentiated "Typhus-like illness" that can be easily confused clinically with dengue, leptospirosis, typhoid, [[Plasmodium]], or chikungunya. Severe cases can involve central nervous system complications such as meningoencephalitis.
 *   **Incubation Period:** 7 to 14 days.
 *   **Pathognomonic Signs:** A maculopapular rash (often on the trunk) occurs in approximately 50% of patients. Notably, *R. typhi* does *not* produce a cutaneous eschar (tâche noire) at the bite site.
 *   **Complications & Sequelae:** Rarely fatal except in elderly patients. Potential complications include meningoencephalitis and severe myocarditis (the complication that killed pioneer researcher Howard Ricketts). The mortality rate in untreated cases is low.

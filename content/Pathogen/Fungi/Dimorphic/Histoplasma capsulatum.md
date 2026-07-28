@@ -49,7 +49,7 @@ mold_features:
 hyphae_type:
   - Branching septate hyphae
 date:
-draft: true
+draft: false
 ---
 ### Target Pathogen Name
 #### Mycology & Structural Characteristics

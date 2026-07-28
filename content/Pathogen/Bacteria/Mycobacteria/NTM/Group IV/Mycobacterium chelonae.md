@@ -80,4 +80,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Rapid grower" (<7 days), nonchromogen, tortoise isolate, post-surgical/post-trauma skin and bone infections, *M. chelonae-abscessus* complex.
 *   **Exceptions to the Rule:** Unlike *[[Mycobacterium tuberculosis]]*, which is a slow-growing, human-to-human transmitted pathogen susceptible to standard anti-TB drugs, *Mycobacterium chelonae* is a rapidly growing environmental opportunist that cannot spread person-to-person and is treated more effectively with conventional antibacterial agents.
-```

@@ -99,4 +99,3 @@ draft: false
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Flaccid paralysis", "Descending weakness", "SNARE proteins", "SNAP 25", "VAMP/synaptobrevin", "Honey in infants", "Home-canned foods", "Most potent toxin known".
 *   **Exceptions to the Rule:** While *C. botulinum* is the primary cause of botulism, other Clostridium species can rarely produce botulinum toxins and cause human disease, specifically *Clostridium butyricum* (producing type E toxin) and *Clostridium baratii* (producing type F toxin).
-```

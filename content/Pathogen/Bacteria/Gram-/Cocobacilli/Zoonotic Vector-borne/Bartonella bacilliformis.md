@@ -67,7 +67,7 @@ draft: false
 *   **Reservoir:** Humans are the only proven mammalian reservoir host.
 *   **Transmission Route:** Bite of infected female sandflies (specifically *Lutzomyia* spp. and *Phlebotomus*).
 *   **Endemic Regions & Outbreaks:** Geographically restricted to the mountainous areas of the American Andes in tropical Peru, Ecuador, and Colombia.
-*   **Public Health & Isolation:** Control depends on the elimination of sandfly vectors using long-acting insecticides, insect repellents (such as DEET), mosquito nets treated with permethrin/deltamethrin, and avoiding exposed biotopes at night.
+*   **Public Health & Isolation:** Control depends on the elimination of sandfly vectors using long-acting insecticides, insect repellents (such as DEET), mosquito nets treated with [[permethrin]]/deltamethrin, and avoiding exposed biotopes at night.
 
 #### Advanced Laboratory Diagnostics
 *   **Direct Visualization & Stains:** Can be visualized in infected tissues using the Warthin-Starry silver impregnation stain. Giemsa-stained smears of broth cultures reveal rod-shaped and granular organisms. Routine Gram stains are often poorly effective for clinical visualization.
@@ -75,8 +75,8 @@ draft: false
 *   **Serology & Immunology:** Indirect fluorescent antibody (IFA) testing is frequently used due to the difficulty of cultivating the organism.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Azithromycin is heavily recommended. Other effective options include ciprofloxacin, doxycycline, macrolides, or sulfamethoxazole-trimethoprim given for at least 10 days. Chloramphenicol (often combined with penicillin) administered for 14 days has historically been used to effectively treat Oroya fever in South America.
-*   **Alternative / Second-Line Treatment:** Erythromycin, ciprofloxacin, or rifampin. For the chronic eruptive phase (verruga peruana), rifampin has become the drug of choice. Streptomycin was the traditional treatment for verruga peruana but its use is now considered problematic, especially in children.
+*   **First-Line Treatment:** [[Azithromycin]] is heavily recommended. Other effective options include [[ciprofloxacin]], [[doxycycline]], macrolides, or [[Cotrimoxazole|sulfamethoxazole-trimethoprim]] given for at least 10 days. [[Chloramphenicol]] (often combined with [[penicillin]]) administered for 14 days has historically been used to effectively treat Oroya fever in South America.
+*   **Alternative / Second-Line Treatment:** [[Erythromycin]], [[ciprofloxacin]], or [[rifampin]]. For the chronic eruptive phase (verruga peruana), [[rifampin]] has become the drug of choice. [[Streptomycin]] was the traditional treatment for verruga peruana but its use is now considered problematic, especially in children.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Coupled with antimicrobial therapy, blood transfusions are frequently indicated and greatly reduce the mortality rate during the severe acute anemia of Oroya fever. Parenteral therapy is required if the patient cannot absorb oral medications.
 *   **Prophylaxis & Vaccine Protocols:** No effective human vaccine is available. Prophylaxis with antibiotics may be useful for individuals at high risk in endemic regions.
