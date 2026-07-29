@@ -251,8 +251,9 @@ plugins:
   - source: github:quartz-themes/core
     enabled: true
     options:
-      theme: "ayu-dark"
-      mode: "dark"
+      theme: "vanilla-palettes"
+      variation: "horizon"
+      mode: "both"
 layout:
   groups:
     toolbar:
