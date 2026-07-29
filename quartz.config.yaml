@@ -248,11 +248,11 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: "@quartz-themes/core"
+  - source: github:quartz-themes/core
     enabled: true
     options:
       theme: "ayu-dark"
-      mode: "both"
+      mode: "dark"
 layout:
   groups:
     toolbar:
