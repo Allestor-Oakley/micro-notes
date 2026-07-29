@@ -25,8 +25,8 @@ leg_count: 6 legs (3 pairs) in adults / 0 legs (legless maggots) in larval stage
 infestation_site: Wounds, necrotic tissue, skin ulcers, body cavities, or unbroken skin (depending on species)
 vector_capacity:
   - Mechanical vector for enteric bacteria, protozoan cysts, and helminth eggs
-date:
-draft: true
+date: 2026-07-29
+draft: false
 ---
 
 ### Blowflies

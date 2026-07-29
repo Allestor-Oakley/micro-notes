@@ -24,8 +24,8 @@ vector_capacity:
   - Mansonella perstans
   - Mansonella streptocerca
   - Mansonella ozzardi
-date:
-draft: true
+date: 2026-07-29
+draft: false
 ---
 
 ### Biting Midges (Culicoides spp.)
