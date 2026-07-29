@@ -239,7 +239,7 @@ plugins:
         - description
         - tags
         - aliases
-      excludedProperties: ["draft"]
+      excludedProperties: ["draft", "created", "modified", "published", "title", "date"]
       hidePropertiesView: false
       delimiters: ---
       language: yaml
@@ -249,9 +249,10 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-themes/core"
+    enabled: true
     options:
       theme: "ayu-dark"
-      mode: "dark"
+      mode: "both"
 layout:
   groups:
     toolbar:
