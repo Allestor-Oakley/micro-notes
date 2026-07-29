@@ -234,12 +234,12 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
         - description
         - tags
         - aliases
-      excludedProperties: []
+      excludedProperties: ["draft"]
       hidePropertiesView: false
       delimiters: ---
       language: yaml
@@ -248,6 +248,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: "@quartz-themes/core"
+    options:
+      theme: "ayu-dark"
+      mode: "dark"
 layout:
   groups:
     toolbar:

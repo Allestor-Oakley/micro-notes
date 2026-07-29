@@ -1,5 +1,5 @@
 ---
 date: "{{date}}"
-draft: true
+draft: false
 ---
 **This file is empty**

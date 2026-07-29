@@ -1,5 +1,5 @@
 ---
-date: "2026-07-25"
-draft: true
+date: 2026-07-25
+draft: false
 ---
 **This file is empty**
