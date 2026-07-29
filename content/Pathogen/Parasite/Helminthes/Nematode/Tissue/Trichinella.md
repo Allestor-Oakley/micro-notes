@@ -76,12 +76,12 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Tissue Invasion & Structural Damage:**
     *   *Enteric Phase:* Larval invasion and molting in duodenal/jejunal mucosa cause localized mechanical mucosal irritation, villous edema, surface erosion, and catarrhal enteritis.
-    *   *Muscle Invasion Phase:* Larval penetration of skeletal muscle fibers causes focal myocyte destruction, loss of striations, basophilic cell transformation, nurse cell complex formation, and intense acute and chronic inflammatory responses (heavy infiltration with polymorphonuclear neutrophils, eosinophils, lymphocytes, and macrophages). Tissue injury releases muscle enzymes (creatine kinase, aldolase, LDH) into serum.
+    *   *Muscle Invasion Phase:* Larval penetration of skeletal muscle fibers causes focal myocyte destruction, loss of striations, basophilic cell transformation, nurse cell complex formation, and intense acute and chronic inflammatory responses (heavy infiltration with polymorphonuclear neutrophils, eosinophils, lymphocytes, and [[Macrophage|macrophages]]). Tissue injury releases muscle enzymes (creatine kinase, aldolase, LDH) into serum.
     *   *Vasculitis & Extra-Muscular Damage:* Circulating larvae and excretory-secretory (ES) antigens provoke widespread allergic leukocytoclastic vasculitis, manifest as periorbital/facial edema, subconjunctival hemorrhages, subungual "splinter" hemorrhages beneath fingernails/toenails, and macular cutaneous eruptions.
     *   *Cardiac & Neural Damage:* Larval transit through the myocardium causes acute focal myocardial necrosis, patchy interstitial infiltrates, and severe eosinophilic myocarditis (the primary cause of death in fatal cases). Larval invasion of the central nervous system causes focal micro-infarcts, perivascular cuffing, cerebral edema, and necrotizing meningoencephalitis.
 *   **Mechanical Obstruction:** N/A
 *   **Nutritional Depletion & Anemia:** N/A
-*   **Immune Evasion Strategies:** *Trichinella* larvae reprogram host skeletal muscle cells into specialized nurse cells that synthesize a protective collagen capsule (in encapsulated species), protecting the larva from direct leukocyte destruction and enabling multi-year survival in host tissue. Parasites also induce polyclonal lymphocyte activation and macrophage modulation.
+*   **Immune Evasion Strategies:** *Trichinella* larvae reprogram host skeletal muscle cells into specialized nurse cells that synthesize a protective collagen capsule (in encapsulated species), protecting the larva from direct leukocyte destruction and enabling multi-year survival in host tissue. Parasites also induce polyclonal lymphocyte activation and [[macrophage]] modulation.
 *   **Host Defense & Immunodeficiency Links:** Host defense depends on Th2-mediated intestinal expulsion (IL-4, IL-5, IL-13, IgE, mucosal mast cells, and eosinophils) to clear adult worms from the gut. In severe infection, an unbridled host allergic and cellular hypersensitivity response to migrating larval antigens drives systemic morbidity (high fever, severe myositis, vasculitis, and cerebral/cardiac inflammation).
 
 #### Clinical Syndromes & Complications
@@ -124,9 +124,9 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    *   Albendazole: 400 mg orally twice daily (BID) for 8 to 14 days (children: 15 mg/kg/day divided in 2 doses, max 400 mg/dose).
-    *   Mebendazole: 200 to 400 mg orally three times daily (TID) for 3 days, followed by 400 to 500 mg TID for 10 days (or 5 mg/kg/day).
-*   **Alternative / Second-Line Agents:** Pyrantel pamoate (administered during the early intestinal phase to clear adult worms from the gut lumen).
+    *   [[Albendazole]]: 400 mg orally twice daily (BID) for 8 to 14 days (children: 15 mg/kg/day divided in 2 doses, max 400 mg/dose).
+    *   [[Mebendazole]]: 200 to 400 mg orally three times daily (TID) for 3 days, followed by 400 to 500 mg TID for 10 days (or 5 mg/kg/day).
+*   **Alternative / Second-Line Agents:** [[Pyrantel pamoate]] (administered during the early intestinal phase to clear adult worms from the gut lumen).
 *   **Treatment Nuances & Corticosteroid Protocols:**
     *   *Mandatory Corticosteroid Protocol:* Systemic corticosteroids (e.g., Prednisolone 40 to 60 mg/day orally, or Prednisone 20 mg TID) MUST be co-administered alongside anthelmintic therapy in patients with moderate-to-severe disease, high fever, severe allergic signs, persistent myositis, central nervous system involvement, or myocarditis. Steroids suppress severe hypersensitivity and inflammatory reactions triggered by dying larvae. Steroids are gradually tapered and discontinued over 2 to 3 weeks as acute allergic symptoms resolve.
     *   *Therapeutic Limitation:* Anthelmintics effectively eliminate adult worms from the gut and target circulating/migrating larvae, but have limited efficacy against long-encysted larvae in muscle tissue; management of late muscle phase relies primarily on anti-inflammatory and supportive care.

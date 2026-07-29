@@ -48,19 +48,19 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Tissue Tropism & Cellular Invasion:** Primary tropism is for the mucosal epithelial cells (enterocytes) of the upper small bowel, specifically the jejunum and distal portion of the duodenum. In severely immunocompromised/AIDS patients, extraintestinal dissemination occurs to the epithelial lining of the biliary tree (gallbladder) and respiratory tract.
-*   **Cytopathic Effects & Tissue Destruction:** Intracellular replication causes marked histopathologic changes: blunting and shortening of intestinal villi, crypt hyperplasia, diffuse mucosal edema, vacuolization of surface epithelial cells at villous tips, loss of the microvillous brush border, and transformation of normal columnar enterocytes into flattened cuboidal cells. Induces heavy inflammatory cell infiltration of the lamina propria (composed of plasma cells, lymphocytes, PMN neutrophils, and eosinophils). Causes upper GI distress, watery diarrhea, and marked malabsorption of D-xylose.
+*   **Cytopathic Effects & Tissue Destruction:** Intracellular replication causes marked histopathologic changes: blunting and shortening of intestinal villi, crypt hyperplasia, diffuse mucosal edema, vacuolization of surface epithelial cells at villous tips, loss of the microvillous brush border, and transformation of normal columnar enterocytes into flattened cuboidal cells. Induces heavy inflammatory cell infiltration of the lamina propria (composed of [[Plasma Cell|plasma cells]], lymphocytes, PMN neutrophils, and eosinophils). Causes upper GI distress, watery diarrhea, and marked malabsorption of D-xylose.
 *   **Immune Evasion Strategies:**
     - Environmental Maturation Strategy: Shedding unsporulated oocysts into the external environment prevents immediate autoinfection or rapid immune clearance within the same host cycle.
     - Oocyst Wall Chemical Resistance: The multilayered oocyst wall provides extreme resistance to physical drying, environmental stress, and chemical disinfectants, including routine food industry sanitizers, standard commercial swimming pool chlorine, and municipal water chlorination.
     - Strong Agricultural Adhesion: Oocysts attach with high affinity to the surface of fresh produce (raspberries, basil, snow peas) via sticky, undefined surface adhesins that resist routine washing with plain water.
-*   **Host Defense & Immunodeficiency Links:** Host protection relies primarily on cell-mediated immunity (CD4+ T-cell responses). In immunocompetent hosts, infection is usually self-limiting (1–2 weeks, though relapses lasting weeks to months occur). In immunocompromised individuals (patients with HIV/AIDS, CD4+ T-cell depletion), *Cyclospora* causes severe, intractable watery diarrhea lasting >12 weeks, high rates of relapse, and extraintestinal complications (acalculous cholecystitis, respiratory infection).
+*   **Host Defense & Immunodeficiency Links:** Host protection relies primarily on cell-mediated immunity (CD4+ [[T Cell|T-cell]] responses). In immunocompetent hosts, infection is usually self-limiting (1–2 weeks, though relapses lasting weeks to months occur). In immunocompromised individuals (patients with [[HIV]]/AIDS, CD4+ [[T Cell|T-cell]] depletion), *Cyclospora* causes severe, intractable watery diarrhea lasting >12 weeks, high rates of relapse, and extraintestinal complications (acalculous cholecystitis, respiratory infection).
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:**
     - Acute Watery Diarrhea / Cyclosporiasis: Incubation period averages ~1 week (range 1 to 12 days). Begins with a 1-day prodrome of malaise and low-grade fever, followed by abrupt onset of profuse watery, non-bloody diarrhea (up to 6 to 7 stools per day), crampy abdominal pain, flatulence, anorexia, nausea, vomiting, fatigue, myalgia, and significant weight loss. Self-limiting in 3 to 4 days or 1 to 2 weeks in healthy hosts, but characterized by a remitting-relapsing pattern that can recur for 4 to 7 weeks.
 *   **Chronic & Extra-Intestinal Disease:**
     - Chronic Relapsing Enteritis: Persistent loose stools, abdominal discomfort, and weight loss lasting for months in untreated non-immune individuals.
-    - AIDS-Associated Persistent Cyclosporiasis: Intractable, high-volume watery diarrhea persisting for >12 weeks in patients with advanced HIV/AIDS.
+    - AIDS-Associated Persistent Cyclosporiasis: Intractable, high-volume watery diarrhea persisting for >12 weeks in patients with advanced [[HIV]]/AIDS.
     - Biliary Cyclosporiasis / Acalculous Cholecystitis: Opportunistic infection of the gallbladder in AIDS patients, presenting with severe right upper quadrant abdominal pain, fever, and elevated liver enzymes, resolving post-treatment.
     - Respiratory Cyclosporiasis: Documented in patients presenting with fever, chronic cough, purulent sputum, and dyspnea mimicking pulmonary tuberculosis (confirmed by nested PCR).
     - Celiac-like Presentation: Infection masquerading clinically and histologically as celiac sprue.
@@ -101,31 +101,31 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Trimethoprim-Sulfamethoxazole (TMP-SMX / Co-trimoxazole): Drug of choice.
+    - [[Cotrimoxazole|Trimethoprim-Sulfamethoxazole]]: Drug of choice.
       - Adult Dosage: 1 Double Strength (DS) tablet (160 mg TMP / 800 mg SMX) PO BID for 7 to 10 days. Eradicates infection in >90% of cases; extending therapy for an additional 3 days clears most remaining infections.
       - Pediatric Dosage: TMP 10 mg/kg/day + SMX 50 mg/kg/day PO in 2 divided doses for 7 to 10 days.
 *   **Alternative Treatments:**
-    - Ciprofloxacin: 500 mg PO BID for 7 days (second-line option for sulfa-allergic patients; less effective than TMP-SMX).
-    - Nitazoxanide: Used as an alternative agent in some clinical settings.
+    - [[Ciprofloxacin]]: 500 mg PO BID for 7 days (second-line option for sulfa-allergic patients; less effective than [[Cotrimoxazole|TMP-SMX]]).
+    - [[Nitazoxanide]]: Used as an alternative agent in some clinical settings.
 *   **Treatment Nuances & Dosing Considerations:**
-    - Secondary Prophylaxis in HIV/AIDS: HIV-infected patients with severe CD4 depletion suffer high relapse rates following standard 7- to 10-day treatment. Secondary chemoprophylaxis with TMP-SMX (1 DS tablet PO 3 times weekly or 1 DS BID) is recommended until immune reconstitution is achieved via HAART.
+    - Secondary Prophylaxis in [[HIV]]/AIDS: [[HIV]]-infected patients with severe CD4 depletion suffer high relapse rates following standard 7- to 10-day treatment. Secondary chemoprophylaxis with [[Cotrimoxazole|TMP-SMX]] (1 DS tablet PO 3 times weekly or 1 DS BID) is recommended until immune reconstitution is achieved via HAART.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Water Safety: Boil drinking water vigorously for 1 minute (10 minutes ensures full destruction). Routine chemical chlorination of water does NOT destroy *Cyclospora* oocysts.
     - Food Safety: Wash raw fruits and vegetables thoroughly prior to consumption; however, oocysts adhere strongly to produce surfaces (raspberries, lettuce, basil, snow peas), so washing alone may not completely eliminate risk.
-    - Chemoprophylaxis: TMP-SMX is effective for chemoprophylaxis but is generally reserved for high-risk immunocompromised individuals.
+    - Chemoprophylaxis: [[Cotrimoxazole|TMP-SMX]] is effective for chemoprophylaxis but is generally reserved for high-risk immunocompromised individuals.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
     - "Autofluoresces strong green or intense blue under UV light".
-    - "Modified acid-fast variable oocysts (8–10 µm)" (larger than *Cryptosporidium* 4–6 µm).
+    - "Modified acid-fast variable oocysts (8–10 µm)" (larger than *[[Cryptosporidium]]* 4–6 µm).
     - "Unsporulated oocyst passed in fresh stool" (requires days to weeks in environment to mature).
     - "2 sporocysts, each containing 2 sporozoites" (total 4 sporozoites per mature oocyst).
     - "Fresh produce outbreaks" (imported raspberries, basil, snow peas, mesclun).
     - "Cyanobacterium-like body (CLB)" / "Coccidian-like body" (historical descriptor).
     - "Hot safranin microwave stain" (yields uniform reddish-orange oocysts).
-    - "Trimethoprim-sulfamethoxazole (TMP-SMX) is first-line treatment".
+    - "[[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] is first-line treatment".
 *   **Exceptions to the Rule:**
-    - Unlike *Cryptosporidium* oocysts (which are fully sporulated and immediately infectious when shed in stool), *Cyclospora cayetanensis* oocysts are passed UNSPORULATED and require 5 to 14 days in the environment to mature, making direct person-to-person transmission virtually impossible.
+    - Unlike *[[Cryptosporidium]]* oocysts (which are fully sporulated and immediately infectious when shed in stool), *Cyclospora cayetanensis* oocysts are passed UNSPORULATED and require 5 to 14 days in the environment to mature, making direct person-to-person transmission virtually impossible.
     - Routine stool O&P permanent stains (Wheatley's trichrome or iron hematoxylin) FAIL to stain *Cyclospora* oocysts, which appear as clear, unstained "ghost" cells; special modified acid-fast stains, autofluorescence, or multiplex PCR must be used.
     - Standard water chlorination levels fail to destroy *Cyclospora* oocysts; water must be boiled for complete inactivation.
-    - Unlike *Cryptosporidium* (where nitazoxanide is first-line in non-immunocompromised hosts and no drug is completely curative in AIDS), *Cyclospora* infection is highly treatable and rapidly eradicated with Trimethoprim-Sulfamethoxazole (TMP-SMX).
+    - Unlike *[[Cryptosporidium]]* (where [[nitazoxanide]] is first-line in non-immunocompromised hosts and no drug is completely curative in AIDS), *Cyclospora* infection is highly treatable and rapidly eradicated with [[Cotrimoxazole|Trimethoprim-Sulfamethoxazole]].

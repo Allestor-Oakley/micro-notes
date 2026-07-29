@@ -44,7 +44,7 @@ draft: false
 
 #### Helminth Anatomy & Ova Morphology
 *   **Adult Worm Morphology & Attachment Structures:** Medium-sized digenetic trematode (fluke) measuring approximately 5 to 14 mm in length by 4 to 8 mm in width. Displays a distinct amphistome body structure where the body is divided into two distinct regions: a small, conical or cylindrical anterior portion and a large, discoidal, flattened posterior portion. Lacks chitinous teeth, cutting plates, or spines; attaches firmly to the mucosal lining of the host cecum and colon using a prominent, powerful ventral sucker (acetabulum) located on the ventral surface of the posterior discoidal region, alongside a small oral sucker at the anterior apex.
-*   **Ova / Egg Microscopic Features:** Eggs passed in host feces are unembryonated (containing an undifferentiated embryo/ovum surrounded by yolk cells), ellipsoidal, operculated, and yellow to golden-brown. Eggs measure approximately 150 µm in length by 60 to 70 µm in width. Morphologically resemble eggs of *Fasciolopsis buski*, *Fasciola hepatica*, *Fasciola gigantica*, and *Echinostoma ilocanum*, but tend to be slightly smaller and possess a characteristically narrower opercular pole.
+*   **Ova / Egg Microscopic Features:** Eggs passed in host feces are unembryonated (containing an undifferentiated embryo/ovum surrounded by yolk cells), ellipsoidal, operculated, and yellow to golden-brown. Eggs measure approximately 150 µm in length by 60 to 70 µm in width. Morphologically resemble eggs of *[[Fasciolopsis buski]]*, *[[Fasciola hepatica]]*, *[[Fasciola gigantica]]*, and *[[Echinostoma ilocanum]]*, but tend to be slightly smaller and possess a characteristically narrower opercular pole.
 *   **Larval Stage Morphologies:** Unembryonated eggs passed into freshwater hatch into free-swimming ciliated miracidia, which infect first intermediate freshwater snail hosts to undergo sequential development through sporocyst and redia stages to yield free-swimming cercariae. Released cercariae encyst as infective metacercariae on aquatic vegetation and water plants.
 *   **Sexual Dimorphism & Reproductive Characteristics:** Hermaphroditic (monoecious), containing both male and female functional reproductive systems within a single organism. Adult flukes reside attached to the mucosa of the cecum and colon, producing unembryonated operculated eggs that are shed continuously in host stool.
 
@@ -77,20 +77,19 @@ draft: false
 *   **Public Health & Mass Drug Administration:** Prevention depends on public health education against eating raw aquatic vegetation, boiling drinking water, sanitary disposal of human and animal waste to protect freshwater habitats, and controlling pig reservoir populations.
 
 #### Advanced Laboratory Diagnostics
-*   **Stool Ova & Parasite Examination:** Microscopic detection of characteristic unembryonated, ellipsoidal, operculated eggs in direct wet mounts or concentrated stool sediment. *Diagnostic Challenge:* Eggs closely mimic those of *Fasciolopsis buski*, *Fasciola* species, and *Echinostoma ilocanum*, requiring careful measurement (narrower opercular end) or adult worm recovery for definitive differentiation.
+*   **Stool Ova & Parasite Examination:** Microscopic detection of characteristic unembryonated, ellipsoidal, operculated eggs in direct wet mounts or concentrated stool sediment. *Diagnostic Challenge:* Eggs closely mimic those of *[[Fasciolopsis buski]]*, *Fasciola* species, and *[[Echinostoma ilocanum]]*, requiring careful measurement (narrower opercular end) or adult worm recovery for definitive differentiation.
 *   **Sedimentation & Flotation Concentration Techniques:** Formalin-ethyl acetate sedimentation concentration is the procedure of choice for recovering heavy operculated trematode eggs. Zinc sulfate flotation concentration is NOT recommended as operculated eggs collapse or fail to float.
 *   **Serology & Tissue Biopsy Diagnostics:** Diagnosis is established parasitologically via stool O&P microscopy or by morphological identification of adult flukes expelled after anthelmintic treatment or observed at autopsy.
 *   **Imaging Findings:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Anti-Helminthic Agents:** Praziquantel: 75 mg/kg/day orally divided in 3 doses for 1 day, or a single oral dose of 15 to 25 mg/kg administered at bedtime (drug of choice).
-*   **Alternative / Second-Line Agents:** Mebendazole, Niclosamide, or Tetrachloroethylene (historical).
-*   **Treatment Nuances & Corticosteroid Protocols:** Praziquantel therapy provides high cure rates and rapid clearance of adult flukes; children reportedly tolerate the drug better than adults. Corticosteroid protocols are N/A.
+*   **First-Line Anti-Helminthic Agents:** [[Praziquantel]]: 75 mg/kg/day orally divided in 3 doses for 1 day, or a single oral dose of 15 to 25 mg/kg administered at bedtime (drug of choice).
+*   **Alternative / Second-Line Agents:** [[Mebendazole]], [[Niclosamide]], or Tetrachloroethylene (historical).
+*   **Treatment Nuances & Corticosteroid Protocols:** [[Praziquantel]] therapy provides high cure rates and rapid clearance of adult flukes; children reportedly tolerate the drug better than adults. Corticosteroid protocols are N/A.
 *   **Prophylaxis, Sanitation & Food Safety:** Thoroughly washing and cooking all aquatic plants before consumption; avoiding raw water vegetables; drinking boiled or treated water; preventing raw swine manure or human excreta from contaminating freshwater plant cultivation sites; and deworming domestic swine.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** *Gastrodiscoides hominis*, Lewis and McConnell late 1800s, Indian patient with diarrhea, amphistome fluke (oral sucker anterior, large acetabulum posterior), conical anterior / discoidal posterior body, swine reservoir (41% prevalence in India), egg smaller with narrower opercular pole than *Fasciolopsis*, praziquantel single bedtime dose.
+*   **Buzzwords & Descriptors:** *Gastrodiscoides hominis*, Lewis and McConnell late 1800s, Indian patient with diarrhea, amphistome fluke (oral sucker anterior, large acetabulum posterior), conical anterior / discoidal posterior body, swine reservoir (41% prevalence in India), egg smaller with narrower opercular pole than *Fasciolopsis*, [[praziquantel]] single bedtime dose.
 *   **Exceptions to the Rule:**
     *   *Amphistome Morphology:* Unlike most human trematodes which are uniform leaf-shaped flukes with oral and ventral suckers located close together near the anterior end, *G. hominis* is an amphistome fluke with a body divided into a conical front and flat discoidal back, with its massive ventral sucker situated at the extreme posterior end.
     *   *Flotation Concentration Failure:* Operculated eggs do not float in zinc sulfate flotation solutions and require formalin-ethyl acetate sedimentation concentration.
-```

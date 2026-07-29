@@ -81,14 +81,14 @@ draft: false
 *   **Imaging Findings:** Abdominal CT or ultrasonography demonstrates localized bowel wall thickening, an inflammatory pseudotumor mass in the right lower quadrant / ileocecal region, appendiceal enlargement, or luminal narrowing.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Anti-Helminthic Agents:** Mebendazole: 200 to 400 mg orally three times daily (TID) for 10 days (drug of choice).
-*   **Alternative / Second-Line Agents:** Thiabendazole: 75 mg/kg/day in 3 divided doses for 3 days (maximum 3 g/day).
+*   **First-Line Anti-Helminthic Agents:** [[Mebendazole]]: 200 to 400 mg orally three times daily (TID) for 10 days (drug of choice).
+*   **Alternative / Second-Line Agents:** [[Thiabendazole]]: 75 mg/kg/day in 3 divided doses for 3 days (maximum 3 g/day).
 *   **Treatment Nuances & Corticosteroid Protocols:** Anthelmintic administration requires careful clinical monitoring. Concomitant systemic corticosteroids may be added to suppress intense tissue hypersensitivity reactions, diminish inflammatory swelling around dying worms/eggs, and shorten the clinical course of infection. Surgical intervention (appendectomy or partial bowel resection) is frequently performed when patients present with an acute abdomen or suspected tumor prior to definitive parasitic diagnosis.
 *   **Prophylaxis, Sanitation & Food Safety:** Thoroughly washing and inspecting all salad greens, fresh vegetables, and fruits prior to consumption; avoiding contact with or ingestion of slugs; controlling slug and rodent populations around gardens and agricultural crops.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** Abdominal angiostrongyliasis, *Parastrongylus costaricensis*, palpable right lower quadrant mass, tumor-like mass mimicking appendicitis or carcinoma, female worm in appendix with multinucleate intestine and intrauterine eggs, 60% eosinophilia, slug vector, Miami Florida animal reservoir.
 *   **Exceptions to the Rule:**
-    *   *Abdominal vs. Cerebral Tropism:* Unlike *Angiostrongylus cantonensis* (which migrates to the central nervous system to cause eosinophilic meningitis), *Angiostrongylus costaricensis* exhibits strict abdominal/gastrointestinal vascular tropism, migrating to the mesenteric arteries to cause severe ileocecal and appendiceal disease.
+    *   *Abdominal vs. Cerebral Tropism:* Unlike *[[Angiostrongylus cantonensis]]* (which migrates to the central nervous system to cause eosinophilic meningitis), *Angiostrongylus costaricensis* exhibits strict abdominal/gastrointestinal vascular tropism, migrating to the mesenteric arteries to cause severe ileocecal and appendiceal disease.
     *   *Stool Test Negativity:* Stool O&P tests are consistently negative in humans because eggs deposited in mesenteric vessels hatch into larvae that become trapped and die in intestinal tissue granulomas rather than entering the fecal stream.
     *   *Neoplasm & Appendicitis Mimicry:* Clinical presentation frequently misleads surgeons into suspecting acute bacterial appendicitis or an ileocecal malignancy, leading to exploratory laparotomy and surgical resection.

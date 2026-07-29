@@ -76,5 +76,5 @@ draft: false
 *   **Prophylaxis & Vaccine Protocols:** There are no vaccines available. Prevention relies on proper hygiene, sanitation, and infection control practices to prevent fecal-oral transmission.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Star-like" morphology (five- or six-pointed star), *Mamastrovirus*, [[Norovirus|small round gastroenteritis virus]], fecal-oral transmission, pediatric and elderly gastroenteritis.
+*   **Buzzwords & Descriptors:** "Star-like" morphology (five- or six-pointed star), *Mamastrovirus*, small round gastroenteritis virus, fecal-oral transmission, pediatric and elderly gastroenteritis.
 *   **Exceptions to the Rule:** N/A

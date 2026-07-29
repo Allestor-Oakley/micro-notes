@@ -60,10 +60,10 @@ draft: false
     - Adult Habitat & Size: Inhabits the small intestine of definitive feline and canine hosts; adult tapeworms morphologically resemble *Diphyllobothrium* species, possessing an elongated scolex equipped with two deep longitudinal sucking grooves (bothria) and a segmented strobila.
     - Uterine & Proglottid Architecture: Gravid proglottids feature a centrally located spiraled uterus with distinct coils. Adult tapeworms do NOT develop or reside in the human intestinal tract.
 *   **Ova / Egg Microscopic Features:**
-    - Appearance: Operculated, broadly oval, light yellow-brown to golden eggs resembling those of *Diphyllobothrium latum*.
+    - Appearance: Operculated, broadly oval, light yellow-brown to golden eggs resembling those of *[[Diphyllobothrium latum]]*.
     - Deposition: Discharged from the uterine pore of mature adult tapeworms into the feces of definitive feline or canine hosts. Passed unembryonated into freshwater. Eggs are NOT produced or present in human hosts.
 *   **Larval Stage Morphologies:**
-    - Procercoid Larva: Slender, unsegmented larval form developing inside the body cavity / hemocoel of the first intermediate host (*Cyclops* copepods).
+    - Procercoid Larva: Slender, unsegmented larval form developing inside the body cavity / hemocoel of the first intermediate host (*[[Cyclops]]* copepods).
     - Plerocercoid Larva (Sparganum): White, opaque, ribbon-like, solid, wrinkled, unsegmented larva measuring from a few millimeters up to several centimeters (or tens of centimeters) in length.
     - Microscopic Histology: Demonstrates a wrinkled outer tegument lined with microtriches, subtegumental muscle fibers, a parenchymal matrix filled with loose connective tissue, and characteristic refractile, calcified, basophilic calcareous corpuscles distributed throughout the somatic matrix. Lacks a true scolex or segmented proglottids in human tissue.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
@@ -74,11 +74,11 @@ draft: false
 *   **Definitive Host:**
     - Primary Definitive Hosts: Domestic cats, wild felids (pumas, bobcats), domestic dogs, and wild canids (foxes, wolves), in which adult tapeworms mature attached to the small intestinal mucosa.
 *   **Intermediate Host(s):**
-    - First Intermediate Host: Freshwater copepods / microcrustaceans (*Cyclops* species).
+    - First Intermediate Host: Freshwater copepods / microcrustaceans (*[[Cyclops]]* species).
     - Second Intermediate & Paratenic Hosts: Amphibians (frogs), reptiles (snakes, lizards), birds, fish, and small mammals (mice, rats, pigs).
     - Accidental Host / Paratenic Host: Humans (Homo sapiens) serve as accidental secondary intermediate or paratenic hosts harboring plerocercoid larvae (spargana) in tissues.
 *   **Transmission Mode & Ingestion/Penetration:**
-    - Ingestion of Unfiltered Water: Drinking unprotected, raw freshwater containing infected *Cyclops* copepods carrying procercoid larvae (procercoids penetrate the human gut wall and migrate into tissues to develop into spargana).
+    - Ingestion of Unfiltered Water: Drinking unprotected, raw freshwater containing infected *[[Cyclops]]* copepods carrying procercoid larvae (procercoids penetrate the human gut wall and migrate into tissues to develop into spargana).
     - Ingestion of Undercooked Meat: Consuming raw or insufficiently cooked flesh of second intermediate/paratenic hosts (frogs, snakes, lizards, birds, pigs, or wild game) containing viable plerocercoid larvae (spargana).
     - Traditional Poultice Application: Local application of raw, split, infected frog or snake flesh as a traditional poultice to human skin wounds, eyes (conjunctiva), or vagina (viable spargana actively migrate directly out of the animal tissue into host human subcutaneous or mucosal tissue).
 *   **Intra-Host Larval Migration Pathway:**
@@ -121,10 +121,10 @@ draft: false
     - Endemic worldwide, with the highest concentration of human cases reported in East and Southeast Asia, including China, Japan, Korea, Vietnam, Thailand, and Taiwan.
     - Also endemic in North America (particularly the Southeastern United States, where *Spirometra mansonoides* is widespread in wild cats, bobcats, raccoons, and snakes), South America, Europe, and Africa.
 *   **Soil & Environmental Requirements:**
-    - Requires freshwater aquatic habitats (ponds, marshes, slow-moving streams) supporting *Cyclops* copepods, frogs, snakes, and definitive carnivore hosts.
+    - Requires freshwater aquatic habitats (ponds, marshes, slow-moving streams) supporting *[[Cyclops]]* copepods, frogs, snakes, and definitive carnivore hosts.
 *   **Dietary Exposures & Intermediate Host Foods:**
     - Consumption of raw, undercooked, lightly pickled, or marinated meat of frogs, snakes, lizards, birds, or wild mammals (e.g., wild boar).
-    - Drinking untreated or unfiltered surface water from ponds or streams containing infected *Cyclops* copepods.
+    - Drinking untreated or unfiltered surface water from ponds or streams containing infected *[[Cyclops]]* copepods.
     - Application of raw frog or snake meat as traditional poultices to skin sores or eyes.
 *   **Public Health & Mass Drug Administration:**
     - Public health education emphasizing water filtration/boiling, complete cooking of frog and snake meat, and eradication of the custom of applying raw animal flesh to human wounds or eyes.
@@ -148,13 +148,13 @@ draft: false
 *   **First-Line Anti-Helminthic Agents:**
     - Surgical Excision (Primary Treatment of Choice): Complete, intact surgical removal/extraction of the living sparganum larva is the principal and definitive curative therapy for subcutaneous, ocular, and cerebral sparganosis.
 *   **Alternative / Second-Line Agents:**
-    - Oral Praziquantel: High-dose praziquantel (e.g., 120 to 180 mg/kg total dose divided over 2 to 14 days, or 75 mg/kg/day for 7 to 10 days) is used as medical therapy when surgical removal is technically impossible, incomplete, or for multiple deep visceral/cerebral lesions.
-    - Oral Mebendazole or Albendazole: Alternative medical agents with variable efficacy.
+    - Oral [[Praziquantel]]: High-dose [[praziquantel]] (e.g., 120 to 180 mg/kg total dose divided over 2 to 14 days, or 75 mg/kg/day for 7 to 10 days) is used as medical therapy when surgical removal is technically impossible, incomplete, or for multiple deep visceral/cerebral lesions.
+    - Oral [[Mebendazole]] or [[Albendazole]]: Alternative medical agents with variable efficacy.
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - Intact Removal Requirement: During surgical extirpation, care must be taken to remove the entire worm intact including the anterior end; leaving fragments behind can allow continued larval survival or recurrent tissue migration.
     - Corticosteroid Cover: Perioperative or concurrent administration of high-dose corticosteroids (e.g., Prednisone or Dexamethasone) is indicated in cerebral sparganosis or heavy inflammatory presentations to control perilesional brain edema and hypersensitivity reactions.
 *   **Prophylaxis, Sanitation & Food Safety:**
-    - Water Safety: Boiling or filtering all drinking water from ponds, lakes, or streams to remove *Cyclops* copepods.
+    - Water Safety: Boiling or filtering all drinking water from ponds, lakes, or streams to remove *[[Cyclops]]* copepods.
     - Food Safety: Thoroughly cook all meat from potential paratenic/intermediate hosts (frogs, snakes, lizards, poultry, pork, wild game) to an internal temperature of at least 60°C. Avoid eating raw or marinated exotic meats.
     - Poultice Avoidance: Completely avoid the traditional practice of placing raw animal tissues (frog or snake flesh) onto eyes, skin ulcers, or mucosal surfaces.
 
@@ -165,7 +165,7 @@ draft: false
     - "Migratory subcutaneous nodule"
     - "Raw frog/snake poultice transmission"
     - "Tunnel sign on brain MRI"
-    - "Cyclops copepod first intermediate host"
+    - "[[Cyclops]] copepod first intermediate host"
 *   **Exceptions to the Rule:**
     - Tissue Migration without Maturation: Unlike most human cestode infections where humans either harbor adult intestinal tapeworms or localized stationary cysts (e.g., hydatid cysts), *Spirometra mansonoides* spargana remain motile and continuously crawl through deep human tissues for years without ever maturing into adult tapeworms in the human body.
     - Poultice Migration Vector Mechanism: Sparganosis is one of the few parasitic infections in humans that can be contracted via direct transdermal/transmucosal penetration from dead animal tissue applied externally as a poultice, where live spargana migrate out of the poultice directly into human skin or conjunctiva.

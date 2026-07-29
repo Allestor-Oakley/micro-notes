@@ -50,8 +50,8 @@ draft: false
 *   **Larval Stage Morphologies:**
     - Unsheathed Microfilaria (Diagnostic Skin Stage): Small, unsheathed larva measuring approximately 180 to 240 μm (range 180–210 μm) in length by 3 to 5 μm in width.
     - Tail & Caudal Hook Morphology (Key Diagnostic Feature): When fixed or immobile in skin preparations, the posterior tail end characteristically curves into a distinct single-bend or "shepherd's crook" configuration.
-    - Caudal Nuclei Pattern: Somatic nuclei extend continuously in an unbroken chain all the way to the extreme, hooked tip of the tail, differentiating *Mansonella streptocerca* from *Onchocerca volvulus* (which has a straight, tapered tail tip devoid of nuclei at the extreme apex) and blood-borne filariae (*Mansonella ozzardi*).
-    - Vector Developmental Larvae (L1 to L3): Ingested microfilariae penetrate the midgut of biting midges (*Culicoides*), migrate to thoracic flight muscles to become sausage-shaped L1/L2 larvae, and undergo two molts over 7 to 10 days to form infective, elongated L3 larvae (~0.6 to 0.8 mm long) residing in the insect proboscis.
+    - Caudal Nuclei Pattern: Somatic nuclei extend continuously in an unbroken chain all the way to the extreme, hooked tip of the tail, differentiating *Mansonella streptocerca* from *[[Onchocerca volvulus]]* (which has a straight, tapered tail tip devoid of nuclei at the extreme apex) and blood-borne filariae (*[[Mansonella ozzardi]]*).
+    - Vector Developmental Larvae (L1 to L3): Ingested microfilariae penetrate the midgut of [[biting midges]] (*Culicoides*), migrate to thoracic flight muscles to become sausage-shaped L1/L2 larvae, and undergo two molts over 7 to 10 days to form infective, elongated L3 larvae (~0.6 to 0.8 mm long) residing in the insect proboscis.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Dioecious: Distinct male and female adult filarial worms. Adult males feature a coiled posterior tail with copulatory spicules; adult females possess uterine branches packed with developing microfilariae.
     - Fecundity & Dermal Migration: Fertilized adult females continuously release unsheathed microfilariae into the surrounding dermis over a multi-year lifespan.
@@ -62,9 +62,9 @@ draft: false
     - Primary Definitive Host: Humans (*Homo sapiens*).
     - Wild Reservoir Hosts: Non-human primates (wild monkeys in Central and West African rainforests) serve as natural reservoir hosts.
 *   **Intermediate Host(s):**
-    - Biting Midges (Obligatory Vector Intermediate Hosts): Dipteran biting midges belonging to the genus *Culicoides*, principally *Culicoides grahami*.
+    - [[Biting Midges]] (Obligatory Vector Intermediate Hosts): Dipteran [[biting midges]] belonging to the genus *Culicoides*, principally *Culicoides grahami*.
 *   **Transmission Mode & Ingestion/Penetration:**
-    - Vector-Borne Inoculation: Inoculation of infective third-stage larvae (L3) through human skin during the blood meal of an infected female biting midge (*Culicoides*).
+    - Vector-Borne Inoculation: Inoculation of infective third-stage larvae (L3) through human skin during the blood meal of an infected female [[Biting midges|biting midge]] (*Culicoides*).
     - Penetration Mechanics: L3 larvae emerge from the midge proboscis onto the skin surface and actively migrate into the bite puncture wound.
 *   **Intra-Host Larval Migration Pathway:**
     - Human Dermal Migration: Injected L3 larvae enter the dermis and subcutaneous tissue, undergoing two developmental molts over several months to mature into adult male and female worms in the upper dermis.
@@ -96,7 +96,7 @@ draft: false
     - Symptomatic Cutaneous Streptocerciasis:
       - Pruritic Dermatitis: Chronic, intense localized or generalized skin itching (pruritus).
       - Cutaneous Eruptions: Maculopapular skin rashes, small urticarial papules, dermal thickening, and edema on the trunk, shoulders, and upper arms.
-      - Hypopigmented Macules: Characteristic localized hypopigmented macules or pale, non-anesthetic skin spots (must be clinically differentiated from tuberculoid/lepromatous leprosy and *Onchocerca volvulus* leopard skin).
+      - Hypopigmented Macules: Characteristic localized hypopigmented macules or pale, non-anesthetic skin spots (must be clinically differentiated from tuberculoid/lepromatous leprosy and *[[Onchocerca volvulus]]* leopard skin).
       - Rare Severe Manifestations: Chronic dermal edema and rare cutaneous elephantiasis.
 *   **Pathognomonic Signs:**
     - Unsheathed microfilaria in a teased skin snip or dermal tissue biopsy displaying a characteristic "shepherd's crook" curved tail with somatic nuclei extending all the way to the extreme posterior tip.
@@ -109,12 +109,12 @@ draft: false
     - Restricted geographically to Tropical West and Central Africa.
     - High-Prevalence Regions: Particularly dense endemic foci in the Congo river basin (Democratic Republic of Congo, Republic of Congo), Cameroon, Gabon, Nigeria, and Uganda.
 *   **Soil & Environmental Requirements:**
-    - Strictly tied to tropical humid rainforest environments, swampy river valleys, and banana/plantain plantations that provide rich decaying organic vegetation and shaded moist breeding sites for *Culicoides* biting midges.
+    - Strictly tied to tropical humid rainforest environments, swampy river valleys, and banana/plantain plantations that provide rich decaying organic vegetation and shaded moist breeding sites for *Culicoides* [[biting midges]].
 *   **Dietary Exposures & Intermediate Host Foods:**
-    - N/A (Transmitted exclusively by the bite of infected female *Culicoides* biting midges; no foodborne or waterborne acquisition).
+    - N/A (Transmitted exclusively by the bite of infected female *Culicoides* [[biting midges]]; no foodborne or waterborne acquisition).
 *   **Public Health & Mass Drug Administration:**
-    - Recognized as a neglected tropical filarial disease, often co-endemic with *Onchocerca volvulus*, *Loa loa*, and *Mansonella perstans*.
-    - Mass Drug Administration (MDA) Impact: Community-wide MDA campaigns using Ivermectin targeting onchocerciasis simultaneously clear *Mansonella streptocerca* from endemic human populations.
+    - Recognized as a neglected tropical filarial disease, often co-endemic with *[[Onchocerca volvulus]]*, *[[Loa loa]]*, and *[[Mansonella perstans]]*.
+    - Mass Drug Administration (MDA) Impact: Community-wide MDA campaigns using [[Ivermectin]] targeting onchocerciasis simultaneously clear *Mansonella streptocerca* from endemic human populations.
 
 #### Advanced Laboratory Diagnostics
 *   **Stool Ova & Parasite Examination:**
@@ -128,21 +128,21 @@ draft: false
       - Technique: Skin tissue is placed in a few drops of 0.85% saline on a glass slide and teased apart with needles to allow microfilariae to emerge into the fluid. Examined under low-power light microscopy.
       - Permanent Staining: Methanol fixation and Giemsa staining confirm microfilarial morphology: unsheathed, 180–240 μm long, displaying a distinct curved "shepherd's crook" tail with somatic nuclei extending continuously to the extreme tip.
     - Histopathology & Skin Biopsy: Hematoxylin and Eosin (H&E) or Giemsa-stained histology of punch biopsy specimens reveals microfilariae and adult worms in the upper dermis surrounded by perivascular lymphocytic, histiocytic, and eosinophilic infiltrates.
-    - Differential Diagnosis Key: Distinguishes *M. streptocerca* (shepherd's crook tail, nuclei to tip, smaller) from *Onchocerca volvulus* (straight tapered tail tip free of nuclei, larger, 220–360 μm) in skin snips.
+    - Differential Diagnosis Key: Distinguishes *M. streptocerca* (shepherd's crook tail, nuclei to tip, smaller) from *[[Onchocerca volvulus]]* (straight tapered tail tip free of nuclei, larger, 220–360 μm) in skin snips.
 *   **Imaging Findings:**
     - Radiography & Ultrasound: Non-specific and generally unremarkable for *M. streptocerca*.
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Ivermectin: Primary drug of choice. Administered as a single oral dose of 150 to 200 μg/kg. Highly effective in rapidly clearing microfilariae from the skin and suppressing adult worm reproduction.
-    - Diethylcarbamazine (DEC): DEC administered at 6 mg/kg/day orally in 3 divided doses for 14 days is EXTREMELY EFFECTIVE against *Mansonella streptocerca*, possessing both potent microfilaricidal and macrofilaricidal (adult-killing) activity (unlike in onchocerciasis or other mansonellotropic infections where DEC use is restricted).
+    - Oral [[Ivermectin]]: Primary drug of choice. Administered as a single oral dose of 150 to 200 μg/kg. Highly effective in rapidly clearing microfilariae from the skin and suppressing adult worm reproduction.
+    - [[Diethylcarbamazine]] (DEC): DEC administered at 6 mg/kg/day orally in 3 divided doses for 14 days is EXTREMELY EFFECTIVE against *Mansonella streptocerca*, possessing both potent microfilaricidal and macrofilaricidal (adult-killing) activity (unlike in onchocerciasis or other mansonellotropic infections where DEC use is restricted).
 *   **Alternative / Second-Line Agents:**
-    - Oral Mebendazole: Administered at 100 mg PO BID for 14 to 28 days as an alternative regimen.
+    - Oral [[Mebendazole]]: Administered at 100 mg PO BID for 14 to 28 days as an alternative regimen.
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - Dual Microfilaricidal & Macrofilaricidal Efficacy of DEC: DEC is uniquely curative for *M. streptocerca* because it kills both microfilariae and adult worms.
-    - Co-Infection Caution (*Loa loa* and *Onchocerca*): BEFORE administering DEC or Ivermectin for suspected *M. streptocerca*, clinicians MUST rule out co-existing high-density *Loa loa* microfilaremia (>20,000 mf/mL) to prevent severe post-treatment filarial encephalopathy, and confirm the absence of heavy *Onchocerca volvulus* infection to avoid severe Mazzotti ocular/systemic reactions.
+    - Co-Infection Caution (*[[Loa loa]]* and *Onchocerca*): BEFORE administering DEC or [[Ivermectin]] for suspected *M. streptocerca*, clinicians MUST rule out co-existing high-density *[[Loa loa]]* microfilaremia (>20,000 mf/mL) to prevent severe post-treatment filarial encephalopathy, and confirm the absence of heavy *[[Onchocerca volvulus]]* infection to avoid severe Mazzotti ocular/systemic reactions.
 *   **Prophylaxis, Sanitation & Food Safety:**
-    - Personal Protection & Vector Control: Applying topical insect repellents containing DEET to exposed skin, wearing protective long-sleeved clothing, and installing ultra-fine mesh screening (standard mosquito netting does NOT prevent the passage of tiny *Culicoides* midges).
+    - Personal Protection & Vector Control: Applying topical insect repellents containing DEET to exposed skin, wearing protective long-sleeved clothing, and installing ultra-fine mesh screening (standard [[Mosquitoes|mosquito]] netting does NOT prevent the passage of tiny *Culicoides* midges).
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
@@ -151,10 +151,10 @@ draft: false
     - "Dermal habitat (upper dermis)"
     - "Congo basin mansonelliasis"
     - "Hypopigmented macules mimicking leprosy or onchocerciasis"
-    - "Culicoides grahami biting midge vector"
+    - "Culicoides grahami [[Biting midges|biting midge]] vector"
     - "Curative dual micro- and macro-filaricidal DEC therapy"
 *   **Exceptions to the Rule:**
-    - Skin Tropism Exception: While *Mansonella perstans* and *Mansonella ozzardi* release microfilariae that circulate in peripheral blood or body cavity fluids, *Mansonella streptocerca* is the ONLY *Mansonella* species whose microfilariae and adult worms inhabit the dermis of the skin, making skin snips (not blood samples) the mandatory diagnostic specimen.
+    - Skin Tropism Exception: While *[[Mansonella perstans]]* and *[[Mansonella ozzardi]]* release microfilariae that circulate in peripheral blood or body cavity fluids, *Mansonella streptocerca* is the ONLY *Mansonella* species whose microfilariae and adult worms inhabit the dermis of the skin, making skin snips (not blood samples) the mandatory diagnostic specimen.
     - Blood Smear Absolute Negativity: Standard thick and thin blood films for filariasis are 100% negative in *Mansonella streptocerca* infection; searching for parasites in blood will miss the diagnosis completely.
-    - Macrofilaricidal Sensitivity to DEC: Unlike *Wuchereria*, *Brugia*, and *Onchocerca* where standard anthelmintic courses frequently fail to kill all adult worms in a single treatment, *Mansonella streptocerca* adult worms are highly susceptible to Diethylcarbamazine (DEC), yielding high macrofilaricidal cure rates.
-    - Tail Hook Morphological Differential: Under light microscopy, *M. streptocerca* is definitively distinguished from *Onchocerca volvulus* in skin snips by its characteristic "shepherd's crook" tail curvature and somatic nuclei extending all the way to the extreme tip of the tail hook.
+    - Macrofilaricidal Sensitivity to DEC: Unlike *Wuchereria*, *Brugia*, and *Onchocerca* where standard anthelmintic courses frequently fail to kill all adult worms in a single treatment, *Mansonella streptocerca* adult worms are highly susceptible to [[Diethylcarbamazine]] (DEC), yielding high macrofilaricidal cure rates.
+    - Tail Hook Morphological Differential: Under light microscopy, *M. streptocerca* is definitively distinguished from *[[Onchocerca volvulus]]* in skin snips by its characteristic "shepherd's crook" tail curvature and somatic nuclei extending all the way to the extreme tip of the tail hook.

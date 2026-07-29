@@ -72,7 +72,7 @@ draft: false
 *   **Immune Evasion Strategies:**
     - Intramuscular Encapsulation: Formation of a dense, thick, compartmentalized cyst wall around bradyzoites shields the parasite from host cellular immune clearance, allowing sarcocysts to persist latently inside muscle fibers for months to years without provoking inflammation while intact.
     - Immediate Environmental Infectivity: Shedding fully sporulated oocysts/sporocysts directly in feces ensures immediate environmental transmission without requiring external maturation.
-*   **Host Defense & Immunodeficiency Links:** Cell-mediated immunity controls tissue stages. In immunocompromised patients (e.g., patients with HIV/AIDS, organ transplant recipients, or patients on corticosteroid therapy), intestinal sarcocystosis can present with prolonged, severe diarrheal illness, fever, and weight loss. Muscular sarcocystosis affects both immunocompetent individuals (e.g., travel/retreat outbreaks) and immunocompromised hosts.
+*   **Host Defense & Immunodeficiency Links:** Cell-mediated immunity controls tissue stages. In immunocompromised patients (e.g., patients with [[HIV]]/AIDS, organ transplant recipients, or patients on corticosteroid therapy), intestinal sarcocystosis can present with prolonged, severe diarrheal illness, fever, and weight loss. Muscular sarcocystosis affects both immunocompetent individuals (e.g., travel/retreat outbreaks) and immunocompromised hosts.
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:**
@@ -103,7 +103,7 @@ draft: false
     - Direct Saline / Iodine Wet Mount of Stool: Unstained or iodine-stained wet mounts reveal small, clear, oval, fully sporulated oocysts (15–19 × 15–20 µm) or, more commonly, released individual or paired oval sporocysts (15–19 × 8–10 µm) containing 4 crescentic sporozoites.
     - Autofluorescence Microscopy: Sporocysts autofluoresce under UV epifluorescence microscopy.
     - Modified Acid-Fast Stain: Sporocysts stain acid-fast positive (bright red/pink against a blue or green background). Routine Wheatley's trichrome stains sporocysts poorly.
-    - Muscle Histopathology (H&E Stain, PAS): Biopsy of skeletal muscle reveals cross-sections and longitudinal profiles of cylindrical sarcocysts inside muscle fibers. Sarcocysts feature a distinct, outer wall with internal partitions enclosing densely packed banana-shaped bradyzoites (zoites). Surrounding muscle shows localized myositis with eosinophils, lymphocytes, macrophages, vasculitis, and focal myonecrosis.
+    - Muscle Histopathology (H&E Stain, PAS): Biopsy of skeletal muscle reveals cross-sections and longitudinal profiles of cylindrical sarcocysts inside muscle fibers. Sarcocysts feature a distinct, outer wall with internal partitions enclosing densely packed banana-shaped bradyzoites (zoites). Surrounding muscle shows localized myositis with eosinophils, lymphocytes, [[Macrophage|macrophages]], vasculitis, and focal myonecrosis.
 *   **Concentration & Stool O&P Techniques:**
     - Formalin-Ethyl Acetate Sedimentation Concentration: Standard method for concentrating thin-walled oocysts and free sporocysts from fecal samples (centrifugation at 500 × g for 10 minutes).
 *   **Serology & Rapid Antigen Tests:**
@@ -114,9 +114,9 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
     - Intestinal Sarcocystosis: Self-limiting infection (lasting ~36 hours); specific anti-protozoal treatment is generally NOT recommended or required.
-    - Muscular Sarcocystosis: No approved, standardized antiparasitic regimen exists. Off-label combination therapy with Albendazole (400 mg PO BID) and systemic corticosteroids (steroids) has been utilized to treat active myositis and reduce muscle tissue inflammation.
+    - Muscular Sarcocystosis: No approved, standardized antiparasitic regimen exists. Off-label combination therapy with [[Albendazole]] (400 mg PO BID) and systemic corticosteroids (steroids) has been utilized to treat active myositis and reduce muscle tissue inflammation.
 *   **Alternative Treatments:**
-    - Anti-coccidial Agents: Pyrimethamine, sulfadiazine, or cotrimoxazole (TMP-SMX) have been evaluated based on regimens used for toxoplasmosis, but documented clinical efficacy is lacking.
+    - Anti-coccidial Agents: [[Pyrimethamine]], [[sulfadiazine]], or [[cotrimoxazole]] have been evaluated based on regimens used for toxoplasmosis, but documented clinical efficacy is lacking.
 *   **Treatment Nuances & Dosing Considerations:** Symptomatic management with systemic corticosteroids and anti-inflammatory analgesics is essential to alleviate severe pain, fever, myositis, and vasculitis triggered by dying intramuscular parasites.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Food Safety: Thoroughly cook all beef, pork, horsemeat, and wild game to safe internal temperatures before consumption. Deep freeze meat at -20°C for at least 48 hours prior to consumption to destroy viable sarcocysts.
@@ -134,7 +134,7 @@ draft: false
     - "Freezing meat at -20°C for 48 hours" (destroys sarcocysts and neutralizes *S. fayeri* horsemeat toxicity).
     - "Obsolete taxonomic term *Sarcocystis lindemanni*".
 *   **Exceptions to the Rule:**
-    - Unlike *Cystoisospora belli* and *Cyclospora cayetanensis* (which are excreted UNSPORULATED and require days in the environment to mature), *Sarcocystis* oocysts are FULLY SPORULATED and IMMEDIATELY INFECTIOUS when shed in feces.
+    - Unlike *[[Cystoisospora belli]]* and *[[Cyclospora cayetanensis]]* (which are excreted UNSPORULATED and require days in the environment to mature), *Sarcocystis* oocysts are FULLY SPORULATED and IMMEDIATELY INFECTIOUS when shed in feces.
     - Furthermore, because the outer oocyst wall is extremely thin and fragile, it almost always RUPTURES inside the host bowel lumen or during fecal passage; consequently, ONLY FREE SPOROCYSTS (or paired sporocysts) are typically detected in human stool O&P examinations.
     - Humans play a dual role in *Sarcocystis* biology: acting as DEFINITIVE HOSTS (intestinal sarcocystosis) when ingesting raw meat containing sarcocysts, and acting as ACCIDENTAL INTERMEDIATE HOSTS (muscular sarcocystosis) when ingesting sporocysts from animal feces.
     - In human intestinal sarcocystosis, NO preliminary asexual schizogony occurs in the intestinal mucosa—ingested bradyzoites transform directly into male and female gametocytes within the lamina propria.

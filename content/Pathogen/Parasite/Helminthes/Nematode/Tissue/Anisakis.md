@@ -102,8 +102,8 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
     *   *Direct Endoscopic / Surgical Removal:* The primary treatment of choice for gastric and accessible intestinal anisakiasis is direct physical extraction of the living larva using endoscopic biopsy forceps, which results in immediate and complete abatement of pain.
-    *   *Medical Anthelmintic Therapy:* For intestinal or ectopic anisakiasis where endoscopic removal is impossible, Albendazole (400 mg orally twice daily for 6 to 21 days) has been successfully utilized to hasten larval destruction and disease resolution.
-*   **Alternative / Second-Line Agents:** Mebendazole or conservative symptomatic management.
+    *   *Medical Anthelmintic Therapy:* For intestinal or ectopic anisakiasis where endoscopic removal is impossible, [[Albendazole]] (400 mg orally twice daily for 6 to 21 days) has been successfully utilized to hasten larval destruction and disease resolution.
+*   **Alternative / Second-Line Agents:** [[Mebendazole]] or conservative symptomatic management.
 *   **Treatment Nuances & Corticosteroid Protocols:** Antihistamines and systemic corticosteroids (e.g., Prednisone) are indicated to suppress intense tissue allergic inflammation, diminish bowel wall granulomatous edema, and treat acute urticaria or allergic hypersensitivity manifestations induced by larval antigens. Surgical intervention (partial bowel resection) is reserved for severe intestinal cases presenting with unresolving complete bowel obstruction, intestinal perforation, or acute abdomen mimicking appendicitis.
 *   **Prophylaxis, Sanitation & Food Safety:**
     *   *Thermal Processing (Cooking):* Cooking marine fish to an internal temperature of at least 60°C (140°F) for 1 minute completely inactivates *Anisakis* larvae.

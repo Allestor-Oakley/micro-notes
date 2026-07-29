@@ -70,15 +70,15 @@ draft: false
 
 #### Helminth Anatomy & Ova Morphology
 *   **Adult Worm Morphology & Attachment Structures:**
-    - Length & Strobila Structure: Adult tapeworm measures 2 to 7 meters in length (smaller than Taenia saginata). Consists of a chain of segments (proglottids) forming the strobila, anchored to the intestinal wall by an anterior attachment organ (scolex).
+    - Length & Strobila Structure: Adult tapeworm measures 2 to 7 meters in length (smaller than [[Taenia saginata]]). Consists of a chain of segments (proglottids) forming the strobila, anchored to the intestinal wall by an anterior attachment organ (scolex).
     - Scolex Features: "Armed" scolex equipped with four prominent, muscular, cup-shaped suckers and a central rostellum surrounded by a double crown / two encircling rows of curved hooklets.
     - Proglottid Architecture: Gravid proglottids are approximately square in shape, having a similar length and width (~1 cm by 1 cm / 1 x 1 cm).
     - Uterine Architecture: Gravid proglottids contain a central longitudinal main uterine stem with fewer than 12 (typically 7 to 13, average 9) lateral main uterine branches arising on EACH side.
 *   **Ova / Egg Microscopic Features:**
-    - Microscopic Appearance: Morphologically indistinguishable under routine light microscopy from eggs of Taenia saginata and Taenia asiatica.
+    - Microscopic Appearance: Morphologically indistinguishable under routine light microscopy from eggs of [[Taenia saginata]] and [[Taenia asiatica]].
     - Size & Shape: Spherical to slightly oval, measuring 31 to 43 μm (or 30 to 40 μm) in diameter.
     - Shell & Embryo: Enclosed within a thick, dark yellow-brown, double-contoured, radially striated shell (embryophore). Contains a fully developed, six-hooked hexacanth embryo (oncosphere) with internal refractile hooklets.
-    - Differential Staining: Ziehl-Neelsen acid-fast staining can aid differentiation; Taenia solium eggs tend to stain blue/purple, whereas Taenia saginata eggs tend to stain magenta.
+    - Differential Staining: Ziehl-Neelsen acid-fast staining can aid differentiation; Taenia solium eggs tend to stain blue/purple, whereas [[Taenia saginata]] eggs tend to stain magenta.
 *   **Larval Stage Morphologies:**
     - Cysticercus / Cysticercus cellulosae: Fluid-filled, translucent, ovoid, pearl-like bladder worm measuring approximately 4 to 6 mm long by 7 to 11 mm wide (or 5 to 10 mm in diameter; about the size of a pea). Contains a single invaginated protoscolex equipped with four suckers and two encircling rows of rostellar hooklets.
     - Racemose Cysticercus (Cysticercus racemosis): In subarachnoid space or basal cisterns of the brain, larvae lack a distinct scolex and grow as large, multiloculated, lobulated, branching, proliferating cystic masses measuring up to several centimeters in diameter.
@@ -117,8 +117,8 @@ draft: false
     - Active Immunosuppression in Live Cysts: Viable cysticerci release excretory-secretory factors and possess an intact outer membrane that actively suppresses host cell-mediated immunity, allowing cysts to survive silently in host tissues for years without eliciting significant local inflammation.
     - Degeneration Inflammatory Peak: Spontaneous or post-treatment parasite death breaks down cyst wall integrity, releasing parasitic antigens that trigger a vigorous host immune response, resulting in localized edema, inflammation, and clinical seizures.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Clearance: Host controls larval infection through specific humoral antibody production (IgG, IgM) and T-cell mediated cellular responses.
-    - HIV / Immunosuppression Links: In HIV-infected patients, neurocysticercosis can manifest with aggressive, atypical, widespread, or invasive cystic lesions (e.g., severe subcutaneous and diffuse central nervous system involvement). Initiation of antiretroviral therapy (ART) in co-infected patients can trigger immune reconstitution inflammatory syndrome (IRIS).
+    - Host Clearance: Host controls larval infection through specific humoral antibody production (IgG, IgM) and [[T Cell|T-cell]] mediated cellular responses.
+    - [[HIV]] / Immunosuppression Links: In [[HIV]]-infected patients, neurocysticercosis can manifest with aggressive, atypical, widespread, or invasive cystic lesions (e.g., severe subcutaneous and diffuse central nervous system involvement). Initiation of antiretroviral therapy (ART) in co-infected patients can trigger immune reconstitution inflammatory syndrome (IRIS).
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
@@ -154,14 +154,14 @@ draft: false
     - Tissue Cysticercosis Exposure: Ingestion of fresh produce, unboiled water, or food contaminated with human feces containing infective T. solium eggs.
 *   **Public Health & Mass Drug Administration:**
     - Major public health burden; neurocysticercosis is the single most important preventable cause of acquired epilepsy in endemic developing nations.
-    - Elimination Strategies: Mass drug administration (praziquantel) targeting human tapeworm carriers, pig vaccination (TSOL18 vaccine), pig deworming (oxfendazole), controlled abattoir slaughter inspection, and improved human sanitation (proven effective in regional elimination programs in Northern Peru).
+    - Elimination Strategies: Mass drug administration ([[praziquantel]]) targeting human tapeworm carriers, pig vaccination (TSOL18 vaccine), pig deworming (oxfendazole), controlled abattoir slaughter inspection, and improved human sanitation (proven effective in regional elimination programs in Northern Peru).
 
 #### Advanced Laboratory Diagnostics
 *   **Stool Ova & Parasite Examination:**
     - Microscopic Egg Detection: Direct wet mounts or concentration methods detect taeniid eggs (31–43 μm, thick radially striated shell, 6-hooked embryo). Eggs alone CANNOT differentiate T. solium from T. saginata or T. asiatica.
     - Proglottid Examination (Gold Standard for Speciation): Gravid proglottids are examined by clearing or performing an India ink injection procedure into the uterine stem/pore. Counting main lateral uterine branches coming off one side confirms speciation:
       - Taenia solium: 7 to 13 (fewer than 12) lateral branches per side (average 9).
-      - Taenia saginata: 15 to 20 (or up to 30) lateral branches per side (average 18).
+      - [[Taenia saginata]]: 15 to 20 (or up to 30) lateral branches per side (average 18).
     - Scolex Recovery: Stool examination following purgation therapy reveals a 1 to 2 mm scolex possessing 4 suckers and a double crown of rostellar hooklets.
 *   **Sedimentation & Flotation Concentration Techniques:**
     - Formalin-Ethyl Acetate Sedimentation: Method of choice for concentrating heavy taeniid eggs from fecal specimens. Operculated or heavy taeniid eggs do not float reliably in zinc sulfate flotation solutions.
@@ -179,14 +179,14 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Intestinal Taeniasis: Oral Praziquantel (5 to 10 mg/kg single oral dose) OR oral Niclosamide (2 g single dose for adults; 50 mg/kg for children). Niclosamide is preferred if latent neurocysticercosis is suspected (non-absorbable).
+    - Intestinal Taeniasis: Oral [[Praziquantel]] (5 to 10 mg/kg single oral dose) OR oral [[Niclosamide]] (2 g single dose for adults; 50 mg/kg for children). [[Niclosamide]] is preferred if latent neurocysticercosis is suspected (non-absorbable).
     - Neurocysticercosis:
-      - Albendazole: 400 mg twice daily (or 15 mg/kg/day divided BID) for 8 to 14 days (or up to 28 days for extensive lesions).
-      - Combination Therapy: Albendazole (15 mg/kg/day) PLUS Praziquantel (50 mg/kg/day) for 10–14 days yields significantly higher cyst clearance rates than albendazole monotherapy in patients with multiple active parenchymal cysts.
+      - [[Albendazole]]: 400 mg twice daily (or 15 mg/kg/day divided BID) for 8 to 14 days (or up to 28 days for extensive lesions).
+      - Combination Therapy: [[Albendazole]] (15 mg/kg/day) PLUS [[Praziquantel]] (50 mg/kg/day) for 10–14 days yields significantly higher cyst clearance rates than [[albendazole]] monotherapy in patients with multiple active parenchymal cysts.
 *   **Alternative / Second-Line Agents:**
-    - Oral Paromomycin or Quinacrine (for intestinal taeniasis).
+    - Oral [[Paromomycin]] or Quinacrine (for intestinal taeniasis).
 *   **Treatment Nuances & Corticosteroid Protocols:**
-    - Mandatory Corticosteroid Co-Administration: Prior to starting antiparasitic therapy (albendazole/praziquantel) for neurocysticercosis, patients MUST be co-administered high-dose corticosteroids (e.g., Dexamethasone 0.1 mg/kg/day or Prednisone 1 mg/kg/day) starting 1–2 days prior to and during therapy. Corticosteroids suppress severe intracranial inflammatory reactions, cerebral edema, and seizures triggered by dying cysticerci.
+    - Mandatory Corticosteroid Co-Administration: Prior to starting antiparasitic therapy ([[albendazole]]/[[praziquantel]]) for neurocysticercosis, patients MUST be co-administered high-dose corticosteroids (e.g., Dexamethasone 0.1 mg/kg/day or Prednisone 1 mg/kg/day) starting 1–2 days prior to and during therapy. Corticosteroids suppress severe intracranial inflammatory reactions, cerebral edema, and seizures triggered by dying cysticerci.
     - Anticonvulsant Therapy: Anti-epileptic drugs (e.g., carbamazepine, phenytoin) must be co-administered in patients presenting with seizures.
     - Contraindications & Surgical Interventions: Antiparasitic treatment is contraindicated in heavy encephalitic neurocysticercosis (diffuse edema) or calcified dead cysts. Surgical excision or endoscopic third ventriculostomy / shunt placement is required for intraventricular cysts, obstructive hydrocephalus, or ocular cysts (antiparasitic drugs can cause intraocular inflammation and loss of vision if ocular cysts die in situ).
     - Laboratory Safety & Gloves Warning: Extreme caution and gloves/masks/lab coats MUST be worn when handling unknown Taenia proglottids or performing India ink injections. Ingestion or inhalation of T. solium eggs released during laboratory handling can cause human cysticercosis.
@@ -207,4 +207,4 @@ draft: false
     - Dual Host Role Danger: Taenia solium is the ONLY human Taenia species where humans can serve as BOTH the definitive host (harboring adult intestinal tapeworm from eating pork) AND the accidental intermediate host (developing tissue cysticercosis from ingesting eggs via fecal-oral autoinfection).
     - Parasite Death Paradox: Viable encysted cysticerci in the brain cause minimal host inflammation and few symptoms for years; clinical symptoms (seizures, edema, headaches) peak when the parasite dies and degenerates, releasing immunogenic antigens that trigger a strong immune response.
     - High Exposure Hazard in Laboratories: Handling Taenia proglottids for India ink uterine branch counts carries an extreme biohazard risk—unlike T. saginata, accidental egg ingestion from a T. solium proglottid can cause life-threatening neurocysticercosis in laboratory personnel.
-    - Treatment Contraindication for Ocular Cysts: While antiparasitic drugs kill tissue cysticerci, administering albendazole or praziquantel for ocular cysticercosis is strictly contraindicated without prior surgical removal because inflammatory responses to dying intraocular larvae can cause irreversible retinal detachment and blindness.
+    - Treatment Contraindication for Ocular Cysts: While antiparasitic drugs kill tissue cysticerci, administering [[albendazole]] or [[praziquantel]] for ocular cysticercosis is strictly contraindicated without prior surgical removal because inflammatory responses to dying intraocular larvae can cause irreversible retinal detachment and blindness.

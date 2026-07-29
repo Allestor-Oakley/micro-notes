@@ -42,7 +42,7 @@ draft: false
 *   **Adult Worm Morphology & Attachment Structures:**
     - Size & Habitat: Adult tapeworm inhabits the small intestine of definitive carnivore hosts (dogs, wolves, foxes). Morphologically resembles other adult *Taenia* species, possessing an anterior attachment organ (scolex) equipped with four muscular suckers and a central rostellum armed with a double crown of curved hooklets, attached to a segmented strobila of proglottids. Adult worms do NOT develop in the human intestinal lumen.
 *   **Ova / Egg Microscopic Features:**
-    - Microscopic Appearance: Typical taeniid-type egg, morphologically indistinguishable under light microscopy from eggs of *Taenia solium*, *Taenia saginata*, and *Echinococcus* species.
+    - Microscopic Appearance: Typical taeniid-type egg, morphologically indistinguishable under light microscopy from eggs of *[[Taenia solium]]*, *[[Taenia saginata]]*, and *Echinococcus* species.
     - Size & Shell Structure: Spherical to slightly ovoid, measuring approximately 30 to 43 μm in diameter, surrounded by a thick, dark brown, double-contoured, radially striated shell (embryophore).
     - Internal Embryo: Encloses a fully developed, six-hooked hexacanth embryo (oncosphere) with internal refractile hooklets. Eggs are passed fully embryonated and immediately infective in carnivore/dog feces.
 *   **Larval Stage Morphologies:**
@@ -107,7 +107,7 @@ draft: false
     - Ingestion of surface drinking water, unwashed leafy vegetables, or raw produce contaminated with dog/carnivore feces carrying eggs. Hand-to-mouth transfer after touching infected herding dogs or egg-contaminated soil.
 *   **Public Health & Mass Drug Administration:**
     - Significant veterinary and public health burden in livestock communities.
-    - Elimination & Control Strategies: Regular, periodic anthelmintic deworming of farm and herding dogs with praziquantel; strict prohibition of feeding raw sheep heads, brains, or offal to dogs; proper disposal or incineration of infected livestock carcasses; public health education regarding hand hygiene after dog contact; and field evaluation of recombinant subunit vaccines against livestock coenurosis.
+    - Elimination & Control Strategies: Regular, periodic anthelmintic deworming of farm and herding dogs with [[praziquantel]]; strict prohibition of feeding raw sheep heads, brains, or offal to dogs; proper disposal or incineration of infected livestock carcasses; public health education regarding hand hygiene after dog contact; and field evaluation of recombinant subunit vaccines against livestock coenurosis.
 
 #### Advanced Laboratory Diagnostics
 *   **Stool Ova & Parasite Examination:**
@@ -118,8 +118,8 @@ draft: false
 *   **Serology & Tissue Biopsy Diagnostics:**
     - Histopathology & Surgical Pathology (Gold Standard): Definitive diagnosis is established by microscopic or gross examination of resected cyst tissue or aspirate:
       - Demonstrates a single, translucent fluid-filled coenurus bladder lined by an outer non-cellular cuticular layer and an inner nucleated germinal layer from which MULTIPLE invaginated protoscolices (scolices with suckers and rostellar hooklets) arise internally.
-      - Diagnostic Differential: Distinguishes coenurus (MULTIPLE scolices on a single cyst wall) from cysticercus (*Taenia solium*, strictly 1 scolex per cyst) and hydatid cyst (*Echinococcus*, thick acellular laminated wall with multiple brood capsules/daughter cysts).
-    - Serological Antibody Detection: Enzyme-Linked Immunosorbent Assay (ELISA) and Western blot detect anti-*Taenia* / anti-coenurus IgG antibodies in serum or CSF, serving a supportive confirmatory role (cross-reactivity with *Taenia solium* neurocysticercosis is common).
+      - Diagnostic Differential: Distinguishes coenurus (MULTIPLE scolices on a single cyst wall) from cysticercus (*[[Taenia solium]]*, strictly 1 scolex per cyst) and hydatid cyst (*Echinococcus*, thick acellular laminated wall with multiple brood capsules/daughter cysts).
+    - Serological Antibody Detection: Enzyme-Linked Immunosorbent Assay (ELISA) and Western blot detect anti-*Taenia* / anti-coenurus IgG antibodies in serum or CSF, serving a supportive confirmatory role (cross-reactivity with *[[Taenia solium]]* neurocysticercosis is common).
 *   **Imaging Findings:**
     - Computed Tomography (CT) & Magnetic Resonance Imaging (MRI):
       - Neuroimaging (CT/MRI): Reveals a well-demarcated, rounded or lobulated, hypodense/hypointense fluid-filled cystic brain lesion situated in brain parenchyma, cerebral ventricles, or subarachnoid space, accompanied by perilesional edema and ring-enhancement (particularly if degenerating).
@@ -128,13 +128,13 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
     - Surgical Excision (Primary Treatment of Choice): Complete, intact surgical extirpation/removal of the intact coenurus cyst is the principal and definitive curative treatment for CNS, ocular, and subcutaneous coenurosis.
-    - Oral Albendazole: Principal medical agent used for inoperable central nervous system lesions, multiple brain cysts, or as adjunctive medical therapy surrounding surgical intervention (administered at 15 mg/kg/day or 400 mg PO twice daily for 14 to 28 days).
+    - Oral [[Albendazole]]: Principal medical agent used for inoperable central nervous system lesions, multiple brain cysts, or as adjunctive medical therapy surrounding surgical intervention (administered at 15 mg/kg/day or 400 mg PO twice daily for 14 to 28 days).
 *   **Alternative / Second-Line Agents:**
-    - Oral Praziquantel: Used as an alternative medical agent or in combination with albendazole.
+    - Oral [[Praziquantel]]: Used as an alternative medical agent or in combination with [[albendazole]].
 *   **Treatment Nuances & Corticosteroid Protocols:**
-    - Mandatory Corticosteroid Cover: Concurrent administration of high-dose systemic corticosteroids (e.g., Dexamethasone or Prednisone) MUST be initiated prior to and during anthelmintic therapy (albendazole/praziquantel) or surgical manipulation of CNS coenurosis. Corticosteroids control severe intracranial inflammatory reactions, perilesional cerebral edema, and seizures triggered by dying parasites.
+    - Mandatory Corticosteroid Cover: Concurrent administration of high-dose systemic corticosteroids (e.g., Dexamethasone or Prednisone) MUST be initiated prior to and during anthelmintic therapy ([[albendazole]]/[[praziquantel]]) or surgical manipulation of CNS coenurosis. Corticosteroids control severe intracranial inflammatory reactions, perilesional cerebral edema, and seizures triggered by dying parasites.
 *   **Prophylaxis, Sanitation & Food Safety:**
-    - Veterinary Control: Regular, periodic deworming of sheep-herding dogs, farm dogs, and pet dogs with oral praziquantel (5 mg/kg) in endemic sheep-raising regions.
+    - Veterinary Control: Regular, periodic deworming of sheep-herding dogs, farm dogs, and pet dogs with oral [[praziquantel]] (5 mg/kg) in endemic sheep-raising regions.
     - Livestock Offal Management: Strict prevention of dogs eating raw sheep heads, brains, or viscera from slaughtered or deceased livestock.
     - Personal & Food Hygiene: Rigorous handwashing with soap and water after handling dogs or soil; thorough washing of raw fruits and vegetables; drinking safe, boiled or filtered water in pastoral regions.
 

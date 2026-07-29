@@ -1,7 +1,6 @@
 ---
 aliases:
   - hydatid tapeworm
-  - dog tapeworm
   - sheep tapeworm
   - hydatid worm
 clinical_syndromes:
@@ -73,7 +72,7 @@ draft: false
     - Strobila Architecture: Body (strobila) is exceptionally short, consisting of a scolex, a neck, and strictly THREE proglottids in total: one immature proglottid, one mature proglottid, and one terminal gravid proglottid.
     - Intestinal Attachment: Adult tapeworms inhabit the small intestinal lumen of definitive canine hosts, attaching to mucosal crypts by their four suckers and armed rostellum (often numbering hundreds to thousands of adult worms per canine host).
 *   **Ova / Egg Microscopic Features:**
-    - Appearance: Eggs are morphologically indistinguishable under routine light microscopy from those of Taenia saginata and Taenia solium.
+    - Appearance: Eggs are morphologically indistinguishable under routine light microscopy from those of [[Taenia saginata]] and [[Taenia solium]].
     - Dimensions & Shell: Spherical to slightly oval, measuring 31 to 43 μm in diameter, surrounded by a thick, dark yellow-brown, double-contoured, radially striated shell (embryophore).
     - Embryo & Acid-Fast Reaction: Contains a fully developed six-hooked hexacanth embryo (oncosphere) with internal refractile hooklets. Hooklets inside the egg/oncosphere demonstrate acid-fast staining characteristics. Eggs are passed fully embryonated and immediately infective in canine feces.
 *   **Larval Stage Morphologies:**
@@ -102,7 +101,7 @@ draft: false
     - Human Ingestion: Direct hand-to-mouth transfer of infective eggs following contact with canine feces or petting egg-contaminated dog fur; or ingestion of drinking water, uncooked vegetables, or fresh produce contaminated with canine fecal material.
     - Canine Ingestion: Domestic or wild canids become infected by consuming raw offal, viscera, or carcasses of intermediate host animals containing viable hydatid cysts with protoscolices (e.g., feeding sheep viscera to dogs on farms).
 *   **Intra-Host Larval Migration Pathway:**
-    - Human / Herbivore Pathway: Ingested embryonated eggs hatch in the stomach and upper small intestine (duodenum) upon exposure to gastric acid and digestive enzymes, releasing six-hooked oncospheres. Oncospheres actively penetrate the intestinal mucosa, enter mesenteric venules or lymphatic vessels, enter the portal circulation, and filter out primary in hepatic sinusoids (~60–70% trapped in the liver). Oncospheres that pass through the liver filter into pulmonary capillaries (~20–30% trapped in lungs); remaining larvae enter systemic circulation to disseminate to the spleen, kidneys, brain, heart, bones, or orbit, slowly developing over years into unilocular fluid-filled hydatid cysts.
+    - Human / Herbivore Pathway: Ingested embryonated eggs hatch in the stomach and upper small intestine (duodenum) upon exposure to gastric acid and digestive enzymes, releasing six-hooked oncospheres. Oncospheres actively penetrate the intestinal mucosa, enter mesenteric venules or lymphatic vessels, enter the portal circulation, and filter out primary in hepatic sinusoids (~60–70% trapped in the liver). Oncospheres that pass through the liver filter into pulmonary capillaries (~20–30% trapped in lungs); remaining larvae enter systemic circulation to disseminate to the [[spleen]], kidneys, brain, heart, bones, or orbit, slowly developing over years into unilocular fluid-filled hydatid cysts.
     - Canine Intestinal Pathway: Swallowed hydatid cysts/protoscolices are digested out of tissue in the canine stomach. Free protoscolices evaginate in the small intestine, attach to the mucosa using suckers and rostellar hooklets, and mature into egg-producing adult tapeworms over 4 to 7 weeks.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage in Humans: Unilocular hydatid cyst (metacestode) in visceral tissues, diagnosed via imaging (ultrasound, CT, MRI), specific serology, or histopathological identification of laminated layer, germinal layer, and acid-fast rostellar hooklets.
@@ -119,7 +118,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - Absorbs host simple nutrients directly across its outer laminated endocyst membrane into cyst fluid. Does NOT cause intestinal nutritional competition, Vitamin B12 deficiency, or megaloblastic anemia in the human host.
 *   **Immune Evasion Strategies:**
-    - Laminated Layer Physical Shield: Thick, acellular, non-nucleated laminated layer shields inner germinal cells and protoscolices from direct cellular contact and attack by host macrophages, neutrophils, and complement.
+    - Laminated Layer Physical Shield: Thick, acellular, non-nucleated laminated layer shields inner germinal cells and protoscolices from direct cellular contact and attack by host [[Macrophage|macrophages]], neutrophils, and complement.
     - Low Immunological Reactivity: Intact, undamaged cysts maintain a state of low immunogenicity, allowing asymptomatic parasite survival in human tissues for decades.
 *   **Host Defense & Immunodeficiency Links:**
     - Severe Anaphylaxis & Dissemination Hazard: Cyst wall leakage or overt rupture (spontaneous, traumatic, or surgical/iatrogenic) releases highly antigenic hydatid fluid and protoscolices into circulation or peritoneal/pleural cavities. This triggers immediate severe IgE-mediated hypersensitivity reactions, widespread urticaria, bronchospasm, circulatory collapse, and life-threatening anaphylactic shock.
@@ -158,7 +157,7 @@ draft: false
     - Ingestion of fresh raw vegetables, unwashed produce, or drinking water contaminated with canine feces containing embryonated eggs. Hand-to-mouth transfer after petting infected dogs.
 *   **Public Health & Mass Drug Administration:**
     - Major public health burden in rural agricultural communities.
-    - Elimination & Control Strategies: Regular deworming of domestic and farm dogs with praziquantel; strict prohibition of feeding raw offal/slaughterhouse waste to dogs; controlled abattoir meat inspection and proper disposal/burning of infected animal viscera; vaccination of intermediate livestock hosts with recombinant antigens (e.g., EG95 sheep vaccine); public health education regarding hand hygiene after dog contact.
+    - Elimination & Control Strategies: Regular deworming of domestic and farm dogs with [[praziquantel]]; strict prohibition of feeding raw offal/slaughterhouse waste to dogs; controlled abattoir meat inspection and proper disposal/burning of infected animal viscera; vaccination of intermediate livestock hosts with recombinant antigens (e.g., EG95 sheep vaccine); public health education regarding hand hygiene after dog contact.
 
 #### Advanced Laboratory Diagnostics
 *   **Stool Ova & Parasite Examination:**
@@ -185,17 +184,17 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Albendazole: Principal medical treatment for cystic echinococcosis. Administered at a dosage of 400 mg twice daily (or 15 mg/kg/day in two divided doses with fatty meals) continuously for 1 to 6 months (or in repeated 28-day cycles separated by 14-day drug-free intervals). Used as primary therapy for small (<5 cm) inoperable cysts, multiple cysts, or as pre- and post-procedure cover to prevent secondary seeding.
-    - Alternative Agent: Oral Mebendazole (40 to 50 mg/kg/day).
+    - Oral [[Albendazole]]: Principal medical treatment for cystic echinococcosis. Administered at a dosage of 400 mg twice daily (or 15 mg/kg/day in two divided doses with fatty meals) continuously for 1 to 6 months (or in repeated 28-day cycles separated by 14-day drug-free intervals). Used as primary therapy for small (<5 cm) inoperable cysts, multiple cysts, or as pre- and post-procedure cover to prevent secondary seeding.
+    - Alternative Agent: Oral [[Mebendazole]] (40 to 50 mg/kg/day).
 *   **Alternative / Second-Line Agents:**
-    - Oral Praziquantel: Administered at 40 mg/kg once weekly or in combination with albendazole to enhance protoscolecidal activity prior to surgery or percutaneous procedures.
+    - Oral [[Praziquantel]]: Administered at 40 mg/kg once weekly or in combination with [[albendazole]] to enhance protoscolecidal activity prior to surgery or percutaneous procedures.
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - PAIR Technique (Puncture, Aspiration, Injection, Re-aspiration): Interventional procedure indicated for active unilocular cysts (CE1, CE3a). The cyst is punctured under ultrasound guidance, fluid aspirated, a scolicidal agent (20% hypertonic saline or 95% ethanol) injected for 15–20 minutes, and then re-aspirated.
     - Mandatory Exclusion of Cysto-Biliary Fistulae: Prior to injecting any scolicidal agent during PAIR or surgery, cysto-biliary communication MUST be rigorously excluded (via contrast fluoroscopy or bilirubin testing of aspirate). Injection of scolicides (hypertonic saline, formalin, ethanol) into a cyst communicating with the biliary tree causes severe, irreversible, catastrophic sclerosing cholangitis.
-    - Surgical Intervention: Conservative (cystectomy, partial pericystectomy) or radical (total pericystectomy, hepatic lobectomy) surgical resection is mandatory for large (>10 cm) multilocular cysts (CE2, CE3b), infected cysts, ruptured cysts, or cysts causing critical biliary/vascular compression. Pre- and post-operative coverage with albendazole (started 1–2 weeks prior to surgery and continued for 1–3 months post-op) is required.
+    - Surgical Intervention: Conservative (cystectomy, partial pericystectomy) or radical (total pericystectomy, hepatic lobectomy) surgical resection is mandatory for large (>10 cm) multilocular cysts (CE2, CE3b), infected cysts, ruptured cysts, or cysts causing critical biliary/vascular compression. Pre- and post-operative coverage with [[albendazole]] (started 1–2 weeks prior to surgery and continued for 1–3 months post-op) is required.
     - "Watch and Wait" Approach: Recommended for inactive, asymptomatic, completely calcified cysts (WHO stage CE4 and CE5).
 *   **Prophylaxis, Sanitation & Food Safety:**
-    - Canine Deworming: Regular, periodic administration of oral praziquantel (5 mg/kg) to domestic and sheep-herding dogs every 4 to 6 weeks in endemic regions.
+    - Canine Deworming: Regular, periodic administration of oral [[praziquantel]] (5 mg/kg) to domestic and sheep-herding dogs every 4 to 6 weeks in endemic regions.
     - Slaughterhouse Sanitation: Proper disposal, burial, or incineration of infected livestock viscera to prevent dogs from eating "measly" offal.
     - Personal Hygiene: Thorough washing of hands with soap and water after handling dogs or soil; thorough washing of raw fruits and vegetables; boiling drinking water in rural endemic zones.
 

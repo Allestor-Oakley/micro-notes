@@ -84,8 +84,8 @@ draft: false
     - Intracellular Villi Protection: Developing cysticercoid larvae reside inside the protective intracellular environment of host intestinal villi for 4 to 5 days, sheltered from circulating lumen anthelmintics and immediate host antibody clearance.
     - Continuous Autoinfection: Internal autoinfection permits parasite persistence and multiplication in human hosts for many years or decades despite host immune responses.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Mucosal humoral IgA and T-cell-mediated immune responses help regulate worm burden and limit uncontrolled autoinfection in immunocompetent hosts.
-    - Immunocompromised / HIV Host Risk & Malignant Transformation: In severely immunocompromised patients (e.g., AIDS, organ transplant recipients), normal immune control of autoinfection breaks down, leading to massive hyperinfection. Crucially, *Hymenolepis nana* can undergo somatic cell proliferation and malignant transformation in immunocompromised human hosts, where undifferentiated stem-cell-like parasite cells invade human tissues, metastasize, and form malignant parasite-derived tumors/neoplasms inside the host.
+    - Host Defense: Mucosal humoral IgA and [[T Cell|T-cell]]-mediated immune responses help regulate worm burden and limit uncontrolled autoinfection in immunocompetent hosts.
+    - Immunocompromised / [[HIV]] Host Risk & Malignant Transformation: In severely immunocompromised patients (e.g., AIDS, organ transplant recipients), normal immune control of autoinfection breaks down, leading to massive hyperinfection. Crucially, *Hymenolepis nana* can undergo somatic cell proliferation and malignant transformation in immunocompromised human hosts, where undifferentiated stem-cell-like parasite cells invade human tissues, metastasize, and form malignant parasite-derived tumors/neoplasms inside the host.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
@@ -130,12 +130,12 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Praziquantel: Drug of choice for *Hymenolepis nana* infection. Administered as a single oral dose of 25 mg/kg (or 15–25 mg/kg). Note: The required dosage for *H. nana* (25 mg/kg) is HIGHER than the dosage used for *Taenia* species (5–10 mg/kg) because praziquantel must penetrate tissue to clear tissue-dwelling cysticercoids inside intestinal villi.
-    - Oral Nitazoxanide: Effective alternative first-line agent, particularly suitable for pediatric field conditions and mass drug administration programs.
+    - Oral [[Praziquantel]]: Drug of choice for *Hymenolepis nana* infection. Administered as a single oral dose of 25 mg/kg (or 15–25 mg/kg). Note: The required dosage for *H. nana* (25 mg/kg) is HIGHER than the dosage used for *Taenia* species (5–10 mg/kg) because [[praziquantel]] must penetrate tissue to clear tissue-dwelling cysticercoids inside intestinal villi.
+    - Oral [[Nitazoxanide]]: Effective alternative first-line agent, particularly suitable for pediatric field conditions and mass drug administration programs.
 *   **Alternative / Second-Line Agents:**
-    - Oral Niclosamide: Single adult dose of 2 g on day 1, followed by 1 g daily for 5 to 7 days (children: 50 mg/kg on day 1, then 25 mg/kg daily for 5–7 days). Extended multi-day dosing is MANDATORY when using niclosamide because niclosamide kills lumen-dwelling adult tapeworms but does NOT kill tissue-dwelling cysticercoids inside intestinal villi; prolonged treatment ensures newly emerging adult worms are eradicated as they enter the lumen.
+    - Oral [[Niclosamide]]: Single adult dose of 2 g on day 1, followed by 1 g daily for 5 to 7 days (children: 50 mg/kg on day 1, then 25 mg/kg daily for 5–7 days). Extended multi-day dosing is MANDATORY when using [[niclosamide]] because [[niclosamide]] kills lumen-dwelling adult tapeworms but does NOT kill tissue-dwelling cysticercoids inside intestinal villi; prolonged treatment ensures newly emerging adult worms are eradicated as they enter the lumen.
 *   **Treatment Nuances & Corticosteroid Protocols:**
-    - Extended Dosing Necessity: Unlike other tapeworm infections where single-dose therapy is curative, *H. nana* frequently requires extended or repeat therapy (e.g., repeating praziquantel 7 to 10 days later) to ensure complete eradication of emerging adult worms originating from tissue-stage cysticercoids.
+    - Extended Dosing Necessity: Unlike other tapeworm infections where single-dose therapy is curative, *H. nana* frequently requires extended or repeat therapy (e.g., repeating [[praziquantel]] 7 to 10 days later) to ensure complete eradication of emerging adult worms originating from tissue-stage cysticercoids.
     - Post-Treatment Follow-up: Repeat stool examinations for eggs should be conducted 2 weeks and 1 month post-therapy to confirm cure and rule out persistent autoinfection.
 *   **Prophylaxis, Sanitation & Food Safety:**
     - Personal & Institutional Hygiene: Rigorous handwashing with soap and water after defecation, diaper changing, and before handling food. Strict infection control measures in day-care centers and residential facilities.
@@ -149,7 +149,7 @@ draft: false
     - "Only human tapeworm with direct human-to-human transmission"
     - "Internal autoinfection and hyperinfection"
     - "Most common tapeworm infection in North America"
-    - "Higher praziquantel dose required (25 mg/kg)"
+    - "Higher [[praziquantel]] dose required (25 mg/kg)"
 *   **Exceptions to the Rule:**
     - Non-Obligatory Intermediate Host Exception: *Hymenolepis nana* is the ONLY human cestode that does NOT require an intermediate host to complete its lifecycle—it can be transmitted directly from human to human via embryonated eggs in feces.
     - Dual Lifecycle Versatility: Can complete its lifecycle through three distinct pathways: (1) direct human-to-human transmission, (2) internal autoinfection, or (3) indirect transmission via an insect intermediate host (grain beetle/flea).

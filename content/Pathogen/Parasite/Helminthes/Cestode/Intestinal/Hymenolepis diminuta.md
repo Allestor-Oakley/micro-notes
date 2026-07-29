@@ -29,13 +29,13 @@ draft: false
 
 #### Helminth Anatomy & Ova Morphology
 *   **Adult Worm Morphology & Attachment Structures:**
-    - Size & Strobila Structure: Adult tapeworm measures 20 to 60 cm in length (capable of reaching up to 90 cm) and 3.5 to 4 mm in width (significantly larger than Hymenolepis nana, which measures only 2 to 4 cm in length). Consists of a small anterior scolex, a neck, and a long chain of up to 800 to 1,000 overlapping, segmented proglottids forming the strobila.
+    - Size & Strobila Structure: Adult tapeworm measures 20 to 60 cm in length (capable of reaching up to 90 cm) and 3.5 to 4 mm in width (significantly larger than [[Hymenolepis nana]], which measures only 2 to 4 cm in length). Consists of a small anterior scolex, a neck, and a long chain of up to 800 to 1,000 overlapping, segmented proglottids forming the strobila.
     - Scolex Features: Small, rounded scolex equipped with four prominent, cup-shaped muscular suckers and an invaginated, rudimentary, "unarmed" rostellum that lacks hooklets entirely (unarmed scolex).
     - Proglottid Architecture: Mature and gravid proglottids are characteristically wider than they are long (short and broad). Each mature proglottid typically contains three spherical/rounded testes and a central ovary.
 *   **Ova / Egg Microscopic Features:**
-    - Size & Shape: Large, round to slightly ovoid or spherical eggs measuring 58 to 86 μm long by 70 to 85 μm wide (noticeably larger than eggs of Hymenolepis nana, which measure 30 to 50 μm).
+    - Size & Shape: Large, round to slightly ovoid or spherical eggs measuring 58 to 86 μm long by 70 to 85 μm wide (noticeably larger than eggs of [[Hymenolepis nana]], which measure 30 to 50 μm).
     - Shell & Internal Embryo: Possesses a thick, dark yellow-to-golden-brown, bile-stained outer shell and a clear inner membrane/envelope enclosing a six-hooked hexacanth embryo (oncosphere) with visible internal refractile hooklets.
-    - Absence of Polar Filaments (Diagnostic Feature): The inner membrane features two polar thickenings/knobs but lacks polar filaments entirely (in contrast to Hymenolepis nana, which possesses 4 to 8 distinct, thread-like polar filaments spreading into the space between the inner membrane and the outer shell).
+    - Absence of Polar Filaments (Diagnostic Feature): The inner membrane features two polar thickenings/knobs but lacks polar filaments entirely (in contrast to [[Hymenolepis nana]], which possesses 4 to 8 distinct, thread-like polar filaments spreading into the space between the inner membrane and the outer shell).
 *   **Larval Stage Morphologies:**
     - Metacestode / Larval Form: The larval stage is a small, solid, non-fluid-filled bladder-like structure termed a cysticercoid.
     - Structure & Localization: Contains an invaginated, unarmed scolex possessing four suckers enclosed within a dense tissue matrix, developing within the body cavity / hemocoel of arthropod intermediate hosts.
@@ -54,7 +54,7 @@ draft: false
     - Arthropod Infection Pathway: Larval insects feed on rat or human feces containing viable, bile-stained Hymenolepis diminuta eggs. Ingested eggs hatch in the insect gut, penetrate the intestinal wall into the hemocoel, and transform into infective cysticercoids.
 *   **Intra-Host Larval Migration Pathway:**
     - Human / Rodent Intestinal Development: Swallowed infected insect containing cysticercoids is digested in the host stomach. Liberated cysticercoids pass into the small intestine, evaginate their scolices, attach to the small intestinal mucosa via four suckers, and mature into egg-producing adult tapeworms over 18 to 21 days.
-    - Absolute Lack of Autoinfection: Unlike Hymenolepis nana, eggs of Hymenolepis diminuta passed in stool cannot hatch in the human intestine and cannot cause direct human-to-human infection or autoinfection. An arthropod intermediate host is strictly obligatory.
+    - Absolute Lack of Autoinfection: Unlike [[Hymenolepis nana]], eggs of Hymenolepis diminuta passed in stool cannot hatch in the human intestine and cannot cause direct human-to-human infection or autoinfection. An arthropod intermediate host is strictly obligatory.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Mature embryonated eggs (58–86 x 70–85 μm, bile-stained shell, six-hooked oncosphere, lacking polar filaments) passed in feces.
     - Shedding Site: Feces / intestinal tract.
@@ -111,10 +111,10 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Niclosamide: Considered a drug of choice for intestinal tapeworms (administered as a single oral dose of 2 g for adults; 50 mg/kg for children).
-    - Oral Praziquantel: Single oral dose of 5 to 10 mg/kg (or 25 mg/kg single dose); highly effective for clearing adult intestinal tapeworms.
+    - Oral [[Niclosamide]]: Considered a drug of choice for intestinal tapeworms (administered as a single oral dose of 2 g for adults; 50 mg/kg for children).
+    - Oral [[Praziquantel]]: Single oral dose of 5 to 10 mg/kg (or 25 mg/kg single dose); highly effective for clearing adult intestinal tapeworms.
 *   **Alternative / Second-Line Agents:**
-    - Oral Paromomycin.
+    - Oral [[Paromomycin]].
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - Retreatment Protocol: Stool examination for eggs should be repeated 1 month post-treatment to verify complete clearance of adult worms. Unlike H. nana (which requires extended treatment due to internal tissue autoinfection), H. diminuta lacks an autoinfective stage, so single-dose therapies are usually curative.
 *   **Prophylaxis, Sanitation & Food Safety:**
@@ -130,7 +130,7 @@ draft: false
     - "Tribolium confusum"
     - "Obligatory arthropod intermediate host"
 *   **Exceptions to the Rule:**
-    - The Polar Filament Differential: Hymenolepis diminuta eggs (58–86 μm, yellow-brown, NO polar filaments) are easily distinguished from Hymenolepis nana eggs (30–50 μm, colorless, WITH 4–8 polar filaments).
-    - Obligatory Insect Requirement: Unlike Hymenolepis nana (where the insect intermediate host is optional and direct human-to-human autoinfection occurs), Hymenolepis diminuta CANNOT skip the insect host—the arthropod intermediate host is strictly obligatory to form infective cysticercoids.
+    - The Polar Filament Differential: Hymenolepis diminuta eggs (58–86 μm, yellow-brown, NO polar filaments) are easily distinguished from [[Hymenolepis nana]] eggs (30–50 μm, colorless, WITH 4–8 polar filaments).
+    - Obligatory Insect Requirement: Unlike [[Hymenolepis nana]] (where the insect intermediate host is optional and direct human-to-human autoinfection occurs), Hymenolepis diminuta CANNOT skip the insect host—the arthropod intermediate host is strictly obligatory to form infective cysticercoids.
     - Non-Infectious Fresh Eggs: Freshly passed eggs in human or rodent feces are NOT directly infective to humans; accidental ingestion of stool containing H. diminuta eggs will not produce tapeworm infection in humans.
-    - Unarmed Scolex Exception: Unlike Hymenolepis nana (which possesses an armed rostellum with a single ring of small hooks), adult Hymenolepis diminuta possesses an unarmed scolex that lacks rostellar hooklets entirely.
+    - Unarmed Scolex Exception: Unlike [[Hymenolepis nana]] (which possesses an armed rostellum with a single ring of small hooks), adult Hymenolepis diminuta possesses an unarmed scolex that lacks rostellar hooklets entirely.

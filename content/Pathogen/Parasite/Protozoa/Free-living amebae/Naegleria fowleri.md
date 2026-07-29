@@ -1,7 +1,6 @@
 ---
 aliases:
   - Brain-eating ameba
-  - Ameboflagellate
 clinical_syndromes:
   - Primary amebic meningoencephalitis (PAM)
   - Amebic meningoencephalitis
@@ -30,7 +29,7 @@ draft: false
 
 #### Lifecycle & Transmission
 *   **Definitive Host:** None. Naegleria fowleri is a free-living, amphizoic soil and freshwater ameba capable of completing its lifecycle indefinitely in nature without an animal host. Humans are accidental hosts.
-*   **Intermediate Host & Vector Dynamics:** None required. Serves as an environmental natural host, incubator, and vector for pathogenic intracellular bacteria (e.g., Legionella pneumophila, Listeria monocytogenes, Vibrio cholerae, Mycobacterium leprae, Pseudomonas aeruginosa) and viruses (echoviruses, polioviruses), protecting chlorine-resistant endosymbionts inside amebic structures.
+*   **Intermediate Host & Vector Dynamics:** None required. Serves as an environmental natural host, incubator, and vector for pathogenic intracellular bacteria (e.g., [[Legionella pneumophila]], [[Listeria monocytogenes]], [[Vibrio cholerae]], [[Mycobacterium leprae]], [[Pseudomonas aeruginosa]]) and viruses (echoviruses, polioviruses), protecting chlorine-resistant endosymbionts inside amebic structures.
 *   **Transmission Route:** Inhalation or aspiration of contaminated warm fresh water, dust, or aerosols into the nasal cavity during water recreation (swimming, diving, water-skiing). Sinus irrigation, ritual nasal rinsing, or ablution performed with contaminated tap water (e.g., using neti pots or similar devices). Rare parenteral transmission has been documented via solid organ transplantation from donors with undiagnosed N. fowleri infection.
 *   **Infective Stage & Portal of Entry:** Trophozoites and cysts in water or dust entering via the nasal cavity. Portals of entry include the nasal neuroepithelium and olfactory mucosa.
 *   **Diagnostic Stage & Specimen Source:** Motile ameboid trophozoites ONLY are found in diagnostic clinical specimens (cysts and flagellates are absent in human tissues). Specimen sources include cerebrospinal fluid (CSF), CSF sediment, brain tissue biopsy or autopsy material, nasopharyngeal discharge/exudate, and environmental water/soil samples.
@@ -48,7 +47,7 @@ draft: false
     - Acute Phase: Sudden onset of high spiking fever (up to 40°C), severe, excruciating frontal or bitemporal headache, nausea, vomiting, photophobia, nuchal rigidity (stiff neck), and positive Kernig sign.
     - Progressive Neurological Phase: Rapid deterioration featuring confusion, disorientation, agitation, stupor, ataxia, gait disturbances, cranial nerve palsies, altered deep tendon reflexes, visual/eye abnormalities (blurred vision, nystagmus, anisocoria), and focal or generalized seizures.
     - Terminal Phase: Marked cerebral edema, elevated intracranial pressure, brain herniation, coma, cardiorespiratory arrest, and pulmonary edema. Death occurs within a median of 5 days from symptom onset (range 3 to 7 days; almost always fatal within 10 days or less; case fatality rate >97–98%).
-*   **Chronic & Extra-Intestinal Disease:** N/A. PAM is strictly an acute, fulminant disease with no chronic clinical form. Dissemination outside the CNS is extremely rare, though amebic trophozoites have occasionally been detected postmortem in the heart, lungs, and spleen.
+*   **Chronic & Extra-Intestinal Disease:** N/A. PAM is strictly an acute, fulminant disease with no chronic clinical form. Dissemination outside the CNS is extremely rare, though amebic trophozoites have occasionally been detected postmortem in the heart, lungs, and [[spleen]].
 *   **Pathognomonic Signs:** Presence of actively motile ameboid trophozoites (possessing rounded lobopodia and a large central karyosome) in purulent CSF wet mounts WITHOUT cysts, in a patient presenting with hyperacute meningoencephalitis following recent warm freshwater exposure or nasal sinus irrigation.
 *   **Host Immune Response & Laboratory Findings:**
     - CSF Analysis: Markedly elevated opening pressure; appearance varies from grayish to yellowish-white or tinged red/pink with RBCs (due to subarachnoid hemorrhage). Marked neutrophilic pleocytosis (leukocyte count ranging from several hundred to >20,000 cells/mm³ with PMN predominance). Elevated protein concentration (100 to 1,000 mg/dL) and markedly decreased or low glucose concentration.
@@ -79,32 +78,32 @@ draft: false
     - Specimen Handling: NEVER REFRIGERATE CSF or tissue specimens prior to examination or culture, as cold temperatures destroy trophozoite motility and viability. Centrifugation of CSF should be performed at low speeds (150 × g for 5 min; up to 500 × g for 10 min) to preserve trophozoite structure.
     - Enflagellation Assay: Scrape trophozoites from agar culture or tissue into 1 to 2 mL of warmed sterile distilled water and incubate at 27 to 37°C. Examine periodically under inverted microscope; N. fowleri transforms into pear-shaped, free-swimming flagellates with 2 flagella within 1 to 24 hours (confirming diagnosis).
     - Culture Methods:
-      - Non-Nutrient Agar (NNA) with Bacterial Overlay: Inoculate CSF sediment, brain tissue, or water samples onto non-nutrient agar plates seeded with a live or killed bacterial lawn (Escherichia coli or Enterobacter aerogenes). Incubate at 35–37°C (or up to 42°C for thermophilic selection of N. fowleri). Amebae feed on bacteria, multiply, and form clear "tracks" or clearing trails visible under 10x objective within 1 to 2 days. Encystment occurs after 2 to 5 days.
+      - Non-Nutrient Agar (NNA) with Bacterial Overlay: Inoculate CSF sediment, brain tissue, or water samples onto non-nutrient agar plates seeded with a live or killed bacterial lawn ([[Escherichia coli]] or Enterobacter aerogenes). Incubate at 35–37°C (or up to 42°C for thermophilic selection of N. fowleri). Amebae feed on bacteria, multiply, and form clear "tracks" or clearing trails visible under 10x objective within 1 to 2 days. Encystment occurs after 2 to 5 days.
       - Axenic Liquid Medium: Nelson's medium supplemented with heat-inactivated fetal calf serum or brain extract supports axenic growth.
       - Cell Culture: Inoculation onto mammalian tissue culture monolayers produces cytopathic effects.
 *   **Serology & Rapid Antigen Tests:**
     - Serum Antibody Detection: Serology is ineffective for diagnosing active PAM due to the fulminant, hyperacute clinical course resulting in death before antibody synthesis occurs.
     - Rapid Antigen Tests: N/A
 *   **Molecular Diagnostics:**
-    - Triplex Real-Time TaqMan PCR (CDC Assay): Simultaneously detects Naegleria fowleri, Acanthamoeba spp., and Balamuthia mandrillaris in CSF, fresh brain tissue, and formalin-fixed paraffin-embedded (FFPE) tissues with high specificity and rapid turnaround (results in 4 to 5 hours). Capable of detecting down to a single ameba per sample.
+    - Triplex Real-Time TaqMan PCR (CDC Assay): Simultaneously detects Naegleria fowleri, [[Acanthamoeba]] spp., and [[Balamuthia mandrillaris]] in CSF, fresh brain tissue, and formalin-fixed paraffin-embedded (FFPE) tissues with high specificity and rapid turnaround (results in 4 to 5 hours). Capable of detecting down to a single ameba per sample.
     - Gene-Specific PCR & LAMP: DNA amplification targeting mitochondrial 5.8S rRNA, 18S rRNA genes, single-copy nuclear targets, and internal transcribed spacer (ITS) regions. Loop-Mediated Isothermal Amplification (LAMP) enables rapid, visual DNA detection in clinical and environmental water samples.
     - Protein Biomarkers & mNGS: MALDI-TOF mass spectrometry for protein biomarker identification and Metagenomic Next-Generation Sequencing (mNGS).
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
     - CDC Recommended Multi-Drug Combination Regimen for PAM:
-      - Conventional Amphotericin B: IV 1.5 mg/kg/day in 2 divided doses for 3 days, then 1 mg/kg/day once daily for 11 days (total 14 days); combined with intrathecal (or intraventricular) Amphotericin B 1.5 mg once daily for 2 days, then 1 mg every other day for 8 days.
-      - Oral Miltefosine: Patient weight <45 kg = 50 mg PO BID; Patient weight >45 kg = 50 mg PO TID for 28 days.
-      - Azithromycin: IV/oral 10 mg/kg once daily for 28 days.
-      - Fluconazole: IV/oral 10 mg/kg once daily for 28 days.
-      - Rifampin: IV/oral 10 mg/kg once daily for 28 days.
+      - Conventional [[Amphotericin B]]: IV 1.5 mg/kg/day in 2 divided doses for 3 days, then 1 mg/kg/day once daily for 11 days (total 14 days); combined with intrathecal (or intraventricular) [[Amphotericin B]] 1.5 mg once daily for 2 days, then 1 mg every other day for 8 days.
+      - Oral [[Miltefosine]]: Patient weight <45 kg = 50 mg PO BID; Patient weight >45 kg = 50 mg PO TID for 28 days.
+      - [[Azithromycin]]: IV/oral 10 mg/kg once daily for 28 days.
+      - [[Fluconazole]]: IV/oral 10 mg/kg once daily for 28 days.
+      - [[Rifampin]]: IV/oral 10 mg/kg once daily for 28 days.
       - Systemic Corticosteroids (Dexamethasone): IV 0.6 mg/kg/day in 4 divided doses for 4 days to control life-threatening cerebral edema and intracranial pressure.
 *   **Alternative Treatments:**
-    - Miconazole (IV and intrathecal), Ketoconazole, Voriconazole, Chloramphenicol, and Phenytoin (anticonvulsant for seizure management).
+    - [[Miconazole]] (IV and intrathecal), [[Ketoconazole]], [[Voriconazole]], [[Chloramphenicol]], and Phenytoin (anticonvulsant for seizure management).
 *   **Treatment Nuances & Dosing Considerations:**
     - Medical Emergency: PAM is an absolute medical emergency requiring immediate administration of combination antimicrobial therapy upon clinical suspicion.
-    - Amphotericin B Efficacy: N. fowleri is highly sensitive to amphotericin B in vitro; early administration of IV and intrathecal amphotericin B forms the backbone of successful treatment regimens in rare survivors.
-    - Miltefosine Penetration: Miltefosine effectively crosses the blood-brain barrier into CSF/brain parenchyma with acceptable tolerance (gastrointestinal side effects predominate). Synergistic anti-amebic effects occur when combined with amphotericin B and azoles.
+    - [[Amphotericin B]] Efficacy: N. fowleri is highly sensitive to [[amphotericin B]] in vitro; early administration of IV and intrathecal [[amphotericin B]] forms the backbone of successful treatment regimens in rare survivors.
+    - [[Miltefosine]] Penetration: [[Miltefosine]] effectively crosses the blood-brain barrier into CSF/brain parenchyma with acceptable tolerance (gastrointestinal side effects predominate). Synergistic anti-amebic effects occur when combined with [[amphotericin B]] and azoles.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Safe Water for Sinus Rinsing: Use only boiled water (boiled for 1 minute; 3 minutes at elevations >6,500 ft and allowed to cool), distilled water, or water filtered through an NSF 53/58 filter for neti pots and nasal irrigation.
     - Recreational Water Precautions: Avoid jumping or diving into warm freshwater bodies; wear nose clips or keep head above water when swimming in warm lakes, ponds, or hot springs; avoid stirring up bottom sediment in shallow warm fresh water.
@@ -124,8 +123,8 @@ draft: false
     - "Thermophilic ameba" (replicates at up to 45°C; cultured at 42°C for selective recovery)
     - "Cribriform plate and olfactory nerve pathway" of brain invasion
 *   **Exceptions to the Rule:**
-    - ONLY ameboid trophozoites are present in human brain tissue and CSF during PAM; cysts and flagellates are NEVER formed or found in human host tissue (unlike Acanthamoeba spp. and Balamuthia mandrillaris, which display BOTH trophozoites and cysts in brain tissue).
-    - Unlike Acanthamoeba (which affects immunocompromised hosts causing chronic GAE lasting weeks to months) and Balamuthia, Naegleria fowleri primarily affects healthy children and young adults causing hyperacute PAM with death in 3 to 7 days.
-    - Naegleria fowleri does NOT survive in seawater or marine environments due to salinity (unlike Acanthamoeba, which survives in brackish and salt water).
+    - ONLY ameboid trophozoites are present in human brain tissue and CSF during PAM; cysts and flagellates are NEVER formed or found in human host tissue (unlike [[Acanthamoeba]] spp. and [[Balamuthia mandrillaris]], which display BOTH trophozoites and cysts in brain tissue).
+    - Unlike [[Acanthamoeba]] (which affects immunocompromised hosts causing chronic GAE lasting weeks to months) and Balamuthia, Naegleria fowleri primarily affects healthy children and young adults causing hyperacute PAM with death in 3 to 7 days.
+    - Naegleria fowleri does NOT survive in seawater or marine environments due to salinity (unlike [[Acanthamoeba]], which survives in brackish and salt water).
     - Examining CSF in a standard counting chamber causes N. fowleri trophozoites to mimic leukocytes/neutrophils; wet mount examination on a plain glass slide under a coverslip is mandatory to observe characteristic eruptive motility.
     - CSF Gram stain yields false-positive impressions of bacterial meningitis because cellular background debris is easily misidentified as Gram-negative or Gram-positive bacteria, leading to ineffective antibacterial treatment and patient death.

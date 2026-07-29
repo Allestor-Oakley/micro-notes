@@ -67,7 +67,7 @@ draft: false
 #### Lifecycle & Transmission Pathways
 *   **Definitive Host:** Felines (domestic cats, tigers, leopards) and canids (dogs). Adult worms live in gastric mucosal tumor nodules.
 *   **Intermediate Host(s):**
-    *   *First Intermediate Host:* Microscopic freshwater cyclopoid copepods (*Cyclops* species), which ingest L1 larvae that hatch in water and develop into L2 larvae.
+    *   *First Intermediate Host:* Microscopic freshwater cyclopoid copepods (*[[Cyclops]]* species), which ingest L1 larvae that hatch in water and develop into L2 larvae.
     *   *Second Intermediate Host:* Freshwater fish (e.g., catfish, freshwater bream, eel, snake-headed fish) and amphibians (frogs), which ingest infected copepods; larvae migrate into fish flesh and develop into infective advanced third-stage larvae (L3).
     *   *Paratenic / Transport Hosts:* Reptiles (snakes), birds (chickens, domestic ducks), and mammals (pigs/boars) that ingest infected second intermediate hosts, accumulating viable L3 larvae in their muscular tissues without further development.
 *   **Transmission Mode & Ingestion/Penetration:** Acquired strictly via the oral route through ingestion of raw, improperly cooked, undercooked, or pickled freshwater fish (e.g., in dishes such as Japanese sashimi, Latin American ceviche, or Thai *som tam* / pickled fish), raw poultry (chicken, duck), frogs, or snakes containing infective L3 larvae; or by drinking untreated surface water containing infected copepods.
@@ -93,7 +93,7 @@ draft: false
 
 #### Epidemiology & Exposures
 *   **Geographic Endemicity:** Highly endemic in Southeast Asia (particularly Thailand, Vietnam, Myanmar, Malaysia, Philippines) and East Asia (China, Japan, Korea). Highly prevalent in Central and South America, with an increasing number of cases reported in Mexico (especially Sinaloa state), Ecuador, and Peru. Frequently diagnosed in international travelers returning from endemic regions.
-*   **Soil & Environmental Requirements:** Aquatic freshwater habitats supporting dense populations of *Cyclops* copepods, freshwater fish, frogs, and snakes.
+*   **Soil & Environmental Requirements:** Aquatic freshwater habitats supporting dense populations of *[[Cyclops]]* copepods, freshwater fish, frogs, and snakes.
 *   **Dietary Exposures & Intermediate Host Foods:** Consumption of raw, improperly cooked, undercooked, or pickled freshwater fish (catfish, freshwater bream, snake-headed fish, eels), raw poultry (chicken, duck), frogs, or snakes; or drinking untreated surface water containing infected copepods.
 *   **Public Health & Mass Drug Administration:** Prevention depends on food safety education prohibiting the consumption of raw or inadequately cooked freshwater fish and poultry, enforcing proper culinary thermal processing (cooking to at least 60°C or deep-freezing), and water filtration.
 
@@ -108,17 +108,17 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    *   Albendazole: 400 mg orally twice daily (BID) for 21 days (drug of choice; stimulates larval outward migration toward the cutaneous surface, facilitating mechanical removal or spontaneous extrusion).
-    *   Ivermectin: 200 µg/kg as a single oral dose, or repeated daily for 2 days.
-*   **Alternative / Second-Line Agents:** Mebendazole or direct surgical excision. Direct surgical removal of accessible larvae from skin nodules or the eye provides immediate curative relief for localized lesions.
+    *   [[Albendazole]]: 400 mg orally twice daily (BID) for 21 days (drug of choice; stimulates larval outward migration toward the cutaneous surface, facilitating mechanical removal or spontaneous extrusion).
+    *   [[Ivermectin]]: 200 µg/kg as a single oral dose, or repeated daily for 2 days.
+*   **Alternative / Second-Line Agents:** [[Mebendazole]] or direct surgical excision. Direct surgical removal of accessible larvae from skin nodules or the eye provides immediate curative relief for localized lesions.
 *   **Treatment Nuances & Corticosteroid Protocols:**
-    *   *Anthelmintic Dynamics:* Anthelmintic administration (Albendazole or Ivermectin) often triggers an acute, temporary increase in localized skin swelling or itching as the dying larva reacts and migrates toward the surface.
+    *   *Anthelmintic Dynamics:* Anthelmintic administration ([[Albendazole]] or [[Ivermectin]]) often triggers an acute, temporary increase in localized skin swelling or itching as the dying larva reacts and migrates toward the surface.
     *   *Mandatory Corticosteroid Protocol:* Concomitant systemic corticosteroids (e.g., Prednisone or Prednisolone) MUST be administered alongside anthelmintic therapy in central nervous system (CNS) or ocular gnathostomiasis to suppress severe allergic inflammation, diminish cerebral edema, and prevent irreversible tissue damage caused by dying larval antigens or larval displacement.
 *   **Prophylaxis, Sanitation & Food Safety:** Complete avoidance of raw, undercooked, or pickled freshwater fish, eels, frogs, snakes, or poultry; thoroughly cooking all freshwater fish and poultry to an internal temperature of at least 60°C (140°F); deep-freezing fish before consumption; drinking boiled or filtered water; and enforcing food hygiene in endemic areas.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** *Gnathostoma spinigerum*, migratory nonpitting subcutaneous swellings, creeping eruption, pseudofurunculosis, spine-studded head bulb with 4 rows of hooks, 24-kDa antigen Immunoblot at Mahidol University Thailand, eosinophilic myeloencephalitis, radiculopathy, focal cerebral hemorrhage with xanthochromia, 10–12+ year persistent tissue migration, raw snake-headed fish / catfish / chicken ingestion.
+*   **Buzzwords & Descriptors:** *Gnathostoma spinigerum*, migratory nonpitting subcutaneous swellings, [[Ancylostoma cutaneous larva migrans|creeping eruption]], pseudofurunculosis, spine-studded head bulb with 4 rows of hooks, 24-kDa antigen Immunoblot at Mahidol University Thailand, eosinophilic myeloencephalitis, radiculopathy, focal cerebral hemorrhage with xanthochromia, 10–12+ year persistent tissue migration, raw snake-headed fish / catfish / chicken ingestion.
 *   **Exceptions to the Rule:**
     *   *Extreme Longevity of Tissue Migration:* Unlike most zoonotic larval migrans nematodes where larvae die within weeks to months, *Gnathostoma spinigerum* L3 larvae can remain viable and migrate continuously through human skin and deep tissues for up to 10 to 13 years.
-    *   *Xanthochromic CSF in Parasitic Meningitis:* Neurological gnathostomiasis characteristically causes focal cerebral and intraspinal micro-hemorrhages as the larva tunnels through neural parenchyma, producing yellow/xanthochromic CSF on lumbar puncture—a diagnostic feature that differentiates it from *Angiostrongylus cantonensis* (which produces clear or turbid non-hemorrhagic CSF).
+    *   *Xanthochromic CSF in Parasitic Meningitis:* Neurological gnathostomiasis characteristically causes focal cerebral and intraspinal micro-hemorrhages as the larva tunnels through neural parenchyma, producing yellow/xanthochromic CSF on lumbar puncture—a diagnostic feature that differentiates it from *[[Angiostrongylus cantonensis]]* (which produces clear or turbid non-hemorrhagic CSF).
     *   *Stool Test Negativity:* Routine stool O&P testing is 100% negative because the parasite never matures into an adult or undergoes reproduction in human hosts.

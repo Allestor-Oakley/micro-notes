@@ -33,7 +33,7 @@ draft: false
 *   **Tissue Tropism & Cellular Invasion:** Demonstrates strict tropism for the lumen of the large intestine (colon, cecum). Non-invasive commensal organism residing exclusively within the gut lumen without penetrating the colonic epithelial mucosa or spreading extraintestinally. Feeds on bacteria by phagocytosis.
 *   **Cytopathic Effects & Tissue Destruction:** N/A. *Endolimax nana* is a non-pathogenic, lumen-dwelling commensal ameba. It produces no intestinal mucosal ulceration, tissue destruction, necrosis, or systemic inflammation.
 *   **Immune Evasion Strategies:** Encystment within a protective cyst wall enables survival outside the host in ambient environmental conditions during external transmission.
-*   **Host Defense & Immunodeficiency Links:** Non-pathogenic in both immunocompetent and immunocompromised individuals (including patients with HIV/AIDS, cancer, or organ transplants). Does not provoke a destructive immune response. However, its detection in stool serves as a critical diagnostic indicator of host exposure to fecal-oral contamination, signaling that the patient has ingested material contaminated with human feces and is at risk for acquiring true enteric pathogens (*E. histolytica*, *Giardia*, *Cryptosporidium*).
+*   **Host Defense & Immunodeficiency Links:** Non-pathogenic in both immunocompetent and immunocompromised individuals (including patients with [[HIV]]/AIDS, cancer, or organ transplants). Does not provoke a destructive immune response. However, its detection in stool serves as a critical diagnostic indicator of host exposure to fecal-oral contamination, signaling that the patient has ingested material contaminated with human feces and is at risk for acquiring true enteric pathogens (*[[Entamoeba histolytica|E. histolytica]]*, *Giardia*, *[[Cryptosporidium]]*).
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:** Asymptomatic intestinal colonization. Does not cause acute diarrhea, dysentery, bloody stools, abdominal pain, fever, or gastrointestinal illness.
@@ -42,7 +42,7 @@ draft: false
 *   **Host Immune Response & Laboratory Findings:** Stool O&P examination is positive for *E. nana* cysts and/or trophozoites. Fecal occult blood is negative; leukocytes/PMNs and Charcot-Leyden crystals are absent (unless co-infected with a true enteric pathogen).
 
 #### Epidemiology & Exposures
-*   **Geographic Endemicity:** Worldwide distribution. Recognized as one of the most common nonpathogenic intestinal amebae isolated from human fecal specimens globally, occurring in most populations at rates equal to or exceeding *Entamoeba coli* (local prevalence ranges from 10% to 50% in regions with poor environmental sanitation).
+*   **Geographic Endemicity:** Worldwide distribution. Recognized as one of the most common nonpathogenic intestinal amebae isolated from human fecal specimens globally, occurring in most populations at rates equal to or exceeding *[[Entamoeba coli]]* (local prevalence ranges from 10% to 50% in regions with poor environmental sanitation).
 *   **Environmental Reservoir & Water Systems:** Primary reservoir is the human gastrointestinal tract. Cysts contaminate municipal drinking water, shallow wells, agricultural soils, and crops fertilized with human feces ("night soil").
 *   **High-Risk Activities & Dietary Exposures:** Consumption of untreated drinking water or ice; ingestion of unwashed raw produce; living in crowded institutional environments; poor personal hand hygiene.
 *   **Public Health & Isolation:**
@@ -52,19 +52,19 @@ draft: false
 #### Advanced Laboratory Diagnostics
 *   **Microscopy & Stains:**
     - Direct Saline / Iodine Wet Mount: Microscopic examination under 10x and 40x objectives. Cysts appear small, round to oval (5–10 µm) with up to 4 dot-like nuclei visible; Lugol's iodine stains nuclei and glycogen. Trophozoites measure 6–12 µm and exhibit sluggish motility.
-    - Permanent Stained Smears (Wheatley's Trichrome / Iron Hematoxylin - Mandatory Standard): Trophozoite cytoplasm stains blue-green to purple; nucleus reveals a characteristically large, dark, blot-like karyosome lacking peripheral chromatin on the nuclear membrane. Cysts stain blue-green to purple and reveal 4 small nuclei with blot-like karyosomes. Small cyst size (5–10 µm) and absence of peripheral chromatin differentiate *E. nana* from *E. hartmanni* and *E. histolytica / E. dispar*.
+    - Permanent Stained Smears (Wheatley's Trichrome / Iron Hematoxylin - Mandatory Standard): Trophozoite cytoplasm stains blue-green to purple; nucleus reveals a characteristically large, dark, blot-like karyosome lacking peripheral chromatin on the nuclear membrane. Cysts stain blue-green to purple and reveal 4 small nuclei with blot-like karyosomes. Small cyst size (5–10 µm) and absence of peripheral chromatin differentiate *E. nana* from *[[Entamoeba hartmanni|E. hartmanni]]* and *[[Entamoeba histolytica|E. histolytica]] / [[Entamoeba dispar|E. dispar]]*.
 *   **Concentration & Stool O&P Techniques:**
     - Formalin-Ethyl Acetate Sedimentation Concentration: Standard method for concentrating cysts from formed or soft stools.
     - Specimen Collection Protocols: Minimum of three separate stool specimens collected on alternate days within a 10-day window. Permanent stained smears are mandatory for accurate morphological identification.
 *   **Serology & Rapid Antigen Tests:**
-    - Serum Antibody / Antigen Tests: N/A. No serologic tests or fecal antigen detection kits exist or are indicated for *E. nana*. Commercial *E. histolytica* antigen ELISA assays do not cross-react with *E. nana*.
+    - Serum Antibody / Antigen Tests: N/A. No serologic tests or fecal antigen detection kits exist or are indicated for *E. nana*. Commercial *[[Entamoeba histolytica|E. histolytica]]* antigen ELISA assays do not cross-react with *E. nana*.
 *   **Molecular Diagnostics:**
-    - Polymerase Chain Reaction (PCR): Small subunit (18S) rRNA gene sequencing and species-specific PCR assays accurately identify *E. nana* and differentiate it from other small amebae (*E. hartmanni*, *E. histolytica*, *E. dispar*, *Iodamoeba bütschlii*).
+    - Polymerase Chain Reaction (PCR): Small subunit (18S) rRNA gene sequencing and species-specific PCR assays accurately identify *E. nana* and differentiate it from other small amebae (*[[Entamoeba hartmanni|E. hartmanni]]*, *[[Entamoeba histolytica|E. histolytica]]*, *[[Entamoeba dispar|E. dispar]]*, *Iodamoeba bütschlii*).
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:** None. *Endolimax nana* is a non-pathogenic commensal organism; specific antiparasitic treatment is NOT recommended or required.
 *   **Alternative Treatments:** N/A
-*   **Treatment Nuances & Dosing Considerations:** Diagnostic misidentification of *E. nana* as *E. histolytica* or *E. hartmanni* leads to unnecessary, inappropriate antiparasitic drug administration. Careful nuclear structure evaluation (large blot-like karyosome, absence of peripheral chromatin) prevents unnecessary drug exposure and toxicity.
+*   **Treatment Nuances & Dosing Considerations:** Diagnostic misidentification of *E. nana* as *[[Entamoeba histolytica|E. histolytica]]* or *[[Entamoeba hartmanni|E. hartmanni]]* leads to unnecessary, inappropriate antiparasitic drug administration. Careful nuclear structure evaluation (large blot-like karyosome, absence of peripheral chromatin) prevents unnecessary drug exposure and toxicity.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal & Environmental Hygiene: Handwashing with soap and water after toilet use and before food preparation. Proper sanitary disposal of human excreta.
     - Water & Food Safety: Boiling drinking water for 10 minutes, submicron/sand filtration, and thorough washing or cooking of raw produce. Routine swimming pool chlorination levels do not reliably destroy amebic cysts.
@@ -79,6 +79,6 @@ draft: false
     - "Commensal indicator of fecal-oral contamination".
 *   **Exceptions to the Rule:**
     - *Endolimax nana* is one of the smallest amebae found in humans (trophozoites 6–12 µm, cysts 5–10 µm).
-    - Unlike *Entamoeba* species (*E. histolytica*, *E. dispar*, *E. coli*, *E. hartmanni*), the nuclear membrane of *Endolimax nana* lacks peripheral chromatin granules.
+    - Unlike *Entamoeba* species (*[[Entamoeba histolytica|E. histolytica]]*, *[[Entamoeba dispar|E. dispar]]*, *[[Entamoeba coli|E. coli]]*, *[[Entamoeba hartmanni|E. hartmanni]]*), the nuclear membrane of *Endolimax nana* lacks peripheral chromatin granules.
     - Mature *E. nana* cysts are characteristically oval or ellipsoidal (rather than strictly spherical) and contain 4 small nuclei with blot-like karyosomes.
     - Cysts of *E. nana* typically lack chromatoidal bodies/bars (unlike *Entamoeba* cysts, which possess prominent chromatoid bars).

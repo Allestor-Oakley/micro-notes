@@ -33,7 +33,7 @@ draft: false
 *   **Tissue Tropism & Cellular Invasion:** Demonstrates strict tropism for the lumen of the large intestine (cecum and colon). Non-invasive commensal organism residing exclusively in the intestinal lumen without invading mucosal epithelial tissue or penetrating extraintestinal organ systems.
 *   **Cytopathic Effects & Tissue Destruction:** N/A. *Chilomastix mesnili* is a non-pathogenic lumen-dwelling flagellate that feeds on bacteria and cellular debris by phagocytosis in the gut lumen. It causes no tissue destruction, mucosal ulceration, or inflammatory response.
 *   **Immune Evasion Strategies:** Encystment inside a thick, resistant cyst wall protects the organism against gastric acid and harsh ambient environmental conditions during inter-host transmission.
-*   **Host Defense & Immunodeficiency Links:** Non-pathogenic in both immunocompetent and immunocompromised hosts. Does not provoke an inflammatory host immune response. However, its detection in stool serves as a critical diagnostic indicator of host exposure to fecal-oral contamination, signaling that the patient has ingested material contaminated with human feces and is at risk for harboring co-existing true enteric pathogens (*Entamoeba histolytica*, *Giardia lamblia*, *Cryptosporidium*).
+*   **Host Defense & Immunodeficiency Links:** Non-pathogenic in both immunocompetent and immunocompromised hosts. Does not provoke an inflammatory host immune response. However, its detection in stool serves as a critical diagnostic indicator of host exposure to fecal-oral contamination, signaling that the patient has ingested material contaminated with human feces and is at risk for harboring co-existing true enteric pathogens (*[[Entamoeba histolytica]]*, *[[Giardia lamblia]]*, *[[Cryptosporidium]]*).
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:** Asymptomatic intestinal colonization. Does not cause acute diarrhea, dysentery, abdominal pain, fever, or gastrointestinal illness.
@@ -57,14 +57,14 @@ draft: false
     - Formalin-Ethyl Acetate Sedimentation Concentration: Standard method for concentrating cysts from formed or soft stool samples.
     - Specimen Collection Protocols: Complete stool O&P examination (sedimentation concentration + permanent stained smear) on a minimum of three separate stool specimens collected on alternate days.
 *   **Serology & Rapid Antigen Tests:**
-    - Antibody / Antigen Detection: N/A. No commercial serologic antibody assays or rapid fecal antigen detection kits exist or are indicated for *Chilomastix mesnili*. Fecal antigen ELISA kits for *Giardia* or *E. histolytica* do not cross-react with *C. mesnili*.
+    - Antibody / Antigen Detection: N/A. No commercial serologic antibody assays or rapid fecal antigen detection kits exist or are indicated for *Chilomastix mesnili*. Fecal antigen ELISA kits for *Giardia* or *[[Entamoeba histolytica|E. histolytica]]* do not cross-react with *C. mesnili*.
 *   **Molecular Diagnostics:**
-    - Polymerase Chain Reaction (PCR): Small subunit (18S) rRNA gene sequencing and species-specific PCR assays identify *C. mesnili* and differentiate it from other flagellates (*Giardia lamblia*, *Pentatrichomonas hominis*, *Enteromonas hominis*, *Retortamonas intestinalis*).
+    - Polymerase Chain Reaction (PCR): Small subunit (18S) rRNA gene sequencing and species-specific PCR assays identify *C. mesnili* and differentiate it from other flagellates (*[[Giardia lamblia]]*, *[[Pentatrichomonas hominis]]*, *[[Enteromonas hominis]]*, *Retortamonas intestinalis*).
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:** None. *Chilomastix mesnili* is a non-pathogenic commensal organism; antimicrobial treatment is NOT recommended or required.
 *   **Alternative Treatments:** N/A
-*   **Treatment Nuances & Dosing Considerations:** Misdiagnosis or misinterpretation of *C. mesnili* as a pathogen can lead to unnecessary administration of antiparasitic drugs (e.g., metronidazole). Accurate morphological recognition and understanding its non-pathogenic status prevent unnecessary treatment and drug toxicity. If a patient with *C. mesnili* presents with gastrointestinal symptoms, a thorough search for other bacterial, viral, or parasitic pathogens (*Giardia*, *E. histolytica*, *Cryptosporidium*) must be conducted.
+*   **Treatment Nuances & Dosing Considerations:** Misdiagnosis or misinterpretation of *C. mesnili* as a pathogen can lead to unnecessary administration of antiparasitic drugs (e.g., [[metronidazole]]). Accurate morphological recognition and understanding its non-pathogenic status prevent unnecessary treatment and drug toxicity. If a patient with *C. mesnili* presents with gastrointestinal symptoms, a thorough search for other bacterial, viral, or parasitic pathogens (*Giardia*, *[[Entamoeba histolytica|E. histolytica]]*, *[[Cryptosporidium]]*) must be conducted.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal & Environmental Hygiene: Thorough handwashing with soap and water after toilet use and before food handling. Proper sanitary disposal of human excreta.
     - Water & Food Safety: Boiling drinking water for 10 minutes, submicron/sand filtration, and thorough washing or cooking of raw produce. Routine municipal water chlorination levels may not reliably destroy cysts.
@@ -80,5 +80,5 @@ draft: false
     - "Commensal indicator of fecal-oral exposure".
 *   **Exceptions to the Rule:**
     - *Chilomastix mesnili* is a completely non-pathogenic flagellate; finding it in a patient with acute diarrhea indicates that the organism is an incidental finding and NOT the cause of the diarrhea.
-    - Unlike *Giardia lamblia* (which has 2 nuclei, a ventral sucking disk, and 8 flagella), *Chilomastix mesnili* has a single nucleus, a prominent cytostome with a shepherd's crook fibril, and 4 flagella.
+    - Unlike *[[Giardia lamblia]]* (which has 2 nuclei, a ventral sucking disk, and 8 flagella), *Chilomastix mesnili* has a single nucleus, a prominent cytostome with a shepherd's crook fibril, and 4 flagella.
     - Cysts of *C. mesnili* are uniquely lemon-shaped with a distinct anterior protuberance, making them morphologically distinct from all other intestinal protozoan cysts.

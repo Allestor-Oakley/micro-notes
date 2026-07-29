@@ -87,13 +87,13 @@ draft: false
 *   **Imaging Findings:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Anti-Helminthic Agents:** Praziquantel administered as a single oral dose of 15 to 25 mg/kg at bedtime (drug of choice).
-*   **Alternative / Second-Line Agents:** Niclosamide.
-*   **Treatment Nuances & Corticosteroid Protocols:** Single bedtime dose praziquantel therapy produces high cure rates and rapid clearance of adult flukes from the small intestine. Corticosteroid protocols are N/A.
+*   **First-Line Anti-Helminthic Agents:** [[Praziquantel]] administered as a single oral dose of 15 to 25 mg/kg at bedtime (drug of choice).
+*   **Alternative / Second-Line Agents:** [[Niclosamide]].
+*   **Treatment Nuances & Corticosteroid Protocols:** Single bedtime dose [[praziquantel]] therapy produces high cure rates and rapid clearance of adult flukes from the small intestine. Corticosteroid protocols are N/A.
 *   **Prophylaxis, Sanitation & Food Safety:** Avoiding consumption of raw, undercooked, or inadequately cooked freshwater snails, clams, and mollusks; thoroughly cooking all freshwater seafood to ensure metacercarial inactivation; boiling drinking water; and constructing sanitary latrines to prevent fecal pollution of snail habitats.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** *Echinostoma ilocanum*, Garrison 1907, Philippines, horseshoe-shaped collar of spines around oral sucker, collar spines, operculated ellipsoidal egg missed on 10× low power (requires 40× high dry), raw freshwater snail ingestion, single bedtime praziquantel dose (15–25 mg/kg).
+*   **Buzzwords & Descriptors:** *Echinostoma ilocanum*, Garrison 1907, Philippines, horseshoe-shaped collar of spines around oral sucker, collar spines, operculated ellipsoidal egg missed on 10× low power (requires 40× high dry), raw freshwater snail ingestion, single bedtime [[praziquantel]] dose (15–25 mg/kg).
 *   **Exceptions to the Rule:**
     *   *Microscopic Low-Power Miss:* *Echinostoma* eggs are pale and translucent in stool wet mounts, making them notoriously prone to being overlooked under standard 10× low-power objective scanning; high dry power (40× objective) is necessary for reliable identification.
     *   *Flotation Incompatibility:* As with most operculated trematode eggs, *Echinostoma* eggs do not float in zinc sulfate flotation solutions, requiring formalin-ethyl acetate sedimentation concentration.

@@ -38,7 +38,7 @@ draft: false
 
 #### Lifecycle & Transmission
 *   **Definitive Host:** Humans and a broad range of domestic, farm, and wild animals (beavers, muskrats, cattle, sheep, goats, pigs, horses, dogs, cats, deer, rodents, non-human primates, and birds/reptiles). Genotypes are divided into assemblages, with Assemblages A and B primary in humans.
-*   **Intermediate Host & Vector Dynamics:** None required (monoxenous life cycle). Mechanical transport of cysts from feces to human food or water can be mediated by synanthropic filth flies (*Musca domestica*) and cockroaches.
+*   **Intermediate Host & Vector Dynamics:** None required (monoxenous life cycle). Mechanical transport of cysts from feces to human food or water can be mediated by synanthropic filth flies (*[[Houseflies|Musca domestica]]*) and cockroaches.
 *   **Transmission Route:** Fecal-oral route through ingestion of infective cysts present in fecally contaminated drinking water, surface water (lakes, streams, rivers), recreational water (swimming pools, water parks, ski resorts), unwashed raw fruits/vegetables, direct person-to-person contact (day-care centers, nurseries, orphanages, residential care facilities), and direct oral-anal sexual practices (anilingus).
 *   **Infective Stage & Portal of Entry:** Ingestion of mature, fully sporulated quadrinucleated cysts via the mouth into the gastrointestinal tract. Highly infectious: an infective dose of as few as 10 to 100 cysts can initiate human infection. Following gastric passage, exposure to stomach acid and duodenal digestive enzymes (trypsin, pancreatic enzymes) triggers excystation in the duodenum, releasing two viable trophozoites per ingested cyst.
 *   **Diagnostic Stage & Specimen Source:** Cysts (predominantly recovered in formed or soft stools) and Trophozoites (recovered in fresh liquid, diarrheic stools, duodenal aspirates/drainage, Entero-Test string capsule fluid, and jejunal/duodenal mucosal biopsy material or brush cytology).
@@ -49,7 +49,7 @@ draft: false
 *   **Immune Evasion Strategies:**
     - Variant-specific Surface Proteins (VSSPs): Undergoes continuous, rapid surface antigenic variation by switching expression among ~200 VSSP genes. Antigenic switching is regulated post-transcriptionally by Dicer, microRNAs, and SF2 helicases, allowing the parasite to evade host intestinal sIgA and neutralizing antibodies, producing chronic or recurrent infections.
     - Environmental Resistance: The thick outer cyst wall protects against gastric juice acidity, ambient desiccation, and standard municipal water chlorine concentrations (1–2 ppm).
-*   **Host Defense & Immunodeficiency Links:** Immune clearance relies on secretory IgA (sIgA), CD4+ T lymphocytes, mast cell activation, and nitric oxide. Severe, persistent, or relapsing giardiasis occurs in patients with primary or acquired immunodeficiencies: X-linked agammaglobulinemia (Bruton's syndrome), common variable immunodeficiency (CVID), selective IgA deficiency, protein-calorie malnutrition (kwashiorkor, marasmus), post-gastrectomy status (loss of gastric acid barrier), achlorhydria (associated with blood group A), pediatric nephrotic syndrome receiving corticosteroids, lymphoma, and HIV/AIDS.
+*   **Host Defense & Immunodeficiency Links:** Immune clearance relies on secretory IgA (sIgA), CD4+ T lymphocytes, mast cell activation, and nitric oxide. Severe, persistent, or relapsing giardiasis occurs in patients with primary or acquired immunodeficiencies: X-linked agammaglobulinemia (Bruton's syndrome), common variable immunodeficiency (CVID), selective IgA deficiency, protein-calorie malnutrition (kwashiorkor, marasmus), post-gastrectomy status (loss of gastric acid barrier), achlorhydria (associated with blood group A), pediatric nephrotic syndrome receiving corticosteroids, lymphoma, and [[HIV]]/AIDS.
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:**
@@ -88,7 +88,7 @@ draft: false
 *   **Serology & Rapid Antigen Tests:**
     - Fecal Antigen Detection Immunoassays (EIA / ELISA, DFA, Rapid Lateral-Flow Cartridges): Highly sensitive (88–98%) and specific (87–100%). Superior sensitivity compared to routine stool O&P microscopy.
       - Microplate EIA / ELISA Kits: ProSpecT Giardia EZ, GiardEIA, PARA-TECT, TechLab Giardia II. Compatible with 10% formalin, SAF, or Universal Fixative (TOTAL-FIX) preserved stool (incompatible with PVA).
-      - Direct Fluorescent Antibody (DFA) Assays: Merifluor *Cryptosporidium/Giardia*, Crypto/Giardia-Cel, Novocastra. Visualizes glowing apple-green fluorescent cysts and trophozoites under fluorescence microscopy.
+      - Direct Fluorescent Antibody (DFA) Assays: Merifluor *[[Cryptosporidium]]/Giardia*, Crypto/Giardia-Cel, Novocastra. Visualizes glowing apple-green fluorescent cysts and trophozoites under fluorescence microscopy.
       - Rapid Immunochromatographic Cartridges: Xpect Giardia, ImmunoCard STAT! Crypto/Giardia, ColorPAC, Triage Parasite Panel. Point-of-care rapid lateral-flow detection from fresh, frozen, or formalin/TOTAL-FIX preserved stool.
 *   **Molecular Diagnostics:**
     - Polymerase Chain Reaction (PCR): Real-time PCR and nested PCR targeting small subunit (18S) rRNA, glutamate dehydrogenase (*gdh*), triosephosphate isomerase (*tpi*), or elongation factor genes offer sensitivity >98% and specificity >99%.
@@ -97,25 +97,25 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Metronidazole (Flagyl):
+    - [[Metronidazole]] (Flagyl):
       - Adult Dosage: 250 mg PO TID for 5 to 7 days; OR 500 to 750 mg PO TID for 5 to 10 days; OR 2 g PO once daily for 3 days; OR 400 mg PO TID for 5 days.
       - Pediatric Dosage: 15 mg/kg/day PO (maximum 750 mg/day) divided into 3 doses for 5 to 10 days. Efficacy >90%.
-    - Nitazoxanide (Alinia):
+    - [[Nitazoxanide]] (Alinia):
       - Adult Dosage: 500 mg PO BID with food for 3 days.
       - Pediatric Dosage (1 to 3 years old): 100 mg PO BID for 3 days.
       - Pediatric Dosage (4 to 11 years old): 200 mg PO BID for 3 days.
-    - Tinidazole:
+    - [[Tinidazole]]:
       - Adult Dosage: 2 g PO as a single dose with food.
       - Pediatric Dosage (Children ≥3 years old): 50 mg/kg PO as a single dose (maximum 2 g). Efficacy >90%.
 *   **Alternative Treatments:**
-    - Paromomycin: 25 to 35 mg/kg/day PO in 3 divided doses for 5 to 10 days. (Poorly absorbed luminal aminoglycoside; preferred drug for symptomatic giardiasis during the first trimester of pregnancy).
-    - Albendazole: 400 mg PO once daily for 5 days. Pediatric dosage: 15 mg/kg/day PO for 5 days.
+    - [[Paromomycin]]: 25 to 35 mg/kg/day PO in 3 divided doses for 5 to 10 days. (Poorly absorbed luminal aminoglycoside; preferred drug for symptomatic giardiasis during the first trimester of pregnancy).
+    - [[Albendazole]]: 400 mg PO once daily for 5 days. Pediatric dosage: 15 mg/kg/day PO for 5 days.
     - Quinacrine Hydrochloride (Mepacrine): 100 mg PO TID for 5 to 7 days. Pediatric dosage: 2 mg/kg PO TID for 5 to 7 days (efficacy >90%).
     - Furazolidone: 100 mg PO QID for 7 to 10 days. Pediatric dosage: 2 mg/kg PO QID for 7 to 10 days (efficacy >80%).
-    - Refractory / Drug-Resistant Giardiasis: Combination therapy (e.g., Metronidazole plus Quinacrine OR Metronidazole plus Albendazole) or Auranofin (reprofiled gold compound).
+    - Refractory / Drug-Resistant Giardiasis: Combination therapy (e.g., [[Metronidazole]] plus Quinacrine OR [[Metronidazole]] plus [[Albendazole]]) or Auranofin (reprofiled gold compound).
 *   **Treatment Nuances & Dosing Considerations:**
     - Mandatory Treatment Protocol: All proven cases of giardiasis (both symptomatic patients and asymptomatic cyst passers/carriers) MUST be treated because the infection causes subclinical malabsorption, symptoms can appear periodically, and carriers serve as public health reservoirs.
-    - Pregnancy Considerations: Metronidazole is avoided in the first trimester of pregnancy; Paromomycin is the preferred non-systemic agent.
+    - Pregnancy Considerations: [[Metronidazole]] is avoided in the first trimester of pregnancy; [[Paromomycin]] is the preferred non-systemic agent.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Water Purification & Safety: Boil drinking water vigorously for 1 minute (3 minutes at elevations >6,500 feet). Filter water using absolute 1-micron filters or submicron filters certified under NSF Standard 53 or 58 (or reverse osmosis). Standard municipal drinking water chlorination (1–2 ppm) DOES NOT reliably destroy cysts.
     - Personal & Environmental Hygiene: Thorough handwashing with soap and water after toilet use, diaper changes, and before handling food. Wash raw fruits and vegetables with safe water.

@@ -80,7 +80,7 @@ draft: false
     - Intracellular Location: Resides inside host erythrocytes, protected from direct humoral antibody-mediated destruction.
     - Absence of Hypnozoites: Does NOT produce dormant liver hypnozoites (true relapses do not occur), but exhibits recrudescence from persistent blood-stage asexual forms.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Clearance of circulating blood-stage parasites relies on splenic filtration and monocyte-macrophage phagocytosis.
+    - Host Defense: Clearance of circulating blood-stage parasites relies on splenic filtration and [[monocyte]]-[[macrophage]] phagocytosis.
     - Immunodeficiency & Splenectomy Links: Host stress or loss of splenic clearance function (splenectomy) can trigger clinical recrudescence of long-dormant, subpatent blood infections.
 
 #### Clinical Syndromes & Complications
@@ -92,7 +92,7 @@ draft: false
 *   **Chronic & Extra-Intestinal Disease:**
     - Quartan Nephropathy (Childhood Nephrotic Syndrome): A severe chronic complication primarily affecting children in endemic areas (e.g., West Africa, Papua New Guinea). Manifests as massive proteinuria, albuminuria, hypoalbuminemia, generalized edema, and progressive renal impairment.
     - Non-Responsiveness to Therapy: Unlike other malarial complications, quartan nephropathy is progressive and largely unresponsive to antimalarial treatment, cytotoxic agents, or corticosteroid therapy once established.
-    - Chronic Splenomegaly: Long-term persistent infection causes a hard, fibrous enlarged spleen.
+    - Chronic Splenomegaly: Long-term persistent infection causes a hard, fibrous enlarged [[spleen]].
 *   **Pathognomonic Signs:**
     - Quartan (72-Hour) Periodicity: Fever paroxysms recurring predictably every 72 hours.
     - Band-Form Trophozoites: Trophozoites stretching completely across host red blood cells as distinct rectangular bands or bars.
@@ -106,7 +106,7 @@ draft: false
 *   **Geographic Endemicity:**
     - Endemic Region: Cosmopolitan / Global distribution throughout tropical, subtropical, and temperate zones worldwide (sub-Saharan Africa, Asia, South and Central America). Co-exists with other Plasmodium species but generally occurs at lower prevalence (0.5% to 3% in endemic regions).
 *   **Environmental Reservoir & Water Systems:**
-    - Environmental Reservoir: Breeding sites of female Anopheles mosquitoes in clean, open, or standing water collections where eggs are laid and larvae develop.
+    - Environmental Reservoir: Breeding sites of female Anopheles [[mosquitoes]] in clean, open, or standing water collections where eggs are laid and larvae develop.
 *   **High-Risk Activities & Dietary Exposures:**
     - High-Risk Exposures: Outdoor nighttime activities in Anopheles-endemic regions; receiving blood transfusions (donors harboring undetected subpatent infection); sharing unsterilized needles/syringes.
     - Dietary Exposures: None (transmission is strictly vector-borne or parenteral).
@@ -133,20 +133,20 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Uncomplicated Plasmodium malariae Malaria: Oral Chloroquine (Plasmodium malariae remains highly sensitive to chloroquine; total dosage 25 mg base/kg over 3 days, administered as 10 mg/kg initially followed by 5 mg/kg at 12, 24, and 36 hours or 10, 10, and 5 mg/kg on days 0, 1, and 2).
-    - Alternative First-Line: Artemisinin-based Combination Therapies (ACTs) such as artemether-lumefantrine, artesunate-amodiaquine, or dihydroartemisinin-piperaquine.
+    - Uncomplicated Plasmodium malariae Malaria: Oral [[Chloroquine]] (Plasmodium malariae remains highly sensitive to [[chloroquine]]; total dosage 25 mg base/kg over 3 days, administered as 10 mg/kg initially followed by 5 mg/kg at 12, 24, and 36 hours or 10, 10, and 5 mg/kg on days 0, 1, and 2).
+    - Alternative First-Line: Artemisinin-based Combination Therapies (ACTs) such as [[artemether]]-[[lumefantrine]], [[artesunate]]-[[amodiaquine]], or [[dihydroartemisinin]]-[[piperaquine]].
 *   **Alternative Treatments:**
-    - Oral Quinine combined with Doxycycline, Tetracycline, or Clindamycin.
-    - Oral Atovaquone-Proguanil (Malarone).
-    - Oral Mefloquine.
+    - Oral [[Quinine]] combined with [[Doxycycline]], [[Tetracycline]], or [[Clindamycin]].
+    - Oral [[Atovaquone]]-[[Proguanil]] (Malarone).
+    - Oral [[Mefloquine]].
 *   **Treatment Nuances & Dosing Considerations:**
-    - No Anti-Relapse Therapy Needed: Primaquine is NOT biologically required for Plasmodium malariae because the parasite does not form dormant liver hypnozoites.
+    - No Anti-Relapse Therapy Needed: [[Primaquine]] is NOT biologically required for Plasmodium malariae because the parasite does not form dormant liver hypnozoites.
     - Eradication of Blood Stages: Treatment must be completely administered to clear all asexual blood-stage parasites and prevent recrudescence.
     - Irreversibility of Nephropathy: Established quartan nephropathy / nephrotic syndrome is largely irreversible and unresponsive to antimalarials, corticosteroids, or cytotoxic immunosuppressive drugs.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Sleeping under insecticide-treated bed nets (ITNs), applying insect repellents containing DEET to exposed skin, and wearing long-sleeved protective clothing.
-    - Vector Control: Indoor residual insecticide spraying (IRS), environmental drainage of standing water, and water-level management to disrupt mosquito breeding.
-    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis (atovaquone-proguanil, doxycycline, or mefloquine) for travelers visiting endemic regions.
+    - Vector Control: Indoor residual insecticide spraying (IRS), environmental drainage of standing water, and water-level management to disrupt [[Mosquitoes|mosquito]] breeding.
+    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[atovaquone]]-proguanil, doxycycline, or [[mefloquine]]) for travelers visiting endemic regions.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**

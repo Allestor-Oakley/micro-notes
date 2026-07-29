@@ -64,9 +64,9 @@ draft: false
 
 #### Epidemiology & Transmission
 *   **Reservoir:** Small mammals and rodents (e.g., chipmunks, squirrels, rabbits, marsupials).
-*   **Transmission Route:** Zoonotic transmission via the bite of an infected mosquito.
-*   **Vectors:** Mosquitoes, specifically of the *Aedes* genus (e.g., *Aedes triseriatus*).
-*   **Public Health & Isolation:** Endemic primarily in North America (United States and Canada). Most clinical cases occur in patients less than 20 years of age. Transmission is prevented by reducing exposure to the mosquito vector (e.g., draining breeding spots, spraying to kill mosquitoes, and avoiding wooded areas).
+*   **Transmission Route:** Zoonotic transmission via the bite of an infected [[Mosquitoes|mosquito]].
+*   **Vectors:** [[Mosquitoes]], specifically of the *Aedes* genus (e.g., *Aedes triseriatus*).
+*   **Public Health & Isolation:** Endemic primarily in North America (United States and Canada). Most clinical cases occur in patients less than 20 years of age. Transmission is prevented by reducing exposure to the [[Mosquitoes|mosquito]] vector (e.g., draining breeding spots, spraying to kill [[mosquitoes]], and avoiding wooded areas).
 
 #### Advanced Laboratory Diagnostics
 *   **Histopathology & Inclusion Bodies:** N/A
@@ -78,7 +78,7 @@ draft: false
 *   **Antiviral Targets & First-Line Agents:** N/A (There is no specific antiviral therapy currently approved for routine treatment).
 *   **Resistance Mechanisms & Mutations:** N/A
 *   **Treatment Nuances & Timing Constraints:** Treatment is strictly supportive and symptomatic.
-*   **Prophylaxis & Vaccine Protocols:** No human vaccine is available. Prevention relies heavily on regional mosquito control and personal protection against mosquito bites.
+*   **Prophylaxis & Vaccine Protocols:** No human vaccine is available. Prevention relies heavily on regional [[Mosquitoes|mosquito]] control and personal protection against [[Mosquitoes|mosquito]] bites.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** *Orthobunyavirus*, segmented circular negative-strand RNA, La Crosse virus, *Aedes triseriatus*, L/M/S genome segments.

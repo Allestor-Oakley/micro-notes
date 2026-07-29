@@ -37,7 +37,7 @@ draft: false
 *   **Adult Worm Morphology & Attachment Structures:**
     - Adult Size & Habitat: Exceedingly small adult tapeworm inhabiting the small intestine of definitive wild felid hosts.
     - Scolex Features: Small anterior attachment organ (scolex) equipped with four muscular cup-shaped suckers and a central rostellum armed with a double crown of characteristic, large rostellar hooklets.
-    - Hooklet Dimensions: Rostellar hooklets on protoscolices and adults are characteristically large (larger than the rostellar hooklets of Echinococcus granulosus, but smaller than those of Echinococcus vogeli).
+    - Hooklet Dimensions: Rostellar hooklets on protoscolices and adults are characteristically large (larger than the rostellar hooklets of [[Echinococcus granulosus]], but smaller than those of [[Echinococcus vogeli]]).
     - Strobila Architecture: Consists of a scolex, neck, and a very short strobila containing only a few proglottids. First recovery of the adult tapeworm in North America was identified from a bobcat (Lynx rufus texensis) in San Fernando, Tamaulipas State, northeast Mexico.
 *   **Ova / Egg Microscopic Features:**
     - Appearance & Shell: Typical taeniid-type egg, spherical to slightly ovoid, surrounded by a thick, dark brown, double-contoured, radially striated shell (embryophore).
@@ -79,7 +79,7 @@ draft: false
 *   **Immune Evasion Strategies:**
     - Parasitic Laminated Membrane & Host Fibrotic Encapsulation: The parasite's outer acellular laminated layer combined with the host reactive fibrotic capsule shields developing protoscolices and germinal tissue from immediate cell-mediated host immune destruction, enabling long-term survival in retro-ocular or visceral tissue.
 *   **Host Defense & Immunodeficiency Links:**
-    - Elicits localized host granulomatous and fibrotic tissue reactions. Co-infections with other regional tropical pathogens (e.g., Chagasic myocarditis caused by Trypanosoma cruzi) have been documented in patients harboring Echinococcus oligarthrus.
+    - Elicits localized host granulomatous and fibrotic tissue reactions. Co-infections with other regional tropical pathogens (e.g., Chagasic myocarditis caused by [[Trypanosoma cruzi]]) have been documented in patients harboring Echinococcus oligarthrus.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
@@ -119,14 +119,14 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Albendazole: Principal anthelmintic agent used as medical adjunct therapy before or after surgical intervention, or for non-resectable/residual disease.
+    - Oral [[Albendazole]]: Principal anthelmintic agent used as medical adjunct therapy before or after surgical intervention, or for non-resectable/residual disease.
 *   **Alternative / Second-Line Agents:**
-    - Oral Mebendazole.
+    - Oral [[Mebendazole]].
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - Surgical Excision (Primary Definite Therapy): Complete surgical removal/excision of the intact orbital or visceral hydatid cyst is the primary curative treatment. Surgical extirpation must be performed carefully to avoid intraoperative rupture, fluid spillage, and secondary tissue seeding.
 *   **Prophylaxis, Sanitation & Food Safety:**
     - Water & Food Safety: Boiling surface drinking water and thoroughly washing fresh raw fruits and vegetables in endemic tropical forest zones.
-    - Environmental & Animal Hygiene: Avoiding direct handling or exposure to wild felid pelts, carcasses, or fecal matter; regular deworming of domestic hunting dogs with praziquantel in endemic rural communities.
+    - Environmental & Animal Hygiene: Avoiding direct handling or exposure to wild felid pelts, carcasses, or fecal matter; regular deworming of domestic hunting dogs with [[praziquantel]] in endemic rural communities.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
@@ -137,7 +137,6 @@ draft: false
     - "Neotropical rodent intermediate hosts (agoutis, pacas, spiny rats)"
     - "Large rostellar hooks (intermediate size between E. granulosus and E. vogeli)"
 *   **Exceptions to the Rule:**
-    - Solitary Orbital Tropism: While Echinococcus vogeli classically causes extensive polycystic disease in the abdominal liver and mesentery, Echinococcus oligarthrus frequently presents in human clinical reports as a solitary, unicystic fluid-filled mass localized to the orbit of the eye, causing exophthalmos and headache.
-    - Obligatory Wild Felid Host Spectrum: Unlike Echinococcus granulosus (which utilizes canines as definitive hosts) and Echinococcus multilocularis (which utilizes foxes/canines), Echinococcus oligarthrus is the ONLY Echinococcus species whose primary natural definitive hosts are wild FELIDS (pumas, jaguars, wild cats, and bobcats).
+    - Solitary Orbital Tropism: While [[Echinococcus vogeli]] classically causes extensive polycystic disease in the abdominal liver and mesentery, Echinococcus oligarthrus frequently presents in human clinical reports as a solitary, unicystic fluid-filled mass localized to the orbit of the eye, causing exophthalmos and headache.
+    - Obligatory Wild Felid Host Spectrum: Unlike [[Echinococcus granulosus]] (which utilizes canines as definitive hosts) and [[Echinococcus multilocularis]] (which utilizes foxes/canines), Echinococcus oligarthrus is the ONLY Echinococcus species whose primary natural definitive hosts are wild FELIDS (pumas, jaguars, wild cats, and bobcats).
     - Geographic Range Discovery: Long believed to be restricted exclusively to the humid tropical rainforests of Central and northern South America, E. oligarthrus was discovered in North America (northeast Mexico) when adult worms were isolated from a wild bobcat (Lynx rufus texensis).
-```

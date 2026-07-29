@@ -58,11 +58,11 @@ draft: false
 *   **Immune Evasion Strategies:**
     - Encystment: Thick double-walled cyst protects against gastric acidity, desiccation, and ambient environmental conditions during inter-host transmission.
     - Proteolytic Degradation: Secretion of potent proteases breaks down host extracellular matrix proteins and localized mucosal IgA defenses.
-*   **Host Defense & Immunodeficiency Links:** Host susceptibility is heavily influenced by underlying health status. While healthy individuals with normal gastric acidity and robust mucosal immunity often maintain harmless asymptomatic lumen colonization, illness is severely exacerbated in undernourished, malnourished, or overparasitized populations, as well as in patients with achlorhydria, chronic alcoholism, intestinal disease, or cellular immunodeficiency (HIV/AIDS, organ transplant recipients).
+*   **Host Defense & Immunodeficiency Links:** Host susceptibility is heavily influenced by underlying health status. While healthy individuals with normal gastric acidity and robust mucosal immunity often maintain harmless asymptomatic lumen colonization, illness is severely exacerbated in undernourished, malnourished, or overparasitized populations, as well as in patients with achlorhydria, chronic alcoholism, intestinal disease, or cellular immunodeficiency ([[HIV]]/AIDS, organ transplant recipients).
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:**
-    - Acute Balantidial Dysentery / Colitis: Sudden onset of severe, frequent, watery or bloody diarrhea containing abundant mucus and pus (dysentery), severe crampy abdominal pain, tenesmus, nausea, vomiting, anorexia, low-grade fever, dehydration, and rapid weight loss. Mimics severe amebic dysentery caused by *Entamoeba histolytica*.
+    - Acute Balantidial Dysentery / Colitis: Sudden onset of severe, frequent, watery or bloody diarrhea containing abundant mucus and pus (dysentery), severe crampy abdominal pain, tenesmus, nausea, vomiting, anorexia, low-grade fever, dehydration, and rapid weight loss. Mimics severe amebic dysentery caused by *[[Entamoeba histolytica]]*.
 *   **Chronic & Extra-Intestinal Disease:**
     - Chronic Balantidiasis: Recurrent episodes of diarrhea alternating with constipation, persistent abdominal discomfort, flatulence, nausea, fatigue, severe weight loss, and chronic anemia.
     - Extraintestinal Complications: Intestinal perforation leading to fulminant peritonitis; appendicitis; liver abscesses; mesenteric lymphadenitis; and pulmonary balantidiasis (pleural effusion, pneumonia, or pulmonary abscess following hematogenous spread or microaspiration).
@@ -99,15 +99,15 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Tetracycline Hydrochloride: Drug of choice.
+    - [[Tetracycline]] Hydrochloride: Drug of choice.
       - Adult Dosage: 500 mg PO QID (every 6 hours) for 10 days.
       - Pediatric Dosage (Children ≥8 years old): 40 mg/kg/day PO divided into 4 doses for 10 days (maximum 2 g/day).
       - Contraindications: Contraindicated in pregnant women and children under 8 years of age due to teeth discoloration and bone growth inhibition.
 *   **Alternative Treatments:**
-    - Metronidazole (Flagyl): 750 mg PO TID for 5 to 10 days (or 500 to 750 mg PO TID). Pediatric dosage: 35 to 50 mg/kg/day PO divided into 3 doses for 5 to 10 days. (Preferred option for young children <8 years and pregnant patients).
+    - [[Metronidazole]] (Flagyl): 750 mg PO TID for 5 to 10 days (or 500 to 750 mg PO TID). Pediatric dosage: 35 to 50 mg/kg/day PO divided into 3 doses for 5 to 10 days. (Preferred option for young children <8 years and pregnant patients).
     - Iodoquinol: 650 mg PO TID for 20 days. Pediatric dosage: 30 to 40 mg/kg/day PO divided into 3 doses for 20 days.
-    - Nitazoxanide: 500 mg PO BID for 3 days.
-    - Secondary Antibacterials: Ampicillin, Bacitracin, Paromomycin.
+    - [[Nitazoxanide]]: 500 mg PO BID for 3 days.
+    - Secondary Antibacterials: [[Ampicillin]], [[Bacitracin]], [[Paromomycin]].
 *   **Treatment Nuances & Dosing Considerations:** Follow-up evaluation requires a minimum of three negative stool examinations performed 2 weeks to 1 month post-therapy to confirm eradication. Surgical consultation is indicated in fulminant colitis with impending bowel perforation, though conservative medical management is preferred whenever possible.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Water Safety: Boiling drinking water for 10 minutes or submicron filtration. Standard municipal water chlorination is insufficient to destroy thick-walled cysts reliably.
@@ -122,10 +122,10 @@ draft: false
     - "Swine / domestic pig as natural host and primary reservoir".
     - "Cytostome (oral groove) and Cytopyge (anal pore)".
     - "Rapid rotatory / boring ciliary motility".
-    - "Tetracycline is the drug of choice".
+    - "[[Tetracycline]] is the drug of choice".
     - "Mandatory low-power wet mount examination" (permanent trichrome stains stain too dark/distort).
 *   **Exceptions to the Rule:**
     - *Balantidium coli* is the ONLY member of the phylum Ciliophora (ciliates) capable of causing disease in humans.
     - Unlike most intestinal protozoa (where permanent stained smears like Wheatley's trichrome are the diagnostic standard), permanent stained smears are UNHELPFUL and NOT RECOMMENDED for *B. coli* because the massive organism absorbs stain too heavily, distorts, and mimics fecal artifacts or helminth eggs; diagnosis relies almost entirely on DIRECT SALINE WET MOUNTS.
-    - Unlike *Entamoeba histolytica* cysts (which undergo nuclear division to yield 4 nuclei), nuclear division DOES NOT occur inside the cyst of *B. coli*; the cyst remains strictly uninucleate.
+    - Unlike *[[Entamoeba histolytica]]* cysts (which undergo nuclear division to yield 4 nuclei), nuclear division DOES NOT occur inside the cyst of *B. coli*; the cyst remains strictly uninucleate.
     - In pulmonary BAL or sputum wet preparations, detached human ciliated bronchial epithelial cells (ciliocytophthoria) closely mimic *B. coli* trophozoites, leading to frequent diagnostic misidentification unless carefully evaluated by an experienced microscopist.

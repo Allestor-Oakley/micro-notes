@@ -36,7 +36,7 @@ draft: false
 #### Helminth Anatomy & Ova Morphology
 *   **Adult Worm Morphology & Attachment Structures:** Small, slender, threadlike, unsegmented roundworms residing in the small intestine. They lack heavy chitinous biting teeth or cutting plates, living on or partially burrowed within the intestinal mucosa.
 *   **Ova / Egg Microscopic Features:** Oval/elliptical in shape with a thin, transparent shell. *Trichostrongylus* eggs resemble hookworm eggs but are noticeably larger and feature characteristically pointed or tapered ends at one or both poles. When passed in fresh stool, they contain an embryo in an advanced stage of cleavage (many-celled morula stage), whereas hookworm eggs are passed in an earlier (2- to 8-cell) cleavage stage.
-*   **Larval Stage Morphologies:** Eggs hatch in damp soil into free-living rhabditiform larvae, which molt into infective third-stage filariform larvae (L3). Cultivation and recovery of larvae from stool for morphological differentiation from hookworm and *Strongyloides* larvae is achieved using the Harada-Mori filter paper strip culture method.
+*   **Larval Stage Morphologies:** Eggs hatch in damp soil into free-living rhabditiform larvae, which molt into infective third-stage filariform larvae (L3). Cultivation and recovery of larvae from stool for morphological differentiation from hookworm and *[[Strongyloides]]* larvae is achieved using the Harada-Mori filter paper strip culture method.
 *   **Sexual Dimorphism & Reproductive Characteristics:** Sexes are separate (dioecious). Gravid adult female worms produce eggs that are discharged into the intestinal lumen and passed in human or animal feces.
 
 #### Lifecycle & Transmission Pathways
@@ -51,11 +51,11 @@ draft: false
 *   **Mechanical Obstruction:** N/A
 *   **Nutritional Depletion & Anemia:** Heavy worm burdens can induce mild gastrointestinal blood loss, mucosal disruption, epigastric distress, and chronic diarrhea, presenting clinically similarly to light or moderate hookworm disease.
 *   **Immune Evasion Strategies:** N/A
-*   **Host Defense & Immunodeficiency Links:** Humans vary in susceptibility to different *Trichostrongylus* species. In severely immunocompromised hosts, such as bone marrow transplant recipients, heavy *Trichostrongylus* infestation can produce severe mucosal injury and enteritis that masquerades as conditioning regimen gut toxicity.
+*   **Host Defense & Immunodeficiency Links:** Humans vary in susceptibility to different *Trichostrongylus* species. In severely immunocompromised hosts, such as [[bone marrow]] transplant recipients, heavy *Trichostrongylus* infestation can produce severe mucosal injury and enteritis that masquerades as conditioning regimen gut toxicity.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:** N/A
-*   **Chronic Intestinal or Tissue Presentation:** Infections are frequently asymptomatic or mild. Symptomatic trichostrongylosis presents with recurrent abdominal pain, epigastric distress, bloating, intermittent diarrhea, flatulence, and constitutional symptoms. Severe infestation in bone marrow transplant patients can present as acute, toxic enteropathy.
+*   **Chronic Intestinal or Tissue Presentation:** Infections are frequently asymptomatic or mild. Symptomatic trichostrongylosis presents with recurrent abdominal pain, epigastric distress, bloating, intermittent diarrhea, flatulence, and constitutional symptoms. Severe infestation in [[bone marrow]] transplant patients can present as acute, toxic enteropathy.
 *   **Pathognomonic Signs:** Microscopic identification of characteristically large, thin-shelled eggs with pointed ends and an advanced morula stage in stool, or recovery of species-specific L3 larvae following Harada-Mori fecal culture in a patient with a history of livestock exposure.
 *   **Eosinophilia Profile & IgE Response:** Marked peripheral blood eosinophilia is a classic and prominent laboratory finding in symptomatic human trichostrongylosis (frequently identified during evaluation of suburban livestock keepers presenting with abdominal pain).
 
@@ -67,18 +67,18 @@ draft: false
 
 #### Advanced Laboratory Diagnostics
 *   **Stool Ova & Parasite Examination:** Microscopic identification of characteristic oval, thin-shelled eggs with pointed ends containing a multi-segmented morula in direct wet mounts or concentrated stool. Differentiated from hookworm eggs by their larger size (typically >80 µm long), tapered/pointed poles, and more advanced cleavage stage in fresh stool.
-*   **Sedimentation & Flotation Concentration Techniques:** Formalin-ethyl acetate sedimentation concentration is standard for egg recovery. The Harada-Mori filter paper strip culture technique is exceptionally useful for detecting light infections and hatching L3 larvae from unpreserved stool to enable specific morphological identification and differentiation from hookworm and *Strongyloides* larvae.
+*   **Sedimentation & Flotation Concentration Techniques:** Formalin-ethyl acetate sedimentation concentration is standard for egg recovery. The Harada-Mori filter paper strip culture technique is exceptionally useful for detecting light infections and hatching L3 larvae from unpreserved stool to enable specific morphological identification and differentiation from hookworm and *[[Strongyloides]]* larvae.
 *   **Serology & Tissue Biopsy Diagnostics:** Molecular diagnostic methods: polymerase chain reaction (PCR) assays targeting internal transcribed spacer 1 (ITS-1) rDNA sequences directly differentiate *Trichostrongylus* eggs from hookworm eggs in fecal samples. Multiplex PCR assays detect and distinguish specific species including *T. colubriformis* and *T. axei*.
 *   **Imaging Findings:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Anti-Helminthic Agents:** Pyrantel pamoate administered as a single oral dose of 10 mg/kg.
-*   **Alternative / Second-Line Agents:** Albendazole (400 mg single oral dose) or Mebendazole (100 mg orally twice daily for 3 days).
+*   **First-Line Anti-Helminthic Agents:** [[Pyrantel pamoate]] administered as a single oral dose of 10 mg/kg.
+*   **Alternative / Second-Line Agents:** [[Albendazole]] (400 mg single oral dose) or [[Mebendazole]] (100 mg orally twice daily for 3 days).
 *   **Treatment Nuances & Corticosteroid Protocols:** Single-dose anthelmintic therapy yields high cure rates and rapid resolution of abdominal pain and peripheral eosinophilia. Corticosteroid protocols are N/A.
 *   **Prophylaxis, Sanitation & Food Safety:** Thorough washing and cooking of raw vegetables and leafy greens before consumption; boiling or filtering drinking water in rural agricultural areas; avoiding the use of untreated human night soil or raw animal manure as crop fertilizer; enforcing hand hygiene after handling sheep, goats, or donkeys; and regular veterinary deworming of domestic livestock.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** Accidental livestock parasite, sheep/goat/donkey contact, Near and Middle East endemicity (70% prevalence), *T. colubriformis*, *T. orientalis*, *T. axei*, Harada-Mori filter paper culture, ITS-1 rDNA sequence PCR differentiation, larger egg with pointed ends, bone marrow transplant conditioning toxicity mimic.
+*   **Buzzwords & Descriptors:** Accidental livestock parasite, sheep/goat/donkey contact, Near and Middle East endemicity (70% prevalence), *T. colubriformis*, *T. orientalis*, *T. axei*, Harada-Mori filter paper culture, ITS-1 rDNA sequence PCR differentiation, larger egg with pointed ends, [[bone marrow]] transplant conditioning toxicity mimic.
 *   **Exceptions to the Rule:**
     *   *Hookworm Egg Differentiation:* *Trichostrongylus* eggs are frequently misidentified as hookworm eggs during routine stool O&P examinations; however, *Trichostrongylus* eggs are distinctly larger, have pointed/tapered ends, and contain an advanced morula cleavage stage in fresh stool.
-    *   *Malignancy/Toxicity Mimicry:* In immunocompromised bone marrow transplant patients, heavy *Trichostrongylus* intestinal infection can present as severe enterocolitis that closely mimics severe conditioning regimen toxicity of the gut.
+    *   *Malignancy/Toxicity Mimicry:* In immunocompromised [[bone marrow]] transplant patients, heavy *Trichostrongylus* intestinal infection can present as severe enterocolitis that closely mimics severe conditioning regimen toxicity of the gut.

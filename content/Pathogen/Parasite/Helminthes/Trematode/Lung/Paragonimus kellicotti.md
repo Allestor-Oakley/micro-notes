@@ -90,13 +90,13 @@ draft: false
 *   **Imaging Findings:** Chest CT and radiography display bilateral or focal pulmonary infiltrates, ring-shadowed cystic cavities, nodular opacities, pleural thickening, or pleural effusions. Brain CT/MRI demonstrates ring-enhancing mass lesions, calcified granulomas, or signs of arachnoiditis/meningitis.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Anti-Helminthic Agents:** Praziquantel: 75 mg/kg/day orally divided into 3 doses (25 mg/kg per dose) for 2 to 3 days (drug of choice).
-*   **Alternative / Second-Line Agents:** Triclabendazole or Bithionol (30 to 50 mg/kg orally on alternate days for 10 to 15 doses).
-*   **Treatment Nuances & Corticosteroid Protocols:** Praziquantel therapy provides rapid clearance and high cure rates. In patients with cerebral paragonimiasis or severe pleuropulmonary hypersensitivity, adjunctive systemic corticosteroids (e.g., Prednisone) should be co-administered alongside praziquantel to suppress neuroinflammation or treatment-induced Herxheimer-like inflammatory reactions. Thoracentesis may be performed to evacuate large symptomatic pleural effusions.
+*   **First-Line Anti-Helminthic Agents:** [[Praziquantel]]: 75 mg/kg/day orally divided into 3 doses (25 mg/kg per dose) for 2 to 3 days (drug of choice).
+*   **Alternative / Second-Line Agents:** [[Triclabendazole]] or Bithionol (30 to 50 mg/kg orally on alternate days for 10 to 15 doses).
+*   **Treatment Nuances & Corticosteroid Protocols:** [[Praziquantel]] therapy provides rapid clearance and high cure rates. In patients with cerebral paragonimiasis or severe pleuropulmonary hypersensitivity, adjunctive systemic corticosteroids (e.g., Prednisone) should be co-administered alongside [[praziquantel]] to suppress neuroinflammation or treatment-induced Herxheimer-like inflammatory reactions. Thoracentesis may be performed to evacuate large symptomatic pleural effusions.
 *   **Prophylaxis, Sanitation & Food Safety:** Complete avoidance of eating raw, improperly cooked, or unboiled freshwater crayfish; thoroughly cooking crayfish until meat is opaque and firm; washing hands, knives, cutting boards, and utensils with soap and water after handling raw crayfish; and refraining from drinking untreated surface river water.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** *Paragonimus kellicotti*, North American lung fluke, Ward and Kellicott 1894, Mississippi River Basin / Missouri, raw crayfish consumption, sputum with "iron filings" (egg clusters), tuberculosis mimicry, pleural effusion with >90% eosinophils, praziquantel 75 mg/kg/day for 2–3 days.
+*   **Buzzwords & Descriptors:** *Paragonimus kellicotti*, North American lung fluke, Ward and Kellicott 1894, Mississippi River Basin / Missouri, raw crayfish consumption, sputum with "iron filings" (egg clusters), tuberculosis mimicry, pleural effusion with >90% eosinophils, [[praziquantel]] 75 mg/kg/day for 2–3 days.
 *   **Exceptions to the Rule:**
     *   *Sole Native North American Species:* *Paragonimus kellicotti* is the ONLY species of *Paragonimus* indigenous to North America (distinct from Asian *P. westermani* and Neotropical *P. mexicanus*).
     *   *Tuberculosis Mimicry:* Pleuropulmonary paragonimiasis presents with chronic cough, hemoptysis, and cavitary lung lesions that closely mimic pulmonary tuberculosis, often leading to months of inappropriate anti-tuberculous therapy before the correct parasitic diagnosis is established.

@@ -48,14 +48,14 @@ draft: false
     - *Cryptosporidium hominis* (anthroponotic; infects primarily humans, non-human primates, dugongs, and sheep).
     - *Cryptosporidium parvum* (zoonotic/bovine genotype; infects cattle, calves, sheep, goats, deer, pigs, rodents, and humans).
     - Other human-infecting species/genotypes include *C. ubiquitum*, *C. felis* (cats), *C. canis* (dogs), *C. meleagridis* (turkeys/parrots), *C. muris* (rodents/camels), *C. suis* (pigs), and *C. andersoni* (cattle).
-*   **Intermediate Host & Vector Dynamics:** None required (monoxenous life cycle). Mechanical transmission occurs via synanthropic filth flies (*Muscidae*, *Calliphoridae*, *Sarcophagidae* carrying viable oocysts internally and externally), dung beetles, and free-living soil nematodes (*Caenorhabditis elegans*).
+*   **Intermediate Host & Vector Dynamics:** None required (monoxenous life cycle). Mechanical transmission occurs via synanthropic filth flies (*Muscidae*, *[[Blowflies|Calliphoridae]]*, *[[Flesh flies|Sarcophagidae]]* carrying viable oocysts internally and externally), dung beetles, and free-living soil nematodes (*Caenorhabditis elegans*).
 *   **Transmission Route:** Fecal-oral route through ingestion of oocysts in contaminated municipal drinking water, recreational water (swimming pools, water parks, lakes), fresh produce (raspberries, lettuce, basil, snow peas irrigated or washed with contaminated water), unpasteurized cider/milk, or direct contact with infected livestock (calves, lambs) or infected humans (day-care centers, healthcare settings, household contacts, oral-anal sexual contact/anilingus).
 *   **Infective Stage & Portal of Entry:** Fully sporulated, thick-walled or thin-walled oocysts entering via oral ingestion or microaspiration into the respiratory tract. Highly infectious: as few as 10 to 30 oocysts can initiate human infection (median ID50 in healthy human volunteers is ~132 oocysts). Oocysts are fully sporulated and immediately infectious when passed in fresh stool (requiring NO environmental maturation period).
 *   **Diagnostic Stage & Specimen Source:** Thick-walled sporulated oocysts (4–6 µm) containing sporozoites passed in stool. Specimen sources include fresh or preserved stool, duodenal aspirates/drainage, bile aspirates, sputum, bronchoalveolar lavage (BAL) fluid, bronchial washings, and gastrointestinal mucosal biopsy material.
 
 #### Pathogenesis & Host Immune Evasion
 *   **Tissue Tropism & Cellular Invasion:** Primary tropism is for the apical microvillous surface of mucosal enterocytes of the gastrointestinal tract, especially the jejunum and ileum (lower small intestine), extending into the colon and stomach. In severely immunocompromised hosts, extraintestinal dissemination occurs to the epithelial lining of the biliary tree (gallbladder, common bile duct, hepatic ducts), pancreatic duct, and respiratory tract (trachea, bronchi, lungs).
-*   **Cytopathic Effects & Tissue Destruction:** Attachment and intracellular/extracytoplasmic development alter mucosal architecture: produces marked blunting and shortening of intestinal villi, crypt hypertrophy, mucosal edema, loss of microvilli/cilia, and heavy inflammatory cell infiltration (neutrophils, lymphocytes, plasma cells) of the lamina propria. Causes severe, non-inflammatory osmotic, secretory, and malabsorptive watery diarrhea through loss of absorptive surface area, microvillar enzyme disruption, and increased paracellular permeability.
+*   **Cytopathic Effects & Tissue Destruction:** Attachment and intracellular/extracytoplasmic development alter mucosal architecture: produces marked blunting and shortening of intestinal villi, crypt hypertrophy, mucosal edema, loss of microvilli/cilia, and heavy inflammatory cell infiltration (neutrophils, lymphocytes, [[Plasma Cell|plasma cells]]) of the lamina propria. Causes severe, non-inflammatory osmotic, secretory, and malabsorptive watery diarrhea through loss of absorptive surface area, microvillar enzyme disruption, and increased paracellular permeability.
 *   **Immune Evasion Strategies:**
     - Unique Extracytoplasmic Niche: Resides inside host-derived parasitophorous vacuoles on the apical surface of enterocytes, shielding the parasite from host cytosolic immune detection while avoiding luminal clearance.
     - Internal Autoinfection Loop: Production of thin-walled oocysts (~20%) that release sporozoites directly into the gut lumen maintains persistent, heavy infection (>10^10 organisms) without requiring external environmental re-exposure.
@@ -66,7 +66,7 @@ draft: false
 *   **Acute Clinical Presentation:**
     - Acute Watery Diarrhea / Enterocolitis: Incubation period ranges from 1 to 12 days (average ~7 days). Characterized by sudden onset of profuse, watery, non-bloody diarrhea accompanied by crampy abdominal pain, nausea, vomiting, low-grade fever, anorexia, fatigue, flatulence, and weight loss. In immunocompetent individuals, illness is typically self-limiting, resolving spontaneously within 1 to 2 weeks (or up to a month). In infants and young children, severe fluid loss can cause dehydration and electrolyte imbalances requiring hospitalization.
 *   **Chronic & Extra-Intestinal Disease:**
-    - Chronic AIDS-Associated Cryptosporidiosis: Persistent, unrelenting watery diarrhea lasting >4 weeks in patients with advanced HIV/AIDS, leading to profound malabsorption, severe electrolyte collapse, cholera-like fluid loss (>10 to 17 L/day), and progressive wasting syndrome.
+    - Chronic AIDS-Associated Cryptosporidiosis: Persistent, unrelenting watery diarrhea lasting >4 weeks in patients with advanced [[HIV]]/AIDS, leading to profound malabsorption, severe electrolyte collapse, cholera-like fluid loss (>10 to 17 L/day), and progressive wasting syndrome.
     - Biliary Cryptosporidiosis: Opportunistic infection of the biliary tree in severely immunocompromised host, causing AIDS-related sclerosing cholangitis, acalculous cholecystitis, and papillary stenosis. Symptoms include severe right upper quadrant abdominal pain, fever, nausea, vomiting, and marked elevations in serum alkaline phosphatase and GGT.
     - Pancreatitis: Infection extending into pancreatic ducts causing ductal obstruction and acute inflammation.
     - Respiratory Cryptosporidiosis: Documented in severely immunocompromised patients and children, presenting with chronic cough, wheezing, dyspnea, fever, and purulent sputum containing acid-fast oocysts.
@@ -110,14 +110,14 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Nitazoxanide (Alinia): FDA-approved antiparasitic agent for non-immunocompromised patients aged ≥12 months. Administered orally with food for 3 days:
+    - [[Nitazoxanide]] (Alinia): FDA-approved antiparasitic agent for non-immunocompromised patients aged ≥12 months. Administered orally with food for 3 days:
       - Adults and Children >12 years: 500 mg PO BID for 3 days.
       - Children 4 to 11 years: 200 mg PO BID for 3 days.
       - Children 1 to 3 years: 100 mg PO BID for 3 days.
 *   **Alternative Treatments:**
-    - Immunocompromised / AIDS Patients: Nitazoxanide alone is NOT reliably effective in patients with severe CD4+ T-cell immunodeficiency (CD4 <50 cells/mm³).
-    - Immune Reconstitution (HAART): In HIV-infected patients, prompt initiation of Highly Active Antiretroviral Therapy (HAART) to elevate CD4+ T-cell counts above 100 cells/mm³ is the single most critical intervention; immune reconstitution leads to natural parasite clearance and clinical cure.
-    - Adjunctive / Secondary Antimicrobials: Paromomycin (25 to 35 mg/kg/day PO in 2 to 4 divided doses), Azithromycin (500–1000 mg/day PO), or combination therapy (Paromomycin plus Azithromycin or Nitazoxanide) used as off-label salvage therapy.
+    - Immunocompromised / AIDS Patients: [[Nitazoxanide]] alone is NOT reliably effective in patients with severe CD4+ [[T Cell|T-cell]] immunodeficiency (CD4 <50 cells/mm³).
+    - Immune Reconstitution (HAART): In [[HIV]]-infected patients, prompt initiation of Highly Active Antiretroviral Therapy (HAART) to elevate CD4+ [[T Cell|T-cell]] counts above 100 cells/mm³ is the single most critical intervention; immune reconstitution leads to natural parasite clearance and clinical cure.
+    - Adjunctive / Secondary Antimicrobials: [[Paromomycin]] (25 to 35 mg/kg/day PO in 2 to 4 divided doses), [[Azithromycin]] (500–1000 mg/day PO), or combination therapy ([[Paromomycin]] plus [[Azithromycin]] or [[Nitazoxanide]]) used as off-label salvage therapy.
     - Supportive Care: Aggressive oral or intravenous fluid and electrolyte rehydration, nutritional support, and antidiarrheal agents (e.g., loperamide, octreotide).
 *   **Treatment Nuances & Dosing Considerations:** No single antimicrobial drug reliably eradicates *Cryptosporidium* in severely immunocompromised hosts in the absence of immune system restoration. Over 100 anti-infective drugs have been evaluated without identifying a curative agent for AIDS-related cryptosporidiosis; immune reconstitution via HAART remains essential.
 *   **Prophylaxis, Water Treatment & Vector Control:**
@@ -136,7 +136,7 @@ draft: false
     - "Clear, unstained ghost cells" on routine Wheatley's trichrome stain.
     - "Reclassified as a Gregarine" (phylogenetic 18S rRNA and genomic evidence links *Cryptosporidium* more closely to gregarines than classical coccidia).
 *   **Exceptions to the Rule:**
-    - Unlike *Cyclospora cayetanensis* and *Cystoisospora belli* (which are passed unsporulated in stool and require days to weeks in the environment to mature), *Cryptosporidium* oocysts are FULLY SPORULATED and IMMEDIATELY INFECTIOUS when passed in feces.
+    - Unlike *[[Cyclospora cayetanensis]]* and *[[Cystoisospora belli]]* (which are passed unsporulated in stool and require days to weeks in the environment to mature), *Cryptosporidium* oocysts are FULLY SPORULATED and IMMEDIATELY INFECTIOUS when passed in feces.
     - Unlike classical intestinal coccidia, *Cryptosporidium* developmental stages do NOT invade deep into host cell cytoplasm; they reside in an intracellular, EXTRACYTOPLASMIC location on the microvillous brush border.
     - Routine stool O&P permanent stains (Wheatley's trichrome or iron hematoxylin) FAIL to stain *Cryptosporidium* oocysts (appearing as unstained "ghosts"); special modified acid-fast stains, DFA, or fecal antigen/PCR tests MUST be requested specifically.
     - Standard municipal water chlorination and commercial swimming pool chlorine levels do NOT destroy *Cryptosporidium* oocysts; water filtration (absolute 1-micron / NSF 53/58) or boiling is required.

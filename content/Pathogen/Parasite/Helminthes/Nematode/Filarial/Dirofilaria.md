@@ -62,7 +62,7 @@ draft: false
 *   **Larval Stage Morphologies:**
     - Microfilaria (Blood Stage in Definitive Canine Hosts): Unsheathed microfilariae measuring 300 to 350 μm in length by 5 to 7 μm in width with a pointed, straight tail tip. Circulate in peripheral blood of infected dogs and wild carnivores.
     - Human Microfilaremia: Virtually NEVER present in human peripheral blood smears (humans are accidental dead-end hosts in which worms fail to complete development to produce circulating microfilariae).
-    - Vector Developmental Stages (L1 to L3): Mosquitoes ingest circulating microfilariae; larvae undergo two developmental molts inside mosquito Malpighian tubules/thoracic muscles to become infective L3 larvae (~1 mm long) residing in the mosquito proboscis.
+    - Vector Developmental Stages (L1 to L3): Mosquitoes ingest circulating microfilariae; larvae undergo two developmental molts inside [[Mosquitoes|mosquito]] Malpighian tubules/thoracic muscles to become infective L3 larvae (~1 mm long) residing in the [[Mosquitoes|mosquito]] proboscis.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Dioecious: Distinct male and female worms. Adult males feature a coiled posterior tail with unequal copulatory spicules; female worms contain paired uterine tracts.
     - Lack of Reproduction in Humans: Because single, isolated, immature worms lodge in human tissue and die, reproduction does not occur in human hosts.
@@ -72,12 +72,12 @@ draft: false
     - Primary Natural Definitive Hosts: Domestic dogs (*Canis lupus familiaris*), coyotes, wolves, foxes, and wild canids (for *D. immitis* and *D. repens*); raccoons (for *D. tenuis*); bears (for *D. ursi*); and domestic/wild felids.
     - Accidental Dead-End Host: Humans (*Homo sapiens*).
 *   **Intermediate Host(s):**
-    - Mosquito Vectors (Obligatory Intermediate Hosts): Female mosquitoes belonging to the genera *Culex* (e.g., *Culex quinquefasciatus*, *Culex pipiens*), *Aedes*, and *Anopheles*.
+    - [[Mosquitoes|Mosquito]] Vectors (Obligatory Intermediate Hosts): Female mosquitoes belonging to the genera *Culex* (e.g., *Culex quinquefasciatus*, *Culex pipiens*), *Aedes*, and *Anopheles*.
 *   **Transmission Mode & Ingestion/Penetration:**
-    - Vector-Borne Transmission: Inoculation of infective third-stage larvae (L3) through human skin during the blood meal of an infected female mosquito.
+    - Vector-Borne Transmission: Inoculation of infective third-stage larvae (L3) through human skin during the blood meal of an infected female [[Mosquitoes|mosquito]].
 *   **Intra-Host Larval Migration Pathway:**
-    - Pulmonary Dirofilariasis Pathway (*D. immitis*): Mosquito injects L3 larvae into host skin -> larvae migrate through subcutaneous tissue and enter cutaneous veins -> blood flow carries larvae through the right atrium and right ventricle of the heart into small branches of the pulmonary arterial tree -> larvae lodge in terminal pulmonary arteries, die, and embolize -> initiates localized pulmonary arterial thrombosis, ischemic necrosis, granulomatous inflammation, and fibrous encapsulation, forming a solitary "coin lesion" in the lung parenchyma.
-    - Subcutaneous & Ocular Dirofilariasis Pathway (Subgenus *Nochtiella* / *D. repens*, *D. tenuis*, *D. ursi*): Mosquito injects L3 larvae -> larvae migrate locally through subcutaneous tissues or subconjunctival spaces -> develop into immature adult worms -> provoke localized granulomatous inflammation and fibrous encapsulation, forming painless or tender subcutaneous or ocular nodules.
+    - Pulmonary Dirofilariasis Pathway (*D. immitis*): [[Mosquitoes|Mosquito]] injects L3 larvae into host skin -> larvae migrate through subcutaneous tissue and enter cutaneous veins -> blood flow carries larvae through the right atrium and right ventricle of the heart into small branches of the pulmonary arterial tree -> larvae lodge in terminal pulmonary arteries, die, and embolize -> initiates localized pulmonary arterial thrombosis, ischemic necrosis, granulomatous inflammation, and fibrous encapsulation, forming a solitary "coin lesion" in the lung parenchyma.
+    - Subcutaneous & Ocular Dirofilariasis Pathway (Subgenus *Nochtiella* / *D. repens*, *D. tenuis*, *D. ursi*): [[Mosquitoes|Mosquito]] injects L3 larvae -> larvae migrate locally through subcutaneous tissues or subconjunctival spaces -> develop into immature adult worms -> provoke localized granulomatous inflammation and fibrous encapsulation, forming painless or tender subcutaneous or ocular nodules.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Nongravid immature adult worm (isolated, degenerating, or intact) identified in histopathological section of excised lung nodule, subcutaneous tissue mass, or subconjunctival specimen.
     - Shedding Site: None in humans (humans do NOT shed microfilariae, eggs, or larvae in stool, urine, blood, or sputum).
@@ -91,10 +91,10 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - N/A
 *   **Immune Evasion Strategies:**
-    - Incomplete Evasion in Non-Accustomed Host: Unlike natural filarial parasites of humans that actively suppress host T-cell immunity to survive for decades, *Dirofilaria* species cannot properly evade the human immune system; larvae are rapidly recognized as foreign, attacked by host inflammatory cells, and killed before reaching reproductive maturity.
+    - Incomplete Evasion in Non-Accustomed Host: Unlike natural filarial parasites of humans that actively suppress host [[T Cell|T-cell]] immunity to survive for decades, *Dirofilaria* species cannot properly evade the human immune system; larvae are rapidly recognized as foreign, attacked by host inflammatory cells, and killed before reaching reproductive maturity.
 *   **Host Defense & Immunodeficiency Links:**
     - Granulomatous Reaction: Death of the worm releases parasitic somatic antigens and endosymbiotic *Wolbachia* surface molecules, triggering a dense Th2/eosinophilic and foreign-body giant-cell granulomatous reaction that sequesters the decaying worm inside a firm fibrous shell.
-    - Immunocompromised Hosts: In severely immunocompromised or HIV-infected hosts, impaired cellular immunity may allow rare survival or increased growth of adult worms.
+    - Immunocompromised Hosts: In severely immunocompromised or [[HIV]]-infected hosts, impaired cellular immunity may allow rare survival or increased growth of adult worms.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
@@ -114,18 +114,18 @@ draft: false
 
 #### Epidemiology & Exposures
 *   **Geographic Endemicity:**
-    - Global / Cosmopolitan distribution in tropical, subtropical, and temperate regions where canine heartworm and mosquito vectors overlap.
+    - Global / Cosmopolitan distribution in tropical, subtropical, and temperate regions where canine heartworm and [[Mosquitoes|mosquito]] vectors overlap.
     - Geographic Specifics by Species:
       - *Dirofilaria immitis*: Endemic in North America (Southeastern, Central, and Coastal United States), South America, Southern Europe, Asia (Japan, China), and Australia.
       - *Dirofilaria repens*: Endemic in Europe (Mediterranean basin, Southern and Eastern Europe), Asia, and Africa.
       - *Dirofilaria tenuis*: Endemic in North America (Southeastern US, particularly Florida, infecting raccoons).
       - *Dirofilaria ursi*: Endemic in Northern North America (Canada, Northern US, infecting bears).
 *   **Soil & Environmental Requirements:**
-    - Requires environmental conditions supporting mosquito breeding (standing water, humid temperate/tropical climates) and high density of domestic or wild canine/carnivore reservoir hosts.
+    - Requires environmental conditions supporting [[Mosquitoes|mosquito]] breeding (standing water, humid temperate/tropical climates) and high density of domestic or wild canine/carnivore reservoir hosts.
 *   **Dietary Exposures & Intermediate Host Foods:**
-    - N/A (Transmitted exclusively by mosquito bites; no transmission via food or drinking water).
+    - N/A (Transmitted exclusively by [[Mosquitoes|mosquito]] bites; no transmission via food or drinking water).
 *   **Public Health & Mass Drug Administration:**
-    - Control depends on veterinary screening and prophylactic administration of heartworm preventatives (e.g., monthly ivermectin, milbemycin oxime, or moxidectin) to domestic dogs and cats to suppress microfilaremia, combined with local mosquito vector control.
+    - Control depends on veterinary screening and prophylactic administration of heartworm preventatives (e.g., monthly [[ivermectin]], milbemycin oxime, or moxidectin) to domestic dogs and cats to suppress microfilaremia, combined with local [[Mosquitoes|mosquito]] vector control.
 
 #### Advanced Laboratory Diagnostics
 *   **Stool Ova & Parasite Examination:**
@@ -150,13 +150,13 @@ draft: false
 *   **First-Line Anti-Helminthic Agents:**
     - Surgical Excision (Primary Treatment of Choice): Complete surgical resection / wedge excision of the solitary pulmonary coin lesion or surgical extirpation of the subcutaneous or subconjunctival nodule is the principal, diagnostic, and definitive curative therapy.
 *   **Alternative / Second-Line Agents:**
-    - Anthelmintic Medical Therapy: Medical antiparasitic drugs (e.g., Oral Ivermectin 200 μg/kg single dose, Diethylcarbamazine (DEC), or Albendazole 400 mg PO BID) are rarely necessary or indicated because surgical removal during biopsy is curative, and worms naturally die and degenerate in human tissue without systemic spread.
+    - Anthelmintic Medical Therapy: Medical antiparasitic drugs (e.g., Oral [[Ivermectin]] 200 μg/kg single dose, [[Diethylcarbamazine]] (DEC), or [[Albendazole]] 400 mg PO BID) are rarely necessary or indicated because surgical removal during biopsy is curative, and worms naturally die and degenerate in human tissue without systemic spread.
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - Avoidance of Unnecessary Chemotherapy: Once a pulmonary coin lesion is excised and confirmed as dirofilariasis on histopathology, NO additional systemic anthelmintic therapy is required.
-    - Anti-*Wolbachia* Antibiotic Therapy: Doxycycline (100–200 mg PO daily for 3–4 weeks) targets the endosymbiotic *Wolbachia* bacteria and has been used in rare microfilaremic or active cases to hasten worm death and reduce inflammation.
+    - Anti-*Wolbachia* Antibiotic Therapy: [[Doxycycline]] (100–200 mg PO daily for 3–4 weeks) targets the endosymbiotic *Wolbachia* bacteria and has been used in rare microfilaremic or active cases to hasten worm death and reduce inflammation.
 *   **Prophylaxis, Sanitation & Food Safety:**
-    - Veterinary Prevention: Regular, monthly administration of oral or topical heartworm preventatives (Ivermectin, Milbemycin oxime, Moxidectin, or Selamectin) to domestic dogs and cats in endemic regions.
-    - Vector Protection: Personal mosquito bite prevention using DEET-containing insect repellents, wearing protective clothing, installing window screens, and sleeping under insecticide-treated bed nets.
+    - Veterinary Prevention: Regular, monthly administration of oral or topical heartworm preventatives ([[Ivermectin]], Milbemycin oxime, Moxidectin, or Selamectin) to domestic dogs and cats in endemic regions.
+    - Vector Protection: Personal [[Mosquitoes|mosquito]] bite prevention using DEET-containing insect repellents, wearing protective clothing, installing window screens, and sleeping under insecticide-treated bed nets.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
@@ -168,6 +168,6 @@ draft: false
     - "Wolbachia bacterial endosymbiont"
 *   **Exceptions to the Rule:**
     - The Malignancy Mimic: *Dirofilaria immitis* is famous in clinical medicine as the "coin lesion worm" because its primary clinical presentation is an asymptomatic, solitary, perfectly round 1–3 cm pulmonary nodule on chest X-ray/CT that is clinically indistinguishable from a primary bronchogenic carcinoma or metastatic tumor, often leading to thoracotomy or wedge resection before the true parasitic identity is discovered.
-    - Amicrofilaremic Human Infection: Unlike typical human filarial infections (*Wuchereria*, *Brugia*, *Loa loa*) where adult female worms release millions of circulating microfilariae into blood, human *Dirofilaria* infections are strictly amicrofilaremic because immature worms die before mating or producing offspring in the non-permissive human host.
+    - Amicrofilaremic Human Infection: Unlike typical human filarial infections (*Wuchereria*, *Brugia*, *[[Loa loa]]*) where adult female worms release millions of circulating microfilariae into blood, human *Dirofilaria* infections are strictly amicrofilaremic because immature worms die before mating or producing offspring in the non-permissive human host.
     - Smooth vs. Ridged Cuticle Differential: Histopathologists distinguish *Dirofilaria immitis* from subcutaneous species (*D. repens*, *D. tenuis*) in tissue sections by examining cuticular longitudinal ridges under high power: *D. immitis* has a smooth cuticle, whereas *D. repens* and *D. tenuis* possess prominent, raised longitudinal cuticular ridges.
-    - Antibiotic Efficacy via Endosymbiont Targeting: Because *Dirofilaria* species harbor obligate *Wolbachia* endosymbiotic bacteria, antibiotic treatment with doxycycline disrupts parasite fitness, representing a novel therapeutic target.
+    - Antibiotic Efficacy via Endosymbiont Targeting: Because *Dirofilaria* species harbor obligate *Wolbachia* endosymbiotic bacteria, antibiotic treatment with [[doxycycline]] disrupts parasite fitness, representing a novel therapeutic target.

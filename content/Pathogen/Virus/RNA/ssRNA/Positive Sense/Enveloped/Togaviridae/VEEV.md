@@ -64,8 +64,8 @@ draft: false
 
 #### Epidemiology & Transmission
 *   **Reservoir:** The virus circulates silently enzootically in small mammals (rodents). During epidemics, horses act as major amplifying hosts.
-*   **Transmission Route:** The virus is an arbovirus transmitted zoonotically via the bite of infected mosquitoes. Following high rainfall, mosquito populations expand; horses become infected and act as amplifiers, with equine cases typically preceding human cases.
-*   **Vectors:** Mosquitoes, predominantly of the genera *Aedes*, *Culex*, and *Psorophora*.
+*   **Transmission Route:** The virus is an arbovirus transmitted zoonotically via the bite of infected [[mosquitoes]]. Following high rainfall, [[Mosquitoes|mosquito]] populations expand; horses become infected and act as amplifiers, with equine cases typically preceding human cases.
+*   **Vectors:** [[Mosquitoes]], predominantly of the genera *Aedes*, *Culex*, and *Psorophora*.
 *   **Public Health & Isolation:** Extensive outbreaks of VEEV have occurred in Venezuela, Colombia, Trinidad, Brazil, Panama, Mexico, and the southern United States (e.g., Florida). A massive 1962 epidemic in Venezuela resulted in 100,000 equine cases, almost entirely wiping out the equine population. Because a high proportion of equines develop immunity following an outbreak, approximately 10 years are usually required to build up another susceptible amplifying population. The infection-to-clinical case ratio is heavily age-dependent: 25:1 for individuals <15 years of age, and 1000:1 for those >15 years of age.
 
 #### Advanced Laboratory Diagnostics
@@ -78,7 +78,7 @@ draft: false
 *   **Antiviral Targets & First-Line Agents:** There is no specific antiviral treatment available. High-level supportive therapy is required for clinical management of encephalitis cases.
 *   **Resistance Mechanisms & Mutations:** N/A
 *   **Treatment Nuances & Timing Constraints:** N/A
-*   **Prophylaxis & Vaccine Protocols:** Prevention heavily relies on mosquito control (e.g., eliminating breeding sites, spraying insecticides) and personal protective measures (insect repellents, protective clothing). A live-attenuated human vaccine (TC-83) is available for primary immunization against epidemic strains to protect high-risk personnel, but it does not elicit good responses in people with previous alphavirus infections and is not very effective as a booster. An inactivated vaccine (C-84) is considered better for these secondary applications. Additionally, attenuated live-virus and killed-virus vaccines are widely available and utilized to curtail epidemics among horses.
+*   **Prophylaxis & Vaccine Protocols:** Prevention heavily relies on [[Mosquitoes|mosquito]] control (e.g., eliminating breeding sites, spraying insecticides) and personal protective measures (insect repellents, protective clothing). A live-attenuated human vaccine (TC-83) is available for primary immunization against epidemic strains to protect high-risk personnel, but it does not elicit good responses in people with previous alphavirus infections and is not very effective as a booster. An inactivated vaccine (C-84) is considered better for these secondary applications. Additionally, attenuated live-virus and killed-virus vaccines are widely available and utilized to curtail epidemics among horses.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** *Togaviridae*, *Alphavirus*, "shrink-wrap" envelope, IABCE epizootic subtypes, amplifying horse hosts, TC-83 vaccine, 1962 Venezuela equine epidemic.

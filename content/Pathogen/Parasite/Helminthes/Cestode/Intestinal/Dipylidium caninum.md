@@ -75,7 +75,7 @@ draft: false
 *   **Immune Evasion Strategies:**
     - Resides strictly inside the intestinal lumen without deep tissue penetration, provoking minimal mucosal cellular or systemic inflammatory immune responses.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Elicits low-grade mucosal and systemic immune responses. Infection is generally self-limited or easily cleared with anthelmintics. No documented increased susceptibility or atypical tissue invasiveness in immunocompromised or HIV-infected hosts.
+    - Host Defense: Elicits low-grade mucosal and systemic immune responses. Infection is generally self-limited or easily cleared with anthelmintics. No documented increased susceptibility or atypical tissue invasiveness in immunocompromised or [[HIV]]-infected hosts.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
@@ -117,12 +117,12 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Praziquantel: Administered as a single oral dose of 5 to 10 mg/kg (highly effective for eradicating adult intestinal tapeworms in adults and children).
-    - Oral Niclosamide: Single oral dose of 2 g for adults (50 mg/kg single dose for children). Tablets must be chewed thoroughly or crushed and swallowed with water.
+    - Oral [[Praziquantel]]: Administered as a single oral dose of 5 to 10 mg/kg (highly effective for eradicating adult intestinal tapeworms in adults and children).
+    - Oral [[Niclosamide]]: Single oral dose of 2 g for adults (50 mg/kg single dose for children). Tablets must be chewed thoroughly or crushed and swallowed with water.
 *   **Alternative / Second-Line Agents:**
-    - Oral Paromomycin.
+    - Oral [[Paromomycin]].
 *   **Treatment Nuances & Corticosteroid Protocols:**
-    - Concurrent Veterinary Treatment: All domestic dogs and cats in the household MUST be treated simultaneously with an effective anthelmintic (e.g., praziquantel) to eradicate adult tapeworms, alongside aggressive flea control. Failure to treat household pets results in rapid human reinfection.
+    - Concurrent Veterinary Treatment: All domestic dogs and cats in the household MUST be treated simultaneously with an effective anthelmintic (e.g., [[praziquantel]]) to eradicate adult tapeworms, alongside aggressive flea control. Failure to treat household pets results in rapid human reinfection.
     - Post-Treatment Follow-up: Repeat stool examinations for eggs and proglottids should be performed 1 and 3 months post-therapy to confirm cure.
 *   **Prophylaxis, Sanitation & Food Safety:**
     - Veterinary Flea Control: Regular application of veterinary-approved flea/tick preventatives (topical spot-ons, oral chewables, or flea collars) to dogs and cats, and treating home environments (carpets, bedding) to eliminate flea larvae.

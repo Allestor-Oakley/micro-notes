@@ -46,9 +46,9 @@ draft: false
 ### Toxocara canis
 
 #### Helminth Anatomy & Ova Morphology
-*   **Adult Worm Morphology & Attachment Structures:** Large, cylindrical ascarid roundworms morphologically resembling *Ascaris lumbricoides*. Adult males measure 4 to 6 cm in length; adult females measure 6.5 to 10 cm in length. Adults reside freely within the lumen of the small intestine of dogs and wild canids and lack chitinous biting teeth or cutting plates. Adult worms DO NOT develop, mature, or exist in human hosts; human infection is caused strictly by non-maturing migrating larvae.
-*   **Ova / Egg Microscopic Features:** Eggs isolated from dog feces are dark brown, rounded to oval, measuring 85 µm in length by 75 µm in width (larger than *Ascaris lumbricoides* eggs). The outer shell is thick and characteristically pitted/pitted superficially. Eggs are passed in dog feces in an unembryonated state and embryonate in soil over several weeks. Eggs are NEVER passed or present in human stool or clinical excretions.
-*   **Larval Stage Morphologies:** Larvae inside human tissues remain small in size (~180 to 200 µm in length) and do not grow or molt significantly within host tissues (unlike *Baylisascaris procyonis* larvae, which continue to molt and grow up to 2 mm). Histologically, cross-sections in tissue biopsies reveal small nematode larvae surrounded by dense eosinophilic granulomas and Charcot-Leyden crystals.
+*   **Adult Worm Morphology & Attachment Structures:** Large, cylindrical ascarid roundworms morphologically resembling *[[Ascaris lumbricoides]]*. Adult males measure 4 to 6 cm in length; adult females measure 6.5 to 10 cm in length. Adults reside freely within the lumen of the small intestine of dogs and wild canids and lack chitinous biting teeth or cutting plates. Adult worms DO NOT develop, mature, or exist in human hosts; human infection is caused strictly by non-maturing migrating larvae.
+*   **Ova / Egg Microscopic Features:** Eggs isolated from dog feces are dark brown, rounded to oval, measuring 85 µm in length by 75 µm in width (larger than *[[Ascaris lumbricoides]]* eggs). The outer shell is thick and characteristically pitted/pitted superficially. Eggs are passed in dog feces in an unembryonated state and embryonate in soil over several weeks. Eggs are NEVER passed or present in human stool or clinical excretions.
+*   **Larval Stage Morphologies:** Larvae inside human tissues remain small in size (~180 to 200 µm in length) and do not grow or molt significantly within host tissues (unlike *[[Baylisascaris procyonis]]* larvae, which continue to molt and grow up to 2 mm). Histologically, cross-sections in tissue biopsies reveal small nematode larvae surrounded by dense eosinophilic granulomas and Charcot-Leyden crystals.
 *   **Sexual Dimorphism & Reproductive Characteristics:** Sexes are separate (dioecious) in adult worms residing in definitive canine hosts. Females (6.5–10 cm) are larger than males (4–6 cm) and possess high fecundity, producing large quantities of unembryonated eggs passed in dog excreta. In human hosts, larvae cannot complete sexual maturation or reproduce.
 
 #### Lifecycle & Transmission Pathways
@@ -90,9 +90,9 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    *   Albendazole: 400 mg orally twice daily (BID) for 5 days (some consultants recommend extending therapy to 20 days; severe systemic or ocular involvement may require 2 to 4 weeks).
-    *   Mebendazole: 100 to 200 mg orally twice daily (BID) for 5 days.
-*   **Alternative / Second-Line Agents:** Diethylcarbamazine or Ivermectin.
+    *   [[Albendazole]]: 400 mg orally twice daily (BID) for 5 days (some consultants recommend extending therapy to 20 days; severe systemic or ocular involvement may require 2 to 4 weeks).
+    *   [[Mebendazole]]: 100 to 200 mg orally twice daily (BID) for 5 days.
+*   **Alternative / Second-Line Agents:** [[Diethylcarbamazine]] or [[Ivermectin]].
 *   **Treatment Nuances & Corticosteroid Protocols:**
     *   *Corticosteroid Protocol:* Concomitant systemic corticosteroids (e.g., Prednisone / Prednisolone) should be co-administered alongside anthelmintic therapy in patients with severe pulmonary symptoms, allergic manifestations, central nervous system involvement, or active ocular toxocariasis to suppress severe intraocular or tissue allergic inflammation.
     *   *Ocular Interventions:* Ocular granulomas and tractional retinal detachment may require laser photocoagulation, cryoretinopexy, or vitrectomy/surgical extraction to prevent progressive vision loss.
@@ -103,5 +103,5 @@ draft: false
 *   **Exceptions to the Rule:**
     *   *Negative Stool O&P in Humans:* Despite being an ascarid roundworm, *Toxocara canis* NEVER matures in the human intestine or sheds eggs in human stool; diagnosis relies entirely on serology and clinical findings.
     *   *Retinoblastoma Mimicry:* Ocular toxocariasis generates a solitary retinal granuloma and white pupil (leukocoria) that closely mimics retinoblastoma, historically leading to unnecessary surgical enucleation of eyes in children.
-    *   *Non-Growing Tissue Larvae:* Unlike *Baylisascaris procyonis* larvae (which continue to grow up to 2 mm in human tissue and cause severe rapid CNS destruction), *Toxocara canis* larvae remain very small (~180–200 µm) and static in size within host tissues.
+    *   *Non-Growing Tissue Larvae:* Unlike *[[Baylisascaris procyonis]]* larvae (which continue to grow up to 2 mm in human tissue and cause severe rapid CNS destruction), *Toxocara canis* larvae remain very small (~180–200 µm) and static in size within host tissues.
     *   *Raw Liver Transmission:* In addition to soil egg ingestion, VLM can be directly acquired by adults who ingest raw or undercooked paratenic host tissue containing viable larvae, such as raw lamb liver.

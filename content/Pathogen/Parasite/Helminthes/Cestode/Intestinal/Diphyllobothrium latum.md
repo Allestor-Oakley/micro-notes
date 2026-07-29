@@ -59,8 +59,8 @@ draft: false
     - Operculum Observation: The operculum may be subtle under light microscopy; reducing microscope light or gently tapping the coverslip of a wet mount preparation can pop open the operculum to confirm identification. Eggs are passed in stool unembryonated.
 *   **Larval Stage Morphologies:**
     - Coracidium: Ciliated, free-swimming spherical embryo containing a six-hooked oncosphere that hatches from the egg in freshwater.
-    - Procercoid Larva: Slender, unsegmented larval form developing inside the body cavity/hemocoel of the first intermediate host (copepod).
-    - Plerocercoid Larva (Sparganum): Elongated, solid, unsegmented, wrinkled, opaque white larva measuring up to several centimeters in length, residing within the muscle/flesh and viscera of the second intermediate host (freshwater fish). Resembles white grains of rice in fish flesh.
+    - Procercoid Larva: Slender, unsegmented larval form developing inside the body cavity/hemocoel of the first intermediate host ([[Cyclops|copepod]]).
+    - Plerocercoid Larva ([[Spirometra mansonoides|Sparganum]]): Elongated, solid, unsegmented, wrinkled, opaque white larva measuring up to several centimeters in length, residing within the muscle/flesh and viscera of the second intermediate host (freshwater fish). Resembles white grains of rice in fish flesh.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Hermaphroditic: Each mature proglottid contains a complete functional set of male (testes) and female (ovary, vitellaria, rosette uterus) reproductive organs.
     - High Fecundity: A single adult tapeworm continuously releases up to or exceeding 1,000,000 eggs per day directly into the host feces.
@@ -71,7 +71,7 @@ draft: false
     - Primary Definitive Host: Humans (Homo sapiens).
     - Animal Reservoir Definitive Hosts: Dogs, cats, bears, foxes, mink, pigs, seals, walruses, and other fish-eating mammals.
 *   **Intermediate Host(s):**
-    - First Intermediate Host: Freshwater microcrustaceans / copepods (*Cyclops* species, *Diaptomus* species).
+    - First Intermediate Host: Freshwater microcrustaceans / copepods (*[[Cyclops]]* species, *Diaptomus* species).
     - Second Intermediate Host: Freshwater fish (e.g., pike, perch, trout, salmon, walleye, turbot).
     - Paratenic Hosts: Larger predatory freshwater fish that consume smaller infected fish, accumulating plerocercoids in their flesh without development.
 *   **Transmission Mode & Ingestion/Penetration:**
@@ -143,10 +143,10 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Niclosamide: Single oral dose of 2 g for adults (50 mg/kg for children). Considered the drug of choice for intestinal tapeworms.
-    - Oral Praziquantel: Single oral dose of 5 to 10 mg/kg (or 15 to 25 mg/kg single dose at bedtime); highly effective for clearing adult worms.
+    - Oral [[Niclosamide]]: Single oral dose of 2 g for adults (50 mg/kg for children). Considered the drug of choice for intestinal tapeworms.
+    - Oral [[Praziquantel]]: Single oral dose of 5 to 10 mg/kg (or 15 to 25 mg/kg single dose at bedtime); highly effective for clearing adult worms.
 *   **Alternative / Second-Line Agents:**
-    - Oral Paromomycin.
+    - Oral [[Paromomycin]].
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - Vitamin B12 Replacement: Patients presenting with megaloblastic anemia or low serum B12 levels MUST receive parenteral or oral Vitamin B12 (cyanocobalamin) supplementation alongside antiparasitic therapy until hematologic parameters normalize.
     - Post-Treatment Follow-up: Stool examinations for eggs or proglottid chains should be repeated 1 month post-therapy to verify complete eradication of the scolex.
@@ -164,9 +164,9 @@ draft: false
     - "Spoon-shaped scolex with two lateral bothria"
     - "Rosette-shaped central uterus"
     - "Operculated egg with abopercular knob"
-    - "Plerocercoid larva / Sparganum"
+    - "Plerocercoid larva / [[Spirometra mansonoides|Sparganum]]"
 *   **Exceptions to the Rule:**
     - Megaloblastic Anemia Mechanism: *Diphyllobothrium latum* is the ONLY human helminth that selectively competes for and absorbs massive quantities of host Vitamin B12 in the small bowel, producing a clinical picture identical to pernicious/megaloblastic anemia.
     - Continuous Egg Release: Unlike cyclophyllidean tapeworms whose proglottids must detach and rupture to release eggs, *D. latum* possesses a mid-ventral uterine pore that discharges up to 1 million eggs per day directly into the lumen, resulting in continuous egg detection in stool without requiring proglottid breakdown.
     - Absence of Suckers and Hooks: Possesses no circular suction cups and no rostellar hooks, relying entirely on two longitudinal mucosal grooves (bothria) for mechanical grip against intestinal peristalsis.
-    - Multi-Host Complex Lifecycle: Requires two distinct intermediate hosts (copepod microcrustacean and freshwater fish) plus potential paratenic predatory fish hosts to complete its lifecycle.
+    - Multi-Host Complex Lifecycle: Requires two distinct intermediate hosts ([[Cyclops|copepod]] microcrustacean and freshwater fish) plus potential paratenic predatory fish hosts to complete its lifecycle.

@@ -107,9 +107,9 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    *   Mebendazole: 100 mg orally twice daily for 5 days.
+    *   [[Mebendazole]]: 100 mg orally twice daily for 5 days.
     *   Note: Anthelmintic therapy remains controversial because rapid drug-induced killing of larvae within the brain can trigger massive release of parasitic antigens, exacerbating central nervous system inflammatory reactions and worsening acute neurological symptoms.
-*   **Alternative / Second-Line Agents:** Albendazole (400 mg orally twice daily for 7 to 14 days) or Levamisole.
+*   **Alternative / Second-Line Agents:** [[Albendazole]] (400 mg orally twice daily for 7 to 14 days) or Levamisole.
 *   **Treatment Nuances & Corticosteroid Protocols:**
     *   *Supportive Pressure Relief:* Repeated therapeutic lumbar punctures to drain CSF are highly effective for immediately lowering elevated intracranial pressure and providing rapid relief from severe headache.
     *   *Corticosteroid Protocol:* Concomitant systemic corticosteroids (e.g., Prednisolone 30 to 60 mg/day or Dexamethasone) are strongly recommended whenever anthelmintics are administered—or used as primary monotherapy—to suppress CNS hypersensitivity reactions, diminish intracranial swelling, and shorten the clinical duration of pain and neurological symptoms. Analgesics should be co-administered for pain control.

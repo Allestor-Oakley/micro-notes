@@ -2,7 +2,6 @@
 aliases:
   - Sappinia diploidea
   - Sappinia sp.
-  - Free-living ameba
 clinical_syndromes:
   - Amebic encephalitis
   - Granulomatous amebic encephalitis (GAE-like)
@@ -71,21 +70,21 @@ draft: false
     - Stool O&P: Stool examination is N/A for clinical diagnosis of encephalitis (although *Sappinia* species have historically been recovered from human feces as non-pathogenic environmental contaminants).
     - Culture: Grown on non-nutrient agar (NNA) plates or in cell-free/axenic media, yielding both motile binucleate trophozoites and encysted forms.
 *   **Serology & Rapid Antigen Tests:**
-    - Immunofluorescence Assay (IFA): Species-specific immunofluorescence microscopy used to differentiate *Sappinia* from *Acanthamoeba*, *Balamuthia*, and *Naegleria*.
+    - Immunofluorescence Assay (IFA): Species-specific immunofluorescence microscopy used to differentiate *Sappinia* from *[[Acanthamoeba]]*, *Balamuthia*, and *Naegleria*.
     - Rapid Antigen Tests: N/A
 *   **Molecular Diagnostics:**
     - Real-Time 18S rRNA Gene PCR Assay: Specific real-time PCR targeting 18S rDNA sequences enabled molecular confirmation and reidentification of the causative pathogen as *Sappinia pedata* (which was originally reported as *S. diploidea* based solely on EM morphology).
-    - CDC Quadruplex Real-Time Multiplex PCR: *Sappinia*-specific primers and TaqMan probe incorporated into a multiplex PCR assay alongside *Acanthamoeba* spp., *Balamuthia mandrillaris*, and *Naegleria fowleri* for single-tube detection of all four human-pathogenic free-living amebae in CSF and tissue. Demonstrates sensitivity down to a single ameba per sample (confirmed using CSF spiked with diluted cultured amebae).
+    - CDC Quadruplex Real-Time Multiplex PCR: *Sappinia*-specific primers and TaqMan probe incorporated into a multiplex PCR assay alongside *[[Acanthamoeba]]* spp., *[[Balamuthia mandrillaris]]*, and *[[Naegleria fowleri]]* for single-tube detection of all four human-pathogenic free-living amebae in CSF and tissue. Demonstrates sensitivity down to a single ameba per sample (confirmed using CSF spiked with diluted cultured amebae).
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
     - Multi-Drug Antimicrobial Combination Regimen (administered post-surgical excision):
-      - Azithromycin
-      - Pentamidine (pentamidine isethionate)
-      - Itraconazole
-      - Flucytosine (5-fluorocytosine / 5-FC)
+      - [[Azithromycin]]
+      - [[Pentamidine]] isethionate
+      - [[Itraconazole]]
+      - [[Flucytosine]] (5-fluorocytosine / 5-FC)
 *   **Alternative Treatments:** Total surgical resection / excision of the solitary brain mass combined with empiric multi-drug amebicidal therapy.
-*   **Treatment Nuances & Dosing Considerations:** Complete surgical excision of the solitary posterior temporal lobe mass followed by prolonged post-operative combination therapy with azithromycin, pentamidine, itraconazole, and flucytosine resulted in complete cure and long-term survival, making *Sappinia pedata* encephalitis one of the very few treatable and survivable free-living amebic CNS infections.
+*   **Treatment Nuances & Dosing Considerations:** Complete surgical excision of the solitary posterior temporal lobe mass followed by prolonged post-operative combination therapy with [[azithromycin]], [[pentamidine]], [[itraconazole]], and [[flucytosine]] resulted in complete cure and long-term survival, making *Sappinia pedata* encephalitis one of the very few treatable and survivable free-living amebic CNS infections.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Hygiene & Occupational Protection: Hand hygiene and protective wear (gloves, masks) for farmers and agricultural workers handling bovine manure, soil contaminated with livestock feces, or decaying plant litter.
     - Chemoprophylaxis: N/A
@@ -99,6 +98,6 @@ draft: false
     - "Reidentified by 18S rRNA PCR" (originally misidentified as *Sappinia diploidea* by electron microscopy, but reidentified as *Sappinia pedata* using 18S rDNA sequencing).
     - "Solitary temporal lobe mass" (necrotizing hemorrhagic mass following sinus infection).
 *   **Exceptions to the Rule:**
-    - Unlike *Naegleria fowleri*, *Acanthamoeba* spp., and *Balamuthia mandrillaris*, *Sappinia pedata* trophozoites uniquely possess TWO nuclei per cell in host tissue and culture, attached via perpendicular filaments.
-    - Unlike *Naegleria fowleri* PAM and *Balamuthia* / *Acanthamoeba* GAE (which carry >95–98% mortality rates), the single documented case of *Sappinia pedata* encephalitis SURVIVED following surgical resection and multi-drug antimicrobial therapy.
+    - Unlike *[[Naegleria fowleri]]*, *[[Acanthamoeba]]* spp., and *[[Balamuthia mandrillaris]]*, *Sappinia pedata* trophozoites uniquely possess TWO nuclei per cell in host tissue and culture, attached via perpendicular filaments.
+    - Unlike *[[Naegleria fowleri]]* PAM and *Balamuthia* / *[[Acanthamoeba]]* GAE (which carry >95–98% mortality rates), the single documented case of *Sappinia pedata* encephalitis SURVIVED following surgical resection and multi-drug antimicrobial therapy.
     - Although cysts of *Sappinia pedata* are readily formed and observed in culture media, cysts have NEVER been found in human brain biopsy tissue sections.

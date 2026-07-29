@@ -75,12 +75,12 @@ draft: false
 *   **Imaging Findings:** Abdominal CT, ultrasonography, or MRI demonstrates hepatomegaly and single or multiple focal hypodense/hypoechoic parenchymal lesions or granulomas mimicking pyogenic liver abscesses, amebic liver abscesses, cirrhosis, or metastatic carcinoma.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Anti-Helminthic Agents:** Albendazole or Mebendazole (administered to manage active true hepatic infections).
-*   **Alternative / Second-Line Agents:** Thiabendazole or Ivermectin.
+*   **First-Line Anti-Helminthic Agents:** [[Albendazole]] or [[Mebendazole]] (administered to manage active true hepatic infections).
+*   **Alternative / Second-Line Agents:** [[Thiabendazole]] or [[Ivermectin]].
 *   **Treatment Nuances & Corticosteroid Protocols:** True human hepatic capillariasis is difficult to treat due to extensive tissue destruction and severe host inflammatory responses to trapped eggs; adjunctive systemic corticosteroids may be administered alongside anthelmintics to suppress heavy granulomatous hepatic inflammation. Spurious infection (pseudoparasitism) requires no anthelmintic treatment.
 *   **Prophylaxis, Sanitation & Food Safety:** Environmental and personal hygiene: enforcing hand hygiene before eating; preventing geophagia/pica in children; thoroughly washing raw vegetables, salad greens, and fruits; boiling drinking water in rural areas; rodent control around dwellings; and avoiding the ingestion of wild animal livers.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** Hepatic capillariasis, spurious infection / pseudoparasitism, eggs trapped in liver parenchyma, no eggs in stool in true infection, rodent/rat reservoir, IFAT serology, hepatitis/cirrhosis mimic.
 *   **Exceptions to the Rule:**
-    *   *The Stool Paradox (True vs. Spurious Infection):* Unlike *Capillaria philippinensis* (where eggs are abundantly shed in stool during intestinal infection), true human *Capillaria hepatica* infection produces NO eggs in stool because eggs are permanently trapped inside granulomas within the liver parenchyma. Conversely, finding *C. hepatica* eggs during routine stool O&P examination indicates *spurious infection* (pseudoparasitism)—a harmless phenomenon resulting from recent ingestion of infected animal liver, where unembryonated eggs pass through the gastrointestinal tract unchanged.
+    *   *The Stool Paradox (True vs. Spurious Infection):* Unlike *[[Capillaria philippinensis]]* (where eggs are abundantly shed in stool during intestinal infection), true human *Capillaria hepatica* infection produces NO eggs in stool because eggs are permanently trapped inside granulomas within the liver parenchyma. Conversely, finding *C. hepatica* eggs during routine stool O&P examination indicates *spurious infection* (pseudoparasitism)—a harmless phenomenon resulting from recent ingestion of infected animal liver, where unembryonated eggs pass through the gastrointestinal tract unchanged.

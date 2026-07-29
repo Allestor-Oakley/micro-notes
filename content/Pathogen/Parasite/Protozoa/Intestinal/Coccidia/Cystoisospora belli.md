@@ -1,7 +1,6 @@
 ---
 aliases:
   - Isospora belli
-  - Cystoisospora belli
   - Isospora hominis
 clinical_syndromes:
   - Cystoisosporiasis
@@ -48,19 +47,19 @@ draft: false
 *   **Diagnostic Stage & Specimen Source:** Immature unsporulated oocysts (20–33 × 10–19 µm) containing a single central sporoblast (rarely 2 sporoblasts) passed in stool. Specimen sources include fresh or preserved human stool (feces), duodenal aspirates or duodenal drainage (Entero-Test string test), and small intestinal (duodenal/jejunal) mucosal biopsy material.
 
 #### Pathogenesis & Host Immune Evasion
-*   **Tissue Tropism & Cellular Invasion:** Primary tropism is for the mucosal epithelial cells (enterocytes) of the upper small bowel, specifically the jejunum and distal duodenum. In severely immunocompromised/AIDS patients, extraintestinal dissemination can occur to mesenteric lymph nodes, spleen, liver, tracheobronchial tree, and lungs.
+*   **Tissue Tropism & Cellular Invasion:** Primary tropism is for the mucosal epithelial cells (enterocytes) of the upper small bowel, specifically the jejunum and distal duodenum. In severely immunocompromised/AIDS patients, extraintestinal dissemination can occur to mesenteric [[lymph nodes]], [[spleen]], liver, tracheobronchial tree, and lungs.
 *   **Cytopathic Effects & Tissue Destruction:** Intracellular replication causes structural destruction of enterocytes, transformation of normal columnar cells into flattened cuboidal epithelium, severe blunting and atrophy of intestinal villi, crypt hyperplasia, and diffuse mucosal edema. Characterized histopathologically by a heavy inflammatory cellular infiltrate in the lamina propria dominated by eosinophils. Causes a severe malabsorption syndrome, impaired absorption of D-xylose and fats, watery diarrhea, and rapid fluid and weight loss.
 *   **Immune Evasion Strategies:**
     - Environmental Maturation Strategy: Shedding unsporulated oocysts into the external environment prevents rapid internal autoinfective cycles within the same host under normal conditions.
     - Intracellular Niche: Development inside parasitophorous vacuoles within enterocytes shields replicating asexual and sexual stages from luminal antibodies and phagocytic clearance.
-*   **Host Defense & Immunodeficiency Links:** Host protection relies on CD4+ T-cell-mediated cellular immunity. In immunocompetent hosts, infection is typically self-limiting (lasting days to 1–2 weeks). In immunocompromised hosts (HIV/AIDS patients with CD4+ T-cell depletion, solid organ transplant recipients, Hodgkin's lymphoma, stem cell transplant patients, and individuals on systemic corticosteroid therapy) as well as non-HIV risk groups (chronic alcoholism, poor hygiene, severe malnutrition, debilitating infectious diseases), *C. belli* produces severe, intractable, chronic watery diarrhea lasting for months to years, high fever, abdominal colic, profound weight loss, electrolyte collapse, and potential death. Chronic relapsing infections occur frequently in AIDS patients despite antimicrobial therapy and immune reconstitution.
+*   **Host Defense & Immunodeficiency Links:** Host protection relies on CD4+ [[T Cell|T-cell]]-mediated cellular immunity. In immunocompetent hosts, infection is typically self-limiting (lasting days to 1–2 weeks). In immunocompromised hosts ([[HIV]]/AIDS patients with CD4+ [[T Cell|T-cell]] depletion, solid organ transplant recipients, Hodgkin's lymphoma, stem cell transplant patients, and individuals on systemic corticosteroid therapy) as well as non-[[HIV]] risk groups (chronic alcoholism, poor hygiene, severe malnutrition, debilitating infectious diseases), *C. belli* produces severe, intractable, chronic watery diarrhea lasting for months to years, high fever, abdominal colic, profound weight loss, electrolyte collapse, and potential death. Chronic relapsing infections occur frequently in AIDS patients despite antimicrobial therapy and immune reconstitution.
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:**
     - Acute Watery Diarrhea / Cystoisosporiasis: Incubation period averages ~1 week. Onset is characterized by low-grade fever, abdominal colic/cramping, anorexia, nausea, vomiting, malaise, and watery to soft diarrhea (usually 6 to 10 bowel movements per day). Stools are soft, foamy, and offensive-smelling, reflecting fat malabsorption.
 *   **Chronic & Extra-Intestinal Disease:**
-    - Chronic AIDS-Associated Cystoisosporiasis: Persistent, unrelenting, high-volume watery diarrhea lasting for months or years in patients with advanced HIV/AIDS, leading to severe malabsorption, steatorrhea, profound weight loss, generalized wasting syndrome, and electrolyte imbalances.
-    - Extraintestinal Disseminated Cystoisosporiasis: Documented at autopsy in severely immunocompromised AIDS patients, with parasites identified in mesenteric lymph nodes, spleen, liver, and tracheobronchial/pulmonary tissues (presenting with dyspnea, fever, cough, and generalized wasting).
+    - Chronic AIDS-Associated Cystoisosporiasis: Persistent, unrelenting, high-volume watery diarrhea lasting for months or years in patients with advanced [[HIV]]/AIDS, leading to severe malabsorption, steatorrhea, profound weight loss, generalized wasting syndrome, and electrolyte imbalances.
+    - Extraintestinal Disseminated Cystoisosporiasis: Documented at autopsy in severely immunocompromised AIDS patients, with parasites identified in mesenteric [[lymph nodes]], [[spleen]], liver, and tracheobronchial/pulmonary tissues (presenting with dyspnea, fever, cough, and generalized wasting).
 *   **Pathognomonic Signs:** Microscopic identification of large, elongated/fusiform oocysts (20–33 × 10–19 µm) with tapered ends passed unsporulated (containing 1 central sporoblast) that are modified acid-fast positive (bright pink/red) AND exhibit intense autofluorescence (bright blue or green) under UV epifluorescence microscopy. Abundant Charcot-Leyden crystals in stool preparations secondary to intestinal lamina propria eosinophilia.
 *   **Host Immune Response & Laboratory Findings:**
     - Stool Analysis: Stool is watery to soft, foamy, non-bloody, containing unsporulated oocysts and numerous Charcot-Leyden crystals (diamond-shaped protein crystals derived from disintegrating eosinophils).
@@ -89,24 +88,24 @@ draft: false
 *   **Serology & Rapid Antigen Tests:**
     - Antibody / Antigen Detection: N/A. No commercial fecal antigen detection kits (EIA/DFA) or serum antibody assays exist for *Cystoisospora belli*.
 *   **Molecular Diagnostics:**
-    - Polymerase Chain Reaction (PCR): Real-time PCR and nested PCR targeting small subunit (18S) rRNA gene sequences or internal transcribed spacer (ITS) loci, combined with melting curve analysis, provide highly sensitive and specific detection, differentiating *Cystoisospora belli* from *Sarcocystis*, *Cryptosporidium*, and *Cyclospora*.
+    - Polymerase Chain Reaction (PCR): Real-time PCR and nested PCR targeting small subunit (18S) rRNA gene sequences or internal transcribed spacer (ITS) loci, combined with melting curve analysis, provide highly sensitive and specific detection, differentiating *Cystoisospora belli* from *[[Sarcocystis]]*, *[[Cryptosporidium]]*, and *[[Cyclospora cayetanensis]]*.
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Trimethoprim-Sulfamethoxazole (TMP-SMX / Co-trimoxazole): Drug of choice.
+    - [[Cotrimoxazole|Trimethoprim-Sulfamethoxazole]]: Drug of choice.
       - Treatment Regimen: TMP 160 mg + SMX 800 mg (1 Double Strength [DS] tablet) PO QID (every 6 hours) for 10 days, followed by 1 DS tablet PO BID for 3 weeks (total 4 weeks of therapy).
       - Pediatric Dosage: TMP 10 mg/kg/day + SMX 50 mg/kg/day PO in divided doses.
 *   **Alternative Treatments:**
-    - Pyrimethamine: 50 to 75 mg PO once daily (administered with folinic acid 10 to 25 mg/day PO to prevent bone marrow toxicity) for patients with severe sulfonamide allergy.
-    - Ciprofloxacin: 500 mg PO BID for 7 to 10 days (secondary alternative for sulfa-allergic patients).
-    - Nitazoxanide: Used as an alternative agent in some clinical settings.
-    - Historical / Secondary Agents: Primaquine plus Chloroquine, Doxycycline, Metronidazole, Phanquone, and Quinacrine hydrochloride.
+    - [[Pyrimethamine]]: 50 to 75 mg PO once daily (administered with folinic acid 10 to 25 mg/day PO to prevent [[bone marrow]] toxicity) for patients with severe [[sulfonamide]] allergy.
+    - [[Ciprofloxacin]]: 500 mg PO BID for 7 to 10 days (secondary alternative for sulfa-allergic patients).
+    - [[Nitazoxanide]]: Used as an alternative agent in some clinical settings.
+    - Historical / Secondary Agents: [[Primaquine]] plus [[Chloroquine]], [[Doxycycline]], [[Metronidazole]], Phanquone, and Quinacrine hydrochloride.
 *   **Treatment Nuances & Dosing Considerations:**
-    - Secondary Prophylaxis / Suppression in HIV/AIDS: Patients with advanced HIV/AIDS experience a high relapse rate (~50%) following completion of initial acute therapy. Long-term secondary maintenance prophylaxis with TMP-SMX (1 DS tablet PO 3 times weekly or 1 DS tablet daily) is required indefinitely or until CD4+ T-cell counts rise above 200 cells/mm³ on HAART.
+    - Secondary Prophylaxis / Suppression in [[HIV]]/AIDS: Patients with advanced [[HIV]]/AIDS experience a high relapse rate (~50%) following completion of initial acute therapy. Long-term secondary maintenance prophylaxis with [[Cotrimoxazole|TMP-SMX]] (1 DS tablet PO 3 times weekly or 1 DS tablet daily) is required indefinitely or until CD4+ [[T Cell|T-cell]] counts rise above 200 cells/mm³ on HAART.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Water & Food Safety: Boil drinking water for 10 minutes, submicron/sand filtration, thorough washing or cooking of raw produce, and sanitary human waste disposal.
     - Personal Hygiene: Thorough handwashing with soap and water after toilet use and before food handling.
-    - Primary Prophylaxis: TMP-SMX administered for *Pneumocystis jirovecii* pneumonia (PCP) prophylaxis in HIV-infected patients provides effective concurrent primary protection against *Cystoisospora belli*.
+    - Primary Prophylaxis: [[Cotrimoxazole|TMP-SMX]] administered for *[[Pneumocystis jirovecii]]* pneumonia prophylaxis in [[HIV]]-infected patients provides effective concurrent primary protection against *Cystoisospora belli*.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
@@ -116,9 +115,9 @@ draft: false
     - "Autofluoresces bright blue or green under UV light".
     - "Charcot-Leyden crystals in stool" secondary to tissue eosinophilia.
     - "Polyvinyl Alcohol (PVA) Fixative Incompatibility" (oocysts destroyed/not recovered from PVA).
-    - "Trimethoprim-sulfamethoxazole (TMP-SMX) is drug of choice".
+    - "([[Cotrimoxazole|TMP-SMX]]) is drug of choice".
 *   **Exceptions to the Rule:**
-    - Unlike *Cryptosporidium* oocysts (which are fully sporulated and immediately infectious when passed in stool), *Cystoisospora belli* oocysts are passed UNSPORULATED and require 24 to 48 hours in the external environment to mature, preventing immediate direct person-to-person autoinfection.
-    - Unlike *Cryptosporidium* (4–6 µm) and *Cyclospora* (8–10 µm) which are small spherical oocysts, *Cystoisospora belli* oocysts are exceptionally LARGE (20–33 µm) and uniquely elongated/fusiform with tapered ends.
+    - Unlike *[[Cryptosporidium]]* oocysts (which are fully sporulated and immediately infectious when passed in stool), *Cystoisospora belli* oocysts are passed UNSPORULATED and require 24 to 48 hours in the external environment to mature, preventing immediate direct person-to-person autoinfection.
+    - Unlike *[[Cryptosporidium]]* (4–6 µm) and *Cyclospora* (8–10 µm) which are small spherical oocysts, *Cystoisospora belli* oocysts are exceptionally LARGE (20–33 µm) and uniquely elongated/fusiform with tapered ends.
     - Stool specimens preserved in Polyvinyl Alcohol (PVA) CANNOT be used for concentration recovery of *C. belli* oocysts; formalin, SAF, or TOTAL-FIX must be used.
     - *Cystoisospora belli* infection characteristically produces prominent peripheral blood eosinophilia and abundant Charcot-Leyden crystals in stool, a combination that is rare among other intestinal protozoan infections.

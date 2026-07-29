@@ -47,16 +47,16 @@ draft: false
 *   **Adult Worm Morphology & Attachment Structures:**
     - Size & Habitat: Exceedingly small adult tapeworm residing attached to the mucosal crypts of the small intestine in definitive wild and domestic canine hosts.
     - Scolex Features: Anterior attachment organ (scolex) equipped with four muscular cup-shaped suckers and a central prominent rostellum armed with a double crown / double row of characteristic curved rostellar hooklets.
-    - Rostellar Hooklet Size (Diagnostic Feature): Possesses the LARGEST rostellar hooklets among all species in the genus Echinococcus (distinctly larger than the rostellar hooklets of Echinococcus granulosus, Echinococcus multilocularis, and Echinococcus oligarthrus).
+    - Rostellar Hooklet Size (Diagnostic Feature): Possesses the LARGEST rostellar hooklets among all species in the genus Echinococcus (distinctly larger than the rostellar hooklets of [[Echinococcus granulosus]], [[Echinococcus multilocularis]], and [[Echinococcus oligarthrus]]).
     - Strobila Architecture: Short body (strobila) composed of a scolex, neck, and only a few proglottids.
 *   **Ova / Egg Microscopic Features:**
-    - Microscopic Appearance: Typical taeniid-type egg, morphologically indistinguishable under light microscopy from eggs of Echinococcus granulosus, Echinococcus multilocularis, and Taenia species.
+    - Microscopic Appearance: Typical taeniid-type egg, morphologically indistinguishable under light microscopy from eggs of [[Echinococcus granulosus]], [[Echinococcus multilocularis]], and Taenia species.
     - Dimensions & Shell: Spherical to slightly ovoid, surrounded by a thick, dark brown, double-contoured, radially striated shell (embryophore).
     - Internal Embryo: Encloses a fully developed, six-hooked hexacanth embryo (oncosphere) with internal refractile hooklets. Passed fully embryonated and immediately infective in canine feces.
 *   **Larval Stage Morphologies:**
     - Metacestode / Polycystic Hydatid Cyst Architecture: Larval stage develops as a large, multiloculated, fluid-filled polycystic mass lesion.
     - Vesicle Growth Mechanics: Proliferates through both endogenous (internal) and exogenous (external) budding, forming conglomerate masses of fluid-filled vesicles/cysts that vary in size from a few millimeters to several centimeters in diameter.
-    - Internal Contents & Fertility: Unlike Echinococcus multilocularis (which forms microvesicles that are predominantly sterile in human hosts), the polycystic vesicles of Echinococcus vogeli in humans are fluid-filled and fertile, containing clear cyst fluid, germinal and laminated membranes, brood capsules, and abundant protoscolices equipped with characteristically large rostellar hooklets.
+    - Internal Contents & Fertility: Unlike [[Echinococcus multilocularis]] (which forms microvesicles that are predominantly sterile in human hosts), the polycystic vesicles of Echinococcus vogeli in humans are fluid-filled and fertile, containing clear cyst fluid, germinal and laminated membranes, brood capsules, and abundant protoscolices equipped with characteristically large rostellar hooklets.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Hermaphroditic: Each mature proglottid is a functional hermaphroditic unit containing male and female reproductive structures.
     - Egg Production: Gravid proglottids detach or rupture within the intestine of bush dogs or domestic dogs, releasing thousands of infective embryonated eggs into feces.
@@ -89,7 +89,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - Absorbs host nutrients directly across the outer laminated endocyst membrane into cyst fluid. Chronic advanced polycystic disease leads to abdominal distension, severe weight loss, cachexia, and secondary anemia.
 *   **Immune Evasion Strategies:**
-    - Laminated Layer & Fibrotic Encapsulation: Acellular, PAS-positive laminated layer shields inner germinal tissue and protoscolices from immediate cellular destruction by host macrophages and complement, permitting silent intrahepatic growth for years.
+    - Laminated Layer & Fibrotic Encapsulation: Acellular, PAS-positive laminated layer shields inner germinal tissue and protoscolices from immediate cellular destruction by host [[Macrophage|macrophages]] and complement, permitting silent intrahepatic growth for years.
 *   **Host Defense & Immunodeficiency Links:**
     - Elicits local host granulomatous inflammation and fibrous capsule formation. Spontaneous or intraoperative rupture of polycystic vesicles releases antigenic fluid, triggering acute IgE-mediated hypersensitivity, fever, urticaria, or anaphylactic shock.
 
@@ -117,7 +117,7 @@ draft: false
     - Ingestion of untreated drinking water from forest streams, unwashed wild fruits, or raw produce contaminated with dog feces carrying eggs. Hand-to-mouth contact with infected domestic hunting dogs.
 *   **Public Health & Mass Drug Administration:**
     - Major cause of human polycystic hydatid disease in the Neotropics.
-    - Control Strategies: Preventing domestic hunting dogs from eating raw paca viscera/offal; regular anthelmintic deworming of rural hunting dogs with praziquantel; boiling surface drinking water; public health education in forest communities.
+    - Control Strategies: Preventing domestic hunting dogs from eating raw paca viscera/offal; regular anthelmintic deworming of rural hunting dogs with [[praziquantel]]; boiling surface drinking water; public health education in forest communities.
 
 #### Advanced Laboratory Diagnostics
 *   **Stool Ova & Parasite Examination:**
@@ -135,15 +135,15 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Helminthic Agents:**
-    - Oral Albendazole: Principal medical therapy for polycystic echinococcosis. Administered at 400 mg twice daily (or 15 mg/kg/day in two divided doses with fatty meals). Used as primary treatment for inoperable polycystic masses, multiple organ involvement, or as pre- and post-operative cover.
+    - Oral [[Albendazole]]: Principal medical therapy for polycystic echinococcosis. Administered at 400 mg twice daily (or 15 mg/kg/day in two divided doses with fatty meals). Used as primary treatment for inoperable polycystic masses, multiple organ involvement, or as pre- and post-operative cover.
 *   **Alternative / Second-Line Agents:**
-    - Oral Mebendazole (40–50 mg/kg/day).
-    - Oral Praziquantel: Used as an adjunct to albendazole to enhance protoscolecidal activity.
+    - Oral [[Mebendazole]] (40–50 mg/kg/day).
+    - Oral [[Praziquantel]]: Used as an adjunct to [[albendazole]] to enhance protoscolecidal activity.
 *   **Treatment Nuances & Corticosteroid Protocols:**
-    - Surgical Resection: Radical or conservative surgical excision of polycystic masses is the definitive treatment when anatomically feasible. Must be combined with mandatory pre- and post-operative albendazole therapy to prevent secondary seeding from spilled fluid.
-    - Inoperable Disease: Continuous long-term albendazole therapy for months to years in extensive, non-resectable abdominal polycystic disease.
+    - Surgical Resection: Radical or conservative surgical excision of polycystic masses is the definitive treatment when anatomically feasible. Must be combined with mandatory pre- and post-operative [[albendazole]] therapy to prevent secondary seeding from spilled fluid.
+    - Inoperable Disease: Continuous long-term [[albendazole]] therapy for months to years in extensive, non-resectable abdominal polycystic disease.
 *   **Prophylaxis, Sanitation & Food Safety:**
-    - Veterinary Control: Strict prohibition of feeding raw offal or liver from hunted pacas to domestic dogs. Regular deworming of hunting dogs with praziquantel.
+    - Veterinary Control: Strict prohibition of feeding raw offal or liver from hunted pacas to domestic dogs. Regular deworming of hunting dogs with [[praziquantel]].
     - Personal & Water Hygiene: Boiling surface drinking water in rainforest areas; thorough washing of raw produce; washing hands with soap and water after dog contact.
 
 #### Trivia & Edge Cases
