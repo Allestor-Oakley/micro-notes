@@ -1,5 +1,6 @@
 ---
 aliases:
+  - C. glabrata
 clinical_syndromes:
   - Candidiasis
   - Candidemia (Bloodstream infections)
@@ -73,7 +74,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **Targeting Membrane / Ergosterol:** *C. glabrata* demonstrates significant intrinsic and acquired resistance to azoles. It shows moderate activity/resistance to [[fluconazole]] (++), [[itraconazole]] (++), and [[isavuconazole]] (+++), with somewhat better but still variable activity to [[voriconazole]] (+++). It exhibits reliable activity with occasional resistance to [[amphotericin B]] (+++) and moderate activity/resistance to [[flucytosine]] (++).
-*   **Targeting Cell Wall / Glucan:** Highly susceptible and very active (++++) against the echinocandins (e.g., [[anidulafungin]], [[caspofungin]], [[micafungin]], and rezafungin).
+*   **Targeting Cell Wall / Glucan:** Highly susceptible and very active (++++) against the echinocandins (e.g., [[Anidulafungin]], [[Caspofungin]], [[Micafungin]], and rezafungin).
 *   **Alternative / Cutaneous Treatments:** Topical application of systemically active antifungal agents for superficial mucosal and cutaneous infections. Removal of indwelling central venous or urinary catheters is critical for resolving catheter-associated fungemia.
 *   **Treatment Nuances & Formulations:** Because *C. glabrata* is frequently resistant to [[fluconazole]], empirical therapy for invasive candidiasis or candidemia in critically ill patients, especially those with prior azole exposure or hematologic malignancies, heavily relies on echinocandins as first-line therapy.
 *   **Prophylaxis & Prevention:** Strict catheter/line management and the judicious use of broad-spectrum antibacterial and antifungal ([[fluconazole]]) agents to prevent selective endogenous overgrowth.

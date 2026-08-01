@@ -42,7 +42,7 @@ draft: false
 
 #### Virulence Factors & Pathogenesis
 *   **Enzymes & Proteases:** N/A
-*   **Host Immune Evasion:** Highly virulent and inherently multidrug-resistant (MDR), complicating treatment and contributing to high mortality rates. It has deployed multiple methods of drug resistance, possibly spurred by exposure to antifungals in the environment. It expresses resistance to the three major classes of antifungal agents: 90% of isolates are resistant to [[fluconazole]], up to 30% are resistant to [[amphotericin B]] (polyenes), and 2-5% are resistant to [[echinocandins]].
+*   **Host Immune Evasion:** Highly virulent and inherently multidrug-resistant (MDR), complicating treatment and contributing to high mortality rates. It has deployed multiple methods of drug resistance, possibly spurred by exposure to antifungals in the environment. It expresses resistance to the three major classes of antifungal agents: 90% of isolates are resistant to [[fluconazole]], up to 30% are resistant to [[amphotericin B]] (polyenes), and 2-5% are resistant to [[Echinocandins]].
 *   **Thermal Tolerance Mechanisms:** Readily proliferates at 42°C, a characteristic that gives it an advantage and differentiates it from other *Candida* species.
 *   **Toxins:** N/A
 *   **Host Defense & Immunodeficiency Links:** Innate host defenses, specifically neutrophils and [[Monocyte|monocytes]], provide crucial protection against systemic opportunistic mycoses like candidiasis. Patients at increased risk for invasive disease include those with hematologic dyscrasias (e.g., leukemia, neutropenia) and those receiving immunosuppressive therapies (e.g., corticosteroids) or cytotoxic drugs.
@@ -68,7 +68,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **Targeting Membrane / Ergosterol:** *C. auris* demonstrates high levels of innate and acquired resistance. Approximately 90% of isolates are resistant to [[fluconazole]] (an azole), and up to 30% are resistant to [[amphotericin B]] (a polyene).
-*   **Targeting Cell Wall / Glucan:** Approximately 2% to 5% of isolates exhibit resistance to [[echinocandins]].
+*   **Targeting Cell Wall / Glucan:** Approximately 2% to 5% of isolates exhibit resistance to [[Echinocandins]].
 *   **Alternative / Cutaneous Treatments:** N/A
 *   **Treatment Nuances & Formulations:** The multidrug-resistant profile makes *C. auris* infections exceptionally difficult to treat, often leading to therapy failure and high mortality rates in systemic disease.
 *   **Prophylaxis & Prevention:** Prevention relies heavily on identifying the reservoir through targeted environmental and patient screening, followed by the rigorous application of appropriate infection control (IC) precautions to stop nosocomial spread.

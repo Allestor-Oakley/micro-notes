@@ -74,7 +74,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **Targeting Membrane / Ergosterol:** An [[amphotericin B]] formulation (preferably [[liposomal amphotericin B]]) is the first-line antifungal therapy. [[Isavuconazole]] and the delayed-release formulation of [[posaconazole]] are alternative first-line treatments and have documented efficacy. [[Voriconazole]] and fluconazole are inactive and should not be used.
-*   **Targeting Cell Wall / Glucan:** The [[echinocandins]] are generally not active against the Mucormycetes.
+*   **Targeting Cell Wall / Glucan:** The [[Echinocandins]] are generally not active against the Mucormycetes.
 *   **Alternative / Cutaneous Treatments:** Early, aggressive, and complete surgical debridement and resection of necrotic tissues is critical to survival and should be repeated as needed.
 *   **Treatment Nuances & Formulations:** Reversal of underlying immunosuppression and metabolic abnormalities (e.g., tight glycemic control, correction of diabetic ketoacidosis) is crucial. The optimum duration of therapy is unknown (ranging from a few weeks to 3 years, with a mean of 6 months) and must be individualized based on clinical resolution, radiographical improvement, and the host's immune status.
 *   **Prophylaxis & Prevention:** Better control of diabetes, appropriate use of corticosteroids, antibiotics, and immunomodulators. Strict sterilization and disinfection of equipment used by multiple patients, proper wound management, and proper line management in health facilities are required.

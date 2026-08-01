@@ -1,5 +1,6 @@
 ---
 aliases:
+  - C. krusei
 clinical_syndromes:
   - Candidiasis
   - Candidemia (Bloodstream infections)
@@ -70,7 +71,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **Targeting Membrane / Ergosterol:** *Candida krusei* is intrinsically resistant to [[fluconazole]] (0 activity) and exhibits moderate activity/resistance to [[amphotericin B]] (++) and [[itraconazole]] (++). It shows occasional activity against [[flucytosine]] (+). It is highly susceptible and very active against the extended-spectrum azoles [[voriconazole]] (++++) and [[isavuconazole]] (++++).
-*   **Targeting Cell Wall / Glucan:** Highly susceptible and very active (++++) against the echinocandins ([[anidulafungin]], [[caspofungin]], [[micafungin]], and rezafungin).
+*   **Targeting Cell Wall / Glucan:** Highly susceptible and very active (++++) against the echinocandins ([[Anidulafungin]], [[Caspofungin]], [[Micafungin]], and rezafungin).
 *   **Alternative / Cutaneous Treatments:** Topical application of systemically active antifungal agents for superficial mucosal and cutaneous infections. Removal of indwelling central venous catheters is crucial for resolving catheter-associated candidemia.
 *   **Treatment Nuances & Formulations:** Because *C. krusei* is [[fluconazole]]-resistant, empirical therapy for invasive candidiasis or candidemia in critically ill patients, especially those with prior azole exposure or hematologic malignancies, must utilize an echinocandin or a broader-spectrum azole like [[voriconazole]].
 *   **Prophylaxis & Prevention:** Strict catheter/line management and the judicious use of broad-spectrum antibacterial and antifungal ([[fluconazole]]) agents to prevent selective overgrowth.

@@ -80,7 +80,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **Targeting Membrane / Ergosterol:** [[Amphotericin B]] (particularly lipid formulations) is the first-line antifungal therapy and possesses the most reliable activity. Among the extended-spectrum azoles, [[posaconazole]] and [[isavuconazole]] are active and have documented clinical efficacy. [[Voriconazole]], [[fluconazole]], and [[itraconazole]] are completely inactive.
-*   **Targeting Cell Wall / Glucan:** The echinocandins ([[caspofungin]], [[micafungin]], [[anidulafungin]]) are generally inactive or exhibit very limited activity against Mucormycetes and are not recommended as primary monotherapy.
+*   **Targeting Cell Wall / Glucan:** The echinocandins ([[Caspofungin]], [[Micafungin]], [[Anidulafungin]]) are generally inactive or exhibit very limited activity against Mucormycetes and are not recommended as primary monotherapy.
 *   **Alternative / Cutaneous Treatments:** Early, aggressive, and repeated surgical resection and debridement of infected, necrotic tissue is an absolutely critical adjunct to medical therapy and is required for survival.
 *   **Treatment Nuances & Formulations:** Antifungal chemotherapy alone is rarely curative. Reversal of the underlying immunosuppression or metabolic abnormality (e.g., resolving neutropenia, correcting diabetic ketoacidosis, discontinuing deferoxamine) is crucial to successful management. Breakthrough mucormycosis is frequently seen in [[bone marrow]] transplant (BMT) patients receiving [[voriconazole]] prophylaxis due to its lack of efficacy against this genus.
 *   **Prophylaxis & Prevention:** Strict glycemic control in diabetic patients, judicious use of corticosteroids and immunosuppressants, and meticulous wound care.
