@@ -54,7 +54,7 @@ draft: false
     *   **Mechanism of Action:** N/A
 *   **Endotoxins & Superantigens:** N/A (Lacks LPS).
 *   **Enzymes:** Hyaluronidase, which breaks down hyaluronic acid in the ground substance of tissue and presumably enhances invasiveness and perivascular infiltration.
-*   **Genetic Elements:** The genome is a highly conserved, small circular chromosome of approximately 1,138,000 base pairs. It uniquely lacks transposable elements, which likely explains its continued susceptibility to [[penicillin]]. Its genome differs by less than 0.2% from other closely related endemic treponemes.
+*   **Genetic Elements:** The genome is a highly conserved, small circular chromosome of approximately 1,138,000 base pairs. It uniquely lacks transposable elements, which likely explains its continued susceptibility to [[Penicillin]]. Its genome differs by less than 0.2% from other closely related endemic treponemes.
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection penetrates intact mucous membranes or enters through microscopic abrasions. Outer membrane proteins promote adherence to host cells, and it is known to bind to host fibronectin.
@@ -88,8 +88,8 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin]] (e.g., [[Penicillin G|Benzylpenicillin]], [[Penicillin G]]) is the definitive drug of choice for all stages of syphilis.
-*   **Alternative / Second-Line Treatment:** [[Doxycycline]], [[ceftriaxone]], or [[azithromycin]] can be used as alternatives for patients allergic to [[penicillin]] (except in pregnant patients where [[penicillin]] desensitization is often required).
-*   **Mechanisms of Resistance & Resistance Genes:** Highly susceptible to [[penicillin]] because its conserved, small genome lacks transposable elements to acquire resistance genes.
+*   **Alternative / Second-Line Treatment:** [[Doxycycline]], [[ceftriaxone]], or [[azithromycin]] can be used as alternatives for patients allergic to [[Penicillin]] (except in pregnant patients where [[Penicillin]] desensitization is often required).
+*   **Mechanisms of Resistance & Resistance Genes:** Highly susceptible to [[Penicillin]] because its conserved, small genome lacks transposable elements to acquire resistance genes.
 *   **Treatment Nuances & Contraindications:** Antibiotic treatment handles the active infection but does not reverse tissue damage sustained in late (tertiary) disease.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Prevention relies on condom use, sexual health education, and prophylactic treatment of exposed partners.
 

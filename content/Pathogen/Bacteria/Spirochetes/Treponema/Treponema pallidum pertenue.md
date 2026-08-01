@@ -77,8 +77,8 @@ draft: false
 *   **Diagnostic Nuances:** Animal models can be used to distinguish treponemal organisms; infected rabbits and hamsters develop lymphadenopathy and cutaneous lesions that differ in distribution, form, and number from those seen in models of venereal syphilis.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** A single dose of intramuscular [[penicillin]] ([[Penicillin G|benzylpenicillin]] / [[Penicillin G]]) is the treatment of choice.
-*   **Alternative / Second-Line Treatment:** Tetracyclines (e.g., [[doxycycline]]) and macrolides (e.g., [[erythromycin]]) can be used as alternatives for patients with [[penicillin]] allergies.
+*   **First-Line Treatment:** A single dose of intramuscular [[Penicillin]] ([[Penicillin G|benzylpenicillin]] / [[Penicillin G]]) is the treatment of choice.
+*   **Alternative / Second-Line Treatment:** Tetracyclines (e.g., [[doxycycline]]) and macrolides (e.g., [[erythromycin]]) can be used as alternatives for patients with [[Penicillin]] allergies.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** N/A
 *   **Prophylaxis & Vaccine Protocols:** N/A

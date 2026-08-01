@@ -75,9 +75,9 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin]] is the drug of choice for both localized (erysipeloid) and systemic diseases (septicemia/endocarditis).
-*   **Alternative / Second-Line Treatment:** For localized cutaneous infections in [[penicillin]]-allergic patients, [[ciprofloxacin]] or [[clindamycin]] can be used. For disseminated infections, [[ceftriaxone]] or [[imipenem]] are alternative choices.
+*   **Alternative / Second-Line Treatment:** For localized cutaneous infections in [[Penicillin]]-allergic patients, [[ciprofloxacin]] or [[clindamycin]] can be used. For disseminated infections, [[ceftriaxone]] or [[imipenem]] are alternative choices.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
-*   **Treatment Nuances & Contraindications:** In cases of severe endocarditis with paravalvular abscesses, surgical valve replacement combined with systemic antibiotic therapy (e.g., [[penicillin]] and [[clindamycin]]) is often required.
+*   **Treatment Nuances & Contraindications:** In cases of severe endocarditis with paravalvular abscesses, surgical valve replacement combined with systemic antibiotic therapy (e.g., [[Penicillin]] and [[clindamycin]]) is often required.
 *   **Prophylaxis & Vaccine Protocols:** Prevention involves occupational safety measures, such as covering exposed skin (wearing gloves) when handling animals or animal products. A vaccine is available and recommended for swineherds to control the disease in animal populations.
 
 #### Trivia & Edge Cases

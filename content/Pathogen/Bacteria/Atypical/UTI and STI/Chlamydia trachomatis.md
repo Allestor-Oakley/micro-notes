@@ -79,7 +79,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Azithromycin]] or [[doxycycline]] are the drugs of choice for urogenital infections, trachoma, and LGV. [[Erythromycin]] is used to treat newborn conjunctivitis and infant pneumonia.
-*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[levofloxacin]]) or [[amoxicillin]].
+*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[levofloxacin]]) or [[Amoxicillin]].
 *   **Mechanisms of Resistance & Resistance Genes:** Intrinsically susceptible to sulfonamides because it synthesizes its own folates. It is inherently resistant to aminoglycosides.
 *   **Treatment Nuances & Contraindications:** Cell wall inhibitors like penicillins and cephalosporins are clinically ineffective; while they induce morphologically defective forms in actively replicating RBs, they fail to eradicate the intracellular infection. Co-infection with *[[Neisseria gonorrhoeae]]* is common and should be considered during empirical treatment.
 *   **Prophylaxis & Vaccine Protocols:** No effective vaccine is currently available (prior infection provides little protective immunity and often aggravates scarring upon reinfection). Prophylactic periodic [[azithromycin]] is used in endemic trachoma regions.

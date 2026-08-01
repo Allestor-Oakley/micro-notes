@@ -39,7 +39,7 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Cultivation requires an incubation temperature of 37°C. Compared to other *Mycoplasma* species, *M. hominis* exhibits relatively rapid growth (2 to 3 days) and has less stringent nutritional requirements. Reproduction can occur via budding, fragmentation, or binary fission.
 *   **Primary Agar:** Requires complex media containing serum (to provide sterols), a metabolic substrate (such as glucose or urea), and growth factors like yeast extract. On solid media, it classically forms minute, characteristic "fried egg" colonies.
-*   **Selective / Enriched Agar:** Media is often supplemented with a [[penicillin]] antibiotic to inhibit the overgrowth of normal, cell-wall-producing bacterial flora.
+*   **Selective / Enriched Agar:** Media is often supplemented with a [[Penicillin]] antibiotic to inhibit the overgrowth of normal, cell-wall-producing bacterial flora.
 *   **Metabolic Profile & Biochemical Testing:** Some human mycoplasmas are known to produce peroxides and hemolyze red blood cells. Antigenically, it is distinct from other *Mycoplasma* species.
 
 #### Virulence Factors & Genetics

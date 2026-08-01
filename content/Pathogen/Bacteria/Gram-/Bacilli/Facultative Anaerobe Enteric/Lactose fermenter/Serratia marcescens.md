@@ -75,7 +75,7 @@ draft: false
 *   **Serology & Immunology:** Matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) mass spectrometry is rapidly used for definitive species identification.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Carbapenems ([[imipenem]] or [[meropenem]]) or [[piperacillin]]-[[tazobactam]].
+*   **First-Line Treatment:** Carbapenems ([[imipenem]] or [[meropenem]]) or [[Piperacillin]]-[[tazobactam]].
 *   **Alternative / Second-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (TMP-SMZ), aminoglycosides, fluoroquinolones, or cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]], ceftizoxime, [[ceftazidime]], [[cefepime]]).
 *   **Mechanisms of Resistance & Resistance Genes:** Treatment of infections is often difficult because the organism is frequently resistant to multiple antibiotics.
 *   **Treatment Nuances & Contraindications:** N/A

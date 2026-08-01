@@ -102,10 +102,10 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin]] G is the drug of choice for susceptible strains. For serious infections or empirical therapy in neonates (until the specific pathogen is identified), broad-spectrum antibiotics (such as a broad-spectrum [[cephalosporin]] combined with an aminoglycoside like [[gentamicin]]) are used.
-*   **Alternative / Second-Line Treatment:** Cephalosporins or [[vancomycin]] are used for patients who are allergic to [[penicillin]].
-*   **Mechanisms of Resistance & Resistance Genes:** Resistance to [[penicillin]] is increasingly common, though specific resistance genes are not detailed.
+*   **Alternative / Second-Line Treatment:** Cephalosporins or [[vancomycin]] are used for patients who are allergic to [[Penicillin]].
+*   **Mechanisms of Resistance & Resistance Genes:** Resistance to [[Penicillin]] is increasingly common, though specific resistance genes are not detailed.
 *   **Treatment Nuances & Contraindications:** Empirical therapy with broad-spectrum antibiotics is critical until the pathogen is identified.
-*   **Prophylaxis & Vaccine Protocols:** Intrapartum antibiotic prophylaxis (intravenous [[ampicillin]] or [[penicillin]]) given to colonized mothers in labor at least 4 hours before delivery effectively prevents colonization of infants and subsequent early-onset disease. A 6-valent conjugate vaccine (GBS6) is currently provisionally approved for pregnant females to stimulate protective antibodies.
+*   **Prophylaxis & Vaccine Protocols:** Intrapartum antibiotic prophylaxis (intravenous [[Ampicillin]] or [[Penicillin]]) given to colonized mothers in labor at least 4 hours before delivery effectively prevents colonization of infants and subsequent early-onset disease. A 6-valent conjugate vaccine (GBS6) is currently provisionally approved for pregnant females to stimulate protective antibodies.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Group B Strep/GBS", "early-onset and late-onset neonatal meningitis/sepsis", "CAMP test positive", "hippurate hydrolysis positive", "screening pregnant females at 35-37 weeks".

@@ -84,7 +84,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** For uncomplicated enterocolitis, treatment is symptomatic with fluid and electrolyte replacement; antibiotics are generally withheld to avoid prolonging fecal shedding. For invasive disease or in high-risk immunocompromised patients, third-generation cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]]) or fluoroquinolones (e.g., [[ciprofloxacin]]) are required.
-*   **Alternative / Second-Line Treatment:** [[Azithromycin]], [[Cotrimoxazole|trimethoprim-sulfamethoxazole]], [[ampicillin]], or [[chloramphenicol]].
+*   **Alternative / Second-Line Treatment:** [[Azithromycin]], [[Cotrimoxazole|trimethoprim-sulfamethoxazole]], [[Ampicillin]], or [[chloramphenicol]].
 *   **Mechanisms of Resistance & Resistance Genes:** Antimicrobial resistance is a rapidly emerging global problem, including high rates of resistance to fluoroquinolones and cephalosporins. Epidemic multiple drug-resistant clones (like *S. Typhimurium* ST313) drive massive mortality in Africa.
 *   **Treatment Nuances & Contraindications:** Antibiotic therapy in simple diarrheal presentations is contraindicated as it provides no clinical benefit and may prolong the carrier state.
 *   **Prophylaxis & Vaccine Protocols:** There is currently no effective vaccine available for non-typhoidal *Salmonella* (unlike the vaccines available for *Salmonella* Typhi), making vaccine development a major global health priority.

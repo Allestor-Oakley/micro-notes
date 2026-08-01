@@ -75,12 +75,12 @@ draft: false
 *   **Serology & Immunology:** Matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) mass spectrometry is rapidly used for definitive species identification. Serotyping of somatic (O), capsular (K), and flagellar (H) antigens can be performed.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Imipenem]], [[meropenem]], [[cefepime]], or [[piperacillin]]-[[tazobactam]].
+*   **First-Line Treatment:** [[Imipenem]], [[meropenem]], [[cefepime]], or [[Piperacillin]]-[[tazobactam]].
 *   **Alternative / Second-Line Treatment:** Aminoglycosides, [[ciprofloxacin]] (or other fluoroquinolones), [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMZ), [[aztreonam]], or [[tigecycline]].
-*   **Mechanisms of Resistance & Resistance Genes:** Most strains possess a chromosomal beta-lactamase (*ampC*) that renders them intrinsically resistant to [[ampicillin]] and first- and second-generation cephalosporins. Mutants frequently hyperproduce this beta-lactamase, conferring resistance to third-generation cephalosporins. Furthermore, hospital-acquired strains often harbor plasmids encoding extended-spectrum beta-lactamases (ESBLs) and carbapenemases, making them multidrug-resistant.
+*   **Mechanisms of Resistance & Resistance Genes:** Most strains possess a chromosomal beta-lactamase (*ampC*) that renders them intrinsically resistant to [[Ampicillin]] and first- and second-generation cephalosporins. Mutants frequently hyperproduce this beta-lactamase, conferring resistance to third-generation cephalosporins. Furthermore, hospital-acquired strains often harbor plasmids encoding extended-spectrum beta-lactamases (ESBLs) and carbapenemases, making them multidrug-resistant.
 *   **Treatment Nuances & Contraindications:** Antimicrobial therapy must strictly be guided by in vitro susceptibility testing due to the high likelihood of intrinsic and plasmid-mediated multidrug resistance.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Enteric Gram-negative rod", lactose fermenter, chromosomal *ampC* beta-lactamase, mucoid colonies, hospital-acquired/nosocomial infections.
-*   **Exceptions to the Rule:** The historical derivation of the species name *cloacae* translates to "of a sewer," referring to the fact that the organism was originally isolated from sewage. Unlike many Enterobacteriaceae that are susceptible to early penicillins, *E. cloacae* is inherently resistant to [[ampicillin]] and early cephalosporins due to its chromosomal *ampC* gene.
+*   **Exceptions to the Rule:** The historical derivation of the species name *cloacae* translates to "of a sewer," referring to the fact that the organism was originally isolated from sewage. Unlike many Enterobacteriaceae that are susceptible to early penicillins, *E. cloacae* is inherently resistant to [[Ampicillin]] and early cephalosporins due to its chromosomal *ampC* gene.

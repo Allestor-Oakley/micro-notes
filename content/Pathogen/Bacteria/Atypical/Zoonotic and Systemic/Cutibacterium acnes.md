@@ -87,7 +87,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Acne is managed primarily through the topical application of benzoyl peroxide combined with an antibiotic such as [[erythromycin]] or [[clindamycin]].
-*   **Alternative / Second-Line Treatment:** High-dose [[penicillin]] is effective for systemic or deep-seated infections (e.g., CNS shunt infections).
+*   **Alternative / Second-Line Treatment:** High-dose [[Penicillin]] is effective for systemic or deep-seated infections (e.g., CNS shunt infections).
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Acne development is entirely unrelated to the effectiveness of skin cleansing because the lesion forms deep within the sebaceous follicles. For systemic and opportunistic device infections, prolonged antimicrobial therapy (e.g., 10 weeks) and the physical surgical removal of the shunt or foreign body are typically required for a cure.
 *   **Prophylaxis & Vaccine Protocols:** N/A

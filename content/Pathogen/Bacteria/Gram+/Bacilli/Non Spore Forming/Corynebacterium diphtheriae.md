@@ -113,7 +113,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Diphtheria antitoxin is administered immediately to neutralize the circulating exotoxin, combined with [[Penicillin G]] or [[Erythromycin]] to eliminate the organism and terminate further toxin production.
-*   **Alternative / Second-Line Treatment:** [[Ceftriaxone]], [[nafcillin]], and steroids have been utilized in intensive care settings for severe respiratory presentations alongside macrolides.
+*   **Alternative / Second-Line Treatment:** [[Ceftriaxone]], [[Nafcillin]], and steroids have been utilized in intensive care settings for severe respiratory presentations alongside macrolides.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Specific treatment (antitoxin and antibiotics) must **never** be delayed while waiting for laboratory reports if the clinical picture strongly suggests diphtheria. The antitoxin cannot neutralize toxin that has already entered host cells.
 *   **Prophylaxis & Vaccine Protocols:** Vaccination with the diphtheria toxoid (inactivated toxin) is highly effective and must be administered to children as an initial course with regular boosters (Td) every 10 years for adults. Convalescing patients must also be immunized with the toxoid because natural infection does not reliably stimulate protective antibodies.

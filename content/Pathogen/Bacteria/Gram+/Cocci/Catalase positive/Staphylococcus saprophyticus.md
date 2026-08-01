@@ -73,7 +73,7 @@ draft: false
 *   **First-Line Treatment:** Patients generally respond rapidly to standard antibiotics used for urinary tract infections.
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** Exhibits intrinsic resistance to [[novobiocin]], distinguishing it from other coagulase-negative staphylococci.
-*   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing is recommended. For disk diffusion testing, the [[cefoxitin]] disk test is specifically recommended by the Clinical and Laboratory Standards Institute (CLSI) for testing S. saprophyticus (zone sizes less than 22 mm indicate [[nafcillin]]/[[oxacillin]]/methicillin resistance).
+*   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing is recommended. For disk diffusion testing, the [[cefoxitin]] disk test is specifically recommended by the Clinical and Laboratory Standards Institute (CLSI) for testing S. saprophyticus (zone sizes less than 22 mm indicate [[Nafcillin]]/[[Oxacillin]]/methicillin resistance).
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases

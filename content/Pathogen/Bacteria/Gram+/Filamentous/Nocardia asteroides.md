@@ -87,7 +87,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Trimethoprim-sulfamethoxazole ([[Cotrimoxazole|TMP-SMX]]) is the drug of choice, particularly as initial empirical therapy for cutaneous infections in immunocompetent patients.
-*   **Alternative / Second-Line Treatment:** [[Amikacin]], [[imipenem]], [[meropenem]], broad-spectrum cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]]), sulfisoxazole, [[linezolid]], tetracyclines, cycloserine, and [[amoxicillin]]-clavulanate.
+*   **Alternative / Second-Line Treatment:** [[Amikacin]], [[imipenem]], [[meropenem]], broad-spectrum cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]]), sulfisoxazole, [[linezolid]], tetracyclines, cycloserine, and [[Amoxicillin]]-clavulanate.
 *   **Mechanisms of Resistance & Resistance Genes:** The genus contains numerous species and complexes, each possessing unique drug susceptibility patterns. Therefore, in vitro antimicrobial susceptibility testing of clinical isolates is strictly required to guide specific therapy.
 *   **Treatment Nuances & Contraindications:** Therapy for severe infections and cutaneous infections in immunocompromised patients should use combination regimens: [[Cotrimoxazole|TMP-SMX]] plus [[amikacin]] (for pulmonary or cutaneous dissemination) or [[Cotrimoxazole|TMP-SMX]] plus [[imipenem]] or a broad-spectrum [[cephalosporin]] (for central nervous system infections). Because the organism grows slowly and causes indolent, chronic abscesses, treatment must be prolonged (often up to 12 months or more) to prevent relapse.
 *   **Prophylaxis & Vaccine Protocols:** N/A (No vaccines available; environmental exposure cannot be avoided).

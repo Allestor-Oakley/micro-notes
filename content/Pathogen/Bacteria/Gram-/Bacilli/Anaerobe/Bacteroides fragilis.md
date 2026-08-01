@@ -77,9 +77,9 @@ draft: false
 *   **Serology & Immunology:** Matrix-assisted laser desorption ionization (MALDI-TOF) mass spectrometry is utilized for rapid identification. In cases of ETBF gastroenteritis, the BFT toxin is secreted and can be detected directly in stool.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Metronidazole]] is uniformly active and considered the drug of choice. Carbapenems (e.g., [[imipenem]], [[meropenem]], [[ertapenem]]) and beta-lactam/beta-lactamase inhibitor combinations (e.g., [[piperacillin]]-[[tazobactam]], [[ampicillin]]-[[sulbactam]], [[amoxicillin]]-[[clavulanate]]) are also highly effective.
+*   **First-Line Treatment:** [[Metronidazole]] is uniformly active and considered the drug of choice. Carbapenems (e.g., [[imipenem]], [[meropenem]], [[ertapenem]]) and beta-lactam/beta-lactamase inhibitor combinations (e.g., [[Piperacillin]]-[[tazobactam]], [[Ampicillin]]-[[sulbactam]], [[Amoxicillin]]-[[clavulanate]]) are also highly effective.
 *   **Alternative / Second-Line Treatment:** [[Cefoxitin]] or [[cefotetan]]. [[Clindamycin]] has historically been used, though significant resistance now exists.
-*   **Mechanisms of Resistance & Resistance Genes:** Intrinsically resistant to aminoglycosides (e.g., [[gentamicin]]). Demonstrates resistance to [[penicillin]]. Approximately 25% of clinical isolates are now resistant to [[clindamycin]].
+*   **Mechanisms of Resistance & Resistance Genes:** Intrinsically resistant to aminoglycosides (e.g., [[gentamicin]]). Demonstrates resistance to [[Penicillin]]. Approximately 25% of clinical isolates are now resistant to [[clindamycin]].
 *   **Treatment Nuances & Contraindications:** Infections are almost always polymicrobial; thus, broad-spectrum or combination antimicrobial therapy covering both aerobic and anaerobic bowel flora (e.g., alongside *[[Escherichia coli]]* and *Enterococcus*) is required. Surgical drainage of the characteristic abscesses is critical for clinical cure.
 *   **Prophylaxis & Vaccine Protocols:** Prophylactic treatment with appropriate antibiotics is strongly indicated whenever the mucosal barriers of the gastrointestinal tract are intentionally disrupted by diagnostic or surgical procedures.
 

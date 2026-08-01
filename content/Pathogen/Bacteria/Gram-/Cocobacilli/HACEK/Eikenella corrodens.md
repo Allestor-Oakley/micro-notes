@@ -77,12 +77,12 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Highly susceptible to [[penicillin]] (which is highly unusual for a Gram-negative bacterium), [[ampicillin]], extended-spectrum cephalosporins, tetracyclines, and fluoroquinolones.
+*   **First-Line Treatment:** Highly susceptible to [[Penicillin]] (which is highly unusual for a Gram-negative bacterium), [[Ampicillin]], extended-spectrum cephalosporins, tetracyclines, and fluoroquinolones.
 *   **Alternative / Second-Line Treatment:** N/A
-*   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to [[oxacillin]], first-generation cephalosporins, [[clindamycin]], [[erythromycin]], and aminoglycosides.
+*   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to [[Oxacillin]], first-generation cephalosporins, [[clindamycin]], [[erythromycin]], and aminoglycosides.
 *   **Treatment Nuances & Contraindications:** The organism's inherent resistance profile is clinically significant because it renders many antibiotics typically selected empirically for the treatment of bite-wound infections completely ineffective.
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Human bite wound", "fistfight injury", "pits or corrodes agar", "bleach-like odor", subacute endocarditis, "HACEK group", CDC subgroup HB-1.
-*   **Exceptions to the Rule:** Unlike the vast majority of Gram-negative bacteria, it is highly susceptible to [[penicillin]] but resistant to clindamycin, erythromycin, and aminoglycosides. Additionally, it fails to grow on standard selective media designed for Gram-negative rods.
+*   **Exceptions to the Rule:** Unlike the vast majority of Gram-negative bacteria, it is highly susceptible to [[Penicillin]] but resistant to clindamycin, erythromycin, and aminoglycosides. Additionally, it fails to grow on standard selective media designed for Gram-negative rods.

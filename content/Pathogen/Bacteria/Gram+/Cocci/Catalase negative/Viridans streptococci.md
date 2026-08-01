@@ -94,7 +94,7 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin G]], often combined with an aminoglycoside (e.g., [[gentamicin]]) to enhance the rate of bactericidal action. Treatment duration for endocarditis is typically 2 weeks.
 *   **Alternative / Second-Line Treatment:** Broad-spectrum cephalosporins, [[vancomycin]], or [[telavancin]]. [[Vancomycin]] is the drug of choice for penicillin-resistant strains.
-*   **Mechanisms of Resistance & Resistance Genes:** Viridans streptococci vary in their susceptibility to antimicrobial agents. Moderately resistant ([[penicillin]] MIC 0.2–2 µg/mL) and highly resistant (MIC >2 µg/mL) strains have become increasingly common, particularly within the *S. mitis* group.
+*   **Mechanisms of Resistance & Resistance Genes:** Viridans streptococci vary in their susceptibility to antimicrobial agents. Moderately resistant ([[Penicillin]] MIC 0.2–2 µg/mL) and highly resistant (MIC >2 µg/mL) strains have become increasingly common, particularly within the *S. mitis* group.
 *   **Treatment Nuances & Contraindications:** In bacterial endocarditis, antibiotic susceptibility testing is essential to determine optimal therapy due to variable resistance. Surgery and prosthetic valve replacement may be necessary if acute heart failure or unresponsive infection occurs.
 *   **Prophylaxis & Vaccine Protocols:** Prophylactic antimicrobial agents are administered prior to dental extractions or surgical procedures involving the respiratory, gastrointestinal, and urinary tracts for patients with known heart valve deformities, prosthetic valves, or prosthetic joints to prevent endocarditis.
 

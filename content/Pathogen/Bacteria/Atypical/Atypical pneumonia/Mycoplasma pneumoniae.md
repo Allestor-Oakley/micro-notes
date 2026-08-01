@@ -38,8 +38,8 @@ draft: false
 
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Strict aerobe. It exhibits a very slow rate of growth, with a generation time of approximately 6 hours. It is the smallest free-living bacterium and is capable of passing through 0.45-µm pore filters.
-*   **Primary Agar:** Cannot be grown on standard media. Requires highly specialized, complex broth or agar supplemented with serum (to provide essential sterols), yeast extract (for nucleic acid precursors), glucose, a pH indicator, and [[penicillin]] (to selectively inhibit other contaminating bacterial flora).
-*   **Selective / Enriched Agar:** See Primary Agar (serum-supplemented media with [[penicillin]]).
+*   **Primary Agar:** Cannot be grown on standard media. Requires highly specialized, complex broth or agar supplemented with serum (to provide essential sterols), yeast extract (for nucleic acid precursors), glucose, a pH indicator, and [[Penicillin]] (to selectively inhibit other contaminating bacterial flora).
+*   **Selective / Enriched Agar:** See Primary Agar (serum-supplemented media with [[Penicillin]]).
 *   **Metabolic Profile & Biochemical Testing:** N/A
 
 #### Virulence Factors & Genetics

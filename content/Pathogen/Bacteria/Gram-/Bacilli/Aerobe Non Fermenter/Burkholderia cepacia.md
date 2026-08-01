@@ -71,7 +71,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (TMP-SMX). Other effective treatments include carbapenems (e.g., [[meropenem]]), [[chloramphenicol]], and [[minocycline]].
-*   **Alternative / Second-Line Treatment:** [[Ceftazidime]], [[ciprofloxacin]], or [[piperacillin]] can demonstrate good activity (especially against planktonic forms or when embedded in a biofilm).
+*   **Alternative / Second-Line Treatment:** [[Ceftazidime]], [[ciprofloxacin]], or [[Piperacillin]] can demonstrate good activity (especially against planktonic forms or when embedded in a biofilm).
 *   **Mechanisms of Resistance & Resistance Genes:** Known for extensive antimicrobial resistance; isolates recovered from CF patients are often multidrug-resistant or pan-resistant. Resistance is mediated by efflux pumps, antimicrobial degradation or modifying enzymes, and altered membrane functions. It is notably inherently resistant to the glycylcycline antibiotic [[tigecycline]].
 *   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing must be performed on all clinical isolates, although the organism's slow growth can make routine in vitro testing difficult.
 *   **Prophylaxis & Vaccine Protocols:** N/A

@@ -78,7 +78,7 @@ draft: false
 *   **First-Line Treatment:** [[Amoxicillin]]/clavulanic acid or cephalosporins.
 *   **Alternative / Second-Line Treatment:** The organism remains uniformly susceptible to many other broad-spectrum antibiotic classes, such as macrolides and fluoroquinolones.
 *   **Mechanisms of Resistance & Resistance Genes:** The vast majority of clinically significant isolates produce beta-lactamases, rendering them inherently resistant to penicillins and requiring the use of beta-lactamase inhibitors or alternative antibiotic classes.
-*   **Treatment Nuances & Contraindications:** Empirical [[penicillin]] monotherapy is generally ineffective due to widespread beta-lactamase production.
+*   **Treatment Nuances & Contraindications:** Empirical [[Penicillin]] monotherapy is generally ineffective due to widespread beta-lactamase production.
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases

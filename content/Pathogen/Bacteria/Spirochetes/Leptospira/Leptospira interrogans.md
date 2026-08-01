@@ -95,8 +95,8 @@ draft: false
 *   **Diagnostic Nuances:** Blood and CSF should be cultured in the first 7 to 10 days of clinical illness. Urine can be cultured after the first week and up to 3 months into the clinical illness.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Doxycycline]] is the drug of choice for uncomplicated leptospirosis. For moderate to severe (complicated) leptospirosis, intravenous [[penicillin G]], [[ceftriaxone]], or [[cefotaxime]] are the preferred efficacious alternatives.
-*   **Alternative / Second-Line Treatment:** [[Amoxicillin]], [[ampicillin]], or [[azithromycin]].
+*   **First-Line Treatment:** [[Doxycycline]] is the drug of choice for uncomplicated leptospirosis. For moderate to severe (complicated) leptospirosis, intravenous [[Penicillin G]], [[ceftriaxone]], or [[cefotaxime]] are the preferred efficacious alternatives.
+*   **Alternative / Second-Line Treatment:** [[Amoxicillin]], [[Ampicillin]], or [[azithromycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Specific antibiotic treatment is valuable at all stages and prevents the development of severe disease. In severely ill patients, intensive care supportive treatment is crucial alongside antimicrobial therapy.
 *   **Prophylaxis & Vaccine Protocols:** Weekly [[doxycycline]] chemoprophylaxis is effective and used for very high-risk groups to prevent infection. Currently, no effective human vaccine is available.

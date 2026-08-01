@@ -91,7 +91,7 @@ draft: false
     *   **Fibrinolysin (staphylokinase):** Dissolves fibrin clots.
     *   **Lipases:** Hydrolyze lipids, enabling survival in the sebaceous areas of the body.
     *   **Thermostable Nuclease:** Hydrolyzes viscous DNA in pus to reduce viscosity and facilitate spread.
-    *   **Penicillinase (Beta-lactamase):** Hydrolyzes the beta-lactam ring of [[penicillin]] and similar antibiotics.
+    *   **Penicillinase (Beta-lactamase):** Hydrolyzes the beta-lactam ring of [[Penicillin]] and similar antibiotics.
 *   **Genetic Elements:** Employs a quorum-sensing system via the accessory gene regulator (agr) operon (AgrA, AgrB, AgrC, AgrD; autoinducing peptide/AIP; RNA II, RNA III), coordinating expression of adhesins at low density and toxins/enzymes at high density. At least 10 two-component systems exist (e.g., sae RS, srrAB, arlSR, lytRS) that respond to environmental cues like oxygen or modulate autolysis. Toxin genes (enterotoxins, TSST-1, exfoliative toxins) are often located on pathogenicity islands (e.g., SaPI1), mobile phages, or plasmids. Staphylococcal cassette chromosome mec (SCCmec, types I-XII) harbors mecA/mecC genes.
 
 #### Pathogenesis & Host Immune Evasion
@@ -136,10 +136,10 @@ draft: false
 *   **Serology & Immunology:** Rapid latex agglutination tests detect Protein A and clumping factor (bound coagulase). Antibodies to cell wall teichoic acids are rarely used diagnostically today. Serological testing for food poisoning relies on toxin detection rather than antibodies. Enterotoxins and TSST-1 can be detected in specific outbreaks.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Beta-lactamase-resistant penicillins (e.g., methicillin, [[oxacillin]], [[nafcillin]], [[dicloxacillin]]) for methicillin-susceptible S. aureus (MSSA). For localized abscesses/cutaneous infections, incision and drainage is essential.
+*   **First-Line Treatment:** Beta-lactamase-resistant penicillins (e.g., methicillin, [[Oxacillin]], [[Nafcillin]], [[Dicloxacillin]]) for methicillin-susceptible S. aureus (MSSA). For localized abscesses/cutaneous infections, incision and drainage is essential.
 *   **Alternative / Second-Line Treatment:** For MRSA or penicillin-allergic patients: [[Vancomycin]] (drug of choice for serious systemic MRSA). [[Daptomycin]], [[tigecycline]], [[linezolid]], [[telavancin]], newer lipoglycopeptides, [[clindamycin]], or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMX) for community-acquired or susceptible strains.
 *   **Mechanisms of Resistance & Resistance Genes:**
-    *   **Beta-lactamase (Penicillinase):** Plasmid-controlled hydrolysis of the beta-lactam ring (confers resistance to [[penicillin G]], [[ampicillin]]). Present in >90% of isolates.
+    *   **Beta-lactamase (Penicillinase):** Plasmid-controlled hydrolysis of the beta-lactam ring (confers resistance to [[Penicillin G]], [[Ampicillin]]). Present in >90% of isolates.
     *   **mecA / mecC genes:** Carried on the staphylococcal cassette chromosome mec (SCCmec; types I-XII). Encodes a low-affinity penicillin-binding protein (PBP2a), causing intrinsic resistance to all beta-lactam antibiotics (penicillins, cephalosporins, carbapenems), known as MRSA.
     *   **vanA gene:** Acquired via transposon Tn1546 on a conjugative multi-resistance plasmid from [[Enterococcus faecalis]]. Alters the peptidoglycan precursor to prevent [[vancomycin]] binding, conferring high-level resistance (VRSA).
     *   **Cell Wall Thickening:** Produces a disorganized, thickened cell wall matrix that traps [[vancomycin]] (VISA/low-level resistance).

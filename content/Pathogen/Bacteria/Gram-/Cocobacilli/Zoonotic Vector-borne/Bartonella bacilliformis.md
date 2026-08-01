@@ -75,7 +75,7 @@ draft: false
 *   **Serology & Immunology:** Indirect fluorescent antibody (IFA) testing is frequently used due to the difficulty of cultivating the organism.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Azithromycin]] is heavily recommended. Other effective options include [[ciprofloxacin]], [[doxycycline]], macrolides, or [[Cotrimoxazole|sulfamethoxazole-trimethoprim]] given for at least 10 days. [[Chloramphenicol]] (often combined with [[penicillin]]) administered for 14 days has historically been used to effectively treat Oroya fever in South America.
+*   **First-Line Treatment:** [[Azithromycin]] is heavily recommended. Other effective options include [[ciprofloxacin]], [[doxycycline]], macrolides, or [[Cotrimoxazole|sulfamethoxazole-trimethoprim]] given for at least 10 days. [[Chloramphenicol]] (often combined with [[Penicillin]]) administered for 14 days has historically been used to effectively treat Oroya fever in South America.
 *   **Alternative / Second-Line Treatment:** [[Erythromycin]], [[ciprofloxacin]], or [[rifampin]]. For the chronic eruptive phase (verruga peruana), [[rifampin]] has become the drug of choice. [[Streptomycin]] was the traditional treatment for verruga peruana but its use is now considered problematic, especially in children.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Coupled with antimicrobial therapy, blood transfusions are frequently indicated and greatly reduce the mortality rate during the severe acute anemia of Oroya fever. Parenteral therapy is required if the patient cannot absorb oral medications.

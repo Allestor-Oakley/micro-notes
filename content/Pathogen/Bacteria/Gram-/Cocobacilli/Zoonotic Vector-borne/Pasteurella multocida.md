@@ -76,7 +76,7 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin G]] is the drug of choice for infections resulting from animal bites.
 *   **Alternative / Second-Line Treatment:** Expanded-spectrum cephalosporins, macrolides, tetracyclines, and fluoroquinolones.
-*   **Mechanisms of Resistance & Resistance Genes:** The organism demonstrates poor susceptibility or inherent resistance to semisynthetic penicillins (e.g., [[oxacillin]]), first-generation cephalosporins, and aminoglycosides.
+*   **Mechanisms of Resistance & Resistance Genes:** The organism demonstrates poor susceptibility or inherent resistance to semisynthetic penicillins (e.g., [[Oxacillin]]), first-generation cephalosporins, and aminoglycosides.
 *   **Treatment Nuances & Contraindications:** Aggressive wound care and appropriate prophylactic/therapeutic antibiotics are critical since the organism can rapidly disseminate and cause tissue necrosis, particularly in steroid-dependent or immunocompromised patients.
 *   **Prophylaxis & Vaccine Protocols:** N/A
 

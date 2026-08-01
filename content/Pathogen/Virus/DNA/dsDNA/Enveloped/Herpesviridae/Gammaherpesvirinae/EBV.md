@@ -73,7 +73,7 @@ draft: false
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Infectious mononucleosis ("kissing disease"). In children, primary infection is usually asymptomatic or causes mild symptoms. In teenagers and adults, it typically causes symptomatic mononucleosis.
-*   **Secondary, Atypical & Alternate Presentations:** Development of a distinctive maculopapular rash if the patient is erroneously treated with [[ampicillin]]. It is also directly associated with immunological disorders such as multiple sclerosis. Can cause viral meningitis and encephalitis.
+*   **Secondary, Atypical & Alternate Presentations:** Development of a distinctive maculopapular rash if the patient is erroneously treated with [[Ampicillin]]. It is also directly associated with immunological disorders such as multiple sclerosis. Can cause viral meningitis and encephalitis.
 *   **Incubation Period:** Long incubation period ranging from 30 to 50 days (up to 2 months).
 *   **Classic Prodrome:** Mild headache, fatigue, malaise, and fever.
 *   **Pathognomonic Signs:** The classic clinical triad of lymphadenopathy, splenomegaly, and exudative pharyngitis. Hematologic hallmarks include hyperplasia, absolute lymphocytosis (mononuclear cells constituting 60% to 70% of the WBC count), and the presence of 30% atypical/reactive lymphocytes (Downey cells, which are activated CD8 [[T Cell|T cells]]). Transient production of heterophile antibodies.
@@ -100,9 +100,9 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **Antiviral Targets & First-Line Agents:** N/A (The sources do not specify highly effective primary antiviral therapies for EBV).
 *   **Resistance Mechanisms & Mutations:** N/A
-*   **Treatment Nuances & Timing Constraints:** Empirical administration of [[ampicillin]] for a suspected streptococcal sore throat in an EBV-infected patient frequently triggers a characteristic [[ampicillin]]-induced maculopapular rash.
+*   **Treatment Nuances & Timing Constraints:** Empirical administration of [[Ampicillin]] for a suspected streptococcal sore throat in an EBV-infected patient frequently triggers a characteristic [[Ampicillin]]-induced maculopapular rash.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is currently available. Prevention relies on avoiding the sharing of saliva and personal items.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Kissing disease", heterophile antibody (Monospot), atypical lymphocytes (Downey cells), [[ampicillin]]-induced rash, C3d receptor (CR2) tropism, African Burkitt lymphoma, nasopharyngeal carcinoma, Downey cells.
+*   **Buzzwords & Descriptors:** "Kissing disease", heterophile antibody (Monospot), atypical lymphocytes (Downey cells), [[Ampicillin]]-induced rash, C3d receptor (CR2) tropism, African Burkitt lymphoma, nasopharyngeal carcinoma, Downey cells.
 *   **Exceptions to the Rule:** While most viral infections either cause cytolytic destruction or are cleared, EBV drives unchecked cell proliferation (immortalization) in [[B Cell|B cells]], acting directly as a viral oncogene to cause multiple types of human cancer. Additionally, unlike typical viral serology where nuclear and capsid antigens rise together, antibodies to the EBV nuclear antigen (EBNA) are uniquely absent during acute infection and only appear after the disease has resolved.
