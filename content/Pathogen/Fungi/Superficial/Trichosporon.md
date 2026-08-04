@@ -68,7 +68,7 @@ draft: false
 *   **Serology & Antigen Testing:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Susceptibility to [[amphotericin B]] is highly variable, and [[amphotericin B]] lacks fungicidal activity against *Trichosporon*. Clinical failures with [[amphotericin B]], [[fluconazole]], and combinations of the two have been widely reported. [[Voriconazole]] appears to have active clinical efficacy and is considered a viable treatment option.
+*   **Targeting Membrane / Ergosterol:** Susceptibility to [[Amphotericin B]] is highly variable, and [[Amphotericin B]] lacks fungicidal activity against *Trichosporon*. Clinical failures with [[Amphotericin B]], [[Fluconazole]], and combinations of the two have been widely reported. [[Voriconazole]] appears to have active clinical efficacy and is considered a viable treatment option.
 *   **Targeting Cell Wall / Glucan:** *Trichosporon* species are intrinsically resistant to the echinocandins (e.g., [[Caspofungin]], [[Micafungin]], [[Anidulafungin]]).
 *   **Alternative / Cutaneous Treatments:** Removal of indwelling central venous catheters is necessary for managing catheter-associated fungemia.
 *   **Treatment Nuances & Formulations:** Outcomes of invasive trichosporonosis are generally dismal regardless of antifungal therapy in the absence of host neutrophil recovery.

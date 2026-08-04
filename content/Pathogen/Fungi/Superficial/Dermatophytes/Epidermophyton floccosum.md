@@ -61,7 +61,7 @@ draft: false
 *   **Serology & Antigen Testing:** The trichophytin skin test (using a crude dermatophyte antigen preparation) can be used to detect immediate or delayed-type hypersensitivity. For atypical isolates, species-specific polymerase chain reaction (PCR) tests and DNA-based sequence analysis can confirm the identification.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Localized, uncomplicated skin infections respond effectively to topical antifungal agents including azoles (e.g., [[clotrimazole]], [[miconazole]]) and topical [[terbinafine]]. Extensive infections, chronic tinea pedis, and onychomycosis (nail disease) require systemic oral therapy with [[terbinafine]], [[itraconazole]], [[fluconazole]], or [[griseofulvin]].
+*   **Targeting Membrane / Ergosterol:** Localized, uncomplicated skin infections respond effectively to topical antifungal agents including azoles (e.g., [[Clotrimazole]], [[Miconazole]]) and topical [[Terbinafine]]. Extensive infections, chronic tinea pedis, and onychomycosis (nail disease) require systemic oral therapy with [[Terbinafine]], [[Itraconazole]], [[Fluconazole]], or [[griseofulvin]].
 *   **Targeting Cell Wall / Glucan:** N/A
 *   **Alternative / Cutaneous Treatments:** Topical haloprogin is an effective alternative for localized cutaneous lesions.
 *   **Treatment Nuances & Formulations:** Because Epidermophyton floccosum is an anthropophilic species, the infections it causes are famously chronic, poorly inflammatory, and particularly difficult to cure compared to geophilic or zoophilic dermatophytes.

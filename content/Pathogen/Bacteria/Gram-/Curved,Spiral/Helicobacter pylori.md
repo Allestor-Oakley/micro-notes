@@ -79,9 +79,9 @@ draft: false
     *   **Serum Antibody (ELISA):** Detects IgG and IgA to confirm past exposure, but titers persist and do not differentiate between past and active infection.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Triple therapy for 7-14 days consisting of a proton-pump inhibitor (PPI, e.g., omeprazole) + a macrolide (e.g., [[clarithromycin]]) + a beta-lactam (e.g., [[Amoxicillin]]) or [[metronidazole]].
-*   **Alternative / Second-Line Treatment:** Bismuth-containing quadruple therapy (PPI + bismuth subsalicylate + [[metronidazole]] + [[tetracycline]]). [[Levofloxacin]] can be used as a secondary option in case of treatment failure.
-*   **Mechanisms of Resistance & Resistance Genes:** Treatment failure is most commonly associated with acquired [[clarithromycin]] resistance, and resistance to [[metronidazole]] and [[levofloxacin]] has become increasingly prevalent. Specific resistance genes are not detailed in the sources.
+*   **First-Line Treatment:** Triple therapy for 7-14 days consisting of a proton-pump inhibitor (PPI, e.g., omeprazole) + a macrolide (e.g., [[Clarithromycin]]) + a beta-lactam (e.g., [[Amoxicillin]]) or [[metronidazole]].
+*   **Alternative / Second-Line Treatment:** Bismuth-containing quadruple therapy (PPI + bismuth subsalicylate + [[metronidazole]] + [[Tetracycline]]). [[Levofloxacin]] can be used as a secondary option in case of treatment failure.
+*   **Mechanisms of Resistance & Resistance Genes:** Treatment failure is most commonly associated with acquired [[Clarithromycin]] resistance, and resistance to [[metronidazole]] and [[Levofloxacin]] has become increasingly prevalent. Specific resistance genes are not detailed in the sources.
 *   **Treatment Nuances & Contraindications:** Monotherapy is ineffective in vivo. Additionally, eradication of the organism in asymptomatic patients may have adverse effects, such as predisposing the patient to gastroesophageal reflux disease and adenocarcinomas of the lower esophagus/cardia, indicating a complex host-microbe relationship.
 *   **Prophylaxis & Vaccine Protocols:** No human vaccines are currently available. Experimental vaccines using mucosal adjuvants to induce a protective TH2 cell response have shown promise in animal models.
 

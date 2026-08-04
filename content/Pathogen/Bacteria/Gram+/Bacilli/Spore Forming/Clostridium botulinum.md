@@ -91,7 +91,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Immediate ventilatory support is critical. Trivalent botulinum antitoxin is administered to neutralize unbound toxin. Antibiotic therapy (e.g., [[metronidazole]] or [[Penicillin]]) is indicated for wound botulism.
-*   **Alternative / Second-Line Treatment:** [[Imipenem]], [[meropenem]], [[doripenem]], or ertapenem can be used as alternatives to [[Penicillin]]/[[metronidazole]] for wound infections.
+*   **Alternative / Second-Line Treatment:** [[Imipenem]], [[Meropenem]], [[Doripenem]], or ertapenem can be used as alternatives to [[Penicillin]]/[[metronidazole]] for wound infections.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Antibiotics are generally not used for foodborne botulism (which is an intoxication, not an infection) and are contraindicated in infant botulism. The botulinum toxin does not cross the blood-brain barrier and does not affect the central nervous system.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Prevention relies on destroying spores in food (requires high pressure autoclaving), preventing spore germination (maintaining acid pH, high sugar content, or storage ≤ 4°C), or destroying the preformed toxin by heating food at 60°C to 100°C for 10 to 20 minutes before consumption. Children younger than 1 year of age should strictly avoid eating honey to prevent infant botulism.

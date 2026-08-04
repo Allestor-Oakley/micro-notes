@@ -71,8 +71,8 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Combination therapy is typically required. [[Clarithromycin]] and [[amikacin]] are considered first-line choices. The organism is typically susceptible to [[tobramycin]], [[clarithromycin]], [[linezolid]], and [[imipenem]].
-*   **Alternative / Second-Line Treatment:** [[Cefoxitin]], sulfonamides, [[doxycycline]], [[rifampin]], and [[ethambutol]].
+*   **First-Line Treatment:** Combination therapy is typically required. [[Clarithromycin]] and [[Amikacin]] are considered first-line choices. The organism is typically susceptible to [[Tobramycin]], [[Clarithromycin]], [[Linezolid]], and [[Imipenem]].
+*   **Alternative / Second-Line Treatment:** [[Cefoxitin]], sulfonamides, [[Doxycycline]], [[Rifampin]], and [[ethambutol]].
 *   **Mechanisms of Resistance & Resistance Genes:** While intrinsically resistant to many classical antimycobacterial (anti-tuberculosis) drugs, it is generally more susceptible to conventional broad-spectrum antibacterial antibiotics than the closely related *[[Mycobacterium abscessus]]*.
 *   **Treatment Nuances & Contraindications:** It is clinically vital to differentiate *M. chelonae* from *[[Mycobacterium abscessus|M. abscessus]]*, as the types and severity of disease are different, and therapy for *M. chelonae* is significantly easier due to its wider susceptibility to antimicrobial agents. Successful eradication of infections often requires the physical surgical removal of any infected prosthetic devices or foreign bodies.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available.

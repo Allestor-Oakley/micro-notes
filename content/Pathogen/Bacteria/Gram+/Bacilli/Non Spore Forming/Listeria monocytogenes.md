@@ -86,10 +86,10 @@ draft: false
 *   **Serology & Immunology:** Serotyping is generally reserved for epidemiological investigations in reference laboratories. Serotypes 1/2a, 1/2b, and 4b account for >95% of human isolates, with 4b causing most foodborne outbreaks.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Penicillin]] or [[Ampicillin]], administered alone or in combination with an aminoglycoside (e.g., [[gentamicin]]) for severe and systemic infections.
-*   **Alternative / Second-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (which is bactericidal). [[Linezolid]], [[daptomycin]], and [[tigecycline]] exhibit in vitro activity but have limited extensive clinical use data.
+*   **First-Line Treatment:** [[Penicillin]] or [[Ampicillin]], administered alone or in combination with an aminoglycoside (e.g., [[Gentamicin]]) for severe and systemic infections.
+*   **Alternative / Second-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (which is bactericidal). [[Linezolid]], [[daptomycin]], and [[Tigecycline]] exhibit in vitro activity but have limited extensive clinical use data.
 *   **Mechanisms of Resistance & Resistance Genes:** Listeria exhibits intrinsic (natural) resistance to cephalosporins. Resistance to macrolides, fluoroquinolones, and tetracyclines has also been observed.
-*   **Treatment Nuances & Contraindications:** Many standard antibiotics are only bacteriostatic against Listeria, necessitating combination therapy (e.g., adding [[gentamicin]]) for a bactericidal effect in serious CNS or systemic infections. Cephalosporins are strictly ineffective.
+*   **Treatment Nuances & Contraindications:** Many standard antibiotics are only bacteriostatic against Listeria, necessitating combination therapy (e.g., adding [[Gentamicin]]) for a bactericidal effect in serious CNS or systemic infections. Cephalosporins are strictly ineffective.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Prophylactic antibiotic therapy has not been evaluated. Prevention requires that high-risk individuals completely avoid eating raw or partially cooked animal products, soft cheeses, deli meats, and unwashed raw vegetables.
 
 #### Trivia & Edge Cases

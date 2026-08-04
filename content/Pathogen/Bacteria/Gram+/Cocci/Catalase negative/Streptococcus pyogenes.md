@@ -70,7 +70,7 @@ draft: false
     *   Catalase-negative.
     *   Produces large (1 cm in diameter) zones of beta-hemolysis around colonies greater than 0.5 mm in diameter.
     *   PYR test positive (hydrolyzes l-pyrrolidonyl-beta-naphthylamide), distinguishing it from most other streptococci.
-    *   Susceptible to [[bacitracin]] (used for presumptive identification).
+    *   Susceptible to bacitracin (used for presumptive identification).
     *   Energy is principally obtained from glucose fermentation, with lactic acid as the end product.
 
 #### Virulence Factors & Genetics
@@ -88,7 +88,7 @@ draft: false
     *   Deoxyribonucleases (DNases A to D): Depolymerize free DNA present in pus, reducing the viscosity of abscess material to facilitate bacterial spread.
     *   C5a peptidase: A surface serine protease that inactivates complement component C5a, preventing the recruitment of neutrophils and mononuclear phagocytes.
     *   Hyaluronidase: Facilitates spread through connective tissues.
-*   **Genetic Elements:** Transmissible plasmids can carry genes for [[macrolide]] resistance. Lysogenic bacteriophages encode the pyrogenic exotoxins (SpeA and SpeC). A complex of more than 20 genes (the emm gene superfamily) encodes the M proteins, M-like proteins, and immunoglobulin-binding proteins.
+*   **Genetic Elements:** Transmissible plasmids can carry genes for [[Macrolide]] resistance. Lysogenic bacteriophages encode the pyrogenic exotoxins (SpeA and SpeC). A complex of more than 20 genes (the emm gene superfamily) encodes the M proteins, M-like proteins, and immunoglobulin-binding proteins.
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Initial colonization is mediated by a weak interaction between lipoteichoic acid and fatty acid binding sites on fibronectin and epithelial cells. Subsequent firm adherence utilizes M protein, F protein, and other adhesins to interact with specific host cell receptors. The hyaluronic acid capsule binds to the [[CD44]] receptor on human epithelial cells, inducing the disruption of intercellular junctions to allow the bacteria to penetrate the epithelium.
@@ -123,11 +123,11 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin G]] (intravenous) for severe systemic disease. Oral [[Penicillin V]] or [[Amoxicillin]] for uncomplicated pharyngitis.
-*   **Alternative / Second-Line Treatment:** Oral cephalosporins or Macrolides ([[erythromycin]], [[azithromycin]], [[clarithromycin]]) for [[Penicillin]]-allergic patients.
+*   **Alternative / Second-Line Treatment:** Oral cephalosporins or Macrolides ([[Erythromycin]], [[Azithromycin]], [[Clarithromycin]]) for [[Penicillin]]-allergic patients.
 *   **Mechanisms of Resistance & Resistance Genes:** The organism remains uniformly susceptible to [[Penicillin]]. Resistance to macrolides is increasing and is mediated by a transmissible plasmid causing alteration (methylation) of the rRNA receptor, or by active drug efflux encoded by the mef and msr genes. Resistance/poor clinical response limits the use of tetracyclines and sulfonamides.
 *   **Treatment Nuances & Contraindications:** Severe systemic infections (necrotizing fasciitis, toxic shock) mandate the combined use of intravenous [[Penicillin]] with a protein synthesis-inhibiting antibiotic (e.g., [[clindamycin]]) to shut down exotoxin production, alongside prompt and aggressive surgical debridement of necrotic tissue. Initiating [[Penicillin]] therapy within 10 days of pharyngitis onset speeds symptom relief and effectively prevents rheumatic fever. However, antibiotic therapy does not prevent the progression of acute glomerulonephritis. Asymptomatic prolonged carriage does not require treatment because antibiotics disrupt normal protective flora.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is currently available. Patients with a history of rheumatic fever require long-term continuous antibiotic prophylaxis to prevent recurrent disease from subsequent infections, particularly prior to procedures (e.g., dental work) that can induce bacteremia.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Flesh-eating bacteria", "Strawberry tongue", "Pastia lines", "Circumoral pallor", "Lancefield Group A", "M protein", "PYR positive", "[[Bacitracin]] susceptible", "Hyaluronic acid capsule", "Quellung reaction negative" (differentiates from [[Streptococcus pneumoniae|S. pneumoniae]]), "ASO titer", "Anti-DNase B test".
+*   **Buzzwords & Descriptors:** "Flesh-eating bacteria", "Strawberry tongue", "Pastia lines", "Circumoral pallor", "Lancefield Group A", "M protein", "PYR positive", "Bacitracin susceptible", "Hyaluronic acid capsule", "Quellung reaction negative" (differentiates from [[Streptococcus pneumoniae|S. pneumoniae]]), "ASO titer", "Anti-DNase B test".
 *   **Exceptions to the Rule:** While pyoderma is most commonly caused by [[Staphylococcus aureus|S. aureus]], 20% of cases are caused strictly by S. pyogenes. While S. pyogenes pharyngitis can cause both rheumatic fever and acute glomerulonephritis, S. pyogenes skin infections only lead to acute glomerulonephritis, never rheumatic fever. Erysipelas historically manifested on the face, but is now more commonly found on the legs.

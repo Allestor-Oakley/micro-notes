@@ -97,7 +97,7 @@ draft: false
 *   **First-Line Treatment:**
     *   Gastrointestinal infections (food poisoning) are treated symptomatically, as they are self-limiting.
     *   For extraintestinal and severe infections (e.g., endophthalmitis, sepsis), [[Vancomycin]] is a primary treatment.
-*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[ciprofloxacin]]), [[clindamycin]], [[gentamicin]], [[imipenem]], or [[meropenem]]. For eye infections, intravitreal injection of [[vancomycin]], [[ceftazidime]], and systemically administered [[ciprofloxacin]] (with dexamethasone for inflammation) have been utilized.
+*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[Ciprofloxacin]]), [[clindamycin]], [[Gentamicin]], [[Imipenem]], or [[Meropenem]]. For eye infections, intravitreal injection of [[vancomycin]], [[Ceftazidime]], and systemically administered [[Ciprofloxacin]] (with dexamethasone for inflammation) have been utilized.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Traumatic endophthalmitis requires immediate, aggressive surgical intervention (to relieve ocular pressure and drain purulence) combined with local (intravitreal) and systemic antibiotics to attempt to salvage the eye.
 *   **Prophylaxis & Vaccine Protocols:** Gastrointestinal disease is prevented by proper food preparation—foods (especially rice) should be consumed immediately after cooking or refrigerated promptly to prevent spore germination and subsequent toxin production during slow cooling.

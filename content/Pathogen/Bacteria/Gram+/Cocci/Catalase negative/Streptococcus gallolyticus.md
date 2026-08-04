@@ -82,7 +82,7 @@ draft: false
 *   **Serology & Immunology:** Can be identified using specific antisera directed against the Lancefield group D group-specific cell wall antigen.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Penicillin G]], frequently combined with an aminoglycoside (e.g., [[gentamicin]]) to enhance the rate of bactericidal action, which is particularly important for the treatment of streptococcal endocarditis.
+*   **First-Line Treatment:** [[Penicillin G]], frequently combined with an aminoglycoside (e.g., [[Gentamicin]]) to enhance the rate of bactericidal action, which is particularly important for the treatment of streptococcal endocarditis.
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Antibiotic susceptibility testing is useful and recommended to determine optimal therapy for endocarditis, as antibiotic susceptibility can vary among strains. Surgery for prosthetic valve replacement may be necessary if native valves undergo rapid destruction.

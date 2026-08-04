@@ -82,7 +82,7 @@ draft: false
 *   **Serology & Immunology:** Diagnosis can be supported by serologic tests evaluating paired serum samples. Blood and bone-marrow cultures offer high sensitivity.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Fluoroquinolones (e.g., [[ciprofloxacin]]), third-generation cephalosporins (e.g., [[ceftriaxone]], [[cefotaxime]]), or [[azithromycin]] (20 mg/kg/day for 7 days). [[Azithromycin]] is an ideal first-line treatment for intracellular infections where [[fluoroquinolone]] resistance is established.
+*   **First-Line Treatment:** Fluoroquinolones (e.g., [[Ciprofloxacin]]), third-generation cephalosporins (e.g., [[Ceftriaxone]], [[Cefotaxime]]), or [[Azithromycin]] (20 mg/kg/day for 7 days). [[Azithromycin]] is an ideal first-line treatment for intracellular infections where [[Fluoroquinolone]] resistance is established.
 *   **Alternative / Second-Line Treatment:** [[Ampicillin]], [[chloramphenicol]], or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMZ).
 *   **Mechanisms of Resistance & Resistance Genes:** Antimicrobial resistance among *S.* Typhi is an emerging global problem, notably marked by increasing resistance to fluoroquinolones and cephalosporins.
 *   **Treatment Nuances & Contraindications:** Antimicrobial treatment is strictly required for *S.* Typhi (unlike self-limiting enteritis caused by non-typhoidal *Salmonella* where antibiotics might prolong shedding). Carriers must be identified and aggressively treated to halt transmission.

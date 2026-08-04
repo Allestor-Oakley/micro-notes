@@ -98,7 +98,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** For serious soft-tissue infections and myonecrosis, rapid and extensive surgical debridement of necrotic tissue combined with high-dose [[Penicillin]] therapy is required. Food poisoning is self-limited and treated symptomatically.
-*   **Alternative / Second-Line Treatment:** [[Metronidazole]], [[chloramphenicol]], [[clindamycin]], [[imipenem]], [[meropenem]], [[doripenem]], or ertapenem can be used for severe infections.
+*   **Alternative / Second-Line Treatment:** [[Metronidazole]], [[chloramphenicol]], [[clindamycin]], [[Imipenem]], [[Meropenem]], [[Doripenem]], or ertapenem can be used for severe infections.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Rapid treatment is essential for serious infections; any delay in surgical or medical intervention for myonecrosis is frequently fatal.
 *   **Prophylaxis & Vaccine Protocols:** Proper wound care (cleansing and debridement) and the judicious use of prophylactic antibiotics will prevent most soft-tissue infections. Food poisoning is prevented by proper food preparation and prompt refrigeration. Active immunization with a toxoid prepared from C. perfringens type C toxins has successfully decreased the incidence of pigbel in children.

@@ -94,7 +94,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Gentamicin]] is the antibiotic of choice. [[Streptomycin]] is also highly effective when administered for 10 days.
-*   **Alternative / Second-Line Treatment:** [[Doxycycline]] or fluoroquinolones (e.g., [[ciprofloxacin]]) can be used to treat milder infections.
+*   **Alternative / Second-Line Treatment:** [[Doxycycline]] or fluoroquinolones (e.g., [[Ciprofloxacin]]) can be used to treat milder infections.
 *   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to all beta-lactam antibiotics (penicillins and cephalosporins) due to the production of beta-lactamase.
 *   **Treatment Nuances & Contraindications:** The microbiology laboratory must be explicitly notified if tularemia is suspected so that media can be supplemented with cysteine, cultures can be held for extended incubation, and BSL III precautions can be enacted. [[Tetracycline]] therapy is associated with a higher frequency of clinical relapse compared to aminoglycosides.
 *   **Prophylaxis & Vaccine Protocols:** Persons with a high-risk exposure (e.g., infectious aerosols) should receive prophylactic antibiotics. A live attenuated vaccine (LVS) exists but is rarely used and no longer available to high-risk individuals. Prevention relies heavily on wearing protective clothing, promptly removing ticks, and wearing gloves when skinning or eviscerating animals.

@@ -74,8 +74,8 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** While no single specific antimicrobial regimen has been universally established as the standard, surgical excision combined with a multidrug regimen of [[rifampin]] and [[ethambutol]] has been proven highly successful.
-*   **Alternative / Second-Line Treatment:** Monotherapy with oral [[doxycycline]], [[minocycline]], [[clarithromycin]], or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] is also effective.
+*   **First-Line Treatment:** While no single specific antimicrobial regimen has been universally established as the standard, surgical excision combined with a multidrug regimen of [[Rifampin]] and [[ethambutol]] has been proven highly successful.
+*   **Alternative / Second-Line Treatment:** Monotherapy with oral [[Doxycycline]], [[Minocycline]], [[Clarithromycin]], or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] is also effective.
 *   **Mechanisms of Resistance & Resistance Genes:** The organism's complex, lipid-rich cell wall confers intrinsic resistance to many common, broad-spectrum antibacterial antibiotics and detergents.
 *   **Treatment Nuances & Contraindications:** Antimicrobial treatment must typically be maintained for an extended duration (e.g., 3 months) to ensure eradication and prevent relapse.
 *   **Prophylaxis & Vaccine Protocols:** N/A

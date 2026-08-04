@@ -4,4 +4,4 @@ draft: false
 aliases:
   - Benzylpenicillin
 ---
-**This file is empty**
+See [[Natural Penicillin]]

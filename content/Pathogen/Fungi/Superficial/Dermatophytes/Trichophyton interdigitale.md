@@ -63,7 +63,7 @@ draft: false
 *   **Serology & Antigen Testing:** The "trichophytin" skin test (a crude antigen preparation) can be used to detect immediate or delayed-type hypersensitivity. Species-specific DNA sequence analysis is increasingly used for molecular diagnosis and identifying outbreak strains.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Localized dermatophyte infections of the smooth skin (without hair or nail involvement) can be treated effectively with topical antifungal agents such as azoles (e.g., [[clotrimazole]]), [[terbinafine]], or haloprogin. Extensive infections, or those involving the hair (tinea capitis) and nails (onychomycosis), require systemic oral antifungal therapy, including [[terbinafine]], [[itraconazole]], [[fluconazole]], or [[griseofulvin]].
+*   **Targeting Membrane / Ergosterol:** Localized dermatophyte infections of the smooth skin (without hair or nail involvement) can be treated effectively with topical antifungal agents such as azoles (e.g., [[Clotrimazole]]), [[Terbinafine]], or haloprogin. Extensive infections, or those involving the hair (tinea capitis) and nails (onychomycosis), require systemic oral antifungal therapy, including [[Terbinafine]], [[Itraconazole]], [[Fluconazole]], or [[griseofulvin]].
 *   **Targeting Cell Wall / Glucan:** N/A
 *   **Alternative / Cutaneous Treatments:** Mild infections can be successfully treated by bathing or soaking the affected skin in a potassium permanganate solution (1:10,000 dilution in water) for 20 minutes daily.
 *   **Treatment Nuances & Formulations:** Reinfection, particularly with onychomycosis and athlete's foot (tinea pedis), is a common and persistent problem, especially in tropical environments.

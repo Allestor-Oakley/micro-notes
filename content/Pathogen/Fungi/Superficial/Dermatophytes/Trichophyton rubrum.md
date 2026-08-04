@@ -67,7 +67,7 @@ draft: false
 *   **Serology & Antigen Testing:** The trichophytin skin test (using a crude dermatophyte antigen preparation) can be used to detect immediate or delayed-type hypersensitivity. Species-specific polymerase chain reaction (PCR) tests and molecular biology can confirm the identification of atypical isolates.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Localized, uncomplicated skin infections (tinea corporis, tinea cruris, tinea pedis) respond effectively to topical antifungal agents, including azoles (e.g., [[clotrimazole]], [[miconazole]]) and topical [[terbinafine]]. Extensive infections, and particularly infections of the hair or nails (onychomycosis), mandate systemic oral therapy with [[terbinafine]], [[itraconazole]], [[fluconazole]], or [[griseofulvin]].
+*   **Targeting Membrane / Ergosterol:** Localized, uncomplicated skin infections (tinea corporis, tinea cruris, tinea pedis) respond effectively to topical antifungal agents, including azoles (e.g., [[Clotrimazole]], [[Miconazole]]) and topical [[Terbinafine]]. Extensive infections, and particularly infections of the hair or nails (onychomycosis), mandate systemic oral therapy with [[Terbinafine]], [[Itraconazole]], [[Fluconazole]], or [[griseofulvin]].
 *   **Targeting Cell Wall / Glucan:** N/A
 *   **Alternative / Cutaneous Treatments:** Topical Whitfield's ointment and haloprogin are effective alternatives for localized cutaneous lesions.
 *   **Treatment Nuances & Formulations:** Because *T. rubrum* is an anthropophilic species, it provokes very little host inflammation, and the resulting infections are famously chronic and difficult to cure. Patients frequently require months or years of treatment, and recurrence is common.

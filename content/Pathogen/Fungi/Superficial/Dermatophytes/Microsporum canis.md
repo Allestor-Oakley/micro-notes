@@ -59,7 +59,7 @@ draft: false
 *   **Serology & Antigen Testing:** Serologic testing is not usually available and is not considered clinically helpful for diagnosing dermatophytoses.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Localized skin lesions (tinea corporis) generally respond well to topical antifungal agents, including azoles (e.g., [[clotrimazole]]) and [[terbinafine]]. Extensive infections, or infections involving the hair follicles (tinea capitis), mandate systemic oral therapy with agents such as [[terbinafine]], [[itraconazole]], [[fluconazole]], or [[griseofulvin]].
+*   **Targeting Membrane / Ergosterol:** Localized skin lesions (tinea corporis) generally respond well to topical antifungal agents, including azoles (e.g., [[Clotrimazole]]) and [[Terbinafine]]. Extensive infections, or infections involving the hair follicles (tinea capitis), mandate systemic oral therapy with agents such as [[Terbinafine]], [[Itraconazole]], [[Fluconazole]], or [[griseofulvin]].
 *   **Targeting Cell Wall / Glucan:** N/A
 *   **Alternative / Cutaneous Treatments:** Topical haloprogin is also effective for localized cutaneous lesions.
 *   **Treatment Nuances & Formulations:** Because *Microsporum canis* is a zoophilic dermatophyte, the infections it causes in humans are typically acute and highly inflammatory, but they famously respond very well to treatment within weeks and rarely recur, unlike the chronic infections caused by anthropophilic species.

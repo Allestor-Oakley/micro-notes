@@ -102,8 +102,8 @@ draft: false
     - [[Miconazole]] (IV and intrathecal), [[Ketoconazole]], [[Voriconazole]], [[Chloramphenicol]], and Phenytoin (anticonvulsant for seizure management).
 *   **Treatment Nuances & Dosing Considerations:**
     - Medical Emergency: PAM is an absolute medical emergency requiring immediate administration of combination antimicrobial therapy upon clinical suspicion.
-    - [[Amphotericin B]] Efficacy: N. fowleri is highly sensitive to [[amphotericin B]] in vitro; early administration of IV and intrathecal [[amphotericin B]] forms the backbone of successful treatment regimens in rare survivors.
-    - [[Miltefosine]] Penetration: [[Miltefosine]] effectively crosses the blood-brain barrier into CSF/brain parenchyma with acceptable tolerance (gastrointestinal side effects predominate). Synergistic anti-amebic effects occur when combined with [[amphotericin B]] and azoles.
+    - [[Amphotericin B]] Efficacy: N. fowleri is highly sensitive to [[Amphotericin B]] in vitro; early administration of IV and intrathecal [[Amphotericin B]] forms the backbone of successful treatment regimens in rare survivors.
+    - [[Miltefosine]] Penetration: [[Miltefosine]] effectively crosses the blood-brain barrier into CSF/brain parenchyma with acceptable tolerance (gastrointestinal side effects predominate). Synergistic anti-amebic effects occur when combined with [[Amphotericin B]] and azoles.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Safe Water for Sinus Rinsing: Use only boiled water (boiled for 1 minute; 3 minutes at elevations >6,500 ft and allowed to cool), distilled water, or water filtered through an NSF 53/58 filter for neti pots and nasal irrigation.
     - Recreational Water Precautions: Avoid jumping or diving into warm freshwater bodies; wear nose clips or keep head above water when swimming in warm lakes, ponds, or hot springs; avoid stirring up bottom sediment in shallow warm fresh water.

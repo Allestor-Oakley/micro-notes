@@ -69,7 +69,7 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Ceftriaxone]] therapy for 2 to 6 weeks is currently recommended. The organism is also highly susceptible to [[Penicillin]] and [[Ampicillin]].
 *   **Alternative / Second-Line Treatment:** In cases with severe cardiac damage, surgical intervention (e.g., prosthetic valve replacement) combined with antibiotic therapy is required.
-*   **Mechanisms of Resistance & Resistance Genes:** Commonly resistant to [[erythromycin]].
+*   **Mechanisms of Resistance & Resistance Genes:** Commonly resistant to [[Erythromycin]].
 *   **Treatment Nuances & Contraindications:** [[Erythromycin]] should not be used due to widespread resistance. Diagnosing the infection requires clinical laboratories to hold blood cultures for extended incubation periods (at least 7 days) because of the organism's slow growth.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Endocarditis in individuals with preexisting heart disease is prevented by maintaining good oral hygiene and administering antibiotic prophylaxis (e.g., long-acting [[Penicillin]]) at the time of dental procedures.
 

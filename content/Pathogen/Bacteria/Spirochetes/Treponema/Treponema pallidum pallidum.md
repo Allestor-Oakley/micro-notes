@@ -88,7 +88,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin]] (e.g., [[Penicillin G|Benzylpenicillin]], [[Penicillin G]]) is the definitive drug of choice for all stages of syphilis.
-*   **Alternative / Second-Line Treatment:** [[Doxycycline]], [[ceftriaxone]], or [[azithromycin]] can be used as alternatives for patients allergic to [[Penicillin]] (except in pregnant patients where [[Penicillin]] desensitization is often required).
+*   **Alternative / Second-Line Treatment:** [[Doxycycline]], [[Ceftriaxone]], or [[Azithromycin]] can be used as alternatives for patients allergic to [[Penicillin]] (except in pregnant patients where [[Penicillin]] desensitization is often required).
 *   **Mechanisms of Resistance & Resistance Genes:** Highly susceptible to [[Penicillin]] because its conserved, small genome lacks transposable elements to acquire resistance genes.
 *   **Treatment Nuances & Contraindications:** Antibiotic treatment handles the active infection but does not reverse tissue damage sustained in late (tertiary) disease.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Prevention relies on condom use, sexual health education, and prophylactic treatment of exposed partners.

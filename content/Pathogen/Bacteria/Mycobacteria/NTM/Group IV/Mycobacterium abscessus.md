@@ -74,7 +74,7 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Combination therapy is typically required and usually includes [[clarithromycin]], [[amikacin]], and [[cefoxitin]].
+*   **First-Line Treatment:** Combination therapy is typically required and usually includes [[Clarithromycin]], [[Amikacin]], and [[Cefoxitin]].
 *   **Alternative / Second-Line Treatment:** [[Imipenem]] may also have activity depending on the isolate.
 *   **Mechanisms of Resistance & Resistance Genes:** Frank multidrug resistance is a major and defining clinical problem with this organism. Unlike the slow-growing mycobacteria, *M. abscessus* is intrinsically resistant to most classical antimycobacterial drugs (e.g., standard anti-TB medications) but is often susceptible to certain conventional broad-spectrum antibacterial antibiotics.
 *   **Treatment Nuances & Contraindications:** The exact therapeutic regimen must be guided by in vitro antimicrobial susceptibility testing due to extensive and variable drug resistance. Furthermore, successful eradication of the infection generally requires the physical removal of any infected prosthetic devices or foreign bodies.

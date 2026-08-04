@@ -84,7 +84,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Penicillin]] or [[metronidazole]]. Aggressive wound debridement is essential. Therapy must be combined with passive immunization (antitoxin globulin/tetanus immunoglobulin) to neutralize unbound toxin, active vaccination with tetanus toxoid (since disease does not confer immunity), muscle relaxants, and extensive cardiovascular and respiratory support (often required for several weeks).
-*   **Alternative / Second-Line Treatment:** The organism is also susceptible to [[erythromycin]], [[clindamycin]], [[tetracycline]], and [[chloramphenicol]].
+*   **Alternative / Second-Line Treatment:** The organism is also susceptible to [[Erythromycin]], [[clindamycin]], [[Tetracycline]], and [[chloramphenicol]].
 *   **Mechanisms of Resistance & Resistance Genes:** Only toxin-producing strains cause disease. Spores are naturally highly resistant to physical conditions, boiling, and household disinfectants, necessitating autoclaving at 121°C for 15-20 minutes for destruction.
 *   **Treatment Nuances & Contraindications:** Toxin already bound to neurons cannot be neutralized; supportive care via mechanical ventilation is often the only mechanism to sustain the patient until synapses regenerate.
 *   **Prophylaxis & Vaccine Protocols:** Primary prevention is achieved via active immunization with the tetanus toxoid vaccine (usually three initial doses followed by booster doses every 10 years). Neonatal tetanus is prevented by maternal vaccination during pregnancy. Post-exposure prophylaxis for susceptible individuals involves immediate administration of tetanus immunoglobulin and the toxoid vaccine.

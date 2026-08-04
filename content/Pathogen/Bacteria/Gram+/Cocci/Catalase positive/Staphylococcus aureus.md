@@ -137,7 +137,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Beta-lactamase-resistant penicillins (e.g., methicillin, [[Oxacillin]], [[Nafcillin]], [[Dicloxacillin]]) for methicillin-susceptible S. aureus (MSSA). For localized abscesses/cutaneous infections, incision and drainage is essential.
-*   **Alternative / Second-Line Treatment:** For MRSA or penicillin-allergic patients: [[Vancomycin]] (drug of choice for serious systemic MRSA). [[Daptomycin]], [[tigecycline]], [[linezolid]], [[telavancin]], newer lipoglycopeptides, [[clindamycin]], or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMX) for community-acquired or susceptible strains.
+*   **Alternative / Second-Line Treatment:** For MRSA or penicillin-allergic patients: [[Vancomycin]] (drug of choice for serious systemic MRSA). [[Daptomycin]], [[Tigecycline]], [[Linezolid]], [[telavancin]], newer lipoglycopeptides, [[clindamycin]], or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMX) for community-acquired or susceptible strains.
 *   **Mechanisms of Resistance & Resistance Genes:**
     *   **Beta-lactamase (Penicillinase):** Plasmid-controlled hydrolysis of the beta-lactam ring (confers resistance to [[Penicillin G]], [[Ampicillin]]). Present in >90% of isolates.
     *   **mecA / mecC genes:** Carried on the staphylococcal cassette chromosome mec (SCCmec; types I-XII). Encodes a low-affinity penicillin-binding protein (PBP2a), causing intrinsic resistance to all beta-lactam antibiotics (penicillins, cephalosporins, carbapenems), known as MRSA.
@@ -145,7 +145,7 @@ draft: false
     *   **Cell Wall Thickening:** Produces a disorganized, thickened cell wall matrix that traps [[vancomycin]] (VISA/low-level resistance).
     *   **Plasmids:** Transmit resistance to tetracyclines, erythromycins, and aminoglycosides.
     *   **Tolerance:** Wide gap between minimal inhibitory and minimal lethal concentrations, often due to lack of autolytic enzyme activation.
-*   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing is strictly required for all significant isolates. Monotherapy with agents prone to rapid resistance development (like [[rifampin]]) should be avoided for active infection but may be used in combination. Systemic or prolonged bacteremia necessitates aggressive IV therapy and removal of infected foreign bodies. Food poisoning is intoxication; antibiotic treatment is not indicated (treat with fluids/electrolytes).
+*   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing is strictly required for all significant isolates. Monotherapy with agents prone to rapid resistance development (like [[Rifampin]]) should be avoided for active infection but may be used in combination. Systemic or prolonged bacteremia necessitates aggressive IV therapy and removal of infected foreign bodies. Food poisoning is intoxication; antibiotic treatment is not indicated (treat with fluids/electrolytes).
 *   **Prophylaxis & Vaccine Protocols:** No successful human vaccine is available. Prophylaxis against carriage/shedding in high-risk patients or outbreaks utilizes intranasal mupirocin (often for 5 days) with or without topical chlorhexidine bathing. [[Rifampin]] combined with a second antistaphylococcal drug is sometimes used for severe carrier eradication.
 
 #### Trivia & Edge Cases

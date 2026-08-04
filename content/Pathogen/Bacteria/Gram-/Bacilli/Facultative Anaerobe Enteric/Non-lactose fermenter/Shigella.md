@@ -81,8 +81,8 @@ draft: false
 *   **Serology & Immunology:** Suspect colonies isolated on culture media can be typed and confirmed by slide agglutination utilizing specific Shigella antisera. Note that Shigella species and E. coli cannot be reliably differentiated using MALDI-TOF mass spectrometry.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Appropriate oral or intravenous rehydration and electrolyte replacement is the most crucial intervention. Antibiotic therapy is indicated, particularly for severe cases, and empirical treatment can be initiated with fluoroquinolones (e.g., [[ciprofloxacin]]) or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]].
-*   **Alternative / Second-Line Treatment:** [[Ampicillin]], [[ceftriaxone]], or [[azithromycin]].
+*   **First-Line Treatment:** Appropriate oral or intravenous rehydration and electrolyte replacement is the most crucial intervention. Antibiotic therapy is indicated, particularly for severe cases, and empirical treatment can be initiated with fluoroquinolones (e.g., [[Ciprofloxacin]]) or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]].
+*   **Alternative / Second-Line Treatment:** [[Ampicillin]], [[Ceftriaxone]], or [[Azithromycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** Antimicrobial resistance is a rapidly increasing problem globally. Extremely drug-resistant (XDR) strains of Shigella—resistant to all commonly recommended empiric and alternative drugs—are emerging and caused an estimated 5% of US infections in 2022.
 *   **Treatment Nuances & Contraindications:** Unlike simple gastroenteritis caused by Salmonella where antibiotics are generally withheld, antimicrobial therapy for Shigella is highly beneficial. It shortens the clinical course of symptomatic illness, curtails fecal shedding, and limits the infectivity/transmission of the disease. Therapy must be guided by local in vitro antimicrobial susceptibility testing.
 *   **Prophylaxis & Vaccine Protocols:** There is currently no effective vaccine available for Shigella.

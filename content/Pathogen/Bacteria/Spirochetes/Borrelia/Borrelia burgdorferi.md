@@ -90,10 +90,10 @@ draft: false
 *   **Culture:** Extremely difficult, complex, and low-yield. If attempted, B. burgdorferi has been most easily isolated from erythema migrans skin biopsies cultured in BSK II medium, but this is seldom used clinically.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** For adult patients with early localized or early disseminated Lyme disease associated with erythema migrans: Oral [[doxycycline]] (100 mg twice daily) for 14 to 21 days, [[Amoxicillin]] (500 mg three times daily) for 14 to 21 days, or [[cefuroxime]] axetil (500 mg twice daily) for 14 to 21 days.
-*   **Alternative / Second-Line Treatment:** [[Azithromycin]] or [[clarithromycin]].
+*   **First-Line Treatment:** For adult patients with early localized or early disseminated Lyme disease associated with erythema migrans: Oral [[Doxycycline]] (100 mg twice daily) for 14 to 21 days, [[Amoxicillin]] (500 mg three times daily) for 14 to 21 days, or [[Cefuroxime]] axetil (500 mg twice daily) for 14 to 21 days.
+*   **Alternative / Second-Line Treatment:** [[Azithromycin]] or [[Clarithromycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
-*   **Treatment Nuances & Contraindications:** Patients with advanced neurological or cardiac manifestations typically require intravenous antibiotic therapy with [[ceftriaxone]], [[cefotaxime]], or [[Penicillin G]].
+*   **Treatment Nuances & Contraindications:** Patients with advanced neurological or cardiac manifestations typically require intravenous antibiotic therapy with [[Ceftriaxone]], [[Cefotaxime]], or [[Penicillin G]].
 *   **Prophylaxis & Vaccine Protocols:** No effective human vaccine is currently available. Prevention strictly relies on minimizing tick exposure via the use of protective clothing, tick repellents, and the prompt detection and removal of attached ticks.
 
 #### Trivia & Edge Cases

@@ -40,7 +40,7 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Anaerobic. It is a rapidly growing anaerobe. Its growth is specifically stimulated by bile.
 *   **Primary Agar:** Bacteroides bile-esculin (BBE) agar.
-*   **Selective / Enriched Agar:** BBE agar is highly selective and differential; most aerobic and anaerobic bacteria are inhibited by the bile and [[gentamicin]] in this medium, whereas the *B. fragilis* group is stimulated by bile and inherently resistant to [[gentamicin]].
+*   **Selective / Enriched Agar:** BBE agar is highly selective and differential; most aerobic and anaerobic bacteria are inhibited by the bile and [[Gentamicin]] in this medium, whereas the *B. fragilis* group is stimulated by bile and inherently resistant to [[Gentamicin]].
 *   **Metabolic Profile & Biochemical Testing:** Able to hydrolyze esculin, which produces a characteristic black precipitate on BBE agar. During anaerobic metabolism, the organism produces short-chain fatty acids (e.g., succinic acid).
 
 #### Virulence Factors & Genetics
@@ -77,9 +77,9 @@ draft: false
 *   **Serology & Immunology:** Matrix-assisted laser desorption ionization (MALDI-TOF) mass spectrometry is utilized for rapid identification. In cases of ETBF gastroenteritis, the BFT toxin is secreted and can be detected directly in stool.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Metronidazole]] is uniformly active and considered the drug of choice. Carbapenems (e.g., [[imipenem]], [[meropenem]], [[ertapenem]]) and beta-lactam/beta-lactamase inhibitor combinations (e.g., [[Piperacillin]]-[[tazobactam]], [[Ampicillin]]-[[sulbactam]], [[Amoxicillin]]-[[clavulanate]]) are also highly effective.
-*   **Alternative / Second-Line Treatment:** [[Cefoxitin]] or [[cefotetan]]. [[Clindamycin]] has historically been used, though significant resistance now exists.
-*   **Mechanisms of Resistance & Resistance Genes:** Intrinsically resistant to aminoglycosides (e.g., [[gentamicin]]). Demonstrates resistance to [[Penicillin]]. Approximately 25% of clinical isolates are now resistant to [[clindamycin]].
+*   **First-Line Treatment:** [[Metronidazole]] is uniformly active and considered the drug of choice. Carbapenems (e.g., [[Imipenem]], [[Meropenem]], [[Ertapenem]]) and beta-lactam/beta-lactamase inhibitor combinations (e.g., [[Piperacillin]]-[[tazobactam]], [[Ampicillin]]-[[sulbactam]], [[Amoxicillin]]-[[clavulanate]]) are also highly effective.
+*   **Alternative / Second-Line Treatment:** [[Cefoxitin]] or [[Cefotetan]]. [[Clindamycin]] has historically been used, though significant resistance now exists.
+*   **Mechanisms of Resistance & Resistance Genes:** Intrinsically resistant to aminoglycosides (e.g., [[Gentamicin]]). Demonstrates resistance to [[Penicillin]]. Approximately 25% of clinical isolates are now resistant to [[clindamycin]].
 *   **Treatment Nuances & Contraindications:** Infections are almost always polymicrobial; thus, broad-spectrum or combination antimicrobial therapy covering both aerobic and anaerobic bowel flora (e.g., alongside *[[Escherichia coli]]* and *Enterococcus*) is required. Surgical drainage of the characteristic abscesses is critical for clinical cure.
 *   **Prophylaxis & Vaccine Protocols:** Prophylactic treatment with appropriate antibiotics is strongly indicated whenever the mucosal barriers of the gastrointestinal tract are intentionally disrupted by diagnostic or surgical procedures.
 

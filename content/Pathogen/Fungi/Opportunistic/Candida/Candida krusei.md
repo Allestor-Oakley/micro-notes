@@ -45,7 +45,7 @@ draft: false
 
 #### Virulence Factors & Pathogenesis
 *   **Enzymes & Proteases:** Secretes proteases and phospholipases that facilitate tissue invasion.
-*   **Host Immune Evasion:** Highly notable for its intrinsic resistance to [[fluconazole]]. Other virulence factors include adherence capabilities, cell-surface hydrophobicity, cell wall mannans, and the capacity for phenotypic switching.
+*   **Host Immune Evasion:** Highly notable for its intrinsic resistance to [[Fluconazole]]. Other virulence factors include adherence capabilities, cell-surface hydrophobicity, cell wall mannans, and the capacity for phenotypic switching.
 *   **Thermal Tolerance Mechanisms:** Readily grows and proliferates at 37°C.
 *   **Toxins:** N/A
 *   **Host Defense & Immunodeficiency Links:** Innate host defenses, specifically neutrophils and [[Monocyte|monocytes]], provide crucial protection against systemic infection. Patients with severe immunosuppression, prolonged neutropenia, hematologic malignancies, solid organ or stem cell transplantation, and extensive gastrointestinal mucosal damage from chemotherapeutic agents are at extreme risk for invasive disease.
@@ -61,7 +61,7 @@ draft: false
 *   **Geographic Endemicity:** Distributed worldwide. Represents roughly 2.5% of *Candida* bloodstream isolates globally, with regional rates of 3.3% in North America, 2.6% in Europe, 1.8% in Latin America, and 0.8% in the Asia-Pacific region.
 *   **Environmental Reservoir:** Endogenous opportunist. Functions as normal microbial flora colonizing the gastrointestinal mucosa, vaginal mucosa, skin, and nails.
 *   **High-Risk Activities & Occupations:** Use of central venous catheters, total parenteral nutrition, broad-spectrum antibiotics, acute kidney failure, abdominal surgery, gastrointestinal perforations, or anastomotic leaks.
-*   **Public Health & Isolation:** The emergence of *C. krusei* as a significant nosocomial pathogen is postulated to be heavily associated with the widespread use of [[fluconazole]] in clinical practice, which selectively eliminates susceptible *Candida* species and allows this inherently [[fluconazole]]-resistant species to overgrow and translocate across the GI mucosa.
+*   **Public Health & Isolation:** The emergence of *C. krusei* as a significant nosocomial pathogen is postulated to be heavily associated with the widespread use of [[Fluconazole]] in clinical practice, which selectively eliminates susceptible *Candida* species and allows this inherently [[Fluconazole]]-resistant species to overgrow and translocate across the GI mucosa.
 
 #### Advanced Laboratory Diagnostics
 *   **Direct Microscopic Visualization & Special Stains:** Clinical specimens reveal a mixture of budding yeasts, pseudohyphae, and true hyphae.
@@ -70,12 +70,12 @@ draft: false
 *   **Serology & Antigen Testing:** Rapidly identified directly from blood cultures using Peptide Nucleic Acid-Fluorescence In Situ Hybridization (PNA-FISH). Specifically, the Yeast Traffic Light PNA-FISH kit targets species-specific rRNA sequences, causing *C. krusei* (along with *C. glabrata*) to fluoresce red. Also detectable by Matrix-Assisted Laser Desorption Ionization-Time of Flight Mass Spectrometry (MALDI-TOF MS), gene sequencing, and biomarker assays including 1,3-beta-D-glucan (Fungitell), mannan antigens (LA, EIA), and D-arabinitol.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** *Candida krusei* is intrinsically resistant to [[fluconazole]] (0 activity) and exhibits moderate activity/resistance to [[amphotericin B]] (++) and [[itraconazole]] (++). It shows occasional activity against [[flucytosine]] (+). It is highly susceptible and very active against the extended-spectrum azoles [[voriconazole]] (++++) and [[isavuconazole]] (++++).
+*   **Targeting Membrane / Ergosterol:** *Candida krusei* is intrinsically resistant to [[Fluconazole]] (0 activity) and exhibits moderate activity/resistance to [[Amphotericin B]] (++) and [[Itraconazole]] (++). It shows occasional activity against [[flucytosine]] (+). It is highly susceptible and very active against the extended-spectrum azoles [[Voriconazole]] (++++) and [[Isavuconazole]] (++++).
 *   **Targeting Cell Wall / Glucan:** Highly susceptible and very active (++++) against the echinocandins ([[Anidulafungin]], [[Caspofungin]], [[Micafungin]], and rezafungin).
 *   **Alternative / Cutaneous Treatments:** Topical application of systemically active antifungal agents for superficial mucosal and cutaneous infections. Removal of indwelling central venous catheters is crucial for resolving catheter-associated candidemia.
-*   **Treatment Nuances & Formulations:** Because *C. krusei* is [[fluconazole]]-resistant, empirical therapy for invasive candidiasis or candidemia in critically ill patients, especially those with prior azole exposure or hematologic malignancies, must utilize an echinocandin or a broader-spectrum azole like [[voriconazole]].
-*   **Prophylaxis & Prevention:** Strict catheter/line management and the judicious use of broad-spectrum antibacterial and antifungal ([[fluconazole]]) agents to prevent selective overgrowth.
+*   **Treatment Nuances & Formulations:** Because *C. krusei* is [[Fluconazole]]-resistant, empirical therapy for invasive candidiasis or candidemia in critically ill patients, especially those with prior azole exposure or hematologic malignancies, must utilize an echinocandin or a broader-spectrum azole like [[Voriconazole]].
+*   **Prophylaxis & Prevention:** Strict catheter/line management and the judicious use of broad-spectrum antibacterial and antifungal ([[Fluconazole]]) agents to prevent selective overgrowth.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** [[Fluconazole]]-resistant, Yeast Traffic Light PNA-FISH (fluoresces red), hematologic malignancies (16% of isolates), stem cell transplant (19.4% of isolates).
-*   **Exceptions to the Rule:** Unlike *[[Candida albicans]]*, *C. krusei* is intrinsically resistant to [[fluconazole]]. Furthermore, unlike *[[Candida glabrata]]* (which is also frequently [[fluconazole]]-resistant but exclusively forms yeasts without hyphae), *C. krusei* readily produces both pseudohyphae and true hyphae.
+*   **Exceptions to the Rule:** Unlike *[[Candida albicans]]*, *C. krusei* is intrinsically resistant to [[Fluconazole]]. Furthermore, unlike *[[Candida glabrata]]* (which is also frequently [[Fluconazole]]-resistant but exclusively forms yeasts without hyphae), *C. krusei* readily produces both pseudohyphae and true hyphae.

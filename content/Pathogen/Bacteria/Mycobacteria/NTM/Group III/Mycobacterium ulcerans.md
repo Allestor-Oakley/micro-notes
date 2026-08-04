@@ -48,7 +48,7 @@ draft: false
 #### Virulence Factors & Genetics
 *   **Secretion Systems:** N/A
 *   **Exotoxins:**
-    *   **Toxin Name:** Mycolactone (a polyketide-derived [[macrolide]] toxin).
+    *   **Toxin Name:** Mycolactone (a polyketide-derived [[Macrolide]] toxin).
     *   **Mechanism of Action:** Functions as a diffusible cytotoxin and immunosuppressant. It destroys host tissues at the site of infection by inducing apoptosis, resulting in extensive coagulative necrosis. Because the toxin is diffusible, tissue destruction usually extends far beyond the areas containing the mycobacteria.
 *   **Endotoxins & Superantigens:** N/A
 *   **Enzymes:** N/A
@@ -79,7 +79,7 @@ draft: false
 *   **Serology & Immunology:** Thin layer chromatography detecting the fluorescence of the mycolactone toxin in clinical samples and ELISA for the quantification of mycolactone have been developed for diagnostics.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** World Health Organization (WHO) recommended antimicrobial therapy consists of a combination antibiotic regimen for 8 weeks: [[Rifampin|rifampicin]] plus [[clarithromycin]], [[Rifampin|rifampicin]] plus [[streptomycin]], or [[Rifampin|rifampicin]] plus [[moxifloxacin]].
+*   **First-Line Treatment:** World Health Organization (WHO) recommended antimicrobial therapy consists of a combination antibiotic regimen for 8 weeks: [[Rifampin|rifampicin]] plus [[Clarithromycin]], [[Rifampin|rifampicin]] plus [[Streptomycin]], or [[Rifampin|rifampicin]] plus [[Moxifloxacin]].
 *   **Alternative / Second-Line Treatment:** Thermotherapy (local heat application) is an effective alternative treatment option for early, limited disease because the organism is temperature-sensitive.
 *   **Mechanisms of Resistance & Resistance Genes:** Potential development of drug resistance needs to be carefully monitored. The organism's highly hydrophobic, lipid-rich cell wall confers intrinsic resistance to many conventional antibacterial antibiotics.
 *   **Treatment Nuances & Contraindications:** A "paradoxical reaction" frequently occurs after the initiation of antimycobacterial treatment, unmasking the true extension of the lesions by causing additional skin and subcutaneous tissue to break down due to intense local immune reconstitution/inflammation. This deteriorating appearance must be carefully distinguished from secondary bacterial infections or actual treatment failure (which is rare). Excellent wound care, pain management, skin grafting, and reconstructive surgery are critical complementary therapies.
@@ -87,4 +87,4 @@ draft: false
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** Buruli ulcer, Bairnsdale ulcer, mycolactone, pMUM virulence plasmid, IS2404 insertion sequence, fat cell ghosts, undermined ulcer edges, paradoxical reaction, 30°C optimum growth, aquatic environments.
-*   **Exceptions to the Rule:** Unlike *[[Mycobacterium tuberculosis]]* and *[[Mycobacterium leprae]]*, which are strictly obligate intracellular pathogens, *Mycobacterium ulcerans* is predominantly an extracellular pathogen that forms massive extracellular clusters shielded by its potent, immunosuppressive mycolactone toxin cloud. Furthermore, it causes disease through a secreted [[macrolide]] toxin, which is highly unusual for mycobacteria.
+*   **Exceptions to the Rule:** Unlike *[[Mycobacterium tuberculosis]]* and *[[Mycobacterium leprae]]*, which are strictly obligate intracellular pathogens, *Mycobacterium ulcerans* is predominantly an extracellular pathogen that forms massive extracellular clusters shielded by its potent, immunosuppressive mycolactone toxin cloud. Furthermore, it causes disease through a secreted [[Macrolide]] toxin, which is highly unusual for mycobacteria.

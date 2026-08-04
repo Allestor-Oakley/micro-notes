@@ -33,7 +33,7 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Aerobic environmental organism. It grows more slowly than enteric Gram-negative rods, often requiring up to 3 days of incubation before colonies become visible.
 *   **Primary Agar:** Grows on most routine media used for culturing Gram-negative bacteria.
-*   **Selective / Enriched Agar:** *B. cepacia* selective agar (which contains [[Polymyxin E|colistin]]) is highly recommended for selectively culturing the organism from the sputum of patients with cystic fibrosis.
+*   **Selective / Enriched Agar:** *B. cepacia* selective agar (which contains [[Polymyxin|colistin]]) is highly recommended for selectively culturing the organism from the sputum of patients with cystic fibrosis.
 *   **Metabolic Profile & Biochemical Testing:** Oxidase-positive and lysine decarboxylase-positive. It produces acid from glucose. Differentiating it from other nonfermentative pseudomonads requires a complex battery of biochemical tests.
 
 #### Virulence Factors & Genetics
@@ -70,9 +70,9 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (TMP-SMX). Other effective treatments include carbapenems (e.g., [[meropenem]]), [[chloramphenicol]], and [[minocycline]].
-*   **Alternative / Second-Line Treatment:** [[Ceftazidime]], [[ciprofloxacin]], or [[Piperacillin]] can demonstrate good activity (especially against planktonic forms or when embedded in a biofilm).
-*   **Mechanisms of Resistance & Resistance Genes:** Known for extensive antimicrobial resistance; isolates recovered from CF patients are often multidrug-resistant or pan-resistant. Resistance is mediated by efflux pumps, antimicrobial degradation or modifying enzymes, and altered membrane functions. It is notably inherently resistant to the glycylcycline antibiotic [[tigecycline]].
+*   **First-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (TMP-SMX). Other effective treatments include carbapenems (e.g., [[Meropenem]]), [[chloramphenicol]], and [[Minocycline]].
+*   **Alternative / Second-Line Treatment:** [[Ceftazidime]], [[Ciprofloxacin]], or [[Piperacillin]] can demonstrate good activity (especially against planktonic forms or when embedded in a biofilm).
+*   **Mechanisms of Resistance & Resistance Genes:** Known for extensive antimicrobial resistance; isolates recovered from CF patients are often multidrug-resistant or pan-resistant. Resistance is mediated by efflux pumps, antimicrobial degradation or modifying enzymes, and altered membrane functions. It is notably inherently resistant to the glycylcycline antibiotic [[Tigecycline]].
 *   **Treatment Nuances & Contraindications:** Antimicrobial susceptibility testing must be performed on all clinical isolates, although the organism's slow growth can make routine in vitro testing difficult.
 *   **Prophylaxis & Vaccine Protocols:** N/A
 

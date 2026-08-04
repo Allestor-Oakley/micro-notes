@@ -46,7 +46,7 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Facultative anaerobe. Organisms grow better and more rapidly at 25-28°C than at 37°C. Temperature regulates distinct genetic phases: survival inside the flea occurs at <26°C, while virulence factors for mammalian host evasion are induced at 37°C.
 *   **Primary Agar:** Readily grows on sheep blood agar, chocolate agar, MacConkey agar, and brain-heart infusion broth. Growth may be slow, requiring more than 48 hours for colonies to appear. Colonies are typically gray to white, sometimes opaque, 1-1.5 mm in diameter with irregular edges, and nonhemolytic.
-*   **Selective / Enriched Agar:** Cefsulodin-irgasan-[[novobiocin]] (CIN) agar incubated at 25-28°C is recommended to enhance recovery from nonsterile sites like sputum.
+*   **Selective / Enriched Agar:** Cefsulodin-irgasan-novobiocin (CIN) agar incubated at 25-28°C is recommended to enhance recovery from nonsterile sites like sputum.
 *   **Metabolic Profile & Biochemical Testing:** Catalase positive; oxidase negative; urease negative; indole negative. Produces non-lactose-fermenting colonies on MacConkey agar. The negative urease, negative indole, and lack of motility differentiate it from other pathogenic Yersinia species.
 
 #### Virulence Factors & Genetics
@@ -83,11 +83,11 @@ draft: false
 *   **Serology & Immunology:** A single anti-F1 serology positive test or a fourfold rise in anti-F1 antibody titers in paired sera confirms the diagnosis. Rapid diagnostic tests (F1RDT) are available for antigen detection. Suspect cultures can be confirmed by specific bacteriophage lysis at 20-25°C.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Streptomycin]] or [[gentamicin]].
-*   **Alternative / Second-Line Treatment:** [[Doxycycline]], [[ciprofloxacin]] (or other fluoroquinolones), [[chloramphenicol]], and [[Cotrimoxazole|trimethoprim-sulfamethoxazole]].
+*   **First-Line Treatment:** [[Streptomycin]] or [[Gentamicin]].
+*   **Alternative / Second-Line Treatment:** [[Doxycycline]], [[Ciprofloxacin]] (or other fluoroquinolones), [[chloramphenicol]], and [[Cotrimoxazole|trimethoprim-sulfamethoxazole]].
 *   **Mechanisms of Resistance & Resistance Genes:** Antimicrobial drug resistance is extremely rare and has never been documented in the United States.
-*   **Treatment Nuances & Contraindications:** [[Streptomycin]] is ototoxic and nephrotoxic and should be used with caution in pregnant women, the elderly, and children, making [[doxycycline]] or [[ciprofloxacin]] the preferred alternatives for these groups.
-*   **Prophylaxis & Vaccine Protocols:** Post-exposure prophylaxis requires 7 days of antibiotics ([[doxycycline]] or [[ciprofloxacin]]) for close contacts of pneumonic plague patients or those directly exposed to infected fluids. The killed whole-cell vaccine is no longer available in the US; new vaccines are under development.
+*   **Treatment Nuances & Contraindications:** [[Streptomycin]] is ototoxic and nephrotoxic and should be used with caution in pregnant women, the elderly, and children, making [[Doxycycline]] or [[Ciprofloxacin]] the preferred alternatives for these groups.
+*   **Prophylaxis & Vaccine Protocols:** Post-exposure prophylaxis requires 7 days of antibiotics ([[Doxycycline]] or [[Ciprofloxacin]]) for close contacts of pneumonic plague patients or those directly exposed to infected fluids. The killed whole-cell vaccine is no longer available in the US; new vaccines are under development.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Black Death", buboes, striking bipolar staining, safety-pin appearance, Wayson stain, rat flea (Xenopsylla cheopis), F1 capsular antigen, pCD1 / pFra / pPCP1 plasmids.

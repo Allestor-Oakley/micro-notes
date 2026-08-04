@@ -78,7 +78,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** A single dose of intramuscular [[Penicillin]] ([[Penicillin G|benzylpenicillin]] / [[Penicillin G]]) is the treatment of choice.
-*   **Alternative / Second-Line Treatment:** Tetracyclines (e.g., [[doxycycline]]) and macrolides (e.g., [[erythromycin]]) can be used as alternatives for patients with [[Penicillin]] allergies.
+*   **Alternative / Second-Line Treatment:** Tetracyclines (e.g., [[Doxycycline]]) and macrolides (e.g., [[Erythromycin]]) can be used as alternatives for patients with [[Penicillin]] allergies.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** N/A
 *   **Prophylaxis & Vaccine Protocols:** N/A

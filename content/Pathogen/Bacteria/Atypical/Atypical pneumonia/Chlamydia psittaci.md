@@ -72,7 +72,7 @@ draft: false
 *   **Serology & Immunology:** Due to the extreme danger of culturing the pathogen, diagnosis is typically confirmed serologically using microimmunofluorescence (MIF) or complement fixation (CF) to detect a significant increase in antibody titers.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Doxycycline]] or [[tetracycline]]. Macrolides (like [[azithromycin]]) are also highly effective.
+*   **First-Line Treatment:** [[Doxycycline]] or [[Tetracycline]]. Macrolides (like [[Azithromycin]]) are also highly effective.
 *   **Alternative / Second-Line Treatment:** Fluoroquinolones or [[chloramphenicol]].
 *   **Mechanisms of Resistance & Resistance Genes:** It is inherently resistant to sulfonamides. Penicillins and beta-lactam antibiotics are generally ineffective because they cannot reliably access the target within the intracellular compartment or active RBs.
 *   **Treatment Nuances & Contraindications:** Due to the difficulty and hazard of obtaining laboratory confirmation via culture, the majority of clinical infections are treated empirically based on the clinical presentation and a history of bird exposure.

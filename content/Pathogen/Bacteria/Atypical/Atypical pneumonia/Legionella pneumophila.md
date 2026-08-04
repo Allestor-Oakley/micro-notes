@@ -73,7 +73,7 @@ draft: false
 *   **Serology & Immunology:** A Legionella urinary antigen test is widely used and is highly sensitive for *L. pneumophila* serogroup 1, but it has poor sensitivity for other serogroups. Serology (evaluating paired acute and convalescent phase sera) is largely retrospective; seroconversion can take up to 6 months to develop, and positive serology may persist for months to years.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Because the organism is an intracellular pathogen, antibiotics capable of intracellular penetration must be used. Macrolides (e.g., [[azithromycin]], [[clarithromycin]]) or fluoroquinolones (e.g., [[ciprofloxacin]], [[levofloxacin]]) are the treatments of choice.
+*   **First-Line Treatment:** Because the organism is an intracellular pathogen, antibiotics capable of intracellular penetration must be used. Macrolides (e.g., [[Azithromycin]], [[Clarithromycin]]) or fluoroquinolones (e.g., [[Ciprofloxacin]], [[Levofloxacin]]) are the treatments of choice.
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Routine antibiotics that do not penetrate host cells effectively (like many beta-lactams) are not suitable.

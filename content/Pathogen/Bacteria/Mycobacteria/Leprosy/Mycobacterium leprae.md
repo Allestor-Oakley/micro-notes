@@ -87,8 +87,8 @@ draft: false
 *   **First-Line Treatment:** Multidrug therapy (MDT) is strictly required.
     *   **Paucibacillary (Tuberculoid) Leprosy:** [[Dapsone]] (100 mg daily) and [[Rifampin|Rifampicin]] (600 mg once a month) for 6 months.
     *   **Multibacillary (Lepromatous) Leprosy:** [[Dapsone]] (100 mg daily), [[Rifampin|Rifampicin]] (600 mg once a month), and Clofazimine (50 mg daily + 300 mg once a month) for 12 months.
-*   **Alternative / Second-Line Treatment:** [[Minocycline]], [[ofloxacin]], or [[clarithromycin]].
-*   **Mechanisms of Resistance & Resistance Genes:** Resistance to [[dapsone]] and [[Rifampin|rifampicin]] can occur (e.g., via specific gene mutations), which emphasizes the absolute necessity of combination MDT.
+*   **Alternative / Second-Line Treatment:** [[Minocycline]], [[Ofloxacin]], or [[Clarithromycin]].
+*   **Mechanisms of Resistance & Resistance Genes:** Resistance to [[Dapsone]] and [[Rifampin|rifampicin]] can occur (e.g., via specific gene mutations), which emphasizes the absolute necessity of combination MDT.
 *   **Treatment Nuances & Contraindications:** Leprosy reactions (immunologic inflammatory spikes causing acute nerve damage) must be aggressively managed with oral corticosteroids (e.g., prednisolone) or cyclosporine.
 *   **Prophylaxis & Vaccine Protocols:** The live attenuated Bacillus Calmette-Guérin (BCG) vaccine provides some cross-protection against leprosy, particularly among household contacts.
 

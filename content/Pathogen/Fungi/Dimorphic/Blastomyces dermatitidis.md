@@ -89,10 +89,10 @@ draft: false
 *   **Serology & Antigen Testing:** Enzyme immunoassay (EIA) and immunodiffusion (ID) tests are used to detect Antigen A (A band) antibodies, although complement fixation (CF) tests and blastomycin skin testing lack specificity and sensitivity and are highly cross-reactive. Specific antigen detection is available for serum, urine, and cerebrospinal fluid. Identification from cultures can be confirmed without waiting for phase conversion by using specific DNA probes (exoantigen), MALDI-TOF MS, or PCR.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** [[Amphotericin B]] (preferably a lipid formulation) is the agent of choice for severe, life-threatening, or central nervous system blastomycosis. [[Itraconazole]] is highly effective and recommended for mild to moderate disease or as step-down maintenance therapy. Alternative extended-spectrum azoles include fluconazole, [[posaconazole]], [[isavuconazole]], and [[voriconazole]].
-*   **Targeting Cell Wall / Glucan:** [[Echinocandins]] demonstrate only moderate activity with some resistance and are not primary recommended treatments.
+*   **Targeting Membrane / Ergosterol:** [[Amphotericin B]] (preferably a lipid formulation) is the agent of choice for severe, life-threatening, or central nervous system blastomycosis. [[Itraconazole]] is highly effective and recommended for mild to moderate disease or as step-down maintenance therapy. Alternative extended-spectrum azoles include fluconazole, [[Posaconazole]], [[Isavuconazole]], and [[Voriconazole]].
+*   **Targeting Cell Wall / Glucan:** [[Echinocandin]] demonstrate only moderate activity with some resistance and are not primary recommended treatments.
 *   **Alternative / Cutaneous Treatments:** N/A
-*   **Treatment Nuances & Formulations:** Severe presentations, including meningeal or acute respiratory distress syndrome, initially require intravenous lipid formulations of [[amphotericin B]], followed by extended oral azole maintenance therapy.
+*   **Treatment Nuances & Formulations:** Severe presentations, including meningeal or acute respiratory distress syndrome, initially require intravenous lipid formulations of [[Amphotericin B]], followed by extended oral azole maintenance therapy.
 *   **Prophylaxis & Prevention:** There are no specific environmental prevention guidelines to avoid exposure. In immunocompromised patients whose immune defects cannot be reversed, long-term or lifelong suppressive antifungal therapy is recommended to prevent relapse. Experimental recombinant BAD-1 strains show promise for vaccine development.
 
 #### Trivia & Edge Cases

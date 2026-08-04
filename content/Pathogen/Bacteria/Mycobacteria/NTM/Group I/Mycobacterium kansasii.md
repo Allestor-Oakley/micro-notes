@@ -77,8 +77,8 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Combination multidrug therapy consisting of [[isoniazid]] (INH), [[rifampin]] (RIF), and [[ethambutol]] (EMB). The organism is usually highly susceptible to [[rifampin]], and infections typically show a good clinical response to this regimen.
-*   **Alternative / Second-Line Treatment:** [[Ethionamide]], [[cycloserine]], [[clarithromycin]], or [[azithromycin]].
+*   **First-Line Treatment:** Combination multidrug therapy consisting of [[isoniazid]] (INH), [[Rifampin]] (RIF), and [[ethambutol]] (EMB). The organism is usually highly susceptible to [[Rifampin]], and infections typically show a good clinical response to this regimen.
+*   **Alternative / Second-Line Treatment:** [[Ethionamide]], [[cycloserine]], [[Clarithromycin]], or [[Azithromycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** Natural resistance to many common antibacterial antibiotics due to its highly hydrophobic cell wall structure.
 *   **Treatment Nuances & Contraindications:** Monotherapy should be avoided to prevent the development of drug resistance. Treatment must be prolonged.
 *   **Prophylaxis & Vaccine Protocols:** N/A

@@ -68,7 +68,7 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** The recommended treatment regimen is [[azithromycin]] 1 g orally once per week (or 500 mg daily).
+*   **First-Line Treatment:** The recommended treatment regimen is [[Azithromycin]] 1 g orally once per week (or 500 mg daily).
 *   **Alternative / Second-Line Treatment:** Alternative antimicrobial treatments exist but are not specifically detailed in the provided literature.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Antimicrobial treatment must be continued for at least three weeks and strictly until all genital lesions have completely healed.

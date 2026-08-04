@@ -81,10 +81,10 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Doxycycline]] is the drug of choice. In severe disease, intravenous administration is commonly utilized.
-*   **Alternative / Second-Line Treatment:** [[Azithromycin]], [[clarithromycin]], [[josamycin]], or [[chloramphenicol]]. [[Azithromycin]] is frequently utilized for pregnant women and young children.
+*   **Alternative / Second-Line Treatment:** [[Azithromycin]], [[Clarithromycin]], [[Josamycin]], or [[chloramphenicol]]. [[Azithromycin]] is frequently utilized for pregnant women and young children.
 *   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to penicillins, cephalosporins, and aminoglycosides (like other *Rickettsiales*).
 *   **Treatment Nuances & Contraindications:** Scrub typhus is a major cause of treatable but under-reported serious infection in the tropics; empirical therapy must often be started before confirmatory diagnosis due to overlapping symptoms with dengue, [[Plasmodium sp.]], and typhoid.
-*   **Prophylaxis & Vaccine Protocols:** There is currently no effective vaccine available. Prophylactic administration of [[doxycycline]] has been utilized in randomized trials but is generally not a standard public health measure.
+*   **Prophylaxis & Vaccine Protocols:** There is currently no effective vaccine available. Prophylactic administration of [[Doxycycline]] has been utilized in randomized trials but is generally not a standard public health measure.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Scrub typhus", chiggers / trombiculid mites, "mite islands", inoculation eschar, Tsutsugamushi triangle, 56-kDa type-specific antigen (TSA56).

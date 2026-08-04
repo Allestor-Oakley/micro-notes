@@ -71,7 +71,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Doxycycline]] is the unequivocal drug of choice. Therapy must be initiated promptly based on clinical suspicion before seroconversion occurs.
-*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[ciprofloxacin]]) are considered alternative agents with proven *in vitro* activity. [[Chloramphenicol]] has *in vitro* activity but is associated with a high incidence of disease relapse.
+*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[Ciprofloxacin]]) are considered alternative agents with proven *in vitro* activity. [[Chloramphenicol]] has *in vitro* activity but is associated with a high incidence of disease relapse.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Sulfonamides actually enhance the severity of the disease and are strictly contraindicated. The organism is naturally immune to all beta-lactam antibiotics (penicillins, cephalosporins, carbapenems), aminoglycosides, and [[Cotrimoxazole|trimethoprim-sulfamethoxazole]].
 *   **Prophylaxis & Vaccine Protocols:** There is currently no available vaccine. Prophylactic antibiotic therapy following a tick bite is not recommended.

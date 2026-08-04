@@ -71,7 +71,7 @@ draft: false
 *   **Serology & Immunology:** Polyvalent antisera can be used for serogrouping isolates.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Due to the fulminant nature of the infection, prompt antibiotic therapy is critical and must often be initiated before culture confirmation. The treatment of choice is the combination of a [[tetracycline]] or [[fluoroquinolone]] (e.g., [[minocycline]], [[doxycycline]], or [[ciprofloxacin]]) with a third-generation cephalosporin (e.g., [[ceftriaxone]] or [[cefotaxime]]).
+*   **First-Line Treatment:** Due to the fulminant nature of the infection, prompt antibiotic therapy is critical and must often be initiated before culture confirmation. The treatment of choice is the combination of a [[Tetracycline]] or [[Fluoroquinolone]] (e.g., [[Minocycline]], [[Doxycycline]], or [[Ciprofloxacin]]) with a third-generation cephalosporin (e.g., [[Ceftriaxone]] or [[Cefotaxime]]).
 *   **Alternative / Second-Line Treatment:** Aggressive surgical management, including the extensive debridement of all devitalized and necrotic tissue or amputation, is frequently necessary and lifesaving.
 *   **Mechanisms of Resistance & Resistance Genes:** Plasmids carrying antimicrobial resistance traits are commonly found within the genus.
 *   **Treatment Nuances & Contraindications:** Delaying antibiotic therapy to wait for laboratory confirmation can be fatal due to the extremely rapid progression of the disease.

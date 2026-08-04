@@ -45,7 +45,7 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Psychrophilic, microaerophilic or facultatively anaerobic. Grows best at 25°C to 30°C but is uniquely capable of growing at cold temperatures (e.g., 4°C), allowing it to multiply to high numbers in contaminated refrigerated food or blood products.
 *   **Primary Agar:** Grows on simple media and MacConkey agar (appears as lactose non-fermenting).
-*   **Selective / Enriched Agar:** Cefsulodin-irgasan-[[novobiocin]] (CIN) agar incubated at 25-30°C (room temperature) for several days. Colonies uniquely demonstrate a "bull's eye" appearance with a red center. Recovery from stool, food, or water is greatly enhanced by "cold enrichment" (placing the specimen in buffered saline at pH 7.6 at 4°C for 2-4 weeks before plating).
+*   **Selective / Enriched Agar:** Cefsulodin-irgasan-novobiocin (CIN) agar incubated at 25-30°C (room temperature) for several days. Colonies uniquely demonstrate a "bull's eye" appearance with a red center. Recovery from stool, food, or water is greatly enhanced by "cold enrichment" (placing the specimen in buffered saline at pH 7.6 at 4°C for 2-4 weeks before plating).
 *   **Metabolic Profile & Biochemical Testing:** Catalase-positive, oxidase-negative, and urease-positive. Non-lactose-fermenting. Pathogenic strains can be differentiated from non-pathogenic environmental strains because all non-pathogenic *Y. enterocolitica* possess pyrazinamidase activity.
 
 #### Virulence Factors & Genetics
@@ -82,8 +82,8 @@ draft: false
 *   **Serology & Immunology:** Serology using ELISA, whole-cell agglutination, or complement fixation tests can be performed retrospectively. Results can be difficult to interpret due to cross-reactions between *Y. enterocolitica* O:9 and *[[Brucella]] abortus*, *E. coli*, *[[Morganella morganii]]*, and *Salmonella* spp. Specificity is improved by detecting a greater than fourfold increase in titer between acute and convalescent sera.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Enteric infections are usually mild and self-limited, not requiring antibiotic therapy. For severe or systemically disseminated infections, fluoroquinolones (e.g., [[ciprofloxacin]]) or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] are used.
-*   **Alternative / Second-Line Treatment:** Broad-spectrum cephalosporins (e.g., [[cefotaxime]]), aminoglycosides, [[chloramphenicol]], and tetracyclines (e.g., [[doxycycline]]).
+*   **First-Line Treatment:** Enteric infections are usually mild and self-limited, not requiring antibiotic therapy. For severe or systemically disseminated infections, fluoroquinolones (e.g., [[Ciprofloxacin]]) or [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] are used.
+*   **Alternative / Second-Line Treatment:** Broad-spectrum cephalosporins (e.g., [[Cefotaxime]]), aminoglycosides, [[chloramphenicol]], and tetracyclines (e.g., [[Doxycycline]]).
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** N/A
 *   **Prophylaxis & Vaccine Protocols:** N/A

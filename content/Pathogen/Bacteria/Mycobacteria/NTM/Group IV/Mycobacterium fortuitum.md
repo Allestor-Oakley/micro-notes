@@ -76,12 +76,12 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** The organism is often resistant to conventional antimycobacterial drugs (standard anti-tuberculosis therapy) but is more susceptible to "conventional" antibacterial antibiotics. Combination therapy is typically used. First-line or highly effective agents include [[amikacin]] and [[clarithromycin]].
-*   **Alternative / Second-Line Treatment:** [[Cefoxitin]], [[doxycycline]], sulfonamides, [[erythromycin]], [[linezolid]], [[rifampin]] (RMP), and [[ethambutol]].
+*   **First-Line Treatment:** The organism is often resistant to conventional antimycobacterial drugs (standard anti-tuberculosis therapy) but is more susceptible to "conventional" antibacterial antibiotics. Combination therapy is typically used. First-line or highly effective agents include [[Amikacin]] and [[Clarithromycin]].
+*   **Alternative / Second-Line Treatment:** [[Cefoxitin]], [[Doxycycline]], sulfonamides, [[Erythromycin]], [[Linezolid]], [[Rifampin]] (RMP), and [[ethambutol]].
 *   **Mechanisms of Resistance & Resistance Genes:** Intrinsically resistant to many classical anti-tuberculosis drugs due to its cell wall architecture and rapid growth cycle.
 *   **Treatment Nuances & Contraindications:** The exact therapeutic regimen must be guided by in vitro antimicrobial susceptibility testing. Successful eradication of the infection routinely requires the physical surgical removal of any infected prosthetic devices or foreign bodies (such as intravenous catheters).
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Prevention centers on diligent infection-control practices, particularly the proper sterilization of medical and cosmetic instruments.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Rapid grower" (<7 days), nonchromogen, nail salon furunculosis, *M. fortuitum* complex, opportunistic catheter infections.
-*   **Exceptions to the Rule:** Unlike *[[Mycobacterium tuberculosis]]*, which is a slow-growing, human-to-human transmitted pathogen highly susceptible to first-line anti-TB drugs, *Mycobacterium fortuitum* is a rapidly growing environmental opportunist that cannot spread person-to-person and is naturally highly resistant to conventional anti-tuberculosis therapy, responding better to broad-spectrum antibacterial drugs like [[cefoxitin]] and [[doxycycline]].
+*   **Exceptions to the Rule:** Unlike *[[Mycobacterium tuberculosis]]*, which is a slow-growing, human-to-human transmitted pathogen highly susceptible to first-line anti-TB drugs, *Mycobacterium fortuitum* is a rapidly growing environmental opportunist that cannot spread person-to-person and is naturally highly resistant to conventional anti-tuberculosis therapy, responding better to broad-spectrum antibacterial drugs like [[Cefoxitin]] and [[Doxycycline]].

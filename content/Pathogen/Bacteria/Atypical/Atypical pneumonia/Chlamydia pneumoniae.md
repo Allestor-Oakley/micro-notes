@@ -72,7 +72,7 @@ draft: false
 *   **Serology & Immunology:** Microimmunofluorescence (MIF) is the most sensitive means of serological diagnosis. Complement fixation (CF) can detect genus-specific antigens but lacks species specificity.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Macrolides (e.g., [[azithromycin]], [[clarithromycin]]), [[doxycycline]], or fluoroquinolones (e.g., [[levofloxacin]]).
+*   **First-Line Treatment:** Macrolides (e.g., [[Azithromycin]], [[Clarithromycin]]), [[Doxycycline]], or fluoroquinolones (e.g., [[Levofloxacin]]).
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** It is inherently resistant to sulfonamides. Penicillins and beta-lactam antibiotics are generally ineffective because they cannot reliably access the target within the intracellular compartment or actively replicating RBs.
 *   **Treatment Nuances & Contraindications:** While the mentioned antibiotics are recommended, the specific clinical evidence supporting their definitive efficacy in eradicating the organism and resolving chronic sequelae remains somewhat limited compared to other bacterial pneumonias.

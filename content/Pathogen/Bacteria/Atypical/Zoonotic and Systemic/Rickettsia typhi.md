@@ -73,7 +73,7 @@ draft: false
 *   **Serology & Immunology:** Serology by indirect immunofluorescence assay (IFA) on paired acute and convalescent sera is the definitive diagnostic standard. Cross-absorption and Western blotting can be utilized to differentiate *R. typhi* from other rickettsiae when false-positive cross-reactivity occurs. Rapid diagnostic tests (RDTs) based on IgM have good specificity but low sensitivity.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Doxycycline]] is the unequivocal drug of choice for non-pregnant adults and children. (Short courses of [[doxycycline]] are considered safe with a favorable risk/benefit profile for children under 8 and during the first half of pregnancy if the daily dosage does not exceed 200 mg/day for a maximum of 14 days).
+*   **First-Line Treatment:** [[Doxycycline]] is the unequivocal drug of choice for non-pregnant adults and children. (Short courses of [[Doxycycline]] are considered safe with a favorable risk/benefit profile for children under 8 and during the first half of pregnancy if the daily dosage does not exceed 200 mg/day for a maximum of 14 days).
 *   **Alternative / Second-Line Treatment:** Fluoroquinolones have shown in vitro activity, but clinical experience is limited.
 *   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to beta-lactam antibiotics.
 *   **Treatment Nuances & Contraindications:** [[Sulfonamide]] antibiotics actually enhance the severity of the disease and are strictly contraindicated for all rickettsial infections.

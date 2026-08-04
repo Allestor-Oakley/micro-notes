@@ -71,7 +71,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Doxycycline]] is the drug of choice. Therapy should be initiated immediately based on clinical suspicion and never delayed pending laboratory confirmation.
-*   **Alternative / Second-Line Treatment:** [[Rifampin]] is an acceptable alternative therapy, particularly for patients who cannot tolerate [[doxycycline]] (e.g., pregnant women or children).
+*   **Alternative / Second-Line Treatment:** [[Rifampin]] is an acceptable alternative therapy, particularly for patients who cannot tolerate [[Doxycycline]] (e.g., pregnant women or children).
 *   **Mechanisms of Resistance & Resistance Genes:** Because the organism naturally lacks peptidoglycan, it is inherently and uniformly resistant to all beta-lactam antibiotics (penicillins, cephalosporins, carbapenems). It is also resistant to macrolides, aminoglycosides, [[chloramphenicol]], fluoroquinolones, and [[Cotrimoxazole|trimethoprim-sulfamethoxazole]].
 *   **Treatment Nuances & Contraindications:** Beta-lactam antibiotics are completely ineffective and strictly contraindicated.
 *   **Prophylaxis & Vaccine Protocols:** No vaccines are currently available.

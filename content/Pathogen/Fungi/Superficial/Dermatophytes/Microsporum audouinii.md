@@ -57,7 +57,7 @@ draft: false
 *   **Serology & Antigen Testing:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Localized dermatophyte infections of the smooth skin (if present) can be treated topically with azoles, [[terbinafine]], or haloprogin. However, infections involving the hair follicles (tinea capitis) require systemic oral antifungal therapy to reach the infection site. Effective oral agents include [[terbinafine]], [[itraconazole]], [[fluconazole]], and [[griseofulvin]].
+*   **Targeting Membrane / Ergosterol:** Localized dermatophyte infections of the smooth skin (if present) can be treated topically with azoles, [[Terbinafine]], or haloprogin. However, infections involving the hair follicles (tinea capitis) require systemic oral antifungal therapy to reach the infection site. Effective oral agents include [[Terbinafine]], [[Itraconazole]], [[Fluconazole]], and [[griseofulvin]].
 *   **Targeting Cell Wall / Glucan:** N/A
 *   **Alternative / Cutaneous Treatments:** N/A
 *   **Treatment Nuances & Formulations:** Because *M. audouinii* is an anthropophilic dermatophyte, it tends to cause chronic, relatively noninflammatory infections that are notoriously more difficult to cure than the acute, highly inflammatory infections caused by geophilic or zoophilic dermatophytes.

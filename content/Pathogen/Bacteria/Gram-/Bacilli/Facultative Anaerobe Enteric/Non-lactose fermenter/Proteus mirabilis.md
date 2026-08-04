@@ -73,7 +73,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Ampicillin]] or [[Amoxicillin]]. Other effective first-line agents include [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMX), cephalosporins, and fluoroquinolones.
-*   **Alternative / Second-Line Treatment:** Aminoglycosides, [[imipenem]], [[meropenem]], [[doripenem]], [[ertapenem]], [[Piperacillin]]-[[tazobactam]], or [[chloramphenicol]].
+*   **Alternative / Second-Line Treatment:** Aminoglycosides, [[Imipenem]], [[Meropenem]], [[Doripenem]], [[Ertapenem]], [[Piperacillin]]-[[tazobactam]], or [[chloramphenicol]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** A young woman presenting with recurrent urinary tract infections caused by the exact same *Proteus mirabilis* strain is a major clinical concern, as it frequently indicates the presence of an occult bladder or kidney stone serving as an infectious nidus.
 *   **Prophylaxis & Vaccine Protocols:** N/A

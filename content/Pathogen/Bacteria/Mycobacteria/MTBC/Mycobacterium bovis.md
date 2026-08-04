@@ -70,7 +70,7 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Multidrug therapy is required. Standard regimens for the [[Mycobacterium tuberculosis|M. tuberculosis]] complex include [[isoniazid]] (INH), [[rifampin]], [[ethambutol]], and [[Pyrazinamide]].
+*   **First-Line Treatment:** Multidrug therapy is required. Standard regimens for the [[Mycobacterium tuberculosis|M. tuberculosis]] complex include [[isoniazid]] (INH), [[Rifampin]], [[ethambutol]], and [[Pyrazinamide]].
 *   **Alternative / Second-Line Treatment:** Multidrug-resistant strains may require extended therapy with second-line agents.
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** N/A

@@ -58,10 +58,10 @@ draft: false
 *   **Serology & Antigen Testing:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Localized, superficial skin infections respond effectively to topical antifungal agents, including azoles (e.g., [[clotrimazole]]) and [[terbinafine]].
+*   **Targeting Membrane / Ergosterol:** Localized, superficial skin infections respond effectively to topical antifungal agents, including azoles (e.g., [[Clotrimazole]]) and [[Terbinafine]].
 *   **Targeting Cell Wall / Glucan:** N/A
 *   **Alternative / Cutaneous Treatments:** Topical haloprogin can also be utilized for superficial cutaneous lesions. Management of catheter-related fungemia generally requires the discontinuation of the lipid infusion and removal of the colonized catheter.
-*   **Treatment Nuances & Formulations:** Extensive or widespread superficial infections may require oral systemic therapy with [[terbinafine]], [[itraconazole]], or [[fluconazole]].
+*   **Treatment Nuances & Formulations:** Extensive or widespread superficial infections may require oral systemic therapy with [[Terbinafine]], [[Itraconazole]], or [[Fluconazole]].
 *   **Prophylaxis & Prevention:** N/A
 
 #### Trivia & Edge Cases

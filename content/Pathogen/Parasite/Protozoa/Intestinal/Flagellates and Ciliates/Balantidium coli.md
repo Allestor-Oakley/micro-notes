@@ -107,7 +107,7 @@ draft: false
     - [[Metronidazole]] (Flagyl): 750 mg PO TID for 5 to 10 days (or 500 to 750 mg PO TID). Pediatric dosage: 35 to 50 mg/kg/day PO divided into 3 doses for 5 to 10 days. (Preferred option for young children <8 years and pregnant patients).
     - Iodoquinol: 650 mg PO TID for 20 days. Pediatric dosage: 30 to 40 mg/kg/day PO divided into 3 doses for 20 days.
     - [[Nitazoxanide]]: 500 mg PO BID for 3 days.
-    - Secondary Antibacterials: [[Ampicillin]], [[Bacitracin]], [[Paromomycin]].
+    - Secondary Antibacterials: [[Ampicillin]], Bacitracin, [[Paromomycin]].
 *   **Treatment Nuances & Dosing Considerations:** Follow-up evaluation requires a minimum of three negative stool examinations performed 2 weeks to 1 month post-therapy to confirm eradication. Surgical consultation is indicated in fulminant colitis with impending bowel perforation, though conservative medical management is preferred whenever possible.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Water Safety: Boiling drinking water for 10 minutes or submicron filtration. Standard municipal water chlorination is insufficient to destroy thick-walled cysts reliably.

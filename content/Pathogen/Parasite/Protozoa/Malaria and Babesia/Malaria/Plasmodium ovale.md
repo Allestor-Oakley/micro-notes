@@ -159,7 +159,7 @@ draft: false
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Sleeping under insecticide-treated bed nets (ITNs), applying insect repellents containing DEET to exposed skin, and wearing long-sleeved protective clothing.
     - Vector Control: Indoor residual spraying (IRS) with insecticides, eliminating standing water collections, and managing larval habitats.
-    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[atovaquone]]-[[proguanil]], [[doxycycline]], or [[mefloquine]]) for travelers visiting endemic regions.
+    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[atovaquone]]-[[proguanil]], [[Doxycycline]], or [[mefloquine]]) for travelers visiting endemic regions.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**

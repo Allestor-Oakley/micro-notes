@@ -88,10 +88,10 @@ draft: false
 *   **Serology & Immunology:** Serologic testing—specifically Indirect Fluorescent Antibody (IFA) tests and microimmunofluorescence—is the mainstay and most reliable diagnostic method for CSD, as culture from immunocompetent [[lymph nodes]] is almost always negative. Cross-reactions with *Coxiella* and *Chlamydia* can occasionally occur.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Azithromycin]], [[erythromycin]], or other macrolides. [[Doxycycline]] is also a primary treatment of choice, particularly for bacteremia or bacillary angiomatosis (often combined with [[gentamicin]] for severe systemic infections).
-*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[ciprofloxacin]]) and [[rifampin]].
+*   **First-Line Treatment:** [[Azithromycin]], [[Erythromycin]], or other macrolides. [[Doxycycline]] is also a primary treatment of choice, particularly for bacteremia or bacillary angiomatosis (often combined with [[Gentamicin]] for severe systemic infections).
+*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[Ciprofloxacin]]) and [[Rifampin]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
-*   **Treatment Nuances & Contraindications:** Cat-scratch disease in immunocompetent patients is often self-limiting and may not require antibiotics, though [[azithromycin]] is proven to decrease lymph node volume. Conversely, bacillary angiomatosis and peliosis hepatis in immunocompromised patients require prolonged antimicrobial therapy (often parenteral [[erythromycin]] initially) to prevent relapse.
+*   **Treatment Nuances & Contraindications:** Cat-scratch disease in immunocompetent patients is often self-limiting and may not require antibiotics, though [[Azithromycin]] is proven to decrease lymph node volume. Conversely, bacillary angiomatosis and peliosis hepatis in immunocompromised patients require prolonged antimicrobial therapy (often parenteral [[Erythromycin]] initially) to prevent relapse.
 *   **Prophylaxis & Vaccine Protocols:** No vaccines are available. Prevention relies on avoiding cat scratches/bites, proper wound cleansing, and stringent flea control in pet cats.
 
 #### Trivia & Edge Cases

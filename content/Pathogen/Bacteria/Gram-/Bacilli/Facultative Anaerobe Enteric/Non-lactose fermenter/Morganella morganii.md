@@ -71,8 +71,8 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Broad-spectrum cephalosporins (e.g., [[cefotaxime]], [[ceftriaxone]], [[cefepime]]), fluoroquinolones (e.g., [[ciprofloxacin]], [[levofloxacin]]), aminoglycosides, [[aztreonam]], and carbapenems (e.g., [[imipenem]], [[meropenem]], [[doripenem]], [[ertapenem]]).
-*   **Alternative / Second-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (TMP-SMX), [[Piperacillin]]-[[tazobactam]], and [[tigecycline]].
+*   **First-Line Treatment:** Broad-spectrum cephalosporins (e.g., [[Cefotaxime]], [[Ceftriaxone]], [[Cefepime]]), fluoroquinolones (e.g., [[Ciprofloxacin]], [[Levofloxacin]]), aminoglycosides, [[aztreonam]], and carbapenems (e.g., [[Imipenem]], [[Meropenem]], [[Doripenem]], [[Ertapenem]]).
+*   **Alternative / Second-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (TMP-SMX), [[Piperacillin]]-[[tazobactam]], and [[Tigecycline]].
 *   **Mechanisms of Resistance & Resistance Genes:** The organism is typically inherently resistant to penicillins (e.g., [[Ampicillin]] and [[Amoxicillin]]) as well as first- and second-generation cephalosporins.
 *   **Treatment Nuances & Contraindications:** N/A
 *   **Prophylaxis & Vaccine Protocols:** N/A

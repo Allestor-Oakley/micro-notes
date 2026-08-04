@@ -44,7 +44,7 @@ draft: false
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Fastidious, strictly aerobic organisms that grow best at 35°C to 37°C in a humid atmosphere supplemented with 5% to 10% CO2. They are rapidly killed by drying, prolonged exposure to sunlight, moist heat, and many disinfectants. They produce autolytic enzymes causing rapid swelling and lysis in vitro at 25°C and at alkaline pH.
 *   **Primary Agar:** Readily grows on complex organic media, such as 5% sheep blood agar or heated blood (chocolate) agar. Colonies are gray, convex, glistening, mucoid, transparent or opaque, nonpigmented, and nonhemolytic.
-*   **Selective / Enriched Agar:** Selective media such as modified Thayer-Martin (MTM), Martin-Lewis, GC-Lect, and New York City agars. These contain antibiotics (e.g., [[vancomycin]], [[Polymyxin E|colistin]], [[nystatin]], and [[trimethoprim]]) to suppress normal microbiota. *N. meningitidis* is [[Polymyxin E|colistin]]-resistant and grows well on these media.
+*   **Selective / Enriched Agar:** Selective media such as modified Thayer-Martin (MTM), Martin-Lewis, GC-Lect, and New York City agars. These contain antibiotics (e.g., [[vancomycin]], [[Polymyxin|colistin]], [[Nystatin]], and [[trimethoprim]]) to suppress normal microbiota. *N. meningitidis* is [[Polymyxin|colistin]]-resistant and grows well on these media.
 *   **Metabolic Profile & Biochemical Testing:** Oxidase-positive and catalase-positive. Produces acid by the oxidation (not fermentation) of glucose and maltose, but does not oxidize lactose or sucrose.
 
 #### Virulence Factors & Genetics
@@ -82,8 +82,8 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Prompt intravenous administration of a third-generation cephalosporin ([[Ceftriaxone]] or [[Cefotaxime]]). If the isolate is proven susceptible, [[Penicillin G]] or [[Ampicillin]] can be used.
-*   **Alternative / Second-Line Treatment:** [[Chloramphenicol]] (often given as an oily suspension during epidemics in resource-poor settings), [[meropenem]], or fluoroquinolones.
-*   **Mechanisms of Resistance & Resistance Genes:** Widespread resistance to sulfonamides. Resistance to [[Penicillin]] is rising due to genetic transformations yielding altered penicillin-binding proteins (PBPs) with decreased affinity for the drug. Resistance to [[rifampin]] has also been reported in up to 27% of isolates.
+*   **Alternative / Second-Line Treatment:** [[Chloramphenicol]] (often given as an oily suspension during epidemics in resource-poor settings), [[Meropenem]], or fluoroquinolones.
+*   **Mechanisms of Resistance & Resistance Genes:** Widespread resistance to sulfonamides. Resistance to [[Penicillin]] is rising due to genetic transformations yielding altered penicillin-binding proteins (PBPs) with decreased affinity for the drug. Resistance to [[Rifampin]] has also been reported in up to 27% of isolates.
 *   **Treatment Nuances & Contraindications:** Antibiotic penetration into the CSF is poor, requiring high, continuous dosing. Dexamethasone is rarely proven effective as an adjunct in resource-poor regions but is standard in high-income countries.
 *   **Prophylaxis & Vaccine Protocols:** Chemoprophylaxis for close household/living contacts uses [[Rifampin]], [[Ciprofloxacin]], [[Ceftriaxone]], or [[Azithromycin]] to eradicate nasopharyngeal carriage. Vaccines include multivalent conjugate and polysaccharide vaccines targeting serogroups A, C, Y, and W-135. Recombinant protein-based vaccines (e.g., 4CMenB/Bexsero and Trumenba) are used for serogroup B because its capsule is poorly immunogenic.
 

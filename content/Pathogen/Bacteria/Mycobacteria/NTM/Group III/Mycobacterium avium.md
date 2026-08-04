@@ -75,11 +75,11 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Prolonged combination therapy is strictly required. The currently recommended regimen consists of a macrolide ([[clarithromycin]] or [[azithromycin]]) combined with [[ethambutol]] and [[rifampin]] (or [[rifabutin]]).
-*   **Alternative / Second-Line Treatment:** [[Amikacin]], [[ciprofloxacin]].
+*   **First-Line Treatment:** Prolonged combination therapy is strictly required. The currently recommended regimen consists of a macrolide ([[Clarithromycin]] or [[Azithromycin]]) combined with [[ethambutol]] and [[Rifampin]] (or [[Rifabutin]]).
+*   **Alternative / Second-Line Treatment:** [[Amikacin]], [[Ciprofloxacin]].
 *   **Mechanisms of Resistance & Resistance Genes:** The organism is intrinsically resistant to many common antimycobacterial agents and conventional antibacterial antibiotics. Monotherapy rapidly selects for resistant mutants.
 *   **Treatment Nuances & Contraindications:** The duration of treatment and final selection of drugs must consider both the clinical response and potential pharmacokinetic interactions (e.g., interactions between rifamycins/macrolides and protease inhibitors used to treat [[HIV]] infection).
-*   **Prophylaxis & Vaccine Protocols:** Chemoprophylaxis with oral [[clarithromycin]], [[azithromycin]], or [[rifabutin]] is highly recommended for patients with AIDS whose CD4 [[T Cell|T-cell]] counts fall to less than 50 cells/μL. This practice has significantly reduced the incidence of disseminated MAC disease. No vaccine is available.
+*   **Prophylaxis & Vaccine Protocols:** Chemoprophylaxis with oral [[Clarithromycin]], [[Azithromycin]], or [[Rifabutin]] is highly recommended for patients with AIDS whose CD4 [[T Cell|T-cell]] counts fall to less than 50 cells/μL. This practice has significantly reduced the incidence of disseminated MAC disease. No vaccine is available.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** MAC, MAI, nonchromogen, 41°C optimum growth, disseminated disease in AIDS (CD4 < 50), ingestion route, smooth/soft nonpigmented colonies.

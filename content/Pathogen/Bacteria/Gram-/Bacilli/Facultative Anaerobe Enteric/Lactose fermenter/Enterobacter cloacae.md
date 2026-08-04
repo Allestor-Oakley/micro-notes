@@ -48,7 +48,7 @@ draft: false
     *   **Mechanism of Action:** N/A
 *   **Endotoxins & Superantigens:** The lipid A component of the lipopolysaccharide (LPS) possesses endotoxin activity.
 *   **Enzymes:** Produces a chromosomal beta-lactamase called *ampC*.
-*   **Genetic Elements:** Often acquires plasmids that mediate multidrug resistance, particularly to the [[carbapenem]] class of antimicrobial agents. Mutants can also hyperproduce the chromosomal *ampC* beta-lactamase.
+*   **Genetic Elements:** Often acquires plasmids that mediate multidrug resistance, particularly to the [[Carbapenem]] class of antimicrobial agents. Mutants can also hyperproduce the chromosomal *ampC* beta-lactamase.
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Typically established via endogenous spread (e.g., from the patient's own intestinal microbial flora to a sterile site) or exogenously acquired from contaminated environmental sources, hospital environments, or medical devices.
@@ -75,8 +75,8 @@ draft: false
 *   **Serology & Immunology:** Matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) mass spectrometry is rapidly used for definitive species identification. Serotyping of somatic (O), capsular (K), and flagellar (H) antigens can be performed.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Imipenem]], [[meropenem]], [[cefepime]], or [[Piperacillin]]-[[tazobactam]].
-*   **Alternative / Second-Line Treatment:** Aminoglycosides, [[ciprofloxacin]] (or other fluoroquinolones), [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMZ), [[aztreonam]], or [[tigecycline]].
+*   **First-Line Treatment:** [[Imipenem]], [[Meropenem]], [[Cefepime]], or [[Piperacillin]]-[[tazobactam]].
+*   **Alternative / Second-Line Treatment:** Aminoglycosides, [[Ciprofloxacin]] (or other fluoroquinolones), [[Cotrimoxazole|trimethoprim-sulfamethoxazole]] (TMP-SMZ), [[aztreonam]], or [[Tigecycline]].
 *   **Mechanisms of Resistance & Resistance Genes:** Most strains possess a chromosomal beta-lactamase (*ampC*) that renders them intrinsically resistant to [[Ampicillin]] and first- and second-generation cephalosporins. Mutants frequently hyperproduce this beta-lactamase, conferring resistance to third-generation cephalosporins. Furthermore, hospital-acquired strains often harbor plasmids encoding extended-spectrum beta-lactamases (ESBLs) and carbapenemases, making them multidrug-resistant.
 *   **Treatment Nuances & Contraindications:** Antimicrobial therapy must strictly be guided by in vitro susceptibility testing due to the high likelihood of intrinsic and plasmid-mediated multidrug resistance.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available.

@@ -74,7 +74,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Gastroenteritis is typically self-limited and management centers on aggressive oral or intravenous fluid and electrolyte replacement.
-*   **Alternative / Second-Line Treatment:** For severe or prolonged diarrheal illness (lasting >5 days), antibiotics such as [[doxycycline]] and/or fluoroquinolones (e.g., [[ciprofloxacin]]) can shorten the duration of symptoms. For wound infections, [[doxycycline]] combined with [[ceftriaxone]] is a recommended regimen.
+*   **Alternative / Second-Line Treatment:** For severe or prolonged diarrheal illness (lasting >5 days), antibiotics such as [[Doxycycline]] and/or fluoroquinolones (e.g., [[Ciprofloxacin]]) can shorten the duration of symptoms. For wound infections, [[Doxycycline]] combined with [[Ceftriaxone]] is a recommended regimen.
 *   **Mechanisms of Resistance & Resistance Genes:** Plasmids carrying antimicrobial resistance traits are commonly found within the genus.
 *   **Treatment Nuances & Contraindications:** Routine antibiotic therapy is not indicated for mild gastroenteritis. However, wound infections require prompt antibiotic therapy.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is currently available. Prevention relies entirely on food safety and avoiding consumption of raw or undercooked shellfish.

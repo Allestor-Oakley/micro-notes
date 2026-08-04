@@ -72,8 +72,8 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** A single oral dose (1 g) of [[azithromycin]] is the CDC-recommended treatment.
-*   **Alternative / Second-Line Treatment:** Intramuscular [[ceftriaxone]], oral [[ciprofloxacin]], or oral [[erythromycin]].
+*   **First-Line Treatment:** A single oral dose (1 g) of [[Azithromycin]] is the CDC-recommended treatment.
+*   **Alternative / Second-Line Treatment:** Intramuscular [[Ceftriaxone]], oral [[Ciprofloxacin]], or oral [[Erythromycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** Because the organism is extremely fastidious and difficult to culture, the diagnosis is often made clinically, and empiric treatment is initiated based on the presentation of painful genital ulcers and inguinal buboes. With appropriate antibiotic therapy, healing typically results in 2 weeks.
 *   **Prophylaxis & Vaccine Protocols:** No vaccine is available. Prevention relies on barrier protection (condoms) during sexual intercourse.

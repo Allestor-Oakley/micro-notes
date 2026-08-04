@@ -76,7 +76,7 @@ draft: false
 *   **Serology & Immunology:** Serologic profiling can be performed; the complement fixation (CF) antigens of mycoplasmas are glycolipids, whereas enzyme-linked immunoassay (ELISA) antigens are proteins.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Tetracyclines, macrolides (e.g., [[azithromycin]], [[clarithromycin]]), and fluoroquinolones are the antimicrobial agents of choice.
+*   **First-Line Treatment:** Tetracyclines, macrolides (e.g., [[Azithromycin]], [[Clarithromycin]]), and fluoroquinolones are the antimicrobial agents of choice.
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** Because *M. hominis* entirely lacks a peptidoglycan cell wall, it is intrinsically and uniformly resistant to all beta-lactam antibiotics (penicillins, cephalosporins, carbapenems) and glycopeptides ([[vancomycin]]) that target cell wall synthesis.
 *   **Treatment Nuances & Contraindications:** Beta-lactams are completely ineffective and contraindicated.

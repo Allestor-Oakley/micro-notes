@@ -162,7 +162,7 @@ draft: false
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Application of insect repellents containing DEET to exposed skin, wearing protective long-sleeved clothing and trousers, and sleeping under insecticide-treated bed nets (ITNs).
     - Vector Control Limitations: Standard indoor residual insecticide spraying (IRS) and indoor bed nets have limited effectiveness against primary Plasmodium knowlesi vectors (Anopheles leucosphyrus group) because these [[mosquitoes]] feed primarily outdoors in forest settings and canopy environments.
-    - Chemoprophylaxis: Standard malarial chemoprophylaxis regimens (e.g., [[atovaquone]]-[[proguanil]], [[doxycycline]], or [[mefloquine]]) for travelers visiting endemic forest regions of Southeast Asia.
+    - Chemoprophylaxis: Standard malarial chemoprophylaxis regimens (e.g., [[atovaquone]]-[[proguanil]], [[Doxycycline]], or [[mefloquine]]) for travelers visiting endemic forest regions of Southeast Asia.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**

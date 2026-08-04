@@ -74,7 +74,7 @@ draft: false
 *   **Serology & Immunology:** Serologic testing is not recommended or useful for diagnosis due to the organism's continual antigenic variation.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Tetracyclines (e.g., [[doxycycline]]) or penicillins.
+*   **First-Line Treatment:** Tetracyclines (e.g., [[Doxycycline]]) or penicillins.
 *   **Alternative / Second-Line Treatment:** [[Erythromycin]].
 *   **Mechanisms of Resistance & Resistance Genes:** N/A
 *   **Treatment Nuances & Contraindications:** N/A

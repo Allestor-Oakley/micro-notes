@@ -60,7 +60,7 @@ draft: false
 *   **Serology & Antigen Testing:** The "trichophytin" skin test (a crude antigen preparation) can be used to detect immediate or delayed-type hypersensitivity. Species-specific polymerase chain reaction (PCR) tests can be used for molecular diagnosis and identification.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Targeting Membrane / Ergosterol:** Localized dermatophyte infections of the smooth skin can be treated topically, but infections involving the hair (tinea capitis) require systemic oral antifungal therapy. Effective oral agents include [[terbinafine]], [[itraconazole]], [[fluconazole]], and [[griseofulvin]].
+*   **Targeting Membrane / Ergosterol:** Localized dermatophyte infections of the smooth skin can be treated topically, but infections involving the hair (tinea capitis) require systemic oral antifungal therapy. Effective oral agents include [[Terbinafine]], [[Itraconazole]], [[Fluconazole]], and [[griseofulvin]].
 *   **Targeting Cell Wall / Glucan:** N/A
 *   **Alternative / Cutaneous Treatments:** Selsun shampoo may be used as an adjunct topical treatment for tinea capitis to reduce spore shedding.
 *   **Treatment Nuances & Formulations:** Because *T. schoenleinii* is an anthropophilic dermatophyte, it tends to cause chronic, relatively noninflammatory infections that are notoriously more difficult to cure than the acute, highly inflammatory infections caused by geophilic or zoophilic dermatophytes.

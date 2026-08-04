@@ -101,7 +101,7 @@ draft: false
 *   **Serology & Immunology:** Isolates can be definitively identified by the demonstration of the group-specific cell wall B carbohydrate. Direct antigen detection tests on urogenital specimens are considered too insensitive to reliably screen mothers and should not be used.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** [[Penicillin]] G is the drug of choice for susceptible strains. For serious infections or empirical therapy in neonates (until the specific pathogen is identified), broad-spectrum antibiotics (such as a broad-spectrum [[cephalosporin]] combined with an aminoglycoside like [[gentamicin]]) are used.
+*   **First-Line Treatment:** [[Penicillin]] G is the drug of choice for susceptible strains. For serious infections or empirical therapy in neonates (until the specific pathogen is identified), broad-spectrum antibiotics (such as a broad-spectrum [[Cephalosporin]] combined with an aminoglycoside like [[Gentamicin]]) are used.
 *   **Alternative / Second-Line Treatment:** Cephalosporins or [[vancomycin]] are used for patients who are allergic to [[Penicillin]].
 *   **Mechanisms of Resistance & Resistance Genes:** Resistance to [[Penicillin]] is increasingly common, though specific resistance genes are not detailed.
 *   **Treatment Nuances & Contraindications:** Empirical therapy with broad-spectrum antibiotics is critical until the pathogen is identified.

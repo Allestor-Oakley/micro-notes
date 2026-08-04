@@ -76,7 +76,7 @@ draft: false
 *   **Serology & Immunology:** Enzyme immunoassays detecting IgM and IgG antibodies are available and more sensitive than culture, but they are limited by the need to collect paired acute and convalescent sera 3 to 4 weeks apart to demonstrate a four-fold rise in antibody titer. Historically, nonspecific production of cold agglutinins (IgM antibodies that bind to the human erythrocyte I antigen) was measured, but this test lacks sensitivity and specificity.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Macrolides (e.g., [[erythromycin]], [[azithromycin]], [[clarithromycin]]), tetracyclines (e.g., [[doxycycline]]), or newer fluoroquinolones (e.g., [[levofloxacin]]).
+*   **First-Line Treatment:** Macrolides (e.g., [[Erythromycin]], [[Azithromycin]], [[Clarithromycin]]), tetracyclines (e.g., [[Doxycycline]]), or newer fluoroquinolones (e.g., [[Levofloxacin]]).
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** Inherently and uniformly resistant to all beta-lactam antibiotics (e.g., penicillins, cephalosporins) and other cell-wall synthesis inhibitors because it completely lacks a peptidoglycan cell wall. Global prevalence of resistance to macrolides is increasingly reported.
 *   **Treatment Nuances & Contraindications:** Beta-lactam antibiotics are completely ineffective and contraindicated.

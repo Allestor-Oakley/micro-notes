@@ -126,7 +126,7 @@ draft: false
 *   **Alternative Treatments:**
     - [[Metronidazole]]-Resistant *T. vaginalis* (Refractory Infections): High-dose oral [[Tinidazole]] (2 g PO daily for 14 days) combined with high-dose oral [[Metronidazole]] (2 g daily) or intravaginal [[Paromomycin]] cream or [[Tinidazole]].
     - [[Nitazoxanide]] (Alinia): Evaluated off-label as an alternative agent for nitroimidazole-resistant strains.
-    - Historical / Topical Adjuncts: Povidone-iodine douches, [[clotrimazole]] (topical symptom relief only, does not cure).
+    - Historical / Topical Adjuncts: Povidone-iodine douches, [[Clotrimazole]] (topical symptom relief only, does not cure).
 *   **Treatment Nuances & Dosing Considerations:**
     - MANDATORY SIMULTANEOUS PARTNER TREATMENT: All sexual partners of infected patients MUST be treated concurrently, regardless of symptoms or initial test results, to prevent rapid reinfection ("ping-ponging"). Patients and partners must abstain from sexual intercourse until therapy is complete and symptoms have completely resolved.
     - Alcohol Interaction Caution: Patients taking [[metronidazole]] or [[tinidazole]] MUST strictly avoid ethanol/alcohol consumption during treatment and for at least 24 hours ([[metronidazole]]) to 72 hours ([[tinidazole]]) after the final dose to prevent a severe disulfiram-like reaction (flushing, severe nausea, vomiting, abdominal cramps, tachycardia).

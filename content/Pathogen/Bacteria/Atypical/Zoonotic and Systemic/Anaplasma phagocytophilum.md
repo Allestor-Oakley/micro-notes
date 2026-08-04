@@ -73,7 +73,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Doxycycline]]. Therapy must be initiated immediately based on clinical suspicion and should not be delayed while waiting for laboratory confirmation.
-*   **Alternative / Second-Line Treatment:** [[Rifampin]] is an acceptable alternative therapy, particularly for patients who are unable to tolerate [[doxycycline]].
+*   **Alternative / Second-Line Treatment:** [[Rifampin]] is an acceptable alternative therapy, particularly for patients who are unable to tolerate [[Doxycycline]].
 *   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to fluoroquinolones, penicillins, cephalosporins, [[chloramphenicol]], aminoglycosides, and macrolides.
 *   **Treatment Nuances & Contraindications:** Beta-lactam antibiotics and macrolides are completely ineffective against this pathogen.
 *   **Prophylaxis & Vaccine Protocols:** No vaccines are currently available.

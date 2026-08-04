@@ -73,9 +73,9 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Doxycycline]] (e.g., 100 mg twice daily for 14 days) is the drug of choice for acute Q fever.
-*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[levofloxacin]]), [[clarithromycin]], [[cotrimoxazole]], or [[rifampin]].
-*   **Mechanisms of Resistance & Resistance Genes:** No antibiotic is directly bactericidal against *C. burnetii*, and some resistant strains exist. Treatment with beta-lactam antibiotics and [[azithromycin]] has been associated with a significantly higher risk for patient hospitalization compared to the preferred regimens.
-*   **Treatment Nuances & Contraindications:** Chronic Q fever endocarditis requires extremely prolonged, combination antimicrobial therapy—typically [[doxycycline]] combined with hydroxychloroquine for at least 18 months. Early cessation of therapy frequently results in symptomatic relapse.
+*   **Alternative / Second-Line Treatment:** Fluoroquinolones (e.g., [[Levofloxacin]]), [[Clarithromycin]], [[cotrimoxazole]], or [[Rifampin]].
+*   **Mechanisms of Resistance & Resistance Genes:** No antibiotic is directly bactericidal against *C. burnetii*, and some resistant strains exist. Treatment with beta-lactam antibiotics and [[Azithromycin]] has been associated with a significantly higher risk for patient hospitalization compared to the preferred regimens.
+*   **Treatment Nuances & Contraindications:** Chronic Q fever endocarditis requires extremely prolonged, combination antimicrobial therapy—typically [[Doxycycline]] combined with hydroxychloroquine for at least 18 months. Early cessation of therapy frequently results in symptomatic relapse.
 *   **Prophylaxis & Vaccine Protocols:** An investigational Phase I antigen vaccine (derived from infected egg yolk sacs) is safe and protective. It is given as a single dose for at-risk laboratory workers and animal handlers. However, it must be administered *before* exposure and is currently only commercially available in Australia.
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Query" fever, Phase I and Phase II antigens, obligate intracellular, Gimenez stain, spore-like variant, inhalation of dried placenta/feces, negative Gram stain, zoonotic, culture-negative endocarditis.

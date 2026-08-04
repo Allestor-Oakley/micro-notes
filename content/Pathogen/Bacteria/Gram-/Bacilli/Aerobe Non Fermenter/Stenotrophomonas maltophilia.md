@@ -76,11 +76,11 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Cotrimoxazole|Trimethoprim-sulfamethoxazole]] (TMP-SMX) is considered the drug of choice.
-*   **Alternative / Second-Line Treatment:** [[Ticarcillin]]-clavulanic acid, [[ceftazidime]], [[doxycycline]], or [[ciprofloxacin]] combined with either [[Ticarcillin]]-[[clavulanate]] or [[ceftazidime]].
-*   **Mechanisms of Resistance & Resistance Genes:** Extremely multidrug-resistant. It is uniformly/inherently resistant to carbapenems (e.g., [[imipenem]], [[meropenem]], [[ertapenem]]) and aminoglycosides. It is also frequently resistant to many cephalosporins and quinolones. Resistance can develop rapidly during an active infection upon exposure to antibiotics.
+*   **Alternative / Second-Line Treatment:** [[Ticarcillin]]-clavulanic acid, [[Ceftazidime]], [[Doxycycline]], or [[Ciprofloxacin]] combined with either [[Ticarcillin]]-[[clavulanate]] or [[Ceftazidime]].
+*   **Mechanisms of Resistance & Resistance Genes:** Extremely multidrug-resistant. It is uniformly/inherently resistant to carbapenems (e.g., [[Imipenem]], [[Meropenem]], [[Ertapenem]]) and aminoglycosides. It is also frequently resistant to many cephalosporins and quinolones. Resistance can develop rapidly during an active infection upon exposure to antibiotics.
 *   **Treatment Nuances & Contraindications:** Carbapenems are strictly contraindicated as they are completely ineffective and their use frequently selects for *S. maltophilia* bacteremia in hospitalized patients. Because resistance to [[Cotrimoxazole|TMP-SMX]] has been increasingly reported, antimicrobial therapy must be closely guided by in vitro susceptibility testing.
 *   **Prophylaxis & Vaccine Protocols:** No vaccines are available. Prevention relies on proper catheter management and avoiding prolonged, unnecessary broad-spectrum antibiotic use.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Friend of malt", lavender-green colonies, ammonia-like odor, oxidase-negative non-fermenter, heavy metal/silver-lined catheter tolerance, inherent [[carbapenem]] resistance, [[Cotrimoxazole|TMP-SMX]] susceptible.
+*   **Buzzwords & Descriptors:** "Friend of malt", lavender-green colonies, ammonia-like odor, oxidase-negative non-fermenter, heavy metal/silver-lined catheter tolerance, inherent [[Carbapenem]] resistance, [[Cotrimoxazole|TMP-SMX]] susceptible.
 *   **Exceptions to the Rule:** Unlike *[[Pseudomonas aeruginosa]]* (which is uniformly resistant to [[Cotrimoxazole|TMP-SMX]] and often treated with carbapenems or aminoglycosides), *S. maltophilia* is uniquely susceptible to [[Cotrimoxazole|TMP-SMX]] and inherently resistant to carbapenems and aminoglycosides. Additionally, unlike the classic pseudomonads with which it was once grouped, *S. maltophilia* is oxidase-negative.

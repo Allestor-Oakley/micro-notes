@@ -142,7 +142,7 @@ draft: false
     - Oral [[Ivermectin]]: Drug of choice for *Mansonella ozzardi* infection. Administered as a single oral dose of 200 μg/kg. Highly effective in rapidly clearing circulating microfilariae from blood and skin.
 *   **Alternative / Second-Line Agents:**
     - Inefficacy of [[Diethylcarbamazine]] (DEC): [[Diethylcarbamazine]] (DEC) is INEFFECTIVE / REFRACTORY against *Mansonella ozzardi* (in direct contrast to *[[Mansonella perstans]]*, where DEC is a primary therapeutic agent).
-    - Note on [[Doxycycline]]: Unlike *[[Mansonella perstans]]* (which harbors *Wolbachia* endosymbionts and responds effectively to [[doxycycline]]), the efficacy of anti-*Wolbachia* therapy in *M. ozzardi* varies by strain; single-dose [[ivermectin]] remains the mainstay therapy.
+    - Note on [[Doxycycline]]: Unlike *[[Mansonella perstans]]* (which harbors *Wolbachia* endosymbionts and responds effectively to [[Doxycycline]]), the efficacy of anti-*Wolbachia* therapy in *M. ozzardi* varies by strain; single-dose [[ivermectin]] remains the mainstay therapy.
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - High Tolerability & Safety: Single-dose [[ivermectin]] (200 μg/kg) is well tolerated with low incidence of post-treatment Mazzotti-like allergic reactions due to the low intrinsic immunogenicity and pathogenicity of *M. ozzardi* microfilariae.
     - Mandatory Speciation Before Therapy: Clinicians must carefully differentiate *M. ozzardi* (treated with [[Ivermectin]], resistant to DEC) from *M. perstans* (treated with DEC or [[Doxycycline]], refractory to [[Ivermectin]]) prior to initiating antiparasitic chemotherapy.

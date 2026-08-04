@@ -79,7 +79,7 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** Highly susceptible to [[Penicillin]] (which is highly unusual for a Gram-negative bacterium), [[Ampicillin]], extended-spectrum cephalosporins, tetracyclines, and fluoroquinolones.
 *   **Alternative / Second-Line Treatment:** N/A
-*   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to [[Oxacillin]], first-generation cephalosporins, [[clindamycin]], [[erythromycin]], and aminoglycosides.
+*   **Mechanisms of Resistance & Resistance Genes:** Inherently resistant to [[Oxacillin]], first-generation cephalosporins, [[clindamycin]], [[Erythromycin]], and aminoglycosides.
 *   **Treatment Nuances & Contraindications:** The organism's inherent resistance profile is clinically significant because it renders many antibiotics typically selected empirically for the treatment of bite-wound infections completely ineffective.
 *   **Prophylaxis & Vaccine Protocols:** N/A
 

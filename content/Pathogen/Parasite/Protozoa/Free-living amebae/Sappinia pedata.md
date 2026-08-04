@@ -84,7 +84,7 @@ draft: false
       - [[Itraconazole]]
       - [[Flucytosine]] (5-fluorocytosine / 5-FC)
 *   **Alternative Treatments:** Total surgical resection / excision of the solitary brain mass combined with empiric multi-drug amebicidal therapy.
-*   **Treatment Nuances & Dosing Considerations:** Complete surgical excision of the solitary posterior temporal lobe mass followed by prolonged post-operative combination therapy with [[azithromycin]], [[pentamidine]], [[itraconazole]], and [[flucytosine]] resulted in complete cure and long-term survival, making *Sappinia pedata* encephalitis one of the very few treatable and survivable free-living amebic CNS infections.
+*   **Treatment Nuances & Dosing Considerations:** Complete surgical excision of the solitary posterior temporal lobe mass followed by prolonged post-operative combination therapy with [[Azithromycin]], [[pentamidine]], [[Itraconazole]], and [[flucytosine]] resulted in complete cure and long-term survival, making *Sappinia pedata* encephalitis one of the very few treatable and survivable free-living amebic CNS infections.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Hygiene & Occupational Protection: Hand hygiene and protective wear (gloves, masks) for farmers and agricultural workers handling bovine manure, soil contaminated with livestock feces, or decaying plant litter.
     - Chemoprophylaxis: N/A
