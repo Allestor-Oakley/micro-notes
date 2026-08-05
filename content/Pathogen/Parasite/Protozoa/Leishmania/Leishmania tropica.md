@@ -105,10 +105,10 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Systemic Pentavalent Antimonials: [[Sodium Stibogluconate]] (Pentostam) or Meglumine Antimonate (Glucantime).
+    - Systemic Pentavalent Antimonials: [[Sodium stibogluconate]] (Pentostam) or Meglumine Antimonate (Glucantime).
       - Dosage: 20 mg Sb5+/kg/day IV or IM for 10 to 20 days (maximum daily dose capped at 1,215 mg Sb5+/day to reduce toxicity). Standard systemic treatment for extensive, multiple, or facial *L. tropica* CL lesions.
     - Intralesional Pentavalent Antimonials PLUS Cryotherapy (Local Combined Therapy):
-      - Infiltration of 1 to 5 mL of [[sodium stibogluconate]] / meglumine antimonate directly into the base of the lesion combined with liquid nitrogen cryotherapy every 3 to 7 days for up to 5 sessions. Preferred for simple, low-risk, single lesions.
+      - Infiltration of 1 to 5 mL of [[Sodium stibogluconate]] / meglumine antimonate directly into the base of the lesion combined with liquid nitrogen cryotherapy every 3 to 7 days for up to 5 sessions. Preferred for simple, low-risk, single lesions.
     - Oral Miltefosine (Impavido):
       - Dose: 2.5 mg/kg/day PO (for adults ≥45 kg: 50 mg PO BID; for 30–44 kg: 50 mg PO once daily) for 28 days. Efficacious oral option for Old World CL. Contraindicated in pregnancy (teratogenic; strict contraception required during treatment and for 5 months post-therapy).
 *   **Alternative Treatments:**

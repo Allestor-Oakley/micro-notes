@@ -166,7 +166,7 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
     - Blood-Stage Therapy (Uncomplicated [[Chloroquine]]-Sensitive P. vivax): Oral [[Chloroquine]] phosphate (total dosage 25 mg base/kg over 3 days, administered as 10 mg base/kg stat, then 5 mg/kg at 12, 24, and 36 hours; or 10, 10, and 5 mg/kg on days 0, 1, and 2).
-    - Blood-Stage Therapy ([[Chloroquine]]-Resistant P. vivax - CRPV): Oral Artemisinin-based Combination Therapy (ACT), specifically [[Artemether]]-[[Lumefantrine]] or [[Dihydroartemisinin]]-[[Piperaquine]] (DHA-[[piperaquine]]).
+    - Blood-Stage Therapy ([[Chloroquine]]-Resistant P. vivax - CRPV): Oral Artemisinin-based Combination Therapy (ACT), specifically [[Artemether]]-[[Lumefantrine]] or [[Dihydroartemisinin]]-[[Piperaquine]] (DHA-[[Piperaquine]]).
     - Radical Cure / Anti-Relapse Therapy (Liver Hypnozoites): Oral [[Primaquine]] phosphate (administered concurrently or following blood-stage clearance to eradicate liver hypnozoites and prevent relapses). Standard adult dose: 0.25 mg base/kg/day (15 mg base/day) for 14 days. For relatively resistant "Chesson-like" strains (found in Southeast Asia and Oceania), higher doses are required: 0.5 mg base/kg/day (30 mg base/day) for 14 days (or condensed 7-day double-dose regimens). Alternatively, a single adult dose of [[Tafenoquine]] (300 mg) can be used.
 *   **Alternative Treatments:**
     - Oral [[Mefloquine]] (with or without [[Artesunate]]).
@@ -177,11 +177,11 @@ draft: false
     - Mandatory G6PD Screening: Patients MUST be tested for glucose-6-phosphate dehydrogenase (G6PD) deficiency prior to administering [[Primaquine]] or [[Tafenoquine]] due to the risk of severe drug-induced intravascular hemolysis.
     - Mild/Moderate G6PD Deficiency Protocol: In patients with mild-to-moderate G6PD deficiency, [[Primaquine]] should be administered at a weekly dose of 0.75 mg base/kg (45 mg base) once weekly for 8 weeks.
     - Contraindications: [[Primaquine]] and [[Tafenoquine]] are strictly contraindicated in severe G6PD deficiency, pregnant women, and young infants (safe during lactation).
-    - Mixed Infection Management: In dual P. falciparum / P. vivax infections, therapy must clear both blood-stage parasites and liver hypnozoites; failure to give [[primaquine]] results in delayed P. vivax relapse.
+    - Mixed Infection Management: In dual P. falciparum / P. vivax infections, therapy must clear both blood-stage parasites and liver hypnozoites; failure to give [[Primaquine]] results in delayed P. vivax relapse.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Sleeping under insecticide-treated bed nets (ITNs), applying DEET repellents, wearing protective clothing.
     - Vector Control: Indoor residual spraying (IRS) with insecticides, draining standing water breeding sites.
-    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[atovaquone]]-[[proguanil]], [[Doxycycline]], or [[mefloquine]]) for travelers.
+    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[Atovaquone]]-[[Proguanil]], [[Doxycycline]], or [[Mefloquine]]) for travelers.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
@@ -190,10 +190,10 @@ draft: false
     - "Ameboid trophozoite"
     - "Duffy antigen dependent / independent"
     - "Hypnozoites" / "Sleeping forms"
-    - "Chesson strain" ([[primaquine]]-tolerant tropical strain requiring high-dose radical cure)
+    - "Chesson strain" ([[Primaquine]]-tolerant tropical strain requiring high-dose radical cure)
 *   **Exceptions to the Rule:**
     - Breakdown of Duffy Resistance Barrier: Long believed impossible in Duffy-negative populations, clinical Plasmodium vivax infections are confirmed in Duffy-negative individuals across West Africa and Madagascar via alternative invasion pathways.
     - The "Benign" Misnomer: Despite its name, Plasmodium vivax causes severe, life-threatening clinical syndromes matching [[Plasmodium falciparum]], including ARDS, pulmonary edema, spontaneous splenic rupture, circulatory shock, and severe anemia.
     - Uncapped EDTA Standing Blood Artifacts: Uncapped EDTA blood left at room temperature leads to rapid loss of Schüffner's dots, gametocyte exflagellation mimicking Borrelia spirochetes, and ookinete development mimicking [[Plasmodium falciparum]] crescent gametocytes.
-    - High-Level [[Chloroquine]] Resistance (CRPV): Endemic in Papua New Guinea, Indonesia, Solomon Islands, Malaysia, Myanmar, Vietnam, and parts of Brazil, rendering standard [[chloroquine]] therapy ineffective and necessitating ACTs.
+    - High-Level [[Chloroquine]] Resistance (CRPV): Endemic in Papua New Guinea, Indonesia, Solomon Islands, Malaysia, Myanmar, Vietnam, and parts of Brazil, rendering standard [[Chloroquine]] therapy ineffective and necessitating ACTs.
     - Suppressive Species Interaction: In dual P. falciparum / P. vivax infections, P. falciparum suppresses P. vivax blood parasitemia; successful clearance of falciparum often triggers a surge or relapse of P. vivax ~2 months later.

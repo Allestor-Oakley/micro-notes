@@ -149,20 +149,20 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Uncomplicated Plasmodium knowlesi Malaria: Oral [[Chloroquine]] (Plasmodium knowlesi is highly susceptible to [[chloroquine]], producing rapid clinical response and parasite clearance). Alternatively, oral Artemisinin-based Combination Therapy (ACT) such as [[artemether]]-[[lumefantrine]] or [[artesunate]]-[[amodiaquine]] is highly effective.
-    - Severe Plasmodium knowlesi Malaria: Intravenous [[Artesunate]] (IV [[artesunate]] administered immediately as emergency therapy). Parenteral [[Quinine]] or IV [[Quinidine]] are alternative parenteral regimens if IV [[artesunate]] is unavailable.
+    - Uncomplicated Plasmodium knowlesi Malaria: Oral [[Chloroquine]] (Plasmodium knowlesi is highly susceptible to [[Chloroquine]], producing rapid clinical response and parasite clearance). Alternatively, oral Artemisinin-based Combination Therapy (ACT) such as [[Artemether]]-[[Lumefantrine]] or [[Artesunate]]-[[Amodiaquine]] is highly effective.
+    - Severe Plasmodium knowlesi Malaria: Intravenous [[Artesunate]] (IV [[Artesunate]] administered immediately as emergency therapy). Parenteral [[Quinine]] or IV [[Quinidine]] are alternative parenteral regimens if IV [[Artesunate]] is unavailable.
 *   **Alternative Treatments:**
-    - Oral Artemisinin-based Combination Therapies (ACTs) (e.g., [[dihydroartemisinin]]-[[piperaquine]], [[artesunate]]-[[mefloquine]]).
+    - Oral Artemisinin-based Combination Therapies (ACTs) (e.g., [[Dihydroartemisinin]]-[[Piperaquine]], [[Artesunate]]-[[Mefloquine]]).
     - Oral [[Quinine]] combined with [[Doxycycline]] or [[Tetracycline]].
     - Oral [[Atovaquone]]-[[Proguanil]] (Malarone).
     - Oral [[Mefloquine]].
 *   **Treatment Nuances & Dosing Considerations:**
     - Emergency Management Protocol: Because Plasmodium knowlesi possesses a rapid 24-hour replication cycle and can progress swiftly to life-threatening complications, any patient whose microscopic film suggests [[Plasmodium malariae]] but who presents with high parasitemia (>0.1% or >5,000 parasites/μL), severe symptoms, or a history of travel to forested areas of Southeast Asia MUST be managed aggressively as severe malaria using severe P. falciparum / severe knowlesi treatment protocols until speciation is verified by PCR.
-    - Absence of Hypnozoite Therapy: Because Plasmodium knowlesi does not produce dormant liver hypnozoites, anti-relapse therapy with [[primaquine]] for liver-stage clearance is not biologically required (though [[primaquine]] may be co-administered in general clinical regimens).
+    - Absence of Hypnozoite Therapy: Because Plasmodium knowlesi does not produce dormant liver hypnozoites, anti-relapse therapy with [[Primaquine]] for liver-stage clearance is not biologically required (though [[Primaquine]] may be co-administered in general clinical regimens).
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Application of insect repellents containing DEET to exposed skin, wearing protective long-sleeved clothing and trousers, and sleeping under insecticide-treated bed nets (ITNs).
     - Vector Control Limitations: Standard indoor residual insecticide spraying (IRS) and indoor bed nets have limited effectiveness against primary Plasmodium knowlesi vectors (Anopheles leucosphyrus group) because these [[mosquitoes]] feed primarily outdoors in forest settings and canopy environments.
-    - Chemoprophylaxis: Standard malarial chemoprophylaxis regimens (e.g., [[atovaquone]]-[[proguanil]], [[Doxycycline]], or [[mefloquine]]) for travelers visiting endemic forest regions of Southeast Asia.
+    - Chemoprophylaxis: Standard malarial chemoprophylaxis regimens (e.g., [[Atovaquone]]-[[Proguanil]], [[Doxycycline]], or [[Mefloquine]]) for travelers visiting endemic forest regions of Southeast Asia.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**

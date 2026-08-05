@@ -93,7 +93,7 @@ draft: false
 
 #### Pharmacology, Prevention & Eradication
 *   **Topical Scabicides & Pediculicides:** N/A (Sand flies are free-flying ectoparasites and do not colonize or burrow into host skin).
-*   **Oral Systemic Treatments:** Direct bite management is palliative, utilizing topical antipruritics, oral antihistamines, local anesthetics, and antiseptics/antibiotics for secondary bacterial infections; systemic vector-borne leishmaniasis is treated with [[Liposomal Amphotericin B]], [[sodium stibogluconate]], meglumine antimonate, [[miltefosine]], or [[pentamidine]].
+*   **Oral Systemic Treatments:** Direct bite management is palliative, utilizing topical antipruritics, oral antihistamines, local anesthetics, and antiseptics/antibiotics for secondary bacterial infections; systemic vector-borne leishmaniasis is treated with [[Liposomal Amphotericin B]], [[Sodium stibogluconate]], meglumine antimonate, [[Miltefosine]], or [[Pentamidine]].
 *   **Treatment Nuances & Re-application Schedules:** N/A.
 *   **Environmental & Laundry Decontamination Protocols:** Application of chemical repellents containing DEET (*N,N*-diethyl-*m*-toluamide) to exposed skin; wearing [[permethrin]]-treated protective clothing; sleeping under fine-mesh insecticide-treated bed nets (ITNs); residual insecticide spraying of dwelling walls; application of bacterial larvicides (*Bacillus thuringiensis* var. *israelensis*) to breeding sites.
 

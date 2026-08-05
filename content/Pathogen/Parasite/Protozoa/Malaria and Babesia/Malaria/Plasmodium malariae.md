@@ -133,8 +133,8 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Uncomplicated Plasmodium malariae Malaria: Oral [[Chloroquine]] (Plasmodium malariae remains highly sensitive to [[chloroquine]]; total dosage 25 mg base/kg over 3 days, administered as 10 mg/kg initially followed by 5 mg/kg at 12, 24, and 36 hours or 10, 10, and 5 mg/kg on days 0, 1, and 2).
-    - Alternative First-Line: Artemisinin-based Combination Therapies (ACTs) such as [[artemether]]-[[lumefantrine]], [[artesunate]]-[[amodiaquine]], or [[dihydroartemisinin]]-[[piperaquine]].
+    - Uncomplicated Plasmodium malariae Malaria: Oral [[Chloroquine]] (Plasmodium malariae remains highly sensitive to [[Chloroquine]]; total dosage 25 mg base/kg over 3 days, administered as 10 mg/kg initially followed by 5 mg/kg at 12, 24, and 36 hours or 10, 10, and 5 mg/kg on days 0, 1, and 2).
+    - Alternative First-Line: Artemisinin-based Combination Therapies (ACTs) such as [[Artemether]]-[[Lumefantrine]], [[Artesunate]]-[[Amodiaquine]], or [[Dihydroartemisinin]]-[[Piperaquine]].
 *   **Alternative Treatments:**
     - Oral [[Quinine]] combined with [[Doxycycline]], [[Tetracycline]], or [[Clindamycin]].
     - Oral [[Atovaquone]]-[[Proguanil]] (Malarone).
@@ -146,7 +146,7 @@ draft: false
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Sleeping under insecticide-treated bed nets (ITNs), applying insect repellents containing DEET to exposed skin, and wearing long-sleeved protective clothing.
     - Vector Control: Indoor residual insecticide spraying (IRS), environmental drainage of standing water, and water-level management to disrupt [[Mosquitoes|mosquito]] breeding.
-    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[atovaquone]]-proguanil, doxycycline, or [[mefloquine]]) for travelers visiting endemic regions.
+    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[Atovaquone]]-proguanil, doxycycline, or [[Mefloquine]]) for travelers visiting endemic regions.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**

@@ -123,11 +123,11 @@ draft: false
     - Combination Therapy (Synergistic Antifolate Regimen): Synergistically inhibits parasite dihydrofolate reductase (DHFR) and dihydropteroate synthase (DHPS). Drug of choice for acute active disease, toxoplasmic encephalitis, congenital disease, and severe symptomatic infection:
       - [[Pyrimethamine]] (Daraprim): Loading dose of 200 mg PO on Day 1, followed by 50 to 75 mg PO once daily (Pediatric dosage: 2 mg/kg/day PO for 2 days, then 1 mg/kg/day PO (maximum 25 mg/day)).
       - PLUS [[Sulfadiazine]]: 1.0 to 1.5 g PO QID (every 6 hours) (Adult daily dose 4 to 6 g/day PO; Pediatric dosage: 100 to 150 mg/kg/day PO divided in 4 doses).
-      - PLUS Leucovorin / Folinic Acid (MANDATORY ADJUNCT): 10 to 25 mg PO once daily (up to 50 mg/day). Folinic acid MUST be administered concurrently with all [[pyrimethamine]] regimens to substitute host folate pathways and prevent fatal drug-induced [[bone marrow]] suppression, leukopenia, and thrombocytopenia (Note: Folic acid must NOT be used as it reverses [[pyrimethamine]] anti-protozoal activity).
+      - PLUS Leucovorin / Folinic Acid (MANDATORY ADJUNCT): 10 to 25 mg PO once daily (up to 50 mg/day). Folinic acid MUST be administered concurrently with all [[Pyrimethamine]] regimens to substitute host folate pathways and prevent fatal drug-induced [[bone marrow]] suppression, leukopenia, and thrombocytopenia (Note: Folic acid must NOT be used as it reverses [[Pyrimethamine]] anti-protozoal activity).
 *   **Alternative Treatments:**
     - Sulfa-Allergic Patients / Secondary Regimens:
       - [[Clindamycin]]: 600 mg PO/IV QID (every 6 hours) PLUS [[Pyrimethamine]] + Leucovorin. (Highly effective primary alternative for Toxoplasmic Encephalitis).
-      - [[Cotrimoxazole|Trimethoprim-Sulfamethoxazole]]: 1 Double Strength (DS) tablet (160 mg TMP / 800 mg SMX) PO or IV BID. Demonstrated clinical equivalence to [[pyrimethamine]]-[[sulfadiazine]] for CNS and disseminated toxoplasmosis.
+      - [[Cotrimoxazole|Trimethoprim-Sulfamethoxazole]]: 1 Double Strength (DS) tablet (160 mg TMP / 800 mg SMX) PO or IV BID. Demonstrated clinical equivalence to [[Pyrimethamine]]-[[sulfadiazine]] for CNS and disseminated toxoplasmosis.
       - [[Atovaquone]]: 1,500 mg PO BID with meals (alone or in combination with [[Pyrimethamine]] or [[Sulfadiazine]]).
       - [[Azithromycin]] (500–1000 mg/day PO) or [[Clarithromycin]] (500 mg PO BID) combined with [[Pyrimethamine]].
 *   **Treatment Nuances & Dosing Considerations:**
@@ -157,11 +157,11 @@ draft: false
     - "BFD1" (master transcription factor regulating differentiation from tachyzoite to bradyzoite tissue cysts).
     - "Headlight in the fog" (ophthalmoscopic appearance of acute necrotizing retinochoroiditis with vitreous haze).
     - "Classic Congenital Triad": Chorioretinitis, Hydrocephalus, and Intracranial Calcifications.
-    - "Folinic acid / Leucovorin rescue" (mandatory addition to [[pyrimethamine]] to prevent [[bone marrow]] toxicity).
+    - "Folinic acid / Leucovorin rescue" (mandatory addition to [[Pyrimethamine]] to prevent [[bone marrow]] toxicity).
     - "Cat as sole definitive host" shedding up to 360 million unsporulated oocysts over 4 to 6 days.
 *   **Exceptions to the Rule:**
     - *Toxoplasma gondii* oocysts are shed EXCLUSIVELY in feline feces; human stool examinations (O&P) will NEVER reveal *Toxoplasma* oocysts or parasites.
     - Although *Toxoplasma gondii* is classified as an intestinal coccidian parasite based on its feline sexual cycle, in humans and non-feline intermediate hosts it acts strictly as a TISSUE SPOROZOAN, producing no enteroepithelial stages or intestinal disease.
-    - Folic acid CANNOT be used for host rescue during [[pyrimethamine]] therapy because it neutralizes [[pyrimethamine]]'s anti-protozoal activity; FOLINIC ACID (leucovorin) MUST be used instead.
+    - Folic acid CANNOT be used for host rescue during [[Pyrimethamine]] therapy because it neutralizes [[Pyrimethamine]]'s anti-protozoal activity; FOLINIC ACID (leucovorin) MUST be used instead.
     - High IgG avidity testing (>30%) performed in early pregnancy definitively EXCLUDES primary *Toxoplasma* acquisition during the preceding 4 months, avoiding unnecessary invasive prenatal diagnostic procedures or termination of pregnancy.
     - Most laboratory-acquired parasitic infections documented in medical literature are caused by *Toxoplasma gondii* (primarily through accidental needle-stick injuries or mucous membrane splashes with tachyzoites from culture or mouse peritoneal isolations).

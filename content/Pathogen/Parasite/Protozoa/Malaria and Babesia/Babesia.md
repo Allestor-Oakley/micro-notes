@@ -133,7 +133,7 @@ draft: false
     - Mild to Moderate Babesiosis (*Babesia microti*):
       - Combination Regimen (Preferred Front-Line Treatment):
         - [[Atovaquone]] (Mepron): 750 mg PO BID (every 12 hours) with meals for 7 to 10 days (Pediatric dosage: 20 mg/kg PO BID; max 750 mg/dose).
-        - PLUS [[Azithromycin]] (Zithromax): 500 mg PO on Day 1, followed by 250 mg PO once daily on Days 2 through 7 to 10 (or 500 mg PO daily) (Pediatric dosage: 10 mg/kg PO on Day 1, then 5 mg/kg daily). Demonstrates superior clinical tolerability and fewer adverse effects compared to [[clindamycin]]-[[quinine]].
+        - PLUS [[Azithromycin]] (Zithromax): 500 mg PO on Day 1, followed by 250 mg PO once daily on Days 2 through 7 to 10 (or 500 mg PO daily) (Pediatric dosage: 10 mg/kg PO on Day 1, then 5 mg/kg daily). Demonstrates superior clinical tolerability and fewer adverse effects compared to [[clindamycin]]-[[Quinine]].
     - Severe / Life-Threatening Babesiosis OR *Babesia divergens* / *Babesia duncani* Infection:
       - Combination Regimen (Gold Standard Heavy Regimen):
         - [[Quinine]] Sulfate: 650 mg PO TID (every 8 hours) for 7 to 10 days (Pediatric dosage: 8 mg/kg PO TID; max 650 mg/dose).
@@ -145,7 +145,7 @@ draft: false
 *   **Treatment Nuances & Dosing Considerations:**
     - Prolonged Therapy in Immunocompromised / Asplenic Hosts: Standard 7- to 10-day courses are frequently inadequate in [[HIV]]/AIDS, organ transplant, or asplenic patients, leading to relapses. Immunosuppressed patients MUST be treated for a MINIMUM of 6 weeks, continuing treatment for at least 2 consecutive weeks AFTER blood smears become completely negative for parasites.
     - Monitoring Parasitemia: Monitor thin blood films daily during acute treatment to track decreasing percentage parasitemia until cleared.
-    - [[Quinine]] Toxicity Warning: [[Quinine]] causes frequent adverse effects (cinchonism: tinnitus, hearing loss, dizziness, severe nausea, gastrointestinal distress, cardiac QT prolongation, hypoglycemia). Switch to [[atovaquone]]-[[Azithromycin]] if [[quinine]] is not tolerated.
+    - [[Quinine]] Toxicity Warning: [[Quinine]] causes frequent adverse effects (cinchonism: tinnitus, hearing loss, dizziness, severe nausea, gastrointestinal distress, cardiac QT prolongation, hypoglycemia). Switch to [[Atovaquone]]-[[Azithromycin]] if [[Quinine]] is not tolerated.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection in Tick Habitats: Wear light-colored clothing (makes attached ticks easily visible), tuck trousers into socks; apply insect repellents containing 20–30% DEET or Picaridin to skin and [[permethrin]] to clothing/gear.
     - Daily Tick Checks & Prompt Removal: Inspect body thoroughly after outdoor exposure in endemic zones. Ticks must remain attached for at least 36 to 48 hours to transmit *Babesia* sporozoites; prompt removal with fine-tipped tweezers (grasping close to skin and pulling straight out) effectively prevents infection.

@@ -98,7 +98,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Pentavalent Antimonials (Systemic Therapy): [[Sodium Stibogluconate]] (Pentostam) or Meglumine Antimonate (Glucantime).
+    - Pentavalent Antimonials (Systemic Therapy): [[Sodium stibogluconate]] (Pentostam) or Meglumine Antimonate (Glucantime).
       - Regimen for Localized Cutaneous Leishmaniasis (CL): 20 mg Sb5+/kg/day IV or IM for 20 days (maximum daily dose capped at 1,215 mg Sb5+/day to reduce cardiotoxicity, pancreatitis, and chemical hepatitis).
       - Regimen for Mucocutaneous Leishmaniasis (MCL): 20 mg Sb5+/kg/day IV or IM for 30 days.
     - Pentavalent Antimonials PLUS Oral Pentoxifylline (Combination Regimen for MCL):
@@ -113,7 +113,7 @@ draft: false
     - Localized Therapies (FOR SIMPLE, SINGLE, LOW-RISK CL LESIONS ONLY): Topical 15% [[Paromomycin]] cream once daily for 20 days, thermotherapy (local radiofrequency heat), or cryotherapy (liquid nitrogen). WARNING: Local/topical therapies are generally NOT recommended for proven *L. braziliensis* infections in Latin America unless systemic risk is ruled out, due to the inherent risk of subsequent mucosal dissemination (MCL).
 *   **Treatment Nuances & Dosing Considerations:**
     - Species-Specific Treatment Mandate: Because *L. braziliensis* carries a unique 1% to 5% risk of progressing to catastrophic mucocutaneous destruction (espundia), systemically active therapy is MANDATORY for all confirmed or suspected *L. braziliensis* infections (local topical therapy alone is insufficient).
-    - Pregnancy Protocol: Systemic antimonials and [[miltefosine]] are contraindicated during pregnancy due to fetal toxicity/teratogenicity. Liposomal [[Amphotericin B]] (2–3 mg/kg/day IV up to 20–40 mg/kg total dose) is the safe drug of choice for pregnant women with *L. braziliensis* infection.
+    - Pregnancy Protocol: Systemic antimonials and [[Miltefosine]] are contraindicated during pregnancy due to fetal toxicity/teratogenicity. Liposomal [[Amphotericin B]] (2–3 mg/kg/day IV up to 20–40 mg/kg total dose) is the safe drug of choice for pregnant women with *L. braziliensis* infection.
     - Adverse Drug Reactions: Antimonials cause frequent side effects: myalgias, arthralgias, EKG changes (T-wave inversion, QT prolongation), elevated pancreatic enzymes (amylase/lipase), and liver transaminase elevation. Monitor EKG, CBC, renal and hepatic function weekly during 30-day MCL courses.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protective Measures: Use insect repellents containing DEET or Picaridin on exposed skin; wear long-sleeved shirts and full-length trousers when entering tropical forests/jungles; sleep under [[permethrin]]-impregnated fine-mesh bed nets ([[sand flies]] are tiny (1.5–3.5 mm) and easily penetrate standard [[Mosquitoes|mosquito]] netting).
@@ -134,5 +134,5 @@ draft: false
 *   **Exceptions to the Rule:**
     - Parasites are characteristically EXTREMELY SCARCE or ABSENT in histologic tissue sections of mucosal (MCL) lesions due to intense host Th1 cell-mediated tissue destruction; diagnosis relies on molecular PCR, serology, or Montenegro skin testing rather than finding amastigotes.
     - Unlike Old World cutaneous species (*L. major*, *L. tropica*) which rarely metastasize and often self-cure without systemic sequelae, *Leishmania braziliensis* carries a unique capacity to metastasize to mucosal cartilaginous tissues years or decades AFTER primary skin lesions have completely healed.
-    - Localized topical or physical therapies (cryotherapy, topical [[paromomycin]]) that are acceptable for Old World CL are STRONGLY DISCOURAGED as sole treatment for *L. braziliensis* CL because they do not eradicate systemic parasites, leaving the host vulnerable to late mucocutaneous relapse (espundia).
+    - Localized topical or physical therapies (cryotherapy, topical [[Paromomycin]]) that are acceptable for Old World CL are STRONGLY DISCOURAGED as sole treatment for *L. braziliensis* CL because they do not eradicate systemic parasites, leaving the host vulnerable to late mucocutaneous relapse (espundia).
     - While visceral leishmaniasis (*L. donovani*) is associated with [[T Cell|T-cell]] anergy and negative skin tests, mucocutaneous leishmaniasis (*L. braziliensis*) represents the opposite immunopathologic spectrum: a hyperactive Th1 cell-mediated response with strongly positive Montenegro skin tests and massive production of IFN-gamma and TNF-alpha.

@@ -111,7 +111,7 @@ draft: false
 *   **Treatment Nuances & Dosing Considerations:**
     - [[Miltefosine]] Dosing (CDC guidelines for free-living amebic CNS infection): Oral dosing: patient weight <45 kg = 50 mg BID; patient weight >45 kg = 50 mg TID for 28 days.
     - Drug Penetration: [[Miltefosine]] and [[Voriconazole]] effectively cross the blood-brain barrier into brain parenchyma.
-    - Case Fatality & Treatment Challenges: Even with aggressive combination anti-amebic therapy including [[pentamidine]] and [[miltefosine]], case fatality remains >98%. Early diagnosis prior to CNS invasion (during the cutaneous phase) provides the best opportunity for survival.
+    - Case Fatality & Treatment Challenges: Even with aggressive combination anti-amebic therapy including [[Pentamidine]] and [[Miltefosine]], case fatality remains >98%. Early diagnosis prior to CNS invasion (during the cutaneous phase) provides the best opportunity for survival.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Hygiene & Skin Care: Thoroughly wash and disinfect skin cuts, abrasions, or gardening wounds immediately; wear gloves when handling soil, dust, or potted plants.
     - Organ Donor Screening: Screening tissue/organ donors for unexplained neurological illnesses or skin lesions to prevent transplantation transmission.

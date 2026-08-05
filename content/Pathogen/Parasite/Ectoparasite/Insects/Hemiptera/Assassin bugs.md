@@ -90,7 +90,7 @@ draft: false
 
 #### Pharmacology, Prevention & Eradication
 *   **Topical Scabicides & Pediculicides:** N/A (Triatomid bugs are free-living crawling/flying vector insects and do not colonize host skin or respond to scabicides/pediculicides).
-*   **Oral Systemic Treatments:** Local bite management is supportive (topical antipruritics, oral antihistamines, local palliatives); specific antiparasitic therapy for transmitted Chagas disease includes oral [[benznidazole]] or [[nifurtimox]] (effective primarily during acute, congenital, or early chronic infections).
+*   **Oral Systemic Treatments:** Local bite management is supportive (topical antipruritics, oral antihistamines, local palliatives); specific antiparasitic therapy for transmitted Chagas disease includes oral [[Benznidazole]] or [[Nifurtimox]] (effective primarily during acute, congenital, or early chronic infections).
 *   **Treatment Nuances & Re-application Schedules:** N/A
 *   **Environmental & Laundry Decontamination Protocols:** Application of residual pyrethroid insecticides to interior wall surfaces, roofs, and peridomestic animal shelters; structural modification of housing (plastering wall cracks, replacing thatched roofs); sleeping under [[permethrin]]-treated bed nets; clearing vegetation, debris, and animal nesting sites from around human habitations.
 

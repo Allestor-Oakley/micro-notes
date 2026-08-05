@@ -136,7 +136,7 @@ draft: false
       - Second Stage (Neurological / CNS Stage, CSF pleocytosis or trypanosomes in CSF):
         - [[Melarsoprol]] (Arsobal): Organic trivalent arsenical compound. Drug of choice for rhodesiense CNS disease. Dosage: 2.2 mg/kg/day IV once daily for 10 consecutive days (or historical 3-series regimens).
 *   **Alternative Treatments:**
-    - [[Eflornithine]] (DFMO) Monotherapy: 400 mg/kg/day IV divided into 4 infusions (every 6 hours) for 14 days (alternative for gambiense Stage 2 if [[nifurtimox]] is unavailable).
+    - [[Eflornithine]] (DFMO) Monotherapy: 400 mg/kg/day IV divided into 4 infusions (every 6 hours) for 14 days (alternative for gambiense Stage 2 if [[Nifurtimox]] is unavailable).
     - [[Melarsoprol]]: Trivalent arsenical used as rescue therapy for refractory Stage 2 *T. b. gambiense* cases failing NECT, or as primary therapy for *T. b. rhodesiense* Stage 2. (WARNING: Highly toxic; causes severe reactive arsenical encephalopathy in 5% to 10% of treated patients, with a 50% case-fatality rate among those who develop encephalopathy).
     - Acoziborole: Single-dose oral oxaborole derivative currently in clinical trials as a breakthrough single-dose cure for all stages of *T. b. gambiense*.
 *   **Treatment Nuances & Dosing Considerations:**

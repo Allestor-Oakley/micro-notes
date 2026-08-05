@@ -110,12 +110,12 @@ draft: false
     - Combination Regimens (Preferred to prevent resistance and shorten duration):
       - Single-dose L-AmB (5 mg/kg IV) + [[Miltefosine]] (14 days PO) OR Single-dose L-AmB (5 mg/kg IV) + [[Paromomycin]] (10 days IM).
 *   **Alternative Treatments:**
-    - Pentavalent Antimonials ([[Sodium Stibogluconate]] (Pentostam) / Meglumine Antimonate (Glucantime)): Historical drug of choice. Dose: 20 mg Sb5+/kg/day IV or IM for 30 days. High therapeutic failure rates (>50–65% resistance) in Bihar, India due to antimonial resistance; still utilized in parts of East Africa where sensitivity remains intact, though limited by cardiotoxicity (fatal arrhythmias), pancreatitis, and hepatotoxicity.
+    - Pentavalent Antimonials ([[Sodium stibogluconate]] (Pentostam) / Meglumine Antimonate (Glucantime)): Historical drug of choice. Dose: 20 mg Sb5+/kg/day IV or IM for 30 days. High therapeutic failure rates (>50–65% resistance) in Bihar, India due to antimonial resistance; still utilized in parts of East Africa where sensitivity remains intact, though limited by cardiotoxicity (fatal arrhythmias), pancreatitis, and hepatotoxicity.
     - [[Amphotericin B Deoxycholate]] (Fungizone): 0.5 to 1.0 mg/kg IV infusion daily or every other day for 15 to 20 doses (cure rate ~97%, but causes high fever, chills, nephrotoxicity, hypokalemia).
     - [[Pentamidine]] Isethionate: 2 to 4 mg/kg IV/IM every other day for 15 doses (secondary alternative; limited by diabetes mellitus induction and severe hypotension).
 *   **Treatment Nuances & Dosing Considerations:**
-    - Regional Efficacy Variation: *L. donovani* exhibits distinct drug susceptibility profiles by region (e.g., high antimonial resistance in India vs. sensitivity in East Africa; [[paromomycin]] less effective as monotherapy in Sudan).
-    - [[HIV]]/VL Co-infection Regimen: Higher total doses of Liposomal [[Amphotericin B]] (30 to 40 mg/kg total cumulative dose, e.g., 5 mg/kg on days 1, 3, 5, 7, 9, 11) PLUS [[Miltefosine]] (100 mg/day for 14 to 28 days). Secondary prophylaxis with [[pentamidine]] or L-AmB monthly until CD4+ count exceeds 200 cells/mm³.
+    - Regional Efficacy Variation: *L. donovani* exhibits distinct drug susceptibility profiles by region (e.g., high antimonial resistance in India vs. sensitivity in East Africa; [[Paromomycin]] less effective as monotherapy in Sudan).
+    - [[HIV]]/VL Co-infection Regimen: Higher total doses of Liposomal [[Amphotericin B]] (30 to 40 mg/kg total cumulative dose, e.g., 5 mg/kg on days 1, 3, 5, 7, 9, 11) PLUS [[Miltefosine]] (100 mg/day for 14 to 28 days). Secondary prophylaxis with [[Pentamidine]] or L-AmB monthly until CD4+ count exceeds 200 cells/mm³.
     - PKDL Treatment: Prolonged treatment courses required ([[Miltefosine]] 50 mg PO BID for 12 weeks in India; L-AmB or antimonials for 60 to 90 days in East Africa).
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Vector Control: Indoor residual spraying (IRS) with insecticides (DDT, pyrethroids) on indoor wall surfaces of homes and animal shelters to kill resting *[[Sand flies|Phlebotomus]]*.
@@ -136,6 +136,6 @@ draft: false
 *   **Exceptions to the Rule:**
     - Although *Leishmania donovani* is fundamentally a viscerotropic pathogen causing systemic fatal infection (kala-azar), it can produce florid cutaneous disease years AFTER successful visceral cure, manifesting as Post-Kala-Azar Dermal Leishmaniasis (PKDL).
     - Unlike *L. infantum* / *L. chagasi* (which are predominantly zoonotic with dogs as major reservoirs), *L. donovani* in the Indian subcontinent and East Africa is strictly ANTHROPONOTIC (humans are the primary reservoir).
-    - High-level drug resistance to pentavalent antimonials ([[sodium stibogluconate]]) exceeds 60% in Bihar, India, rendering antimonials obsolete in that region, whereas they remain active in parts of Africa.
+    - High-level drug resistance to pentavalent antimonials ([[Sodium stibogluconate]]) exceeds 60% in Bihar, India, rendering antimonials obsolete in that region, whereas they remain active in parts of Africa.
     - The Leishmanin Skin Test (LST) is strictly NEGATIVE during active visceral leishmaniasis due to specific cell-mediated immune anergy, but converts to POSITIVE after effective cure.
     - Stool O&P examination is entirely useless for *L. donovani* diagnosis, as organisms reside exclusively within reticuloendothelial [[Macrophage|macrophages]] of deep visceral organs and blood.

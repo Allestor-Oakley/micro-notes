@@ -87,7 +87,7 @@ draft: false
     - [[Paromomycin]]: 25 to 35 mg/kg/day PO in 3 divided doses (used alone or in combination with [[metronidazole]]).
 *   **Treatment Nuances & Dosing Considerations:**
     - Controversial Indications: Treatment is controversial and should be restricted strictly to patients with persistent, debilitating symptoms in whom a thorough, exhaustive work-up has completely excluded all other alternative etiologies.
-    - Treatment Failure & Resistance: Subtype-dependent drug resistance to [[metronidazole]] is frequently documented. In cases of [[metronidazole]] treatment failure, secondary therapy with [[Cotrimoxazole|TMP-SMX]] or [[nitazoxanide]] is recommended.
+    - Treatment Failure & Resistance: Subtype-dependent drug resistance to [[metronidazole]] is frequently documented. In cases of [[metronidazole]] treatment failure, secondary therapy with [[Cotrimoxazole|TMP-SMX]] or [[Nitazoxanide]] is recommended.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal & Environmental Hygiene: Thorough handwashing with soap and water after toilet use, handling animals, and before food preparation.
     - Water & Food Safety: Boiling drinking water for 10 minutes, submicron/sand filtration, and thorough washing or cooking of raw produce. Standard municipal water chlorination levels may not eliminate cysts.

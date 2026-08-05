@@ -79,7 +79,7 @@ draft: false
 
 #### Pharmacology, Prevention & Eradication
 *   **Topical Scabicides & Pediculicides:** N/A (Tsetse flies are free-flying ectoparasites and do not colonize host skin or respond to topical scabicides/pediculicides).
-*   **Oral Systemic Treatments:** Direct bite management is supportive (topical antipruritics, oral antihistamines, local antiseptics); systemic therapy for transmitted vector-borne HAT depends on the stage and species: oral fexinidazole or NECT ([[nifurtimox]]-[[eflornithine]] combination therapy) or [[pentamidine]] for *T. b. gambiense*; [[suramin]] (stage 1) or [[melarsoprol]] (stage 2) for *T. b. rhodesiense*.
+*   **Oral Systemic Treatments:** Direct bite management is supportive (topical antipruritics, oral antihistamines, local antiseptics); systemic therapy for transmitted vector-borne HAT depends on the stage and species: oral fexinidazole or NECT ([[Nifurtimox]]-[[Eflornithine]] combination therapy) or [[Pentamidine]] for *T. b. gambiense*; [[Suramin]] (stage 1) or [[Melarsoprol]] (stage 2) for *T. b. rhodesiense*.
 *   **Treatment Nuances & Re-application Schedules:** N/A.
 *   **Environmental & Laundry Decontamination Protocols:** Utilization of blue and black cloth targets/traps impregnated with pyrethroid insecticides ("tiny targets"); application of pour-on pyrethroid insecticides to livestock; clearing riverine thickets and bush vegetation near human habitations and water collection sites; wearing [[permethrin]]-treated protective clothing.
 

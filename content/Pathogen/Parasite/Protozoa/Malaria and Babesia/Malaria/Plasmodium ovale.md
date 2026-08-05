@@ -147,7 +147,7 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Anti-Protozoal Agents:**
-    - Uncomplicated Blood-Stage Infection: Oral [[Chloroquine]] phosphate (highly effective against asexual erythrocytic stages of P. ovale; total dosage 25 mg base/kg over 3 days). Alternatively, oral Artemisinin-based Combination Therapy (ACT) such as [[artemether]]-[[lumefantrine]] or [[dihydroartemisinin]]-[[piperaquine]].
+    - Uncomplicated Blood-Stage Infection: Oral [[Chloroquine]] phosphate (highly effective against asexual erythrocytic stages of P. ovale; total dosage 25 mg base/kg over 3 days). Alternatively, oral Artemisinin-based Combination Therapy (ACT) such as [[Artemether]]-[[Lumefantrine]] or [[Dihydroartemisinin]]-[[Piperaquine]].
     - Anti-Relapse / Radical Cure (Liver Stages): Oral [[Primaquine]] phosphate (administered concurrently or following blood-stage clearance to eradicate dormant liver hypnozoites and prevent true relapses).
 *   **Alternative Treatments:**
     - Oral [[Quinine]] sulfate combined with [[Doxycycline]], [[Tetracycline]], or [[Clindamycin]].
@@ -155,11 +155,11 @@ draft: false
     - Oral [[Mefloquine]].
 *   **Treatment Nuances & Dosing Considerations:**
     - Mandatory G6PD Screening: Patients MUST be screened for glucose-6-phosphate dehydrogenase (G6PD) deficiency prior to administering [[Primaquine]] to avoid severe drug-induced intravascular hemolysis.
-    - Complete Eradication: Both blood-stage schizonticidal therapy ([[chloroquine]]/ACT) and liver-stage hypnozoiticidal therapy ([[primaquine]]) are mandatory for radical cure of Plasmodium ovale malaria.
+    - Complete Eradication: Both blood-stage schizonticidal therapy ([[Chloroquine]]/ACT) and liver-stage hypnozoiticidal therapy ([[Primaquine]]) are mandatory for radical cure of Plasmodium ovale malaria.
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Sleeping under insecticide-treated bed nets (ITNs), applying insect repellents containing DEET to exposed skin, and wearing long-sleeved protective clothing.
     - Vector Control: Indoor residual spraying (IRS) with insecticides, eliminating standing water collections, and managing larval habitats.
-    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[atovaquone]]-[[proguanil]], [[Doxycycline]], or [[mefloquine]]) for travelers visiting endemic regions.
+    - Chemoprophylaxis: Standard antimalarial chemoprophylaxis ([[Atovaquone]]-[[Proguanil]], [[Doxycycline]], or [[Mefloquine]]) for travelers visiting endemic regions.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**

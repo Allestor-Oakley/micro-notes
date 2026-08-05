@@ -98,7 +98,7 @@ draft: false
 
 #### Pharmacology, Prevention & Eradication
 *   **Topical Scabicides & Pediculicides:** N/A (Mosquitoes are free-flying ectoparasites and do not colonize host skin or respond to topical scabicides/pediculicides).
-*   **Oral Systemic Treatments:** Direct bite management is supportive (topical antipruritics, oral antihistamines, mild topical corticosteroids, and local antiseptics/antibiotics for secondary bacterial infections); vector-borne pathogens require disease-specific systemic antimicrobials (e.g., artemisinin-based combination therapies (ACTs), [[chloroquine]], [[primaquine]] for [[Plasmodium sp.|malaria]]; [[diethylcarbamazine]] (DEC), [[ivermectin]], or [[albendazole]] for filariasis).
+*   **Oral Systemic Treatments:** Direct bite management is supportive (topical antipruritics, oral antihistamines, mild topical corticosteroids, and local antiseptics/antibiotics for secondary bacterial infections); vector-borne pathogens require disease-specific systemic antimicrobials (e.g., artemisinin-based combination therapies (ACTs), [[Chloroquine]], [[Primaquine]] for [[Plasmodium sp.|malaria]]; [[diethylcarbamazine]] (DEC), [[ivermectin]], or [[albendazole]] for filariasis).
 *   **Treatment Nuances & Re-application Schedules:** N/A.
 *   **Environmental & Laundry Decontamination Protocols:** Application of insect repellents containing DEET (*N,N*-diethyl-*m*-toluamide), picaridin, or oil of lemon eucalyptus to exposed skin; wearing [[permethrin]]-treated protective clothing (effective through multiple machine washings); sleeping under long-lasting insecticide-treated bed nets (LLINs/ITNs); installing fine wire-mesh screens on windows and doors.
 

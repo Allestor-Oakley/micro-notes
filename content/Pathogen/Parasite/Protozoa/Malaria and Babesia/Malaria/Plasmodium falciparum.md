@@ -91,7 +91,7 @@ draft: false
       - Algid Malaria: Rapid circulatory collapse, profound hypotension, hypothermia, cold clammy skin, metabolic acidosis, hyponatremia, and secondary Gram-negative bacterial septicemia / endotoxemia.
       - Severe Malarial Anemia: Hemoglobin <5.0 g/dL or Hematocrit <15% resulting from massive RBC lysis and [[bone marrow]] dyserythropoiesis.
       - Pulmonary Edema / ARDS: Non-cardiogenic pulmonary edema, acute lung injury, severe tachypnea, hypoxia, and respiratory failure (can develop rapidly even after parasitemia has declined).
-      - Severe Metabolic Acidosis & Hypoglycemia: Lactic acidosis (plasma lactate >5 mmol/L) and profound hypoglycemia (<40 mg/dL), exacerbated by parasite glucose consumption and [[quinine]]/[[quinidine]]-induced pancreatic insulin secretion.
+      - Severe Metabolic Acidosis & Hypoglycemia: Lactic acidosis (plasma lactate >5 mmol/L) and profound hypoglycemia (<40 mg/dL), exacerbated by parasite glucose consumption and [[Quinine]]/[[Quinidine]]-induced pancreatic insulin secretion.
       - Malarial Hyperpyrexia: Core body temperature exceeding 40°C to 41°C (104°F–106°F), contributing to CNS toxicity and convulsions.
       - Gastrointestinal & Hepatic Dysfunction: Severe vomiting, abdominal distension, diarrhea, jaundice (elevated bilirubin), and tender hepatosplenomegaly.
       - Placental Malaria: Massive cytoadherence of parasites in placental intervillous spaces, causing severe maternal anemia, intrauterine growth restriction (IUGR), low birth weight, premature delivery, and stillbirth.
@@ -161,10 +161,10 @@ draft: false
 *   **First-Line Anti-Protozoal Agents:**
     - Uncomplicated [[Chloroquine]]-Resistant *P. falciparum* Malaria (Standard Oral Regimens):
       - Artemisinin-Based Combination Therapies (ACTs - Preferred Front-Line Standard of Care):
-        - [[Artemether]]-[[Lumefantrine]] (Coartem): Standard 6-dose oral regimen over 3 days (given at 0, 8, 24, 36, 48, and 60 hours). Adult dosage: 4 tablets per dose (each tablet contains 20 mg [[artemether]] / 120 mg [[lumefantrine]]). Pediatric dosage is weight-based (1 to 3 tablets per dose). MUST be taken with fatty food or milk to ensure adequate [[lumefantrine]] absorption.
-        - [[Atovaquone]]-[[Proguanil]] (Malarone): Adult dosage: 4 adult-strength tablets (each 250 mg [[atovaquone]] / 100 mg [[proguanil]]) PO once daily with food for 3 consecutive days.
+        - [[Artemether]]-[[Lumefantrine]] (Coartem): Standard 6-dose oral regimen over 3 days (given at 0, 8, 24, 36, 48, and 60 hours). Adult dosage: 4 tablets per dose (each tablet contains 20 mg [[Artemether]] / 120 mg [[Lumefantrine]]). Pediatric dosage is weight-based (1 to 3 tablets per dose). MUST be taken with fatty food or milk to ensure adequate [[Lumefantrine]] absorption.
+        - [[Atovaquone]]-[[Proguanil]] (Malarone): Adult dosage: 4 adult-strength tablets (each 250 mg [[Atovaquone]] / 100 mg [[Proguanil]]) PO once daily with food for 3 consecutive days.
         - [[Dihydroartemisinin]]-[[Piperaquine]] or [[Artesunate]]-[[Amodiaquine]].
-      - Uncomplicated [[Chloroquine]]-Sensitive *P. falciparum* Malaria (Restricted to rare areas lacking [[chloroquine]] resistance: Haiti, Dominican Republic, Central America west of the Panama Canal):
+      - Uncomplicated [[Chloroquine]]-Sensitive *P. falciparum* Malaria (Restricted to rare areas lacking [[Chloroquine]] resistance: Haiti, Dominican Republic, Central America west of the Panama Canal):
         - [[Chloroquine]] Phosphate: Initial loading dose of 1,000 mg salt (600 mg base) PO, followed by 500 mg salt (300 mg base) PO at 6, 24, and 48 hours (total dose 2,500 mg salt / 1,500 mg base over 3 days).
     - Severe / Fulminant *P. falciparum* Malaria (Parenteral Emergency Therapy):
       - Intravenous [[Artesunate]] (IV [[Artesunate]] - GOLD STANDARD PREFERRED DRUG GLOBALLY AND IN THE US): Obtains rapid parasite clearance. Dosage: 2.4 mg/kg IV infusion administered at 0, 12, and 24 hours, then 2.4 mg/kg IV once daily until the patient can tolerate oral medication (followed by a full 3-day course of oral ACT such as Coartem or Malarone).
@@ -173,7 +173,7 @@ draft: false
     - Oral [[Quinine]] Sulfate: 650 mg PO TID (every 8 hours) for 3 to 7 days PLUS [[Doxycycline]] 100 mg PO BID for 7 days OR [[Tetracycline]] 250 mg PO QID for 7 days OR [[Clindamycin]] 20 mg base/kg/day PO in 3 divided doses for 7 days ([[clindamycin]] is preferred for pregnant women and young children <8 years old).
     - Oral [[Mefloquine]]: 750 mg PO initial dose followed by 500 mg PO given 6 to 12 hours later (total dose 1,250 mg).
 *   **Treatment Nuances & Dosing Considerations:**
-    - NO HYPNOZOITOCIDAL THERAPY REQUIRED: Unlike *[[Plasmodium vivax]]* and *[[Plasmodium ovale]]*, *Plasmodium falciparum* COMPLETELY LACKS a hypnozoite liver stage. Therefore, antirelapse therapy with [[Primaquine]] or [[Tafenoquine]] for liver stage eradication is NOT required or indicated (except single low-dose [[primaquine]] (0.25 mg/kg) used as an WHO-recommended gametocytocidal agent to prevent transmission in elimination zones).
+    - NO HYPNOZOITOCIDAL THERAPY REQUIRED: Unlike *[[Plasmodium vivax]]* and *[[Plasmodium ovale]]*, *Plasmodium falciparum* COMPLETELY LACKS a hypnozoite liver stage. Therefore, antirelapse therapy with [[Primaquine]] or [[Tafenoquine]] for liver stage eradication is NOT required or indicated (except single low-dose [[Primaquine]] (0.25 mg/kg) used as an WHO-recommended gametocytocidal agent to prevent transmission in elimination zones).
     - Artemisinin Resistance Monitoring (Pfkelch13 Mutations): Point mutations in the propeller domain of the *Pfkelch13* gene (e.g., C580Y, Y493H, R539T, N458Y) mediate artemisinin resistance (phenotypically manifested as prolonged parasite clearance half-life >5 hours). Prevalent in the Greater Mekong Subregion of Southeast Asia and emerging in East/Central Africa.
     - [[Quinine]] / [[Quinidine]] Toxicity (Cinchonism): [[Quinine]] causes frequent adverse effects including cinchonism (tinnitus, high-frequency hearing loss, dizziness, nausea, vomiting, blurred vision), ventricular arrhythmias (QTc prolongation), and severe hyperinsulinemic hypoglycemia.
     - Parasitemia Monitoring: Serial thick/thin blood films should be examined daily during treatment to confirm declining percentage parasitemia until complete clearance is achieved.
@@ -182,7 +182,7 @@ draft: false
       - [[Atovaquone]]-[[Proguanil]] (Malarone): 1 adult tablet PO once daily, starting 1 to 2 days prior to entering the endemic area, daily while there, and continuing once daily for 7 days after leaving.
       - [[Doxycycline]]: 100 mg PO once daily, starting 1 to 2 days prior to travel, daily while there, and continuing once daily for 4 weeks after leaving.
       - [[Mefloquine]]: 250 mg PO once weekly, starting 2 to 3 weeks prior to travel, weekly while there, and continuing once weekly for 4 weeks after leaving (contraindicated in individuals with active depression, severe anxiety, psychosis, or seizure disorders).
-      - [[Chloroquine]] Phosphate: 500 mg salt (300 mg base) PO once weekly (only in [[chloroquine]]-sensitive regions).
+      - [[Chloroquine]] Phosphate: 500 mg salt (300 mg base) PO once weekly (only in [[Chloroquine]]-sensitive regions).
     - Personal Vector Protection: Use chemical insect repellents containing 20% to 30% DEET or Picaridin on exposed skin; wear [[permethrin]]-treated long-sleeved clothing and trousers; sleep under Long-Lasting Insecticidal Nets (LLINs / ITNs) tucked under the mattress.
     - Environmental Control: Indoor Residual Spraying (IRS with pyrethroids or DDT) on interior wall surfaces; elimination of standing water collections and [[Mosquitoes|mosquito]] breeding habitats.
     - Vaccination Status: RTS,S/AS01 (Mosquirix) and R21/Matrix-M recombinant circumsporozoite protein vaccines are approved for young children living in moderate-to-high transmission Sub-Saharan African regions. PfSPZ (irradiated whole non-replicating sporozoite vaccine) is under clinical evaluation.
