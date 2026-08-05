@@ -1,6 +1,6 @@
 ---
-date: "2026-07-22"
-draft: "true"
+date: 2026-07-22
+draft: true
 ---
 
 2. Innate Immunity, Antiviral States, and Acute Inflammation ("The First Responders")

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 The selectin family of CD molecules—specifically CD62E, CD62L, and CD62P—are plasma membrane carbohydrate-binding adhesion molecules that are fundamentally responsible for the initial, low-affinity attachment of circulating leukocytes to the endothelial cells lining postcapillary venules.
 

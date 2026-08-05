@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 ## Anatomy
 The spleen is a highly vascularized, encapsulated secondary lymphoid organ located in the left-upper quadrant of the abdominal cavity, weighing approximately 150 g in adults. The organ is directly innervated by the autonomic nervous system, primarily consisting of sympathetic catecholamine-releasing neurons.

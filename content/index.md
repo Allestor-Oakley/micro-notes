@@ -4,7 +4,7 @@ draft: false
 ---
 Welcome to micro(biology)-notes
 
-**<=** Open **Explorer Sidebar** to explore:
+**⟸** Open **Explorer Sidebar** to start exploring:
 - Disease (*In progress*)
 - Drug
 	- Antimicrobial
@@ -12,8 +12,7 @@ Welcome to micro(biology)-notes
 		- Antifungal
 		- Antiparasitic
 		- Antiviral
-		- Immunomodulator (*In progress*)
-	- Immunomodulator
+	- Immunomodulator (*In progress*)
 - Immune (*In progress*)
 - Lab (*In progress*)
 - Pathogen

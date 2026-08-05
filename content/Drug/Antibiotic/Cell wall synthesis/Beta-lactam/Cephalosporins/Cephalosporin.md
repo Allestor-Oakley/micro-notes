@@ -33,15 +33,14 @@ cyp_interactions:
 date: 2026-08-04
 draft: false
 ---
-
 ### Cephalosporin
 #### Classification & Mechanism of Action
 *   **Drug Class & Subclass:** Beta-lactam antibiotics; Cephalosporin class. Derived from the active nucleus 7-aminocephalosporanic acid, which closely resembles the penicillin nucleus 6-aminopenicillanic acid. The class is traditionally divided into generations:
-    *   First-Generation: Includes cefazolin, cephalexin, cefadroxil, cephradine, cephalothin, and cephapirin.
-    *   Second-Generation: Includes cefuroxime, cefuroxime axetil, cefprozil, cefaclor, ceforanide, and the cephamycins (cefoxitin, cefotetan, and cefmetazole), which are characterized by a 7-alpha-methoxy group on the beta-lactam ring.
-    *   Third-Generation: Includes parenteral agents (cefotaxime, ceftriaxone, ceftazidime, ceftizoxime, cefoperazone, moxalactam) and oral agents (cefixime, cefpodoxime proxetil, cefdinir, cefditoren pivoxil, ceftibuten).
-    *   Fourth-Generation: Cefepime and cefpirome.
-    *   MRSA-Active (Fifth-Generation): Ceftaroline fosamil.
+    *   [[1st gen cephalosporins|First-Generation]]: Includes cefazolin, cephalexin, cefadroxil, cephradine, cephalothin, and cephapirin.
+    *   [[2nd Generation Cephalosporins|Second-Generation]]: Includes cefuroxime, cefuroxime axetil, cefprozil, cefaclor, ceforanide, and the cephamycins (cefoxitin, cefotetan, and cefmetazole), which are characterized by a 7-alpha-methoxy group on the beta-lactam ring.
+    *   [[3rd Generation Cephalosporins|Third-Generation]]: Includes parenteral agents (cefotaxime, ceftriaxone, ceftazidime, ceftizoxime, cefoperazone, moxalactam) and oral agents (cefixime, cefpodoxime proxetil, cefdinir, cefditoren pivoxil, ceftibuten).
+    *   [[4th Generation Cephalosporins|Fourth-Generation]]: Cefepime and cefpirome.
+    *   MRSA-Active ([[5th Generation Cephalosporins|Fifth-Generation]]): Ceftaroline fosamil.
     *   Cephalosporin-Beta-Lactamase Inhibitor Combinations: Ceftazidime-avibactam and ceftolozane-tazobactam.
 *   **Target Organisms:** Aerobic and anaerobic Gram-positive and Gram-negative bacteria, varying widely by generation. Broadly, Gram-positive activity is strongest in first-generation agents and decreases in second and third generations (with the exception of cefotaxime/ceftriaxone which retain good activity), while Gram-negative activity progressively expands from first through fourth generations. Ceftazidime and cefepime cover Pseudomonas aeruginosa. Ceftaroline specifically targets methicillin-resistant Staphylococcus aureus (MRSA).
 *   **Exact Mechanism of Action:** Inhibits bacterial cell wall synthesis. Cephalosporins form stable covalent bonds with penicillin-binding proteins (PBPs), which function as transpeptidases and carboxypeptidases on the outer surface of the bacterial cytoplasmic membrane. By binding to PBPs, these agents block the final transpeptidation reaction required to cross-link the linear peptidoglycan polymer chains (alternating N-acetylglucosamine and N-acetylmuramic acid residues). This prevents the cross-linking of peptide side-chains, leading to structural weakening of the cell wall, osmotic instability, cell membrane damage, lysis, and rapid cell death.

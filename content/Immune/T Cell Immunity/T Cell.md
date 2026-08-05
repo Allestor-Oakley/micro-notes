@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 aliases:
   - T Cells
   - T-Cell

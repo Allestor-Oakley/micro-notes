@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 ## Anatomy
 The thymus is a bilobed primary lymphoid organ situated in the anterior mediastinum. It possesses a rich vascular supply and contains lymphatic vessels that drain outward into the mediastinal lymph nodes. A defining gross anatomic feature of the thymus is its age-dependent involution; it reaches its peak size before puberty, after which it progressively involutes and becomes virtually undetectable in adults, leaving behind only a remnant of tissue.

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 ## HLA Class II Molecules
 **Structure and Subtypes** Unlike Class I, HLA Class II molecules are composed of two distinct MHC-encoded, highly polymorphic chains: an α chain (32-34 kD) and a β chain (29-32 kD).

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-20
-draft: "false"
+draft: false
 ---
 ## HLA Class I Molecules
 **Structure and Subtypes** All HLA Class I molecules are heterodimers composed of a highly polymorphic heavy α chain (which contains α1, α2, and α3 domains) noncovalently linked to a nonpolymorphic, non-MHC-encoded 12-kD protein known as β2-microglobulin.

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-22
-draft: "true"
+draft: false
 aliases:
   - Leukemia Inhibitory Factor
 ---
