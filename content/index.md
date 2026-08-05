@@ -4,6 +4,7 @@ draft: false
 ---
 Welcome to micro(biology)-notes
 
+---
 **⟸** Open **Explorer Sidebar** to start exploring:
 - Disease (*In progress*)
 - Drug

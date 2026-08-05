@@ -1,7 +1,5 @@
 ---
 aliases:
-  - Linezolid
-  - Tedizolid
   - Zyvox
   - Sivextro
 antimicrobial_class:
