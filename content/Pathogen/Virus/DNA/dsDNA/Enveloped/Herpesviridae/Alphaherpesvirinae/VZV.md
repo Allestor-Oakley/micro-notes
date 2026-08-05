@@ -84,7 +84,7 @@ draft: false
 #### Pharmacology, Prevention & Prophylaxis
 *   **Antiviral Targets & First-Line Agents:** Nucleoside analogs that target the viral DNA polymerase and rely on nucleoside scavenging/activation by the viral thymidine kinase. First-line oral and intravenous therapies include [[Acyclovir]], [[Valacyclovir]], and [[Famciclovir]].
 *   **Resistance Mechanisms & Mutations:** Resistance typically arises via mutations in the viral thymidine kinase gene (preventing drug activation).
-*   **Treatment Nuances & Timing Constraints:** [[Foscarnet]] or [[Cidofovir]] can be utilized (often targeting the polymerase directly without needing thymidine kinase activation) for [[acyclovir]]-resistant VZV strains.
+*   **Treatment Nuances & Timing Constraints:** [[Foscarnet]] or [[Cidofovir]] can be utilized (often targeting the polymerase directly without needing thymidine kinase activation) for [[Acyclovir]]-resistant VZV strains.
 *   **Prophylaxis & Vaccine Protocols:**
     *   *Varicella Vaccine:* A live-attenuated virus vaccine (Oka strain) administered to children (often as part of the MMRV series) to prevent primary chickenpox.
     *   *Zoster Vaccine:* An adjuvanted subunit vaccine (gpE) is recommended for adults >50 years of age, and a live-attenuated vaccine (14 times more potent than the varicella vaccine) is recommended for adults >60 years of age to boost immunity and prevent shingles reactivation.

@@ -74,7 +74,7 @@ draft: false
 *   **Cell Culture & Assays:** Polyomaviruses are notoriously difficult to isolate and grow in routine tissue culture; thus, this method is rarely attempted for diagnostic purposes.
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Antiviral Targets & First-Line Agents:** There is no specific antiviral treatment approved exclusively for MCPyV. For polyomavirus reactivation, [[cidofovir]] may be helpful.
+*   **Antiviral Targets & First-Line Agents:** There is no specific antiviral treatment approved exclusively for MCPyV. For polyomavirus reactivation, [[Cidofovir]] may be helpful.
 *   **Resistance Mechanisms & Mutations:** N/A
 *   **Treatment Nuances & Timing Constraints:** The primary clinical management strategy for opportunistic polyomavirus disease is decreasing the immunosuppression responsible for allowing the virus to reactivate.
 *   **Prophylaxis & Vaccine Protocols:** There are currently no vaccines available for polyomaviruses. The ubiquitous nature of these viruses and the lack of a complete understanding of their transmission modes make preventing the primary infection highly unlikely.

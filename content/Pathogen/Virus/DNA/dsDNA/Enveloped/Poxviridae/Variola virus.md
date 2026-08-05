@@ -78,7 +78,7 @@ draft: false
 *   **Cell Culture & Assays:** Electron microscopy can identify the complex oval- or brick-shaped orthopoxvirus particles to differentiate them from other viral exanthems (like herpesviruses).
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Antiviral Targets & First-Line Agents:** No specific antiviral treatment is officially approved for routine smallpox therapy, but compounds such as [[cidofovir]] and [[ribavirin]] have demonstrated in vitro activity against all poxviruses and are considered for severe disease.
+*   **Antiviral Targets & First-Line Agents:** No specific antiviral treatment is officially approved for routine smallpox therapy, but compounds such as [[Cidofovir]] and [[ribavirin]] have demonstrated in vitro activity against all poxviruses and are considered for severe disease.
 *   **Resistance Mechanisms & Mutations:** N/A
 *   **Treatment Nuances & Timing Constraints:** Treatment is primarily supportive.
 *   **Prophylaxis & Vaccine Protocols:** The live attenuated vaccinia virus vaccine (an animal poxvirus that shares antigenic determinants with smallpox) provides highly effective cross-protection. The vaccine is stable, inexpensive, easy to administer, and leaves a characteristic scar indicating successful vaccination. The vaccine is contraindicated under nonemergency conditions for pregnant women and individuals with immunodeficiency, immunosuppression, malignancies, or eczema (due to the risk of severe localized or disseminated disease, such as eczema vaccinatum).

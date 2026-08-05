@@ -98,8 +98,8 @@ draft: false
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **Antiviral Targets & First-Line Agents:**
-    *   **Nucleos(t)ide Analogs (Reverse Transcriptase Inhibitors):** [[Tenofovir]] (TAF, TDF), [[entecavir]], [[lamivudine]], [[telbivudine]], [[adefovir]] dipivoxil, and [[famciclovir]]. These target the viral RNA-dependent DNA polymerase.
-    *   **Immunomodulators:** Pegylated [[Interferon alfa (AntiHepB)|interferon-alpha]] (IFN-α).
+    *   **Nucleos(t)ide Analogs (Reverse Transcriptase Inhibitors):** [[Tenofovir]] (TAF, TDF), [[entecavir]], [[lamivudine]], [[telbivudine]], [[adefovir]] dipivoxil, and [[Famciclovir]]. These target the viral RNA-dependent DNA polymerase.
+    *   **Immunomodulators:** Pegylated [[Pegylated Interferon-alpha|interferon-alpha]] (IFN-α).
 *   **Resistance Mechanisms & Mutations:** Genetic mutations in the viral polymerase can lead to resistance against nucleoside analogs (e.g., [[lamivudine]] resistance). Pre-core mutations can arise, resulting in viral variants that do not secrete HBeAg but continue to actively replicate and cause severe chronic disease (HBeAg-negative chronic hepatitis).
 *   **Treatment Nuances & Timing Constraints:** Antiviral regimens are typically administered for prolonged periods (1 year or more for antivirals, at least 4 months for IFN-α). Complete eradication is rare, but treatment suppresses replication and halts liver damage. Antiviral drugs may be administered specifically during the third trimester of pregnancy to minimize the risk of vertical transmission to the fetus.
 *   **Prophylaxis & Vaccine Protocols:**
