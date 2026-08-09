@@ -33,6 +33,9 @@ infective_stage: Metacyclic trypomastigote (passed in triatomine bug feces)
 diagnostic_stage: Trypomastigote (in acute blood/CSF) and Amastigote nests/colonies (in tissue biopsy); Serology (IgG) and PCR in chronic disease
 date: 2026-07-29
 draft: false
+tags:
+  - status/to-review
+reviewed_date:
 ---
 
 ### Trypanosoma cruzi

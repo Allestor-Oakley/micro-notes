@@ -25,6 +25,9 @@ infective_stage: Metacyclic promastigote
 diagnostic_stage: Intracellular amastigote (in skin/mucosal tissue) and Promastigote (in culture)
 date: 2026-07-29
 draft: false
+tags:
+  - status/to-review
+reviewed_date:
 ---
 
 ### Leishmania braziliensis
@@ -135,4 +138,4 @@ draft: false
     - Parasites are characteristically EXTREMELY SCARCE or ABSENT in histologic tissue sections of mucosal (MCL) lesions due to intense host Th1 cell-mediated tissue destruction; diagnosis relies on molecular PCR, serology, or Montenegro skin testing rather than finding amastigotes.
     - Unlike Old World cutaneous species (*L. major*, *L. tropica*) which rarely metastasize and often self-cure without systemic sequelae, *Leishmania braziliensis* carries a unique capacity to metastasize to mucosal cartilaginous tissues years or decades AFTER primary skin lesions have completely healed.
     - Localized topical or physical therapies (cryotherapy, topical [[Paromomycin]]) that are acceptable for Old World CL are STRONGLY DISCOURAGED as sole treatment for *L. braziliensis* CL because they do not eradicate systemic parasites, leaving the host vulnerable to late mucocutaneous relapse (espundia).
-    - While visceral leishmaniasis (*L. donovani*) is associated with [[T Cell|T-cell]] anergy and negative skin tests, mucocutaneous leishmaniasis (*L. braziliensis*) represents the opposite immunopathologic spectrum: a hyperactive Th1 cell-mediated response with strongly positive Montenegro skin tests and massive production of IFN-gamma and TNF-alpha.
+    - While visceral leishmaniasis (*[[Leishmania donovani|L. donovani]]*) is associated with [[T Cell|T-cell]] anergy and negative skin tests, mucocutaneous leishmaniasis (*L. braziliensis*) represents the opposite immunopathologic spectrum: a hyperactive Th1 cell-mediated response with strongly positive Montenegro skin tests and massive production of IFN-gamma and TNF-alpha.

@@ -26,6 +26,9 @@ infective_stage: Mature quadrinucleated cyst
 diagnostic_stage: Cyst (predominant in formed/soft stool) and Trophozoite (in liquid stool, duodenal aspirate/fluid/biopsy)
 date: 2026-07-29
 draft: false
+tags:
+  - status/reviewed
+reviewed_date: 2026-08-07
 ---
 
 ### Giardia lamblia
@@ -35,14 +38,14 @@ draft: false
 *   **Cyst / Oocyst Stage Features:** Oval, ellipsoidal, or sub-spherical environmentally resilient encysted stage measuring 8 to 19 µm in length (usual range 8 to 14 µm or 11 to 14 µm) by 7 to 10 µm in width. Enclosed by a smooth, colorless, refractive, thick, highly protective cyst wall. During fixation and dehydration, cytoplasm shrinks away from the cyst wall, producing a characteristic clear peritrophic "halo" space. Immature cysts contain 2 nuclei; mature cysts contain FOUR nuclei (quadrinucleated), which are typically clustered or localized near one pole. Internal structures include deep-staining median bodies (usually lying across longitudinal fibers), distinct longitudinal axonemes/fibers, and flagellar remnants. Encystment is a ~16-hour process divided into intracellular and extracellular phases, triggered by cholesterol starvation and glucosylceramide transferase activity, manifesting as cyst wall antigen protrusions/caplike structures on the membrane. Cysts remain viable in cold freshwater (4°C) for up to 3 months.
 *   **Intracellular Morphologies:** N/A. *Giardia lamblia* is an extracellular parasite that colonizes the luminal surface of the intestinal epithelium; it does not form intracellular developmental stages.
 *   **Locomotion Mechanics:** Active trophozoites exhibit a characteristic, rapid, fluttering, tumbling, or "falling-leaf" motility in fresh liquid stool wet mounts, propelled by the coordinated beating of four pairs of flagella. In heavy mucus, motility may be limited to a slight flagellar flutter. Cysts are completely non-motile.
-
+![[P-Giardia Lamblia Trophozoite Anatomy.png]]
 #### Lifecycle & Transmission
 *   **Definitive Host:** Humans and a broad range of domestic, farm, and wild animals (beavers, muskrats, cattle, sheep, goats, pigs, horses, dogs, cats, deer, rodents, non-human primates, and birds/reptiles). Genotypes are divided into assemblages, with Assemblages A and B primary in humans.
 *   **Intermediate Host & Vector Dynamics:** None required (monoxenous life cycle). Mechanical transport of cysts from feces to human food or water can be mediated by synanthropic filth flies (*[[Houseflies|Musca domestica]]*) and cockroaches.
 *   **Transmission Route:** Fecal-oral route through ingestion of infective cysts present in fecally contaminated drinking water, surface water (lakes, streams, rivers), recreational water (swimming pools, water parks, ski resorts), unwashed raw fruits/vegetables, direct person-to-person contact (day-care centers, nurseries, orphanages, residential care facilities), and direct oral-anal sexual practices (anilingus).
 *   **Infective Stage & Portal of Entry:** Ingestion of mature, fully sporulated quadrinucleated cysts via the mouth into the gastrointestinal tract. Highly infectious: an infective dose of as few as 10 to 100 cysts can initiate human infection. Following gastric passage, exposure to stomach acid and duodenal digestive enzymes (trypsin, pancreatic enzymes) triggers excystation in the duodenum, releasing two viable trophozoites per ingested cyst.
 *   **Diagnostic Stage & Specimen Source:** Cysts (predominantly recovered in formed or soft stools) and Trophozoites (recovered in fresh liquid, diarrheic stools, duodenal aspirates/drainage, Entero-Test string capsule fluid, and jejunal/duodenal mucosal biopsy material or brush cytology).
-
+![[P-Giardia Lamblia Life Cycle.png]]
 #### Pathogenesis & Host Immune Evasion
 *   **Tissue Tropism & Cellular Invasion:** Strict tropism for the mucosal epithelial surface (brush border) of the upper small intestine, specifically the duodenum and proximal jejunum, where organisms reside in the mucosal crypts. Non-invasive under baseline conditions; tissue invasion is extremely rare and limited to areas of pre-existing mucosal necrosis or mechanical trauma.
 *   **Cytopathic Effects & Tissue Destruction:** Attachment via the ventral sucking disk (microtubule-based suction) combined with lectin binding induces mechanical damage and localized low-grade inflammation: villous atrophy, blunting, or flattening; crypt hypertrophy; vacuolization of enterocytes; loss of the microvillous brush border; and enterocyte apoptosis. Disruption of microvillar disaccharidases (lactase, maltase, sucrase) causes severe osmotic and malabsorptive diarrhea, steatorrhea, and impaired absorption of fats, D-xylose, levothyroxine, and vitamin B12. Alters host gut microbiome composition and diversity.

@@ -2,11 +2,6 @@
 aliases:
   - Non-Nucleoside Reverse Transcriptase Inhibitors
   - NNRTIs
-  - Nevirapine
-  - Efavirenz
-  - Delavirdine
-  - Etravirine
-  - Rilpivirine
 antimicrobial_class:
   - Direct-Acting Antivirals
   - Non-Nucleoside Reverse Transcriptase Inhibitors

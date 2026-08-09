@@ -29,6 +29,9 @@ infective_stage: Metacyclic trypomastigote
 diagnostic_stage: Trypomastigote (slender, stumpy, or intermediate bloodstream forms in blood, lymph node aspirate, chancre aspirate, or CSF)
 date: 2026-07-29
 draft: false
+tags:
+  - status/to-review
+reviewed_date:
 ---
 
 ### Trypanosoma brucei
@@ -100,7 +103,7 @@ draft: false
     - Fly Biting Behavior: [[Tsetse flies]] (*Glossina* spp.) are day-biting insects attracted to movement, dark colors (especially dark blue and black), and vehicle dust/exhaust. Both male and female [[tsetse flies]] take blood meals and transmit infection.
 *   **Public Health & Isolation:**
     - Biosafety: High-risk BSL-2 / BSL-3 laboratory pathogen. Live trypomastigotes in blood, tissue aspirates, CSF, or cultures represent a severe laboratory infection hazard via accidental needle-stick or mucous membrane contamination. Blood-borne pathogen precautions, closed centrifuge tubes, gloves, and safety needles are required.
-    - Public Health Controls: WHO HAT Elimination Strategy; mobile field survey units utilizing CATT screening; systematic active case detection and treatment; tsetse vector control using insecticide-impregnated blue/black cloth traps, targets, ground/aerial spraying, and the Sterile Insect Technique (SIT).
+	    - Public Health Controls: WHO HAT Elimination Strategy; mobile field survey units utilizing CATT screening; systematic active case detection and treatment; tsetse vector control using insecticide-impregnated blue/black cloth traps, targets, ground/aerial spraying, and the Sterile Insect Technique (SIT).
 
 #### Advanced Laboratory Diagnostics
 *   **Microscopy & Stains:**

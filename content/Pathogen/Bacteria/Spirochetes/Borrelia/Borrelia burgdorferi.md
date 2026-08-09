@@ -79,7 +79,7 @@ draft: false
 
 #### Epidemiology & Transmission
 *   **Reservoir:** The white-footed mouse is the primary reservoir and host for the larval and nymphal forms of the tick. The white-tailed deer serves as a host for adult ticks.
-*   **Transmission Route:** Zoonotic vector-borne transmission via the bite of infected hard ticks of the genus Ixodes. The nymphal stage (about the size of a poppy seed, ~2 mm) is responsible for most human infections because it is small and easily goes unnoticed.
+*   **Transmission Route:** Zoonotic vector-borne transmission via the bite of infected [[hard ticks]] of the genus Ixodes. The nymphal stage (about the size of a poppy seed, ~2 mm) is responsible for most human infections because it is small and easily goes unnoticed.
 *   **Endemic Regions & Outbreaks:** Temperate zones of the Northern Hemisphere. In the United States, it is highly prevalent in the Northeast, Midwest, and West Coast. In Europe and Asia, it is also highly endemic (with Borrelia afzelii and Borrelia garinii co-circulating). Most cases occur from June through August when nymphal ticks feed. The geographic spread parallels the explosive growth of the white-tailed deer population.
 *   **Public Health & Isolation:** Lyme disease is the most prevalent arthropod-transmitted infection in the USA and Europe. The CDC defines Lyme disease clinically by the presence of erythema migrans or at least one late manifestation (musculoskeletal, nervous system, or cardiovascular) coupled with laboratory confirmation.
 

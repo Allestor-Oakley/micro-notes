@@ -30,6 +30,9 @@ infective_stage: Metacyclic promastigote
 diagnostic_stage: Intracellular amastigote (Leishman-Donovan body) in skin scrapings/biopsy/aspirate and Promastigote in culture
 date: 2026-07-29
 draft: false
+tags:
+  - status/to-review
+reviewed_date:
 ---
 
 ### Leishmania tropica

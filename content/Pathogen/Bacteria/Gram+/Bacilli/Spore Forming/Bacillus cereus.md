@@ -52,7 +52,7 @@ draft: false
 #### Virulence Factors & Genetics
 *   **Secretion Systems:** N/A
 *   **Exotoxins:**
-    *   **Toxin Name:** Emetic Toxin
+    *   **Toxin Name:** Emetic Toxin (Cereulide)
     *   **Mechanism of Action:** A heat-stable, plasmid-encoded preformed cyclic peptide that causes the emetic form of food poisoning (nausea and vomiting).
     *   **Toxin Name:** Enterotoxins
     *   **Mechanism of Action:** Three possible heat-labile enterotoxins induce fluid accumulation and other physiological responses in the small intestine, causing the diarrheal form of food poisoning.
