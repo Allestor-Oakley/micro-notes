@@ -29,7 +29,6 @@ diagnostic_stage: Thick-walled sporulated oocyst
 date: 2026-07-29
 draft: false
 ---
-
 ### Cryptosporidium spp.
 
 #### Protozoan Biology & Microscopic Morphology
