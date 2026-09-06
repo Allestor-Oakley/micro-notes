@@ -60,8 +60,8 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is acquired via the fecal-oral route through ingestion of contaminated food or water. The bacteria invade the intestinal mucosa by attaching to and passing through M cells located in Peyer patches, facilitated by SPI-1 effectors. This induces an intense mucosal inflammatory response with polymorphonuclear neutrophil infiltration, which helps the bacteria out-compete the gut microbiome and stimulates diarrhea to enable onward transmission.
-*   **Intracellular vs Extracellular Survival:** Facultative intracellular pathogen. After crossing the intestinal epithelium, the organisms are engulfed by [[Macrophage|macrophages]]. They are able to survive and multiply within these phagocytic cells and can disseminate systemically to the liver, [[spleen]], and [[bone marrow]].
-*   **Immune Evasion Strategies:** The SPI-2 T3SS allows the bacteria to evade the phagocyte NADPH oxidase, ensuring survival and replication within the [[macrophage]].
+*   **Intracellular vs Extracellular Survival:** Facultative intracellular pathogen. After crossing the intestinal epithelium, the organisms are engulfed by [[Macrophage|macrophages]]. They are able to survive and multiply within these phagocytic cells and can disseminate systemically to the liver, [[Spleen]], and [[Bone Marrow]].
+*   **Immune Evasion Strategies:** The SPI-2 T3SS allows the bacteria to evade the phagocyte NADPH oxidase, ensuring survival and replication within the [[Macrophage]].
 *   **Host Defense & Immunodeficiency Links:** While NTS usually causes localized enterocolitis in immunocompetent hosts, it is a leading cause of severe invasive bacterial disease in immunocompromised individuals. It has emerged as a massive clinical burden in adults with [[HIV]], and in children with concurrent [[Plasmodium sp.]], malnutrition, and [[HIV]] in sub-Saharan Africa. Reduced gastric acid levels also significantly increase the risk of establishing infection.
 
 #### Clinical Syndromes

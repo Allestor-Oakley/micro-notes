@@ -57,12 +57,12 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** N/A
 *   **Intracellular vs Extracellular Survival:** Can be found both intracellularly and extracellularly in host tissues. It survives and accumulates prominently within host [[Macrophage|macrophages]].
-*   **Immune Evasion Strategies:** Infection leads to a prominent [[macrophage]] infiltration and massive glycoprotein deposition. The bacteria exist within characteristic vacuoles inside the [[Macrophage|macrophages]], altering the host cell's morphology.
+*   **Immune Evasion Strategies:** Infection leads to a prominent [[Macrophage]] infiltration and massive glycoprotein deposition. The bacteria exist within characteristic vacuoles inside the [[Macrophage|macrophages]], altering the host cell's morphology.
 *   **Host Defense & Immunodeficiency Links:** N/A
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Whipple disease. This presents clinically as a malabsorption disease typically characterized by fever, abdominal pain, diarrhea, severe weight loss, and migratory polyarthralgia.
-*   **Secondary, Atypical & Alternate Presentations:** The infection is capable of systemic spread beyond the gastrointestinal tract and mesenteric [[lymph nodes]], potentially affecting any organ. Notable secondary manifestations include severe musculoskeletal, neurologic, cardiac, and ophthalmic complications.
+*   **Secondary, Atypical & Alternate Presentations:** The infection is capable of systemic spread beyond the gastrointestinal tract and mesenteric [[Lymph Nodes]], potentially affecting any organ. Notable secondary manifestations include severe musculoskeletal, neurologic, cardiac, and ophthalmic complications.
 *   **Incubation Period:** N/A
 *   **Pathognomonic Signs:** The presence of "foamy [[Macrophage|macrophages]]" ([[Macrophage|macrophages]] packed with characteristic vacuoles containing PAS-positive intracellular and extracellular bacilli) observed in histological sections (e.g., a small bowel biopsy).
 *   **Complications & Sequelae:** Can cause chronic and progressive multiorgan disease if left undiagnosed and untreated.

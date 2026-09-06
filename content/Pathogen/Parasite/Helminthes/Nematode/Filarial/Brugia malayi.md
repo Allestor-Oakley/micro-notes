@@ -48,7 +48,7 @@ draft: false
 #### Helminth Anatomy & Ova Morphology
 *   **Adult Worm Morphology & Attachment Structures:**
     - Size & Morphology: Long, thin, thread-like filarial roundworms residing in the lymphatic system. Adult females measure approximately 50 to 100 mm in length by 0.13 to 0.17 mm in width; adult males are smaller, measuring 20 to 30 mm in length by 0.07 to 0.10 mm in width.
-    - Attachment & Cuticle: Possess a smooth cuticle lacking prominent external longitudinal ridges. Lacks specialized attachment organs (suckers or hooks); maintains position within afferent lymphatics and [[lymph nodes]] via body tone and serpentine movement against lymph flow.
+    - Attachment & Cuticle: Possess a smooth cuticle lacking prominent external longitudinal ridges. Lacks specialized attachment organs (suckers or hooks); maintains position within afferent lymphatics and [[Lymph Nodes]] via body tone and serpentine movement against lymph flow.
     - Endosymbiont Presence: Harbors obligate intracellular bacterial endosymbionts belonging to the genus *Wolbachia* (Rickettsia-like, maternally inherited alphaproteobacteria) within its lateral cords and reproductive organs. Normal worm metabolism, embryogenesis, and survival depend strictly on *Wolbachia*.
 *   **Ova / Egg Microscopic Features:**
     - Ovoviviparous Reproduction: Adult female worms do not release thick-shelled unembryonated eggs into the host. Instead, eggs develop within the female uterine tract where the outer egg membrane stretches and thins out to form a delicate, transparent, flexible sheath enclosing the fully formed microfilaria.
@@ -77,7 +77,7 @@ draft: false
     - Vector-Borne Transmission: Inoculation of infective third-stage larvae (L3) during the blood meal of an infected female [[Mosquitoes|mosquito]].
     - Penetration Mechanics: As the [[Mosquitoes|mosquito]] feeds, L3 larvae emerge from the mosquito proboscis onto the host skin surface and actively crawl into the bite puncture wound.
 *   **Intra-Host Larval Migration Pathway:**
-    - Human Lymphatic Migration: Injected L3 larvae penetrate the dermis, enter cutaneous lymphatic capillaries, and migrate to regional [[lymph nodes]] and major afferent lymphatic vessels (primarily in the lower limbs).
+    - Human Lymphatic Migration: Injected L3 larvae penetrate the dermis, enter cutaneous lymphatic capillaries, and migrate to regional [[Lymph Nodes]] and major afferent lymphatic vessels (primarily in the lower limbs).
     - Maturation: Larvae undergo two molts inside host lymphatics over 3 to 12 months, developing into sexually mature adult male and female filarial worms.
     - Circulation of Microfilariae: Fertilized female worms release sheathed microfilariae into lymphatic fluid; microfilariae pass through regional lymph nodes into the thoracic duct and enter systemic blood circulation.
     - Vector Life Cycle: Feeding [[mosquitoes]] ingest circulating microfilariae from human peripheral blood. Ingested microfilariae shed their sheaths, penetrate the [[Mosquitoes|mosquito]] midgut wall, migrate to thoracic flight muscles, and undergo two developmental molts (L1 -> L2 -> L3) over 10 to 14 days before migrating to the [[Mosquitoes|mosquito]] salivary structure/proboscis.
@@ -96,7 +96,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - N/A
 *   **Immune Evasion Strategies:**
-    - [[T Cell|T-Cell]] Hyporesponsiveness / Anergy: Live adult worms secrete immunomodulatory molecules that upregulate host regulatory T-cell (Treg) activity and suppressive cytokines (IL-10, TGF-beta), inducing antigen-specific T-cell hyporesponsiveness. This allows high microfilarial loads to persist silently in blood for years without triggering systemic inflammation.
+    - [[T-Cell|T-Cell]] Hyporesponsiveness / Anergy: Live adult worms secrete immunomodulatory molecules that upregulate host regulatory T-cell (Treg) activity and suppressive cytokines (IL-10, TGF-beta), inducing antigen-specific T-cell hyporesponsiveness. This allows high microfilarial loads to persist silently in blood for years without triggering systemic inflammation.
     - *Wolbachia* Symbiosis: *Wolbachia* endosymbionts regulate parasite gene expression and reproductive fitness while shielding the living worm from effective host clearing mechanisms.
 *   **Host Defense & Immunodeficiency Links:**
     - Inflammatory Cascade: *Wolbachia* bacteria released from dying worms bind host Toll-like receptors (TLR2 and TLR4), triggering massive release of pro-inflammatory cytokines (TNF-alpha, IL-1 beta, IL-6) that drive acute filarial fevers and lymphatic injury.
@@ -104,7 +104,7 @@ draft: false
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
-    - Acute Filarial Lymphangitis & Lymphadenitis: Characterized by episodic high fever, chills, headache, and painful inflammation of regional [[lymph nodes]] (inguinal and femoral lymphadenopathy).
+    - Acute Filarial Lymphangitis & Lymphadenitis: Characterized by episodic high fever, chills, headache, and painful inflammation of regional [[Lymph Nodes]] (inguinal and femoral lymphadenopathy).
     - Retrograde Lymphangitis: Inflammation spreads distally down the limb along the affected lymphatic vessel (retrograde / centrifugal spread), appearing as a red, painful, cord-like streak.
     - Filarial Abscesses: Frequent formation of painful, necrotic filarial abscesses along lymphatic tracts in the leg or forearm, which may break through the skin to form ulcerating lesions.
 *   **Chronic Intestinal or Tissue Presentation:**
@@ -144,7 +144,7 @@ draft: false
 *   **Serology & Tissue Biopsy Diagnostics:**
     - Microscopic Blood Film Examination (Gold Standard for Speciation): Examination of thick and thin blood films collected during peak microfilarial periodicity (10 PM to 2 AM for nocturnal periodic strains). Stained with Giemsa, Wright's, or Field's stain to identify sheathed microfilariae with two terminal tail nuclei and a 2:1 cephalic space.
     - Antibody & Rapid Serological Tests: Enzyme-Linked Immunosorbent Assay (ELISA) and rapid immunochromatographic cassette tests detecting anti-filarial IgG4 antibodies (e.g., Brugia Rapid test) in serum or blood.
-    - Histopathology & Biopsy: Hematoxylin and Eosin (H&E) staining of resected [[lymph nodes]] reveals adult filarial worms inside dilated lymphatic lumens surrounded by intense eosinophilic infiltrates, epithelioid granulomas, foreign-body giant cells, and perilymphatic fibrosis. Diagnostic biopsy is generally discouraged due to the risk of precipitating acute lymphatic disruption.
+    - Histopathology & Biopsy: Hematoxylin and Eosin (H&E) staining of resected [[Lymph Nodes]] reveals adult filarial worms inside dilated lymphatic lumens surrounded by intense eosinophilic infiltrates, epithelioid granulomas, foreign-body giant cells, and perilymphatic fibrosis. Diagnostic biopsy is generally discouraged due to the risk of precipitating acute lymphatic disruption.
     - Molecular Diagnostics (PCR): Species-specific Polymerase Chain Reaction (PCR) assays targeting *Brugia malayi* repeat DNA sequences (e.g., HhaI repetitive family) provide high sensitivity and specificity in blood or [[Mosquitoes|mosquito]] vectors.
 *   **Imaging Findings:**
     - High-Resolution Doppler Ultrasonography: Visualizes dilated, tortuous lymphatic vessels in the groin or thigh containing motile, thrashing adult filarial worms ("filarial dance sign").

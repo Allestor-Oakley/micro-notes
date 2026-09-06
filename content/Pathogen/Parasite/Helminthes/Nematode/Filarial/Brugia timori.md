@@ -39,7 +39,7 @@ draft: false
 #### Helminth Anatomy & Ova Morphology
 *   **Adult Worm Morphology & Attachment Structures:**
     - Size & Morphology: Long, thin, thread-like filarial roundworm residing in the human lymphatic system. Adult females measure approximately 50 to 80 mm in length by 0.10 to 0.15 mm in width; adult males are smaller, measuring 20 to 30 mm in length by 0.07 to 0.08 mm in width.
-    - Cuticle & Attachment: Possesses a delicate, smooth cuticle lacking prominent external longitudinal ridges. Lacks specialized attachment structures (suckers or hooks); maintains position within lymphatic vessels and regional [[lymph nodes]] via body tone and serpentine motility against lymph flow.
+    - Cuticle & Attachment: Possesses a delicate, smooth cuticle lacking prominent external longitudinal ridges. Lacks specialized attachment structures (suckers or hooks); maintains position within lymphatic vessels and regional [[Lymph Nodes]] via body tone and serpentine motility against lymph flow.
     - Endosymbiont Presence: Harbors obligate intracellular bacterial endosymbionts belonging to the genus *Wolbachia* (Rickettsia-like, maternally inherited alphaproteobacteria) within its lateral cords and reproductive organs, essential for worm fertility and survival.
 *   **Ova / Egg Microscopic Features:**
     - Ovoviviparous Reproduction: Adult female worms do not deposit thick-shelled unembryonated eggs into host tissues. Eggs mature within the female uterine tract, where the outer egg membrane stretches and thins out to form a delicate, transparent sheath surrounding the fully formed microfilaria.
@@ -65,7 +65,7 @@ draft: false
     - Vector-Borne Transmission: Inoculation of infective third-stage larvae (L3) during the blood meal of an infected female *[[Mosquitoes|Anopheles]] barbirostris* [[Mosquitoes|mosquito]].
     - Penetration Mechanics: As the [[Mosquitoes|mosquito]] feeds, L3 larvae emerge from the [[Mosquitoes|mosquito]] proboscis onto the skin surface and actively migrate into the bite puncture wound.
 *   **Intra-Host Larval Migration Pathway:**
-    - Human Lymphatic Migration: Inoculated L3 larvae penetrate the dermis, enter lymphatic capillaries, and migrate to afferent lymphatic channels and regional [[lymph nodes]] (primarily in the lower extremities).
+    - Human Lymphatic Migration: Inoculated L3 larvae penetrate the dermis, enter lymphatic capillaries, and migrate to afferent lymphatic channels and regional [[Lymph Nodes]] (primarily in the lower extremities).
     - Maturation: Larvae undergo two molts inside host lymphatics over 3 to 12 months to develop into sexually mature adult male and female filarial worms.
     - Microfilaria Circulation: Fertilized female adult worms release sheathed microfilariae into lymphatic fluid, which pass through regional nodes into the thoracic duct to enter systemic blood circulation.
     - [[Mosquitoes|Mosquito]] Cycle: Feeding *[[Mosquitoes|Anopheles]] barbirostris* [[mosquitoes]] ingest circulating microfilariae from peripheral blood at night. Ingested larvae exsheath, cross the midgut wall, migrate to thoracic muscles, undergo two molts (L1 -> L2 -> L3) over 10 to 14 days, and migrate to the [[Mosquitoes|mosquito]] proboscis.
@@ -91,7 +91,7 @@ draft: false
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
-    - Acute Filarial Lymphangitis & Lymphadenitis: Characterized by recurrent high fever, chills, headache, and painful inflammation of regional [[lymph nodes]] (inguinal and femoral lymphadenopathy).
+    - Acute Filarial Lymphangitis & Lymphadenitis: Characterized by recurrent high fever, chills, headache, and painful inflammation of regional [[Lymph Nodes]] (inguinal and femoral lymphadenopathy).
     - Retrograde Lymphangitis: Red, painful, inflammatory streaks spreading distally down the leg along affected lymphatic vessels.
     - Suppurative Filarial Abscesses (Characteristic Hallmark): High incidence of painful, necrotic filarial abscesses forming along lymphatic tracts in the thigh and lower leg, which frequently ulcerate through the skin and drain purulent material.
 *   **Chronic Intestinal or Tissue Presentation:**
@@ -131,7 +131,7 @@ draft: false
       - Identifies microfilariae measuring 290–325 μm with a 3:1 cephalic space ratio.
       - Key Diagnostic Differentiation: The sheath of *Brugia timori* remains colorless/unstained on Giemsa, whereas *[[Brugia malayi]]* sheaths stain bright pinkish-purple.
     - Rapid Serological Tests: Immunochromatographic cassette tests and ELISAs detecting anti-filarial IgG4 antibodies (e.g., Brugia Rapid test) in serum or blood.
-    - Histopathology & Biopsy: Biopsy of resected [[lymph nodes]] or abscess wall sections stained with H&E reveals adult filarial worms inside dilated lymphatic lumens surrounded by intense eosinophilic infiltrates, suppurative necrosis, and granulomatous tissue.
+    - Histopathology & Biopsy: Biopsy of resected [[Lymph Nodes]] or abscess wall sections stained with H&E reveals adult filarial worms inside dilated lymphatic lumens surrounded by intense eosinophilic infiltrates, suppurative necrosis, and granulomatous tissue.
     - Molecular Diagnostics (PCR): Species-specific Polymerase Chain Reaction (PCR) assays targeting *Brugia timori* repeat DNA sequences provide rapid differentiation from *[[Brugia malayi]]* and *[[Wuchereria bancrofti]]*.
 *   **Imaging Findings:**
     - High-Resolution Doppler Ultrasonography: Visualizes dilated, tortuous lymphatic vessels in the groin or leg containing motile, thrashing adult filarial worms ("filarial dance sign").

@@ -77,7 +77,7 @@ draft: false
     *   **Bacteremia and Septicemia:** Associated with the *S. mitis* group in neutropenic patients, and the *S. bovis* group (specifically *S. gallolyticus* subsp. *gallolyticus*), which is highly correlated with gastrointestinal malignancies/colon cancer.
     *   **Meningitis:** Caused by the *S. mitis* group, *S. gallolyticus* subsp. *pasteurianus*, and *S. suis*.
 *   **Incubation Period:** N/A
-*   **Pathognomonic Signs:** In subacute endocarditis, the clinical picture is gradual, presenting with fever, anemia, weakness, a heart murmur, embolic phenomena, an enlarged [[spleen]], and renal lesions, strongly suggested by repeatedly positive blood cultures.
+*   **Pathognomonic Signs:** In subacute endocarditis, the clinical picture is gradual, presenting with fever, anemia, weakness, a heart murmur, embolic phenomena, an enlarged [[Spleen]], and renal lesions, strongly suggested by repeatedly positive blood cultures.
 *   **Complications & Sequelae:** Without antibiotic treatment, subacute endocarditis is invariably fatal. Vegetations consist of fibrin, platelets, blood cells, and bacteria adherent to the valve leaflets, which can result in fatal cardiac failure, valvular regurgitation, or embolic phenomena.
 
 #### Epidemiology & Transmission

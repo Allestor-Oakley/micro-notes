@@ -66,7 +66,7 @@ draft: false
 *   **Mechanical Obstruction:** N/A
 *   **Nutritional Depletion & Anemia:** Heavy fluke burdens cause persistent mucous diarrhea, fluid loss, abdominal pain, fatigue, and malabsorption.
 *   **Immune Evasion Strategies:** N/A
-*   **Host Defense & Immunodeficiency Links:** Pathogenesis in the intestinal lumen is driven by localized mucosal cell infiltration (eosinophils, lymphocytes, [[Plasma Cell|plasma cells]]); severe systemic disease correlates with heavy fluke burdens and mucosal vascular breaching.
+*   **Host Defense & Immunodeficiency Links:** Pathogenesis in the intestinal lumen is driven by localized mucosal cell infiltration (eosinophils, lymphocytes, [[Plasma Cell & Memory B Cell|plasma cells]]); severe systemic disease correlates with heavy fluke burdens and mucosal vascular breaching.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:** N/A (Metacercariae excyst and mature directly within the small intestine without a mandatory extra-intestinal tissue migration phase).

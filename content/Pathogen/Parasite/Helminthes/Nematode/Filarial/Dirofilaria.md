@@ -91,7 +91,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - N/A
 *   **Immune Evasion Strategies:**
-    - Incomplete Evasion in Non-Accustomed Host: Unlike natural filarial parasites of humans that actively suppress host [[T Cell|T-cell]] immunity to survive for decades, *Dirofilaria* species cannot properly evade the human immune system; larvae are rapidly recognized as foreign, attacked by host inflammatory cells, and killed before reaching reproductive maturity.
+    - Incomplete Evasion in Non-Accustomed Host: Unlike natural filarial parasites of humans that actively suppress host [[T-Cell|T-cell]] immunity to survive for decades, *Dirofilaria* species cannot properly evade the human immune system; larvae are rapidly recognized as foreign, attacked by host inflammatory cells, and killed before reaching reproductive maturity.
 *   **Host Defense & Immunodeficiency Links:**
     - Granulomatous Reaction: Death of the worm releases parasitic somatic antigens and endosymbiotic *Wolbachia* surface molecules, triggering a dense Th2/eosinophilic and foreign-body giant-cell granulomatous reaction that sequesters the decaying worm inside a firm fibrous shell.
     - Immunocompromised Hosts: In severely immunocompromised or [[HIV]]-infected hosts, impaired cellular immunity may allow rare survival or increased growth of adult worms.

@@ -71,7 +71,7 @@ draft: false
         - **NS1:** A secreted and membrane-bound glycoprotein that is highly significant in pathogenesis. It protects the virus from complement- and lectin-mediated neutralization by binding to C4b-binding protein (C4bp). Soluble NS1 directly binds to heparan sulfate and chondroitin sulfate E in the host endothelial glycocalyx, inducing host sialidases and heparinase to disrupt the glycocalyx, triggering cytokine-independent capillary leakage and vascular hyperpermeability.
         - **NS2A:** Small hydrophobic protein involved in viral RNA replication and assembly (N/A for other specific functions in sources).
         - **NS2B:** Hydrophobic protein that acts as an essential cofactor for the NS3 protease.
-        - **NS3:** Multifunctional protein possessing serine protease activity (with NS2B), RNA helicase, and NTPase activities. It is an immunodominant target for cell-mediated immunity; CD8+ [[T Cell|T-cell]] responses in DHF are most marked against NS3 (characterized by high cytokine release and low CD107a degranulation).
+        - **NS3:** Multifunctional protein possessing serine protease activity (with NS2B), RNA helicase, and NTPase activities. It is an immunodominant target for cell-mediated immunity; CD8+ [[T-Cell|T-cell]] responses in DHF are most marked against NS3 (characterized by high cytokine release and low CD107a degranulation).
         - **NS4A:** Non-structural protein involved in replication complex assembly and ER membrane remodeling (N/A for other details in sources).
         - **NS4B:** Membrane-anchored protein involved in replication and immune escape ; represents a promising target for novel therapeutic small molecule inhibitors.
         - **NS5:** The largest non-structural protein; functions as the RNA-dependent RNA polymerase (RdRp) to replicate the genome, and possesses methyltransferase activity for applying 5' caps.
@@ -80,7 +80,7 @@ draft: false
 *   **Attachment, Host Receptors & Tropism:**
     - **Attachment:** The E glycoprotein binds to receptors on the host cell surface.
     - **Host Receptors:** Primary attachment is to receptors expressed on myeloid cells. In the presence of sub-neutralizing concentrations of cross-reactive antibodies, entry is mediated via host cell Fcγ receptors (FcγR), which enhances viral uptake 200- to 1000-fold. The E protein also interacts with cell-surface glycosaminoglycans like heparan sulfate.
-    - **Tropism:** Strictly tropic for cells of the [[monocyte]]-[[macrophage]] lineage, including [[Dendritic Cell|dendritic cells]], [[Monocyte|monocytes]], and [[Macrophage|macrophages]]. Also exhibits tropism for capillary endothelial cells.
+    - **Tropism:** Strictly tropic for cells of the [[Monocyte]]-[[Macrophage]] lineage, including [[Dendritic Cell|dendritic cells]], [[Monocyte|monocytes]], and [[Macrophage|macrophages]]. Also exhibits tropism for capillary endothelial cells.
 *   **Entry Mechanism:**
     - Enters the host cell via receptor-mediated endocytosis into clathrin-coated vesicles.
     - Employs Antibody-Dependent Enhancement (ADE) in secondary infections, utilizing pre-existing heterologous non-neutralizing antibodies to bind Fcγ receptors on macrophages, bypassing standard extracellular neutralization and dramatically increasing internalizing efficiency.
@@ -111,8 +111,8 @@ draft: false
     - **ADE (Antibody-Dependent Enhancement):** Uses sub-neutralizing heterologous antibodies from a prior infection to facilitate entry into FcγR-bearing host cells ([[Macrophage|macrophages]]/[[Monocyte|monocytes]]), effectively shielding the virus from extracellular neutralization and increasing intracellular replication.
     - **Intracellular Replication Compartments:** Replication occurs within ER-derived membrane vesicles ("replication organelles") that sequester viral dsRNA intermediates, shielding them from cytoplasmic pattern recognition receptors (PRRs like RIG-I and MDA5) and avoiding interferon induction.
 *   **Host Defense & Immunodeficiency Links:**
-    - **Host Defense:** Type I Interferons (IFN-α/β) and [[T Cell|T-cell]]-mediated cellular immunity are critical for primary viral clearance. Neutralizing antibodies (directed against E glycoprotein) provide lifelong serotype-specific protection.
-    - **ADE-associated Immunopathology:** A secondary infection with a heterologous serotype in the presence of sub-neutralizing, cross-reactive IgG antibodies drives ADE, leading to a massive "cytokine storm". Pre-sensitized cross-reactive memory [[T Cell|T cells]] with low avidity for the current serotype (Original Antigenic Sin) proliferate rapidly and release massive quantities of TNF-α, IFN-γ, IL-6, and soluble IL-2 receptors.
+    - **Host Defense:** Type I Interferons (IFN-α/β) and [[T-Cell|T-cell]]-mediated cellular immunity are critical for primary viral clearance. Neutralizing antibodies (directed against E glycoprotein) provide lifelong serotype-specific protection.
+    - **ADE-associated Immunopathology:** A secondary infection with a heterologous serotype in the presence of sub-neutralizing, cross-reactive IgG antibodies drives ADE, leading to a massive "cytokine storm". Pre-sensitized cross-reactive memory [[T-Cell|T cells]] with low avidity for the current serotype (Original Antigenic Sin) proliferate rapidly and release massive quantities of TNF-α, IFN-γ, IL-6, and soluble IL-2 receptors.
     - This hyper-inflammatory response activates complement (releasing C3a and C5a anaphylatoxins and forming terminal SC5b-9 complexes). High levels of inflammatory cytokines and complement activation productively disrupt endothelial cells and vascular integrity.
 
 #### Clinical Syndromes
@@ -163,16 +163,16 @@ draft: false
 #### Advanced Laboratory Diagnostics
 *   **Histopathology & Inclusion Bodies:**
     - **Liver Pathology:** Focal necrosis of hepatocytes and Kupffer cells with the formation of Councilman-like bodies (acidophilic, apoptotic hepatocytes). Eosinophilic degeneration of hepatocytes.
-    - **Lymphoid Tissues:** Proliferation of reticuloendothelial cells with accelerated phagocytosis (erythrophagocytosis) ; active proliferation of [[Plasma Cell|plasma cells]] and lymphoblastoid cells in [[spleen]], [[thymus]], and [[lymph nodes]].
+    - **Lymphoid Tissues:** Proliferation of reticuloendothelial cells with accelerated phagocytosis (erythrophagocytosis) ; active proliferation of [[Plasma Cell & Memory B Cell|plasma cells]] and lymphoblastoid cells in [[Spleen]], [[Thymus]], and [[Lymph Nodes]].
     - **Vascular Changes:** Vasodilation, microvascular congestion, perivascular hemorrhage, and arterial wall edema.
     - **Antigen Localization:** Dengue viral antigen detectable by immunohistochemistry predominantly in splenic [[Macrophage|macrophages]], thymic cells, Kupffer cells, and lymph node sinusoidal lining cells.
     - **Inclusion Bodies:** N/A (Unlike herpesviruses or [[rabies]], dengue does not produce pathognomonic intracellular inclusion bodies like Negri bodies or Cowdry A bodies).
 *   **Molecular Testing:**
     - **RT-PCR (Reverse Transcriptase [[PCR]]):** The gold standard for rapid, highly sensitive identification and serotyping (DENV1–4) of viral RNA in acute-phase serum during the febrile/viraemic phase (typically days 1–5 after onset).
 *   **Serology & Seroconversion Windows:**
-    - **NS1 Antigen Capture [[ELISA]]:** Detects circulating non-structural protein 1 in serum. Highly useful for early diagnosis, as NS1 is detectable from day 1 of fever and remains positive for up to 9 days in both primary and secondary infections.
-    - **IgM Capture [[ELISA]] (MAC-ELISA):** Detects dengue-specific IgM antibodies, which develop within 3–5 days of illness onset, peak at 2 weeks, and remain detectable for up to 2–3 months.
-    - **IgG [[ELISA]]:** IgG antibodies appear around day 7 in primary infection and persist for life. In secondary infections, high-titer IgG is detectable rapidly in the acute phase (cross-reactive with other serotypes).
+    - **NS1 Antigen Capture [[Lab/Molecular and Immunological/ELISA]]:** Detects circulating non-structural protein 1 in serum. Highly useful for early diagnosis, as NS1 is detectable from day 1 of fever and remains positive for up to 9 days in both primary and secondary infections.
+    - **IgM Capture [[Lab/Molecular and Immunological/ELISA]] (MAC-ELISA):** Detects dengue-specific IgM antibodies, which develop within 3–5 days of illness onset, peak at 2 weeks, and remain detectable for up to 2–3 months.
+    - **IgG [[Lab/Molecular and Immunological/ELISA]]:** IgG antibodies appear around day 7 in primary infection and persist for life. In secondary infections, high-titer IgG is detectable rapidly in the acute phase (cross-reactive with other serotypes).
     - **Hemagglutination Inhibition (HI) Test:** Measures titers of neutralizing/cross-reactive antibodies; a four-fold or greater rise in antibody titer between paired acute and convalescent sera is diagnostic.
     - **Cross-Reactivity Challenges:** Serological assays show significant cross-reactivity with other flaviviruses (e.g., [[Zika virus|Zika]], [[Yellow fever virus|Yellow Fever]], [[West nile virus|West Nile]], [[Japanese encephalitis virus|Japanese Encephalitis]]). Epitope-blocking ELISAs or Neutralization (N) tests are required to confirm species-specific antibodies.
 *   **Cell Culture & Assays:**
@@ -205,7 +205,7 @@ draft: false
     - "Islands of white in a sea of red" (characteristic recovery rash).
     - "Tourniquet test" (clinical test for capillary fragility).
     - "ADE (Antibody-Dependent Enhancement)".
-    - "Original Antigenic Sin" ([[T Cell|T-cell]] skewing in secondary infection).
+    - "Original Antigenic Sin" ([[T-Cell|T-cell]] skewing in secondary infection).
     - "NS1 Antigen" (key diagnostic marker and pathogenic trigger).
     - "Councilman bodies" (apoptotic hepatocytes).
 *   **Exceptions to the Rule:**

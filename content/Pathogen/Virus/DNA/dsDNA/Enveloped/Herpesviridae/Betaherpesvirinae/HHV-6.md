@@ -44,7 +44,7 @@ draft: false
 *   **Structural & Non-Structural Proteins:** Encodes a viral DNA polymerase and many other proteins that are unnecessary for basic viral replication but are used to manipulate the host cell and immune response.
 
 #### Viral Replication Cycle
-*   **Attachment, Host Receptors & Tropism:** HHV-6 is highly T-lymphotropic, specifically utilizing CD4 [[T Cell|T cells]] and their precursor cells as hosts for replication. It also exhibits tropism for hematopoietic progenitor cells (HPC), [[Monocyte|monocytes]], epithelial cells, and neuronal cells.
+*   **Attachment, Host Receptors & Tropism:** HHV-6 is highly T-lymphotropic, specifically utilizing CD4 [[T-Cell|T cells]] and their precursor cells as hosts for replication. It also exhibits tropism for hematopoietic progenitor cells (HPC), [[Monocyte|monocytes]], epithelial cells, and neuronal cells.
 *   **Entry Mechanism:** N/A
 *   **Uncoating & Intracellular Trafficking:** N/A
 *   **Transcription & Translation Strategy:** N/A
@@ -52,7 +52,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Direct Cytopathic Effects:** Exhibits a long, lymphoproliferative growth cycle rather than a rapid cytolytic one.
-*   **Latent Infection & Reactivation Triggers:** Like all herpesviruses, HHV-6 establishes latent, persistent infections that last indefinitely in the host. Latency is primarily established in [[T Cell|T cells]], [[Monocyte|monocytes]], and hematopoietic progenitor cells. Reactivation typically occurs in patients who become immunocompromised.
+*   **Latent Infection & Reactivation Triggers:** Like all herpesviruses, HHV-6 establishes latent, persistent infections that last indefinitely in the host. Latency is primarily established in [[T-Cell|T cells]], [[Monocyte|monocytes]], and hematopoietic progenitor cells. Reactivation typically occurs in patients who become immunocompromised.
 *   **Oncogenesis Mechanisms:** N/A
 *   **Immune Evasion Strategies:** The virus has the unique capability of chromosomal integration, which facilitates its persistence.
 *   **Host Defense & Immunodeficiency Links:** The characteristic rash seen in clinical disease is not caused directly by viral cytopathology, but is instead an immunologically mediated rash. Immunocompromised patients are at risk for recurrent or severe disease.

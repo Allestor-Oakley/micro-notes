@@ -60,7 +60,7 @@ draft: false
 
 #### Helminth Anatomy & Ova Morphology
 *   **Adult Worm Morphology & Attachment Structures:**
-    - Size & Habitat: Long, slender, thread-like filarial roundworms residing in human [[lymph nodes]], lymphatic ducts, and lymphatic channels distal to [[lymph nodes]]. Adult females measure 8 to 10 cm (80 to 100 mm) in length by 0.2 to 0.3 mm in width; adult males are smaller, measuring 3 to 4 cm (30 to 40 mm) in length by 0.1 mm in width.
+    - Size & Habitat: Long, slender, thread-like filarial roundworms residing in human [[Lymph Nodes]], lymphatic ducts, and lymphatic channels distal to [[Lymph Nodes]]. Adult females measure 8 to 10 cm (80 to 100 mm) in length by 0.2 to 0.3 mm in width; adult males are smaller, measuring 3 to 4 cm (30 to 40 mm) in length by 0.1 mm in width.
     - Cuticle & Body Features: Possesses a smooth cuticle lacking external longitudinal ridges or prominent cuticular bosses. Lacks specialized attachment organs (suckers or hooks); maintains position within afferent lymphatics via body muscle tone and serpentine motility against lymph drainage.
     - Endosymbiont Presence: Harbors obligate intracellular bacterial endosymbionts belonging to the genus *Wolbachia* (Rickettsia-like, maternally inherited alphaproteobacteria) within its lateral cords and reproductive organs. *Wolbachia* is essential for normal parasite metabolism, embryogenesis, larval development, and adult worm viability.
 *   **Ova / Egg Microscopic Features:**
@@ -91,8 +91,8 @@ draft: false
     - Vector-Borne Inoculation: Inoculation of infective third-stage larvae (L3) through human skin during the blood meal of an infected female [[Mosquitoes|mosquito]].
     - Penetration Mechanics: As the [[Mosquitoes|mosquito]] feeds, infective L3 larvae emerge from the tip of the [[Mosquitoes|mosquito]] proboscis onto the skin surface and actively migrate into the bite puncture wound.
 *   **Intra-Host Larval Migration Pathway:**
-    - Human Lymphatic Migration: Injected L3 larvae enter the dermis, penetrate cutaneous lymphatic capillaries, and migrate through regional afferent lymphatic channels to lodge in [[lymph nodes]] and major lymphatic vessels (primarily in the groin, lower extremities, upper extremities, and male spermatic cord/scrotum).
-    - Maturation & Reproduction: Larvae undergo two molts inside lymphatic vessels over 3 to 12 months to mature into adult male and female worms. Sexually active adult worms mate within lymphatic lumens. Fertilized female worms discharge sheathed microfilariae into lymphatic fluid; microfilariae travel through regional [[lymph nodes]] into the thoracic duct and enter systemic blood circulation.
+    - Human Lymphatic Migration: Injected L3 larvae enter the dermis, penetrate cutaneous lymphatic capillaries, and migrate through regional afferent lymphatic channels to lodge in [[Lymph Nodes]] and major lymphatic vessels (primarily in the groin, lower extremities, upper extremities, and male spermatic cord/scrotum).
+    - Maturation & Reproduction: Larvae undergo two molts inside lymphatic vessels over 3 to 12 months to mature into adult male and female worms. Sexually active adult worms mate within lymphatic lumens. Fertilized female worms discharge sheathed microfilariae into lymphatic fluid; microfilariae travel through regional [[Lymph Nodes]] into the thoracic duct and enter systemic blood circulation.
     - Insect Life Cycle: Feeding [[mosquitoes]] ingest circulating microfilariae from human peripheral blood during nocturnal feeding. Ingested microfilariae exsheath in the midgut, migrate to thoracic flight muscles, undergo two molts (L1 -> L2 -> L3) over 10 to 14 days, and migrate to the [[Mosquitoes|mosquito]] head/proboscis.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Sheathed microfilariae (240–300 μm long, nuclear-free tail tip, nocturnal periodicity) in peripheral night blood; or Circulating Filarial Antigen (CFA) in daytime blood.
@@ -109,7 +109,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - Chronic protein loss occurs in patients presenting with persistent, heavy chyluria due to loss of lymph protein and lipids in urine.
 *   **Immune Evasion Strategies:**
-    - [[T Cell|T-Cell]] Hyporesponsiveness / Anergy: Live adult worms release excretory-secretory products that induce antigen-specific CD4+ [[T Cell|T-cell]] hyporesponsiveness, upregulate host regulatory [[T Cell|T-cell]] (Treg) and regulatory [[B Cell|B-cell]] (Breg) activity, and drive high production of suppressive cytokines (IL-10 and TGF-beta). This allows high microfilarial loads to persist silently in blood for years without systemic inflammation.
+    - [[T-Cell|T-Cell]] Hyporesponsiveness / Anergy: Live adult worms release excretory-secretory products that induce antigen-specific CD4+ [[T-Cell|T-cell]] hyporesponsiveness, upregulate host regulatory [[T-Cell|T-cell]] (Treg) and regulatory [[B Cell|B-cell]] (Breg) activity, and drive high production of suppressive cytokines (IL-10 and TGF-beta). This allows high microfilarial loads to persist silently in blood for years without systemic inflammation.
     - *Wolbachia* Endosymbiosis: Endosymbiotic *Wolbachia* regulates worm development, survival, and reproductive fitness while helping modulate host cellular immune responses.
 *   **Host Defense & Immunodeficiency Links:**
     - Inflammatory Response: Bacterial endosymbionts (*Wolbachia*) liberated from dying worms bind host TLR2/TLR4, triggering massive release of pro-inflammatory cytokines (TNF-alpha, IL-1 beta, IL-6) responsible for acute filarial fevers, lymphangitis, and lymphedema flares.
@@ -117,7 +117,7 @@ draft: false
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:**
-    - Acute Filarial Lymphangitis (AFL) & Lymphadenitis: Characterized by episodic high fever, chills, headache, and painful, tender swelling of regional [[lymph nodes]] (inguinal, femoral, axillary, or epitrochlear).
+    - Acute Filarial Lymphangitis (AFL) & Lymphadenitis: Characterized by episodic high fever, chills, headache, and painful, tender swelling of regional [[Lymph Nodes]] (inguinal, femoral, axillary, or epitrochlear).
     - Retrograde Lymphangitis: Inflammatory reaction spreads distally down the extremity along affected lymphatic channels (retrograde / centrifugal spread), presenting as a painful, erythematous, cord-like streak.
     - Acute Filarial Orchitis & Epididymitis: Painful inflammatory swelling of the scrotum, spermatic cord, and epididymis.
 *   **Chronic Intestinal or Tissue Presentation:**
@@ -165,7 +165,7 @@ draft: false
       - Microplate ELISA (TropBio / CELISA): Quantitative ELISA measuring serum CFA levels. Does NOT require nocturnal blood collection.
     - Anti-Filarial Antibody Detection: Antifilarial IgG and IgG4 ELISAs detect anti-filarial antibodies in serum, serving a supportive role (cross-reactivity with other helminths occurs).
     - Molecular Diagnostics (PCR / NAAT): Polymerase Chain Reaction (PCR) and PCR-RFLP targeting small subunit ribosomal RNA (18S rRNA) or SspI repeat sequences provide exquisite species identification in human blood or vector [[mosquitoes]].
-    - Histopathology & Biopsy: H&E-stained tissue sections of resected [[lymph nodes]] reveal adult filarial worms inside dilated lymphatic lumens surrounded by intense eosinophilic infiltrates, epithelioid granulomas, foreign-body giant cells, and perilymphatic fibrosis. Diagnostic biopsy is discouraged due to the risk of accelerating lymphatic disruption.
+    - Histopathology & Biopsy: H&E-stained tissue sections of resected [[Lymph Nodes]] reveal adult filarial worms inside dilated lymphatic lumens surrounded by intense eosinophilic infiltrates, epithelioid granulomas, foreign-body giant cells, and perilymphatic fibrosis. Diagnostic biopsy is discouraged due to the risk of accelerating lymphatic disruption.
 *   **Imaging Findings:**
     - High-Resolution Doppler Ultrasonography (Scrotal / Inguinal): Visualizes dilated, tortuous, hypoechoic lymphatic vessels containing live, motile, thrashing adult filarial worms ("filarial dance sign").
     - Lymphoscintigraphy: Demonstrates lymphatic vessel dilation, tortuosity, dermal backflow, incompetence of lymphatic valves, and delayed or obstructed lymph drainage in affected limbs.

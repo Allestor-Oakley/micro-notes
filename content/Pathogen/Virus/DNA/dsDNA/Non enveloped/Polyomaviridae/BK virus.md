@@ -51,7 +51,7 @@ draft: false
 *   **Latent Infection & Reactivation Triggers:** The virus is ubiquitous, and primary infections are typically asymptomatic. It establishes a persistent and latent infection in organs such as the kidneys. Reactivation occurs in immunosuppressed individuals, leading to kidney damage and renal disease.
 *   **Oncogenesis Mechanisms:** The viral Large T antigen inactivates the host cellular tumor suppressor proteins p53 and RB (retinoblastoma protein) to allow unchecked cell growth. It also binds to other growth-promoting proteins.
 *   **Immune Evasion Strategies:** N/A
-*   **Host Defense & Immunodeficiency Links:** [[T Cell|T cells]] play a critical role in controlling the infection. Immunocompromised people (e.g., renal transplant patients receiving immunosuppressive therapy) are at severe risk for viral reactivation, which can cause significant kidney damage.
+*   **Host Defense & Immunodeficiency Links:** [[T-Cell|T cells]] play a critical role in controlling the infection. Immunocompromised people (e.g., renal transplant patients receiving immunosuppressive therapy) are at severe risk for viral reactivation, which can cause significant kidney damage.
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Initial infection is typically completely asymptomatic.

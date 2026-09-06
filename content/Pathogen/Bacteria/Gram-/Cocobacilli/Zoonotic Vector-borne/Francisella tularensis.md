@@ -73,7 +73,7 @@ draft: false
 *   **Primary Diseases:** Tularemia (also known as rabbit fever, tick fever, glandular fever, or deerfly fever). The clinical presentation depends heavily on the route of exposure:
     *   *Ulceroglandular:* A painful papule develops at the site of inoculation, progressing to an ulcer with localized lymphadenopathy.
     *   *Oculoglandular:* Painful conjunctivitis with regional (cervical) lymphadenopathy following direct inoculation into the eye.
-    *   *Glandular:* Primarily swollen [[lymph nodes]] with no obvious localized skin lesions.
+    *   *Glandular:* Primarily swollen [[Lymph Nodes]] with no obvious localized skin lesions.
     *   *Typhoidal:* Systemic signs of sepsis.
     *   *Pneumonic:* Pneumonitis with signs of sepsis developing rapidly after aerosol exposure.
 *   **Secondary, Atypical & Alternate Presentations:** Oropharyngeal and gastrointestinal tularemia can occur following ingestion of the bacteria. Disseminated disease is especially prominent with Type A-east strains.

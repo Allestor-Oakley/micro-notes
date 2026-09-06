@@ -44,7 +44,7 @@ draft: false
 
 #### Growth & Biochemical Profile
 *   **Optimal Growth Conditions:** Facultative anaerobe.
-*   **Primary Agar:** Readily grows on routine bacteriologic media. Can be isolated from blood, urine, rectal swabs, [[bone marrow]], and "rose spot" cultures.
+*   **Primary Agar:** Readily grows on routine bacteriologic media. Can be isolated from blood, urine, rectal swabs, [[Bone Marrow]], and "rose spot" cultures.
 *   **Selective / Enriched Agar:** Isolation from stool specimens requires selective media. MacConkey, Hektoen enteric agar (where it appears lactose negative and H2S positive), and Bismuth sulfite agar.
 *   **Metabolic Profile & Biochemical Testing:** Fermenter and oxidase-negative. Tolerant of acids inside phagocytic vesicles.
 
@@ -59,8 +59,8 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection begins with the ingestion of the organism via contaminated food or water (fecal-oral route). The bacteria invade the intestinal mucosa by attaching to and passing through M cells located in Peyer patches. SPI-1 effectors facilitate host cell invasion.
-*   **Intracellular vs Extracellular Survival:** Facultative intracellular pathogen. After crossing the intestinal epithelium, the bacteria are engulfed by [[Macrophage|macrophages]]. They survive, multiply within these phagocytic cells, and disseminate systemically to the liver, [[spleen]], and [[bone marrow]].
-*   **Immune Evasion Strategies:** The SPI-2 T3SS allows the bacteria to evade the phagocyte NADPH oxidase, ensuring survival within the [[macrophage]]. Additionally, the Vi capsular antigen masks the bacterial LPS, preventing complement receptor 3-mediated clearance, opsonization, and phagocytosis.
+*   **Intracellular vs Extracellular Survival:** Facultative intracellular pathogen. After crossing the intestinal epithelium, the bacteria are engulfed by [[Macrophage|macrophages]]. They survive, multiply within these phagocytic cells, and disseminate systemically to the liver, [[Spleen]], and [[Bone Marrow]].
+*   **Immune Evasion Strategies:** The SPI-2 T3SS allows the bacteria to evade the phagocyte NADPH oxidase, ensuring survival within the [[Macrophage]]. Additionally, the Vi capsular antigen masks the bacterial LPS, preventing complement receptor 3-mediated clearance, opsonization, and phagocytosis.
 *   **Host Defense & Immunodeficiency Links:** Invasive non-typhoidal and typhoidal diseases are profoundly exacerbated in immunocompromised individuals (e.g., [[HIV]], [[Plasmodium sp.]], malnutrition). Patients with reduced gastric acid levels are also at a significantly higher risk for infection.
 
 #### Clinical Syndromes

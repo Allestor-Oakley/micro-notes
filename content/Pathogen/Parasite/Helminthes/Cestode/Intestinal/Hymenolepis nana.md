@@ -84,7 +84,7 @@ draft: false
     - Intracellular Villi Protection: Developing cysticercoid larvae reside inside the protective intracellular environment of host intestinal villi for 4 to 5 days, sheltered from circulating lumen anthelmintics and immediate host antibody clearance.
     - Continuous Autoinfection: Internal autoinfection permits parasite persistence and multiplication in human hosts for many years or decades despite host immune responses.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Mucosal humoral IgA and [[T Cell|T-cell]]-mediated immune responses help regulate worm burden and limit uncontrolled autoinfection in immunocompetent hosts.
+    - Host Defense: Mucosal humoral IgA and [[T-Cell|T-cell]]-mediated immune responses help regulate worm burden and limit uncontrolled autoinfection in immunocompetent hosts.
     - Immunocompromised / [[HIV]] Host Risk & Malignant Transformation: In severely immunocompromised patients (e.g., AIDS, organ transplant recipients), normal immune control of autoinfection breaks down, leading to massive hyperinfection. Crucially, *Hymenolepis nana* can undergo somatic cell proliferation and malignant transformation in immunocompromised human hosts, where undifferentiated stem-cell-like parasite cells invade human tissues, metastasize, and form malignant parasite-derived tumors/neoplasms inside the host.
 
 #### Clinical Syndromes & Complications

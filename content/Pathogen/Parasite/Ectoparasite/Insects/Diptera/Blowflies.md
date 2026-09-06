@@ -45,7 +45,7 @@ draft: false
 
 #### Pathogenesis & Vector Dynamics
 *   **Direct Dermatologic Damage:** Larval tissue invasion causes extensive mechanical destruction, liquefaction necrosis of tissue, foul-smelling purulent discharge, deep tissue destruction, and excavation of necrotic or living tissue.
-*   **Hypersensitivity & Immune Response:** Secretion of larval proteolytic enzymes and metabolic excretions induces localized intense inflammatory infiltrates composed of neutrophils, lymphocytes, [[Plasma Cell|plasma cells]], and eosinophils, accompanied by local edema and erythema.
+*   **Hypersensitivity & Immune Response:** Secretion of larval proteolytic enzymes and metabolic excretions induces localized intense inflammatory infiltrates composed of neutrophils, lymphocytes, [[Plasma Cell & Memory B Cell|plasma cells]], and eosinophils, accompanied by local edema and erythema.
 *   **Pathogens Transmitted as a Vector:** Adult blowflies act as mechanical vectors transferring enteric bacterial pathogens (*[[Escherichia coli]]*, *[[Salmonella typhi|Salmonella]]* spp., *[[Shigella]]* spp.), protozoan cysts (*[[Entamoeba histolytica]]*, *[[Giardia lamblia]]*), and helminth eggs from garbage and feces to human food or open wounds. Larvae cause myiasis rather than biological disease transmission.
 *   **Host Defense & Predisposing Factors:** Open traumatic or surgical wounds, chronic cutaneous ulcers, neglected scalp or skin scratches, poor personal hygiene, homelessness, advanced age, physical or mental incapacitation, debilitation, and unwashed suppurative body discharges.
 

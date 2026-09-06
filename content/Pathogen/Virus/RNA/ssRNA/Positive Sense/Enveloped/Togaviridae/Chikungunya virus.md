@@ -60,7 +60,7 @@ draft: false
 *   **Latent Infection & Reactivation Triggers:** N/A
 *   **Oncogenesis Mechanisms:** N/A
 *   **Immune Evasion Strategies:** The virus exhibits high evolutionary adaptability; a single amino acid change in the viral envelope protein allowed it to adapt to a secondary mosquito vector, leading to a dramatic global expansion of its geographic range.
-*   **Host Defense & Immunodeficiency Links:** The prominent prodrome of flulike symptoms is largely driven by the host's robust interferon and cytokine response. The persistent arthralgia induced by Chikungunya infection is immunopathologic and is highly associated with elevated levels of interleukin-6 (IL-6) and granulocyte-[[macrophage]] colony-stimulating factor (GM-CSF). Neutralizing antibodies are capable of blocking viremia and preventing disease.
+*   **Host Defense & Immunodeficiency Links:** The prominent prodrome of flulike symptoms is largely driven by the host's robust interferon and cytokine response. The persistent arthralgia induced by Chikungunya infection is immunopathologic and is highly associated with elevated levels of interleukin-6 (IL-6) and granulocyte-[[Macrophage]] colony-stimulating factor (GM-CSF). Neutralizing antibodies are capable of blocking viremia and preventing disease.
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Chikungunya fever, characterized by a triad of high fever, maculopapular rash, and severe, debilitating acute polyarthritis/arthralgia that mimics the joint involvement pattern seen in rheumatoid arthritis. Asymptomatic infections are rare.
@@ -83,7 +83,7 @@ draft: false
 *   **Cell Culture & Assays:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **Antiviral Targets & First-Line Agents:** There are no effective, specific antiviral therapeutics available for clinical use. Treatment is primarily supportive and symptomatic. Neither dexamethasone nor interferon-alpha has been shown to influence the outcome. (Experimental models suggest that 'bindarit', an inhibitor of [[monocyte]] chemotactic protein-1 synthesis, can protect against arthritis and myositis in mice).
+*   **Antiviral Targets & First-Line Agents:** There are no effective, specific antiviral therapeutics available for clinical use. Treatment is primarily supportive and symptomatic. Neither dexamethasone nor interferon-alpha has been shown to influence the outcome. (Experimental models suggest that 'bindarit', an inhibitor of [[Monocyte]] chemotactic protein-1 synthesis, can protect against arthritis and myositis in mice).
 *   **Resistance Mechanisms & Mutations:** N/A
 *   **Treatment Nuances & Timing Constraints:** N/A
 *   **Prophylaxis & Vaccine Protocols:** A live attenuated chikungunya vaccine is available for individuals over 18 years of age if there is a potential for exposure. Public health prevention heavily relies on mosquito vector control programs and personal protective measures against mosquito bites.

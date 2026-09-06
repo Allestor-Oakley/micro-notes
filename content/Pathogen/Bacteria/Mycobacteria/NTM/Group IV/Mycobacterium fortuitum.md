@@ -54,7 +54,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is acquired exogenously. The organism acts as an opportunistic pathogen and is introduced into the deep subcutaneous tissues through trauma, or via iatrogenic contamination (e.g., contaminated intravenous catheters, wound dressings, or surgical procedures). It has notably been associated with exposures in nail salons.
 *   **Intracellular vs Extracellular Survival:** Intracellular pathogen capable of surviving within host cells.
-*   **Immune Evasion Strategies:** The highly hydrophobic, lipid-rich cell wall provides structural protection against [[macrophage]]-mediated intracellular killing and other mechanisms of host immune clearance.
+*   **Immune Evasion Strategies:** The highly hydrophobic, lipid-rich cell wall provides structural protection against [[Macrophage]]-mediated intracellular killing and other mechanisms of host immune clearance.
 *   **Host Defense & Immunodeficiency Links:** Possesses a relatively low intrinsic virulence potential, meaning it frequently causes only localized surface lesions or acts strictly as an opportunist in settings of broken skin or compromised immunity.
 
 #### Clinical Syndromes

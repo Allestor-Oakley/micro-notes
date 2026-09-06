@@ -77,7 +77,7 @@ draft: false
 *   **Secretion Systems:** N/A
 *   **Exotoxins:**
     *   **Toxin Name:** Streptococcal pyrogenic exotoxins (SpeA, SpeB, SpeC, SpeF) / Erythrogenic toxins.
-    *   **Mechanism of Action:** Heat-labile exotoxins that act as superantigens, interacting with [[Macrophage|macrophages]] and helper [[T Cell|T cells]] to heavily enhance the release of proinflammatory cytokines. They are responsible for the severe clinical manifestations of necrotizing fasciitis, streptococcal toxic shock syndrome, and the diffuse rash of scarlet fever. SpeB specifically functions as a potent protease that interferes with phagocytosis.
+    *   **Mechanism of Action:** Heat-labile exotoxins that act as superantigens, interacting with [[Macrophage|macrophages]] and helper [[T-Cell|T cells]] to heavily enhance the release of proinflammatory cytokines. They are responsible for the severe clinical manifestations of necrotizing fasciitis, streptococcal toxic shock syndrome, and the diffuse rash of scarlet fever. SpeB specifically functions as a potent protease that interferes with phagocytosis.
     *   **Toxin Name:** Streptolysin O.
     *   **Mechanism of Action:** A highly immunogenic, oxygen-labile cytolytic exotoxin that degrades host cells.
     *   **Toxin Name:** Streptolysin S.
@@ -102,7 +102,7 @@ draft: false
     *   Nonsuppurative: Rheumatic fever, Acute glomerulonephritis.
 *   **Incubation Period:** Pharyngitis generally develops 2 to 4 days after exposure. Post-streptococcal nonsuppurative diseases have a latent period of 1 to 4 weeks (mean 7 days) following the initial infection.
 *   **Pathognomonic Signs:**
-    *   *Pharyngitis:* Abrupt onset of sore throat, intense redness and edema of mucous membranes, purulent exudate, and enlarged/tender cervical [[lymph nodes]].
+    *   *Pharyngitis:* Abrupt onset of sore throat, intense redness and edema of mucous membranes, purulent exudate, and enlarged/tender cervical [[Lymph Nodes]].
     *   *Scarlet Fever:* Circumoral pallor, "strawberry tongue" (yellowish-white coating sheds to reveal a raw red surface beneath), "Pastia lines" (rash pronounced in skinfolds), and a diffuse macular blanching erythematous rash on the chest/extremities that spares the palms and soles, followed by desquamation.
     *   *Erysipelas:* Massive brawny edema, rapidly advancing and sharply demarcated margins of erythema, and bullae formation.
     *   *Necrotizing Fasciitis / Toxic Shock:* Extreme, excruciating localized pain out of proportion to initial superficial findings, rapidly progressing to multiorgan failure and shock.

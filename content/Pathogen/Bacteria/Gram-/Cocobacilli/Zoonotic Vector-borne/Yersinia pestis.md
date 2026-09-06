@@ -61,14 +61,14 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Typically enters the mammalian host via the bite of an infected flea. In the flea, the bacteria form a biofilm that blocks the proventriculus; the starving flea bites ferociously and regurgitates the pathogen into the bite wound. Infection can also occur via direct contact with infected animal fluids/tissue or inhalation of infectious aerosols.
 *   **Intracellular vs Extracellular Survival:** Facultative intracellular. After inoculation, the organisms are phagocytosed; while polymorphonuclear cells kill them, they multiply successfully within [[Macrophage|macrophages]].
-*   **Immune Evasion Strategies:** The F1 protein capsule strongly resists phagocytosis. The organism utilizes its Type III secretion system to inject Yop effectors that block phagocytosis, suppress the inflammatory cytokine response, and induce [[macrophage]] apoptosis. It also uses its plasminogen activator to degrade complement opsonins and expresses V and W antigens (LcrV) to circumvent the host immune system.
+*   **Immune Evasion Strategies:** The F1 protein capsule strongly resists phagocytosis. The organism utilizes its Type III secretion system to inject Yop effectors that block phagocytosis, suppress the inflammatory cytokine response, and induce [[Macrophage]] apoptosis. It also uses its plasminogen activator to degrade complement opsonins and expresses V and W antigens (LcrV) to circumvent the host immune system.
 *   **Host Defense & Immunodeficiency Links:** Buboes become necrotic and hemorrhagic, signaling that the host immune response has failed to contain the multiplying pathogen.
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Bubonic plague (the most common form, marked by localized lymphatic infection), septicaemic plague, and pneumonic plague.
 *   **Secondary, Atypical & Alternate Presentations:** Secondary pneumonic plague can occur when bacteria spread via the bloodstream to the lungs from a bubo. Widespread dissemination causes hemorrhagic and necrotic lesions in all organs, meningitis, and serosanguineous pleuropericarditis.
 *   **Incubation Period:** Less than 10 days for endemic exposure.
-*   **Pathognomonic Signs:** Intense hemorrhagic inflammation in regional [[lymph nodes]] resulting in dramatically enlarged, fluctuant, necrotic, and highly painful nodes called "buboes" close to the inoculation site.
+*   **Pathognomonic Signs:** Intense hemorrhagic inflammation in regional [[Lymph Nodes]] resulting in dramatically enlarged, fluctuant, necrotic, and highly painful nodes called "buboes" close to the inoculation site.
 *   **Complications & Sequelae:** Rapid progression to systemic shock, massive tissue necrosis, and death. Untreated bubonic plague has a 40-100% mortality rate, and pneumonic plague has a mortality rate approaching 100%.
 
 #### Epidemiology & Transmission

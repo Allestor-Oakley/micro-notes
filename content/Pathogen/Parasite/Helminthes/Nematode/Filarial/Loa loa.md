@@ -85,7 +85,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - N/A
 *   **Immune Evasion Strategies:**
-    - Immunological Tolerance in Endemic Populations: Native residents in highly endemic regions develop antigen-specific [[T Cell|T-cell]] down-regulation and high levels of IL-10, permitting high microfilarial loads to persist silently in blood with minimal systemic symptoms (microfilaremic/asymptomatic phenotype).
+    - Immunological Tolerance in Endemic Populations: Native residents in highly endemic regions develop antigen-specific [[T-Cell|T-cell]] down-regulation and high levels of IL-10, permitting high microfilarial loads to persist silently in blood with minimal systemic symptoms (microfilaremic/asymptomatic phenotype).
     - Rapid Subcutaneous Migration: Continuous movement through tissue prevents localized encapsulation by host fibrous tissue (unlike *[[Onchocerca volvulus]]*, *Loa loa* does NOT form fixed subcutaneous nodules).
 *   **Host Defense & Immunodeficiency Links:**
     - Hyper-reactive Immune Responses in Non-Endemic Travelers: Temporary residents, expatriates, and travelers lack immunological tolerance, mounting hyper-reactive Th2 immune responses characterized by severe, recurrent, painful Calabar swellings, extreme peripheral blood eosinophilia, and marked IgE elevation, but frequently remain amicrofilaremic (amicrofilaremic phenotype).

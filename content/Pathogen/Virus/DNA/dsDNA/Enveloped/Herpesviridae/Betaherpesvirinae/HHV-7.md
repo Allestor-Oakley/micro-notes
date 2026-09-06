@@ -42,7 +42,7 @@ draft: false
 *   **Structural & Non-Structural Proteins:** Encodes many proteins that are unnecessary for viral replication but are used to manipulate the host cell and immune response. Also encodes enzymes (e.g., DNA polymerase) that promote viral DNA replication.
 
 #### Viral Replication Cycle
-*   **Attachment, Host Receptors & Tropism:** T-lymphotropic; specifically uses CD4 [[T Cell|T cells]] and their precursor cells as the host for replication. It also exhibits tropism for hematopoietic progenitor cells (HPC).
+*   **Attachment, Host Receptors & Tropism:** T-lymphotropic; specifically uses CD4 [[T-Cell|T cells]] and their precursor cells as the host for replication. It also exhibits tropism for hematopoietic progenitor cells (HPC).
 *   **Entry Mechanism:** N/A
 *   **Uncoating & Intracellular Trafficking:** N/A
 *   **Transcription & Translation Strategy:** N/A
@@ -50,7 +50,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Direct Cytopathic Effects:** Exhibits a long, lymphoproliferative growth cycle.
-*   **Latent Infection & Reactivation Triggers:** Establishes persistent and latent infections within the host, specifically utilizing CD4 [[T Cell|T cells]] and their precursor cells for latency. It also establishes long-term persistent infections in the salivary glands and lymphoid tissue.
+*   **Latent Infection & Reactivation Triggers:** Establishes persistent and latent infections within the host, specifically utilizing CD4 [[T-Cell|T cells]] and their precursor cells for latency. It also establishes long-term persistent infections in the salivary glands and lymphoid tissue.
 *   **Oncogenesis Mechanisms:** N/A
 *   **Immune Evasion Strategies:** Encodes proteins that manipulate host cell interactions and facilitate immune escape.
 *   **Host Defense & Immunodeficiency Links:** The characteristic skin rash is immunologically mediated. The virus can act as an opportunistic pathogen in immunocompromised individuals.
@@ -73,7 +73,7 @@ draft: false
 *   **Histopathology & Inclusion Bodies:** N/A
 *   **Molecular Testing:** Polymerase chain reaction (PCR) and genome analysis are utilized for detection.
 *   **Serology & Seroconversion Windows:** N/A
-*   **Cell Culture & Assays:** The virus was first isolated in 1990 by culturing activated [[T Cell|T cells]] recovered from the peripheral blood lymphocytes of a healthy individual.
+*   **Cell Culture & Assays:** The virus was first isolated in 1990 by culturing activated [[T-Cell|T cells]] recovered from the peripheral blood lymphocytes of a healthy individual.
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **Antiviral Targets & First-Line Agents:** N/A
@@ -82,5 +82,5 @@ draft: false
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** Roseola infantum, exanthem subitum, T-lymphotropic, CD4 [[T Cell|T cells]], salivary gland persistence, *Roseolovirus*, Betaherpesvirinae.
+*   **Buzzwords & Descriptors:** Roseola infantum, exanthem subitum, T-lymphotropic, CD4 [[T-Cell|T cells]], salivary gland persistence, *Roseolovirus*, Betaherpesvirinae.
 *   **Exceptions to the Rule:** While HHV-7 causes the same primary clinical syndrome (roseola infantum) as HHV-6, the average age of primary infection with HHV-7 is notably later in childhood than the very early age of acquisition typically seen with HHV-6.

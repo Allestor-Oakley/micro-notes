@@ -81,7 +81,7 @@ draft: false
     *   *Cardiac & Neural Damage:* Larval transit through the myocardium causes acute focal myocardial necrosis, patchy interstitial infiltrates, and severe eosinophilic myocarditis (the primary cause of death in fatal cases). Larval invasion of the central nervous system causes focal micro-infarcts, perivascular cuffing, cerebral edema, and necrotizing meningoencephalitis.
 *   **Mechanical Obstruction:** N/A
 *   **Nutritional Depletion & Anemia:** N/A
-*   **Immune Evasion Strategies:** *Trichinella* larvae reprogram host skeletal muscle cells into specialized nurse cells that synthesize a protective collagen capsule (in encapsulated species), protecting the larva from direct leukocyte destruction and enabling multi-year survival in host tissue. Parasites also induce polyclonal lymphocyte activation and [[macrophage]] modulation.
+*   **Immune Evasion Strategies:** *Trichinella* larvae reprogram host skeletal muscle cells into specialized nurse cells that synthesize a protective collagen capsule (in encapsulated species), protecting the larva from direct leukocyte destruction and enabling multi-year survival in host tissue. Parasites also induce polyclonal lymphocyte activation and [[Macrophage]] modulation.
 *   **Host Defense & Immunodeficiency Links:** Host defense depends on Th2-mediated intestinal expulsion (IL-4, IL-5, IL-13, IgE, mucosal mast cells, and eosinophils) to clear adult worms from the gut. In severe infection, an unbridled host allergic and cellular hypersensitivity response to migrating larval antigens drives systemic morbidity (high fever, severe myositis, vasculitis, and cerebral/cardiac inflammation).
 
 #### Clinical Syndromes & Complications

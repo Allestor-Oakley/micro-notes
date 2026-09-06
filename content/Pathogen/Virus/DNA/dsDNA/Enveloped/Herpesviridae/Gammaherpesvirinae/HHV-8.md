@@ -46,7 +46,7 @@ draft: false
 *   **Structural & Non-Structural Proteins:** Encodes a viral DNA polymerase and many other proteins unnecessary for basic replication but used to manipulate the host cell and immune response. Uniquely, the HHV-8 genome contains numerous genes related to cellular regulatory genes involved in cell proliferation, apoptosis, and host responses (e.g., cyclin D, cytokines, chemokine receptors).
 
 #### Viral Replication Cycle
-*   **Attachment, Host Receptors & Tropism:** The virus is lymphotropic and more closely related to [[EBV|Epstein-Barr virus]] (EBV) than to other known human herpesviruses. The [[B cell]] is the primary target cell for HHV-8, but the virus also exhibits tropism for a limited number of endothelial cells, [[Monocyte|monocytes]], epithelial cells, and sensory nerve cells.
+*   **Attachment, Host Receptors & Tropism:** The virus is lymphotropic and more closely related to [[EBV|Epstein-Barr virus]] (EBV) than to other known human herpesviruses. The [[B Cell]] is the primary target cell for HHV-8, but the virus also exhibits tropism for a limited number of endothelial cells, [[Monocyte|monocytes]], epithelial cells, and sensory nerve cells.
 *   **Entry Mechanism:** Viral glycoprotein insertion and fusion with the host cell membrane.
 *   **Uncoating & Intracellular Trafficking:** N/A
 *   **Transcription & Translation Strategy:** N/A

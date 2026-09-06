@@ -73,7 +73,7 @@ draft: false
 *   **Mechanical Obstruction:** Physical blockage of intrahepatic bile ducts or common bile duct by adult flukes, inflammatory debris, or gallstones, causing ductal dilation, biliary stasis, and obstructive jaundice.
 *   **Nutritional Depletion & Anemia:** Chronic infection leads to anorexia, weight loss, and secondary mild-to-moderate anemia.
 *   **Immune Evasion Strategies:** Secretion of excretory-secretory (ES) proteins that modulate host cell signaling, suppress leukocyte activity, and protect the parasite from degradation inside the biliary lumen.
-*   **Host Defense & Immunodeficiency Links:** Local host response features periductal lymphocytic, [[plasma cell]], and eosinophilic infiltrates. Disease morbidity and risk of malignant transformation correlate directly with chronic infection, worm burden, and repeated reinfections.
+*   **Host Defense & Immunodeficiency Links:** Local host response features periductal lymphocytic, [[Plasma Cell & Memory B Cell]], and eosinophilic infiltrates. Disease morbidity and risk of malignant transformation correlate directly with chronic infection, worm burden, and repeated reinfections.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:** Acute phase (occurring weeks after heavy ingestion of infected raw fish) presents with fever, chills, right upper quadrant (RUQ) abdominal pain, epigastric distress, tender hepatomegaly, anorexia, nausea, and marked leukocytosis with high eosinophilia.

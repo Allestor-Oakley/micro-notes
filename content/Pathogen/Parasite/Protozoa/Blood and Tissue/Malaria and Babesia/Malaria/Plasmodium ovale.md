@@ -88,8 +88,8 @@ draft: false
     - Dormant Liver Hypnozoites: Persistence of latent hypnozoites in hepatocytes enables the parasite to remain clinically silent and sheltered from host blood-stage immune clearance, causing true relapses months to years later.
     - Intracellular Location: Asexual blood stages reside inside host red blood cells, avoiding direct exposure to circulating antibodies and complement.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Clearance of circulating blood-stage parasites depends on splenic filtration, [[monocyte]]-[[macrophage]] phagocytosis, and antibody-mediated opsonization.
-    - Immunodeficiency Links: Co-infection with [[HIV]] or immunosuppression impa[[T Cell|irs T-]]cell and macrophage function, leading to higher parasitemia levels and an increased risk of severe clinical complications.
+    - Host Defense: Clearance of circulating blood-stage parasites depends on splenic filtration, [[Monocyte]]-[[Macrophage]] phagocytosis, and antibody-mediated opsonization.
+    - Immunodeficiency Links: Co-infection with [[HIV]] or immunosuppression impa[[T-Cell|irs T-]]cell and macrophage function, leading to higher parasitemia levels and an increased risk of severe clinical complications.
 
 #### Clinical Syndromes & Complications
 *   **Acute Clinical Presentation:**
@@ -99,7 +99,7 @@ draft: false
     - Clinical Signs: Pyrexia, mild splenomegaly, and mild hepatomegaly.
 *   **Chronic & Extra-Intestinal Disease:**
     - Relapsing Malaria: True relapses occur weeks, months, or up to 1–4 years after primary infection due to the reactivation of dormant liver hypnozoites (untreated primary attacks last 2–3 weeks; total duration of untreated infection is usually ~12 months to 4 years).
-    - Severe Complications (Rare): While classically considered benign, Plasmodium ovale can occasionally cause severe, life-threatening complications including spontaneous [[spleen]] rupture, severe anemia, jaundice, acute lung injury, and acute respiratory distress syndrome (ARDS).
+    - Severe Complications (Rare): While classically considered benign, Plasmodium ovale can occasionally cause severe, life-threatening complications including spontaneous [[Spleen]] rupture, severe anemia, jaundice, acute lung injury, and acute respiratory distress syndrome (ARDS).
 *   **Pathognomonic Signs:**
     - Tertian (48-Hour) Fever Periodicity: Predictable fever paroxysms every 48 hours.
     - Oval, Fimbriated Host RBCs: Microscopic visualization of enlarged, oval host red blood cells with ragged, fimbriated, or tufted edges.

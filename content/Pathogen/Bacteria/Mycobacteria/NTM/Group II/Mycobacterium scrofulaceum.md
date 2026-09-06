@@ -47,7 +47,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is acquired through contact with or ingestion of contaminated environmental sources (such as soil, water, or moist foods).
 *   **Intracellular vs Extracellular Survival:** Intracellular pathogen capable of surviving within host cells.
-*   **Immune Evasion Strategies:** The lipid-rich, mycolic acid-heavy cell wall provides significant protection from host immune clearance and intracellular [[macrophage]] killing.
+*   **Immune Evasion Strategies:** The lipid-rich, mycolic acid-heavy cell wall provides significant protection from host immune clearance and intracellular [[Macrophage]] killing.
 *   **Host Defense & Immunodeficiency Links:** Can act as a saprophyte (colonizer) in adults with underlying chronic lung disease.
 
 #### Clinical Syndromes
@@ -69,7 +69,7 @@ draft: false
 *   **Serology & Immunology:** N/A
 
 #### Pharmacology, Prevention & Prophylaxis
-*   **First-Line Treatment:** Surgical intervention (incision, drainage, and complete surgical excision/removal of the involved cervical [[lymph nodes]]) is usually curative and is the treatment of choice for cervical lymphadenitis in children.
+*   **First-Line Treatment:** Surgical intervention (incision, drainage, and complete surgical excision/removal of the involved cervical [[Lymph Nodes]]) is usually curative and is the treatment of choice for cervical lymphadenitis in children.
 *   **Alternative / Second-Line Treatment:** N/A
 *   **Mechanisms of Resistance & Resistance Genes:** Resistance to standard antituberculosis drugs is highly common, reinforcing the preference for surgical excision over antimicrobial therapy. The organism's highly hydrophobic cell wall structure also confers natural intrinsic resistance to many common, broad-spectrum antibacterial antibiotics.
 *   **Treatment Nuances & Contraindications:** Medical management with antibiotics is complicated by the organism's high rates of resistance to antituberculosis drugs.

@@ -50,7 +50,7 @@ draft: false
 *   **Direct Cytopathic Effects:** N/A
 *   **Latent Infection & Reactivation Triggers:** Establishes a persistent, chronic infection in its natural rodent hosts (*Mus musculus*). In newborn mice (established via in utero infection), the virus establishes a chronic infection with circulating virus but little or no apparent disease.
 *   **Oncogenesis Mechanisms:** N/A
-*   **Immune Evasion Strategies:** In animal models (e.g., newborn mice), an immunologic tolerance develops in which virus-specific [[T Cell|T cells]] are not activated, preventing cellular immune clearance.
+*   **Immune Evasion Strategies:** In animal models (e.g., newborn mice), an immunologic tolerance develops in which virus-specific [[T-Cell|T cells]] are not activated, preventing cellular immune clearance.
 *   **Host Defense & Immunodeficiency Links:** Antibody can block the disease. In the animal model (mice), the host produces antibody against viral proteins that subsequently form antigen-antibody complexes with circulating virus, producing immune complex disease. In humans, the prodrome of flulike symptoms is strictly caused by the host's interferon and cytokine response to the viremia.
 
 #### Clinical Syndromes

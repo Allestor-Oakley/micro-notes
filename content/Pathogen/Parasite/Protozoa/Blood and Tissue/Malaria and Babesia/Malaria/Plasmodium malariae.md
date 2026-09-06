@@ -80,7 +80,7 @@ draft: false
     - Intracellular Location: Resides inside host erythrocytes, protected from direct humoral antibody-mediated destruction.
     - Absence of Hypnozoites: Does NOT produce dormant liver hypnozoites (true relapses do not occur), but exhibits recrudescence from persistent blood-stage asexual forms.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Clearance of circulating blood-stage parasites relies on splenic filtration and [[monocyte]]-[[macrophage]] phagocytosis.
+    - Host Defense: Clearance of circulating blood-stage parasites relies on splenic filtration and [[Monocyte]]-[[Macrophage]] phagocytosis.
     - Immunodeficiency & Splenectomy Links: Host stress or loss of splenic clearance function (splenectomy) can trigger clinical recrudescence of long-dormant, subpatent blood infections.
 
 #### Clinical Syndromes & Complications
@@ -92,7 +92,7 @@ draft: false
 *   **Chronic & Extra-Intestinal Disease:**
     - Quartan Nephropathy (Childhood Nephrotic Syndrome): A severe chronic complication primarily affecting children in endemic areas (e.g., West Africa, Papua New Guinea). Manifests as massive proteinuria, albuminuria, hypoalbuminemia, generalized edema, and progressive renal impairment.
     - Non-Responsiveness to Therapy: Unlike other malarial complications, quartan nephropathy is progressive and largely unresponsive to antimalarial treatment, cytotoxic agents, or corticosteroid therapy once established.
-    - Chronic Splenomegaly: Long-term persistent infection causes a hard, fibrous enlarged [[spleen]].
+    - Chronic Splenomegaly: Long-term persistent infection causes a hard, fibrous enlarged [[Spleen]].
 *   **Pathognomonic Signs:**
     - Quartan (72-Hour) Periodicity: Fever paroxysms recurring predictably every 72 hours.
     - Band-Form Trophozoites: Trophozoites stretching completely across host red blood cells as distinct rectangular bands or bars.

@@ -67,7 +67,7 @@ draft: false
 *   **Primary Diseases:** Gastroenteritis / enterocolitis (characterized by severe abdominal pain, fever, and initially watery diarrhea that may become bloody with polymorphonuclear leukocytes). Mesenteric lymphadenitis.
 *   **Secondary, Atypical & Alternate Presentations:** Septicemia (often transfusion-related). Immunologically mediated sequelae including polyarthritis and erythema nodosum (especially in children).
 *   **Incubation Period:** 1 to 11 days (average 4-7 days).
-*   **Pathognomonic Signs:** In children, enteric disease frequently manifests with enlarged mesenteric [[lymph nodes]] and terminal ileitis that perfectly mimics acute appendicitis (pseudoappendicitis).
+*   **Pathognomonic Signs:** In children, enteric disease frequently manifests with enlarged mesenteric [[Lymph Nodes]] and terminal ileitis that perfectly mimics acute appendicitis (pseudoappendicitis).
 *   **Complications & Sequelae:** Chronic diarrhea that can persist for months; polyarthritis; erythema nodosum.
 
 #### Epidemiology & Transmission

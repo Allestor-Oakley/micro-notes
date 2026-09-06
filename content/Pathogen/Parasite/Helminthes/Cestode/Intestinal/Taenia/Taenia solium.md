@@ -117,7 +117,7 @@ draft: false
     - Active Immunosuppression in Live Cysts: Viable cysticerci release excretory-secretory factors and possess an intact outer membrane that actively suppresses host cell-mediated immunity, allowing cysts to survive silently in host tissues for years without eliciting significant local inflammation.
     - Degeneration Inflammatory Peak: Spontaneous or post-treatment parasite death breaks down cyst wall integrity, releasing parasitic antigens that trigger a vigorous host immune response, resulting in localized edema, inflammation, and clinical seizures.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Clearance: Host controls larval infection through specific humoral antibody production (IgG, IgM) and [[T Cell|T-cell]] mediated cellular responses.
+    - Host Clearance: Host controls larval infection through specific humoral antibody production (IgG, IgM) and [[T-Cell|T-cell]] mediated cellular responses.
     - [[HIV]] / Immunosuppression Links: In [[HIV]]-infected patients, neurocysticercosis can manifest with aggressive, atypical, widespread, or invasive cystic lesions (e.g., severe subcutaneous and diffuse central nervous system involvement). Initiation of antiretroviral therapy (ART) in co-infected patients can trigger immune reconstitution inflammatory syndrome (IRIS).
 
 #### Clinical Syndromes & Complications

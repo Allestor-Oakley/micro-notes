@@ -65,7 +65,7 @@ draft: false
 
 #### Pathogenesis & Vector Dynamics
 *   **Direct Dermatologic Damage:** Larvae invade living or necrotic tissue, using powerful oral hooks to digest and destroy cutaneous, subcutaneous, or mucosal structures, resulting in furuncular boil-like lesions, ulcerative tissue erosion, deep cavitary destruction, or traumatic wound breakdown.
-*   **Hypersensitivity & Immune Response:** Larval feeding and metabolic excretion/secretion trigger an intense local inflammatory cellular infiltration (neutrophils, lymphocytes, [[Plasma Cell|plasma cells]], and eosinophils), localized edema, throbbing pain, and severe pruritus; accidental crushing or squashing of larvae within the skin releases foreign antigens that provoke severe hypersensitivity reactions and localized foreign-body granulomas.
+*   **Hypersensitivity & Immune Response:** Larval feeding and metabolic excretion/secretion trigger an intense local inflammatory cellular infiltration (neutrophils, lymphocytes, [[Plasma Cell & Memory B Cell|plasma cells]], and eosinophils), localized edema, throbbing pain, and severe pruritus; accidental crushing or squashing of larvae within the skin releases foreign antigens that provoke severe hypersensitivity reactions and localized foreign-body granulomas.
 *   **Pathogens Transmitted as a Vector:** Act primarily as direct tissue parasites causing myiasis rather than biological vectors of specific pathogens; mechanical transport of environmental/fecal bacteria can occur, but specific vector transmission capacity is N/A in the provided sources.
 *   **Host Defense & Predisposing Factors:** Nosocomial and community acquisition is predisposed by impaired consciousness, physical or mental disability, debilitation, open purulent or malodorous wounds, advanced periodontitis/poor oral hygiene, and lack of window screening or hygienic measures in rural or tropical settings.
 
@@ -84,7 +84,7 @@ draft: false
 #### Advanced Diagnostics
 *   **Direct Examination & Skin Scrapings:** Gross recovery and morphological examination of larvae; species identification is based on chitinized mouth hooks, body spines, and posterior spiracular plates (stigmal plates) located inside a deep posterior cavity; extracted live larvae should be killed by immersion in hot (near-boiling, ~60°C) water for 30 seconds to prevent shrinkage/putrefaction and then preserved in 70% to 95% ethanol or 70% isopropyl alcohol (formalin is not recommended).
 *   **Dermoscopy Features:** Visualization of a central cutaneous pore surrounded by dilated blood vessels from which the yellowish/dark posterior end or spiracles of the larva intermittently extrude.
-*   **Biopsy Findings:** Histologic sections reveal a central tissue cavity or sinus tract containing larval cross-sections with chitinous cuticle, surrounded by tissue necrosis and a dense inflammatory infiltrate composed of neutrophils, lymphocytes, [[Plasma Cell|plasma cells]], and eosinophils.
+*   **Biopsy Findings:** Histologic sections reveal a central tissue cavity or sinus tract containing larval cross-sections with chitinous cuticle, surrounded by tissue necrosis and a dense inflammatory infiltrate composed of neutrophils, lymphocytes, [[Plasma Cell & Memory B Cell|plasma cells]], and eosinophils.
 
 #### Pharmacology, Prevention & Eradication
 *   **Topical Scabicides & Pediculicides:** N/A (Free-living fly larvae causing myiasis do not respond to standard topical scabicides or pediculicides).

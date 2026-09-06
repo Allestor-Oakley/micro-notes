@@ -77,7 +77,7 @@ draft: false
 *   **Public Health & Isolation:** HEV is responsible for an estimated 20 million acute infections and 44,000 deaths annually worldwide. It is highly endemic in developing countries with weak infrastructure. Massive waterborne epidemics have occurred following sewage contamination of city drinking water supplies (e.g., a 1955 New Delhi outbreak with 29,000 cases; a 1978 Kashmir outbreak with 1,700 deaths; and a massive outbreak in China affecting over 100,000 individuals).
 
 #### Advanced Laboratory Diagnostics
-*   **Histopathology & Inclusion Bodies:** Liver biopsy reveals focal areas of hepatocyte necrosis, mononuclear inflammatory infiltrates, Kupffer cell hyperplasia, and [[macrophage]] accumulation.
+*   **Histopathology & Inclusion Bodies:** Liver biopsy reveals focal areas of hepatocyte necrosis, mononuclear inflammatory infiltrates, Kupffer cell hyperplasia, and [[Macrophage]] accumulation.
 *   **Molecular Testing:** Polymerase chain reaction (PCR) can be used to detect the HEV RNA genome in blood and stool samples during the acute phase.
 *   **Serology & Seroconversion Windows:** Diagnosis is typically confirmed via an enzyme-linked immunosorbent assay (ELISA) detecting IgM anti-HEV antibodies, which indicates a recent infection. This IgM response generally remains positive for 4 to 6 months following infection.
 *   **Cell Culture & Assays:** N/A

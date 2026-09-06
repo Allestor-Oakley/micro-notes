@@ -66,7 +66,7 @@ draft: false
 *   **Mechanical Obstruction:** Heavy worm burdens (hundreds to thousands of large, fleshy flukes occupying the gut lumen) cause physical luminal occlusion, resulting in acute or subacute mechanical intestinal obstruction, severe abdominal distension, intestinal stasis, and rare bowel perforation.
 *   **Nutritional Depletion & Anemia:** Adult worms feed on host intestinal contents and mucosal secretions. Heavy infections lead to severe nutrient malabsorption, protein-losing enteropathy, profound hypoproteinemia, generalized edema (anasarca, periorbital and facial edema, dependent lower extremity edema), ascites, and mild-to-moderate anemia. Toxic excretory-secretory metabolites produced by adult flukes contribute to systemic toxic-allergic responses.
 *   **Immune Evasion Strategies:** N/A (Does not undergo tissue migration; resides in the intestinal lumen protected by a thick tegument).
-*   **Host Defense & Immunodeficiency Links:** Intestinal mucosal response includes leukocytic infiltration (eosinophils, lymphocytes, [[Plasma Cell|plasma cells]]). Clinical disease severity correlates directly with total worm burden rather than specific host immunodeficiency states.
+*   **Host Defense & Immunodeficiency Links:** Intestinal mucosal response includes leukocytic infiltration (eosinophils, lymphocytes, [[Plasma Cell & Memory B Cell|plasma cells]]). Clinical disease severity correlates directly with total worm burden rather than specific host immunodeficiency states.
 
 #### Clinical Syndromes & Complications
 *   **Acute Migration Phase Presentation:** N/A (Metacercariae excyst and mature directly within the small intestinal lumen without extra-intestinal tissue migration).

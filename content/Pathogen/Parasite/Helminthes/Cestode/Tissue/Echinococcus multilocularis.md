@@ -82,7 +82,7 @@ draft: false
 *   **Intra-Host Larval Migration Pathway:**
     - Human / Rodent Pathway: Ingested embryonated eggs hatch in the stomach and upper small intestine (duodenum), releasing six-hooked oncospheres. Oncospheres actively penetrate the intestinal mucosa into mesenteric venules and enter the portal vein circulation.
     - Primary Hepatic Localization: Almost 100% of oncospheres filter out in the hepatic sinusoids, establishing primary infection in the liver.
-    - Invasive Infiltration & Metastasis: Over years, the metacestode grows via exogenous budding, infiltrating adjacent liver parenchyma, hepatic veins, and portal triads. Advanced lesions metastasize hematogenously or lymphatically to secondary distant organ sites (lungs, brain, [[spleen]], peritoneum).
+    - Invasive Infiltration & Metastasis: Over years, the metacestode grows via exogenous budding, infiltrating adjacent liver parenchyma, hepatic veins, and portal triads. Advanced lesions metastasize hematogenously or lymphatically to secondary distant organ sites (lungs, brain, [[Spleen]], peritoneum).
     - Definitive Host Cycle: Carnivores ingest infected wild rodents containing visceral metacestodes with protoscolices. Protoscolices attach to small intestinal mucosa and mature into adult tapeworms in approximately 28 to 35 days.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage in Humans: Infiltrative multilocular/alveolar metacestode lesion in the liver (diagnosed via US/CT/MRI imaging, Em2-specific serology, or histopathological/PCR identification of PAS-positive laminated walls in tissue biopsy).
@@ -92,14 +92,14 @@ draft: false
 *   **Tissue Invasion & Structural Damage:**
     - Malignant Parasitic Growth: Behaves like a slow-growing carcinoma ("malignant parasitosis"). The absence of a limiting host pericyst or fibrous capsule allows continuous exogenous budding and progressive local tissue destruction/invasion.
     - Hepatic Infiltration & Necrosis: Infiltrates hepatic lobules, central veins, and bile ducts, accompanied by extensive central ischemic necrosis, cavitation, fibrosis, and microcalcifications within the lesion mass.
-    - Metastatic Dissemination: Can breach hepatic veins and lymphatics to form metastatic secondary foci in the lungs, brain, [[spleen]], or peritoneal cavity.
+    - Metastatic Dissemination: Can breach hepatic veins and lymphatics to form metastatic secondary foci in the lungs, brain, [[Spleen]], or peritoneal cavity.
 *   **Mechanical Obstruction:**
     - Biliary & Vascular Occlusion: Extravascular compression and direct invasion of portal vein branches, hepatic veins, and common bile duct cause severe intrahepatic biliary obstruction, cholestatic jaundice, portal hypertension, ascites, and liver failure.
 *   **Nutritional Depletion & Anemia:**
     - Absorbs nutrients directly across its thin laminated membrane. Chronic infiltration leads to cancer-like cachexia, progressive weight loss, and secondary normocytic anemia.
 *   **Immune Evasion Strategies:**
-    - Immune Checkpoint Upregulation (PD-1 / PD-L1 & TIGIT Pathways): Chronic infection upregulates PD-1 / PD-L1 expression on host cells, promoting CD4+ CD25+ regulatory [[T Cell|T-cell]] (Treg) expansion and increased immunosuppressive cytokines (IL-10 and TGF-beta).
-    - Hepatocyte CD155 Expression: Hepatocytes in contact with infiltrating T-cells express high levels of CD155 (TIGIT ligand), inducing [[T Cell|T-cell]] exhaustion and periparasitic immune tolerance.
+    - Immune Checkpoint Upregulation (PD-1 / PD-L1 & TIGIT Pathways): Chronic infection upregulates PD-1 / PD-L1 expression on host cells, promoting CD4+ CD25+ regulatory [[T-Cell|T-cell]] (Treg) expansion and increased immunosuppressive cytokines (IL-10 and TGF-beta).
+    - Hepatocyte CD155 Expression: Hepatocytes in contact with infiltrating T-cells express high levels of CD155 (TIGIT ligand), inducing [[T-Cell|T-cell]] exhaustion and periparasitic immune tolerance.
     - Thin Laminated Layer: Thin PAS-positive acellular laminated layer shields budding germinal cells from effective host cell-mediated destruction.
 *   **Host Defense & Immunodeficiency Links:**
     - Accelerated Progression in Immunosuppression: In patients receiving immunosuppressive chemotherapy, systemic corticosteroids, or with cellular immunodeficiencies (e.g., organ transplant recipients), disease progression is dramatically accelerated, leading to rapid tumor-like expansion and early metastasis.
@@ -159,7 +159,7 @@ draft: false
     - Surgical Resection (R0 Resection): Radical surgical excision of the liver mass with a wide margin of clear liver tissue (R0 resection) is the ONLY curative option. Must be combined with mandatory adjuvant [[albendazole]] therapy for at least 2 years post-operatively.
     - Inoperable Disease Management: In non-resectable cases (present in >70–80% of patients at diagnosis due to advanced vascular/biliary invasion), continuous life-long parasitostatic [[albendazole]] therapy is mandatory.
     - Avoidance of PAIR / Percutaneous Procedures: Percutaneous aspiration (PAIR) is CONTRAINDICATED in alveolar echinococcosis due to the infiltrative, solid, microvesicular nature of the lesion and high risk of spreading viable germinal cells.
-    - Experimental Immunotherapy: Experimental studies blocking immune checkpoints (anti-PD-L1, TIGIT inhibitors) or using recombinant Em 14-3-3 antigen vaccines demonstrate potential for reversing [[T Cell|T-cell]] exhaustion and inhibiting parasite progression.
+    - Experimental Immunotherapy: Experimental studies blocking immune checkpoints (anti-PD-L1, TIGIT inhibitors) or using recombinant Em 14-3-3 antigen vaccines demonstrate potential for reversing [[T-Cell|T-cell]] exhaustion and inhibiting parasite progression.
 *   **Prophylaxis, Sanitation & Food Safety:**
     - Personal Hygiene & Pelt Safety: Wearing gloves and dust masks when handling wild fox/coyote pelts or furs; thorough handwashing with soap and water after dog/cat contact.
     - Food & Water Sanitation: Washing all wild-picked berries, mushrooms, and raw vegetables thoroughly before eating; boiling surface water in endemic forest regions.

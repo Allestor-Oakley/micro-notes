@@ -70,11 +70,11 @@ draft: false
 *   **Primary Diseases:**
     *   *Cat-Scratch Disease (CSD):* Usually a benign, self-limited illness in immunocompetent individuals (especially children) characterized by a primary skin lesion (papule or pustule) at the site of the scratch, followed by markedly enlarged, chronic, and sometimes suppurative regional lymphadenopathy.
     *   *Bacillary Angiomatosis:* A vascular proliferative disease primarily seen in immunocompromised patients, characterized by multiple blood-filled nodules involving the skin, subcutaneous tissues, and bones.
-    *   *Peliosis Hepatis / Splenic Peliosis:* Blood-filled cysts and vascular proliferation involving the liver and [[spleen]] in immunocompromised individuals.
+    *   *Peliosis Hepatis / Splenic Peliosis:* Blood-filled cysts and vascular proliferation involving the liver and [[Spleen]] in immunocompromised individuals.
 *   **Secondary, Atypical & Alternate Presentations:** Subacute bacterial endocarditis (culture-negative endocarditis), Parinaud's oculoglandular syndrome (preauricular lymphadenopathy and conjunctivitis), neuroretinitis, osteomyelitis, encephalopathy, meningitis, and chronic bacteremia with recurrent fevers.
 *   **Incubation Period:** For cat-scratch disease, fever and lymphadenopathy typically develop 1 to 3 weeks after contact with a cat.
 *   **Pathognomonic Signs:** In CSD, an initial papule at a scratch site followed by chronic regional adenopathy. In bacillary angiomatosis, cutaneous red, blood-filled papules or nodules resembling Kaposi sarcoma or verruga peruana.
-*   **Complications & Sequelae:** Dissemination to the central nervous system, liver, [[spleen]], or eyes. Untreated systemic infections in [[HIV]]/AIDS patients carry significant morbidity.
+*   **Complications & Sequelae:** Dissemination to the central nervous system, liver, [[Spleen]], or eyes. Untreated systemic infections in [[HIV]]/AIDS patients carry significant morbidity.
 
 #### Epidemiology & Transmission
 *   **Reservoir:** Domestic cats (particularly young kittens and feral cats) are the primary reservoir. Up to a third of cats may carry the bacteria asymptomatically in their oropharynx and erythrocytes.
@@ -83,9 +83,9 @@ draft: false
 *   **Public Health & Isolation:** N/A
 
 #### Advanced Laboratory Diagnostics
-*   **Direct Visualization & Stains:** Routine Gram staining is poorly effective. Organisms are best visualized in tissue sections (within capillary walls, microabscesses, or [[lymph nodes]]) using the Warthin-Starry silver impregnation stain. Immunofluorescent stains can also be used.
+*   **Direct Visualization & Stains:** Routine Gram staining is poorly effective. Organisms are best visualized in tissue sections (within capillary walls, microabscesses, or [[Lymph Nodes]]) using the Warthin-Starry silver impregnation stain. Immunofluorescent stains can also be used.
 *   **Molecular Testing:** Polymerase chain reaction (PCR) amplification of tissues (lymph node, cardiac valve, skin, liver) or blood is highly specific. Because eubacterial PCR sensitivity can be low, the recommended strategy uses two different target genes simultaneously (e.g., the ITS region and pap31), utilizing a third gene (like groEL) if results are discordant.
-*   **Serology & Immunology:** Serologic testing—specifically Indirect Fluorescent Antibody (IFA) tests and microimmunofluorescence—is the mainstay and most reliable diagnostic method for CSD, as culture from immunocompetent [[lymph nodes]] is almost always negative. Cross-reactions with *Coxiella* and *Chlamydia* can occasionally occur.
+*   **Serology & Immunology:** Serologic testing—specifically Indirect Fluorescent Antibody (IFA) tests and microimmunofluorescence—is the mainstay and most reliable diagnostic method for CSD, as culture from immunocompetent [[Lymph Nodes]] is almost always negative. Cross-reactions with *Coxiella* and *Chlamydia* can occasionally occur.
 
 #### Pharmacology, Prevention & Prophylaxis
 *   **First-Line Treatment:** [[Azithromycin]], [[Erythromycin]], or other macrolides. [[Doxycycline]] is also a primary treatment of choice, particularly for bacteremia or bacillary angiomatosis (often combined with [[Gentamicin]] for severe systemic infections).
@@ -96,4 +96,4 @@ draft: false
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Cat-scratch disease", "bacillary angiomatosis", "peliosis hepatis", "Warthin-Starry silver stain", "blood-filled nodules", "actin-dependent invasome", "Parinaud's oculoglandular syndrome".
-*   **Exceptions to the Rule:** Unlike most bacterial infections which trigger a standard suppurative or granulomatous immune response, *Bartonella henselae* uniquely induces profound vascular proliferation (angiogenesis) in immunocompromised hosts. Furthermore, while the organism is extremely difficult to culture from the [[lymph nodes]] of immunocompetent CSD patients (due to efficient immune clearance), it can often be cultured from the blood or tissue of [[HIV]]-infected patients due to uncontrolled replication.
+*   **Exceptions to the Rule:** Unlike most bacterial infections which trigger a standard suppurative or granulomatous immune response, *Bartonella henselae* uniquely induces profound vascular proliferation (angiogenesis) in immunocompromised hosts. Furthermore, while the organism is extremely difficult to culture from the [[Lymph Nodes]] of immunocompetent CSD patients (due to efficient immune clearance), it can often be cultured from the blood or tissue of [[HIV]]-infected patients due to uncontrolled replication.

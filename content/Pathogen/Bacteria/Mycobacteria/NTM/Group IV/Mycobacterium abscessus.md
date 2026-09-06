@@ -52,7 +52,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is exogenous. The organism is introduced into the deep subcutaneous tissues through trauma, surgery, or iatrogenic procedures (e.g., contaminated intravenous catheters, wound dressings, prosthetic devices, peritoneal dialysis, or bronchoscopy).
 *   **Intracellular vs Extracellular Survival:** Intracellular pathogen capable of surviving within host cells.
-*   **Immune Evasion Strategies:** Its highly hydrophobic, lipid-rich cell wall protects the bacterium against [[macrophage]]-mediated intracellular killing and other host immune clearance mechanisms.
+*   **Immune Evasion Strategies:** Its highly hydrophobic, lipid-rich cell wall protects the bacterium against [[Macrophage]]-mediated intracellular killing and other host immune clearance mechanisms.
 *   **Host Defense & Immunodeficiency Links:** As an opportunistic pathogen, it possesses relatively low intrinsic virulence potential. However, it can cause severe disease in specific vulnerable populations, particularly those with compromised pulmonary systems (like cystic fibrosis) or immunocompromised states.
 
 #### Clinical Syndromes

@@ -57,7 +57,7 @@ draft: false
 *   **Primary Diseases:** Chancroid (soft chancre), a sexually transmitted genital ulcer disease.
 *   **Secondary, Atypical & Alternate Presentations:** Severe inguinal lymphadenitis (painful buboes). Phagedenic chancroid, characterized by destructive, necrotic ulceration of the penile shaft, can occur in severe cases.
 *   **Incubation Period:** 3 to 5 days.
-*   **Pathognomonic Signs:** A tender genital papule with an erythematous base that rapidly ulcerates (within 24 hours to a few days) into a highly painful, ragged ulcer, accompanied by marked swelling and tender, enlarged regional (inguinal) [[lymph nodes]].
+*   **Pathognomonic Signs:** A tender genital papule with an erythematous base that rapidly ulcerates (within 24 hours to a few days) into a highly painful, ragged ulcer, accompanied by marked swelling and tender, enlarged regional (inguinal) [[Lymph Nodes]].
 *   **Complications & Sequelae:** Suppurative and painful inguinal buboes that may rupture or require drainage; extensive tissue destruction in phagedenic chancroid.
 
 #### Epidemiology & Transmission
