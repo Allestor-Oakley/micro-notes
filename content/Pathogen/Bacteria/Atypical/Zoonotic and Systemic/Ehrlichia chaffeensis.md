@@ -47,7 +47,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Transmitted to humans via the bite of an infected tick. The host-derived cholesterol in the bacterial cell wall facilitates entry into the host's mammalian cells.
-*   **Intracellular vs Extracellular Survival:** Obligate intracellular pathogen. It highly adapts to reside, survive, and replicate inside the phagocytic vacuoles of circulating blood [[Monocyte|monocytes]] and tissue [[Macrophage|macrophages]].
+*   **Intracellular vs Extracellular Survival:** Obligate intracellular pathogen. It highly adapts to reside, survive, and replicate inside the phagocytic vacuoles of circulating blood [[Monocyte and Macrophage|monocytes]] and tissue [[Monocyte and Macrophage|macrophages]].
 *   **Immune Evasion Strategies:** Its intracellular growth protects the bacteria from humoral immune clearance. It also exhibits the ability to prevent the fusion of the phagosome with host cellular lysosomes.
 *   **Host Defense & Immunodeficiency Links:** The pathology of the infection is disproportionate to the actual microbial burden in the tissues. The organism disturbs normal mononuclear phagocytic function and dysregulates the inflammatory response, meaning the host's own immune response is responsible for much of the tissue damage. Immunocompromised patients are at a severe risk of developing a fulminant, potentially fatal septic syndrome.
 
@@ -65,7 +65,7 @@ draft: false
 *   **Public Health & Isolation:** Disease prevention relies strictly on avoiding tick-infested areas, wearing protective clothing, applying effective insect repellents, and promptly removing embedded ticks.
 
 #### Advanced Laboratory Diagnostics
-*   **Direct Visualization & Stains:** Routine Gram stains are ineffective due to the organism's lack of peptidoglycan. Giemsa or Gimenez stains of peripheral blood smears can occasionally reveal characteristic intracytoplasmic inclusions (morulae) within [[Monocyte|monocytes]], though this method is relatively insensitive.
+*   **Direct Visualization & Stains:** Routine Gram stains are ineffective due to the organism's lack of peptidoglycan. Giemsa or Gimenez stains of peripheral blood smears can occasionally reveal characteristic intracytoplasmic inclusions (morulae) within [[Monocyte and Macrophage|monocytes]], though this method is relatively insensitive.
 *   **Molecular Testing:** Polymerase chain reaction (PCR) targeting specific pathogenic DNA in blood samples is a highly reliable and sensitive diagnostic test.
 *   **Serology & Immunology:** Detection of an antibody response using indirect fluorescent antibody (IFA) assays or microimmunofluorescence is widely used to confirm the diagnosis retrospectively.
 
@@ -77,5 +77,5 @@ draft: false
 *   **Prophylaxis & Vaccine Protocols:** No vaccines are currently available.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Lone-star tick" (Amblyomma americanum), "morulae" in [[Monocyte|monocytes]], human monocytic ehrlichiosis (HME), "Fort Chaffee" (namesake), leukopenia and thrombocytopenia.
+*   **Buzzwords & Descriptors:** "Lone-star tick" (Amblyomma americanum), "morulae" in [[Monocyte and Macrophage|monocytes]], human monocytic ehrlichiosis (HME), "Fort Chaffee" (namesake), leukopenia and thrombocytopenia.
 *   **Exceptions to the Rule:** Extremely unusual for a Gram-negative bacterium, Ehrlichia chaffeensis entirely lacks the genes for lipid A biosynthesis (meaning it produces no endotoxin/LPS) and lacks a peptidoglycan cell wall. Instead, it "steals" cholesterol from the host cell to build and stabilize its own membrane. Furthermore, despite being closely related to Chlamydia (another obligate intracellular pathogen), Ehrlichia species are uniquely capable of synthesizing their own ATP.

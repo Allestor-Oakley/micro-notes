@@ -47,7 +47,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is acquired through contact with or ingestion of contaminated environmental sources (such as soil, water, or moist foods).
 *   **Intracellular vs Extracellular Survival:** Intracellular pathogen capable of surviving within host cells.
-*   **Immune Evasion Strategies:** The lipid-rich, mycolic acid-heavy cell wall provides significant protection from host immune clearance and intracellular [[Macrophage]] killing.
+*   **Immune Evasion Strategies:** The lipid-rich, mycolic acid-heavy cell wall provides significant protection from host immune clearance and intracellular [[Monocyte and Macrophage]] killing.
 *   **Host Defense & Immunodeficiency Links:** Can act as a saprophyte (colonizer) in adults with underlying chronic lung disease.
 
 #### Clinical Syndromes

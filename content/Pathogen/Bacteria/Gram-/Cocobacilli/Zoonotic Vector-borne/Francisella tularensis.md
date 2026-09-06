@@ -65,7 +65,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Acquired via the bite of an infected arthropod (e.g., hard ticks, deerflies), direct contact with infected animal tissue (e.g., skinning rabbits, cat bites), inhalation of infectious aerosols, or ingestion of contaminated food and water.
-*   **Intracellular vs Extracellular Survival:** Obligate intracellular pathogen capable of infecting and replicating within [[Macrophage|macrophages]], neutrophils, epithelial cells, and endothelial cells.
+*   **Intracellular vs Extracellular Survival:** Obligate intracellular pathogen capable of infecting and replicating within [[Monocyte and Macrophage|macrophages]], neutrophils, epithelial cells, and endothelial cells.
 *   **Immune Evasion Strategies:** The thin lipid capsule is antiphagocytic. Once engulfed, the bacterium secretes proteins that prevent phagolysosome fusion, allowing the bacteria to escape from the phagosome and replicate freely within the host cell cytosol. It is highly resistant to killing in serum and by phagocytes.
 *   **Host Defense & Immunodeficiency Links:** Clearance requires protective cellular immunity (inactivated vaccines fail to elicit this, rendering them ineffective). Opportunistic species (e.g., F. novicida and F. philomiragia) have a strong predilection for causing disease in patients with immunologic deficiencies, such as chronic granulomatous disease or myeloproliferative diseases.
 

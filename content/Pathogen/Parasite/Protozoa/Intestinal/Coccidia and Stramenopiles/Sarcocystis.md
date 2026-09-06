@@ -103,7 +103,7 @@ draft: false
     - Direct Saline / Iodine Wet Mount of Stool: Unstained or iodine-stained wet mounts reveal small, clear, oval, fully sporulated oocysts (15–19 × 15–20 µm) or, more commonly, released individual or paired oval sporocysts (15–19 × 8–10 µm) containing 4 crescentic sporozoites.
     - Autofluorescence Microscopy: Sporocysts autofluoresce under UV epifluorescence microscopy.
     - Modified Acid-Fast Stain: Sporocysts stain acid-fast positive (bright red/pink against a blue or green background). Routine Wheatley's trichrome stains sporocysts poorly.
-    - Muscle Histopathology (H&E Stain, PAS): Biopsy of skeletal muscle reveals cross-sections and longitudinal profiles of cylindrical sarcocysts inside muscle fibers. Sarcocysts feature a distinct, outer wall with internal partitions enclosing densely packed banana-shaped bradyzoites (zoites). Surrounding muscle shows localized myositis with eosinophils, lymphocytes, [[Macrophage|macrophages]], vasculitis, and focal myonecrosis.
+    - Muscle Histopathology (H&E Stain, PAS): Biopsy of skeletal muscle reveals cross-sections and longitudinal profiles of cylindrical sarcocysts inside muscle fibers. Sarcocysts feature a distinct, outer wall with internal partitions enclosing densely packed banana-shaped bradyzoites (zoites). Surrounding muscle shows localized myositis with eosinophils, lymphocytes, [[Monocyte and Macrophage|macrophages]], vasculitis, and focal myonecrosis.
 *   **Concentration & Stool O&P Techniques:**
     - Formalin-Ethyl Acetate Sedimentation Concentration: Standard method for concentrating thin-walled oocysts and free sporocysts from fecal samples (centrifugation at 500 × g for 10 minutes).
 *   **Serology & Rapid Antigen Tests:**

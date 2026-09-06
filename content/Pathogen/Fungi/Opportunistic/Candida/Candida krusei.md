@@ -48,7 +48,7 @@ draft: false
 *   **Host Immune Evasion:** Highly notable for its intrinsic resistance to [[Fluconazole]]. Other virulence factors include adherence capabilities, cell-surface hydrophobicity, cell wall mannans, and the capacity for phenotypic switching.
 *   **Thermal Tolerance Mechanisms:** Readily grows and proliferates at 37°C.
 *   **Toxins:** N/A
-*   **Host Defense & Immunodeficiency Links:** Innate host defenses, specifically neutrophils and [[Monocyte|monocytes]], provide crucial protection against systemic infection. Patients with severe immunosuppression, prolonged neutropenia, hematologic malignancies, solid organ or stem cell transplantation, and extensive gastrointestinal mucosal damage from chemotherapeutic agents are at extreme risk for invasive disease.
+*   **Host Defense & Immunodeficiency Links:** Innate host defenses, specifically neutrophils and [[Monocyte and Macrophage|monocytes]], provide crucial protection against systemic infection. Patients with severe immunosuppression, prolonged neutropenia, hematologic malignancies, solid organ or stem cell transplantation, and extensive gastrointestinal mucosal damage from chemotherapeutic agents are at extreme risk for invasive disease.
 
 #### Clinical Syndromes
 *   **Primary Infection:** Simple mucosal colonization, mucocutaneous candidiasis, and oral/vaginal thrush.

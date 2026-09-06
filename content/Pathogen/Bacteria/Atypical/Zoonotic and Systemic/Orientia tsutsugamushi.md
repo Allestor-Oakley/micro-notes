@@ -75,7 +75,7 @@ draft: false
 *   **Public Health & Isolation:** Disease prevention depends on avoiding mite-infested areas (scrub habitats), using protective clothing, and applying effective insect repellents.
 
 #### Advanced Laboratory Diagnostics
-*   **Direct Visualization & Stains:** Immunohistochemical staining or direct immunofluorescence of eschar biopsies can reveal intracellular bacteria within antigen-presenting cells ([[Dendritic Cell|dendritic cells]] and [[Monocyte|monocytes]]) in the superficial dermis.
+*   **Direct Visualization & Stains:** Immunohistochemical staining or direct immunofluorescence of eschar biopsies can reveal intracellular bacteria within antigen-presenting cells ([[Dendritic Cell|dendritic cells]] and [[Monocyte and Macrophage|monocytes]]) in the superficial dermis.
 *   **Molecular Testing:** Polymerase chain reaction (PCR) assays targeting the 47 kDa, 56 kDa, 16S rRNA, or groEL genes from blood or eschar specimens are highly accurate and are the preferred method for early diagnosis (before day 10 of fever when serology performs poorly).
 *   **Serology & Immunology:** Indirect immunofluorescence assay (IFA) is the traditional reference standard. Enzyme-linked immunosorbent assays (ELISAs) and Rapid Diagnostic Tests (RDTs) utilizing IgM and IgG against the 56-kDa type-specific antigen are frequently used in the field.
 

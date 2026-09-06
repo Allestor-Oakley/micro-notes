@@ -14,7 +14,7 @@ Welcome to micro(biology)-notes
 		- Antiparasitic
 		- Antiviral
 	- Immunomodulator (*In progress*)
-- Immune (*In progress*)
+- Immune
 - Lab (*In progress*)
 - Pathogen
 	- Bacteria

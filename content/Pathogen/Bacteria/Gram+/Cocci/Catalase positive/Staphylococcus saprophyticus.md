@@ -25,7 +25,7 @@ draft: false
 ### Staphylococcus saprophyticus
 
 #### Molecular Microbiology & Morphology
-*   **Cell Wall / Membrane Features:** Thick, rigid peptidoglycan layer that provides osmotic stability and has endotoxin-like activity (stimulates production of endogenous pyrogens, activates complement, produces interleukin-1 from [[Monocyte|monocytes]], and acts as a leukocyte chemoattractant). Teichoic acids and lipoteichoic acids are bound to the peptidoglycan and cytoplasmic membrane.
+*   **Cell Wall / Membrane Features:** Thick, rigid peptidoglycan layer that provides osmotic stability and has endotoxin-like activity (stimulates production of endogenous pyrogens, activates complement, produces interleukin-1 from [[Monocyte and Macrophage|monocytes]], and acts as a leukocyte chemoattractant). Teichoic acids and lipoteichoic acids are bound to the peptidoglycan and cytoplasmic membrane.
 *   **Appendages:** N/A (Nonmotile, lacks flagella).
 *   **Capsule Composition & Structure:** Produces a loose-bound, water-soluble extracellular film called a slime layer or biofilm consisting of monosaccharides, proteins, and small peptides. This slime layer facilitates adherence to tissues and foreign bodies and protects the bacteria.
 *   **Spore Characteristics & Germination:** Non-spore-forming.
@@ -48,7 +48,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection generally originates via endogenous spread. The organism has a marked predilection for causing infections in the urinary tract, particularly in young, sexually active females. Adherence to host tissues is facilitated by its slime layer and microbial surface components recognizing adhesive matrix molecules (MSCRAMMs).
 *   **Intracellular vs Extracellular Survival:** Extracellular.
-*   **Immune Evasion Strategies:** The extracellular slime layer/biofilm protects the bacterial colony from phagocytosis by polymorphonuclear leukocytes and [[Macrophage|macrophages]].
+*   **Immune Evasion Strategies:** The extracellular slime layer/biofilm protects the bacterial colony from phagocytosis by polymorphonuclear leukocytes and [[Monocyte and Macrophage|macrophages]].
 *   **Host Defense & Immunodeficiency Links:** N/A
 
 #### Clinical Syndromes

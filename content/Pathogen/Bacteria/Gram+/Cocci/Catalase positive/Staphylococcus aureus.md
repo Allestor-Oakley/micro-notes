@@ -54,7 +54,7 @@ draft: false
 ### Staphylococcus aureus
 
 #### Molecular Microbiology & Morphology
-*   **Cell Wall / Membrane Features:** Thick, rigid peptidoglycan layer (150 to 500 Å) consisting of multiple cross-linked layers of alternating N-acetylglucosamine and N-acetylmuramic acid subunits. The peptide cross-links contain a pentaglycine bridge and L-lysine. The cell wall contains teichoic acids (species-specific, phosphate-containing polymers of polyribitol phosphate covalently bound to peptidoglycan) and lipoteichoic acids (anchored in the cytoplasmic membrane). The peptidoglycan provides osmotic stability and has endotoxin-like activity (stimulates endogenous pyrogens, activates complement, produces IL-1 from [[Monocyte|monocytes]], and acts as a leukocyte chemoattractant).
+*   **Cell Wall / Membrane Features:** Thick, rigid peptidoglycan layer (150 to 500 Å) consisting of multiple cross-linked layers of alternating N-acetylglucosamine and N-acetylmuramic acid subunits. The peptide cross-links contain a pentaglycine bridge and L-lysine. The cell wall contains teichoic acids (species-specific, phosphate-containing polymers of polyribitol phosphate covalently bound to peptidoglycan) and lipoteichoic acids (anchored in the cytoplasmic membrane). The peptidoglycan provides osmotic stability and has endotoxin-like activity (stimulates endogenous pyrogens, activates complement, produces IL-1 from [[Monocyte and Macrophage|monocytes]], and acts as a leukocyte chemoattractant).
 *   **Appendages:** N/A (Nonmotile, lacks flagella).
 *   **Capsule Composition & Structure:** Produces an outer polysaccharide capsule consisting of 11 identified serotypes. Serotypes 1 and 2 produce very thick capsules and mucoid colonies but rarely cause human disease. Serotypes 5 and 8 are responsible for approximately 75% of human infections. Most strains also produce a loose-bound, water-soluble extracellular film (slime layer or biofilm) consisting of monosaccharides, proteins, and small peptides.
 *   **Spore Characteristics & Germination:** Non-spore-forming.
@@ -71,11 +71,11 @@ draft: false
     *   **Toxin Name:** Alpha toxin
     *   **Mechanism of Action:** 33,000-Da polypeptide that disrupts smooth muscle in blood vessels and is toxic to erythrocytes, leukocytes, hepatocytes, and platelets. Binds to the cell surface, aggregates into a heptamer, forms a 1- to 2-nm pore, and allows rapid efflux of K+ and influx of Na+ and Ca2+, leading to osmotic swelling, cell lysis, and extensive tissue damage.
     *   **Toxin Name:** Beta toxin (sphingomyelinase C)
-    *   **Mechanism of Action:** 35,000-Da heat-labile protein that hydrolyzes membrane phospholipids (sphingomyelin and lysophosphatidylcholine) with toxicity proportional to sphingomyelin concentration on the cell surface. Toxic to erythrocytes (mostly at low temperatures), fibroblasts, leukocytes, and [[Macrophage|macrophages]].
+    *   **Mechanism of Action:** 35,000-Da heat-labile protein that hydrolyzes membrane phospholipids (sphingomyelin and lysophosphatidylcholine) with toxicity proportional to sphingomyelin concentration on the cell surface. Toxic to erythrocytes (mostly at low temperatures), fibroblasts, leukocytes, and [[Monocyte and Macrophage|macrophages]].
     *   **Toxin Name:** Delta toxin
     *   **Mechanism of Action:** 3,000-Da polypeptide with wide-spectrum cytolytic activity affecting erythrocytes, mammalian cells, and intracellular membrane structures. Acts as a surfactant, disrupting cellular membranes via detergent-like action.
     *   **Toxin Name:** Gamma toxin
-    *   **Mechanism of Action:** Bicomponent toxin consisting of S (slow-eluting) and F (fast-eluting) chains (e.g., HlgA/HlgB, HlgC/HlgB). Lyses neutrophils and [[Macrophage|macrophages]] by pore formation, increasing permeability to cations and causing osmotic instability.
+    *   **Mechanism of Action:** Bicomponent toxin consisting of S (slow-eluting) and F (fast-eluting) chains (e.g., HlgA/HlgB, HlgC/HlgB). Lyses neutrophils and [[Monocyte and Macrophage|macrophages]] by pore formation, increasing permeability to cations and causing osmotic instability.
     *   **Toxin Name:** Panton-Valentine (P-V) leukocidin
     *   **Mechanism of Action:** Phage-encoded bicomponent toxin (LukS-PV/LukF-PV). Lacks hemolytic activity but is highly leukotoxic. Causes pore formation in white blood cell membranes, increasing cation permeability and triggering massive release of inflammatory mediators (IL-8, leukotriene, histamine), leading to severe necrosis and inflammation (heavily associated with CA-MRSA pulmonary and cutaneous infections).
     *   **Toxin Name:** Exfoliative toxins (ETA and ETB)
@@ -101,7 +101,7 @@ draft: false
     *   Capsule and slime layer/biofilm inhibit chemotaxis and phagocytosis.
     *   Protein A binds the Fc portion of IgG (IgG1, IgG2, IgG4), preventing antibody-mediated clearance, opsonization, and complement activation, and acts as a leukocyte chemoattractant.
     *   Coagulase produces a fibrin clot around the bacteria/abscess, protecting them from phagocytes.
-    *   Cytolytic toxins (gamma toxin, P-V leukocidin) directly lyse neutrophils and [[Macrophage|macrophages]].
+    *   Cytolytic toxins (gamma toxin, P-V leukocidin) directly lyse neutrophils and [[Monocyte and Macrophage|macrophages]].
     *   Produces catalase to neutralize reactive oxygen species (hydrogen peroxide) generated by phagocytes.
     *   Pyogenic response limits antibody and antibiotic access.
 *   **Host Defense & Immunodeficiency Links:** Individuals with congenital diseases associated with impaired chemotactic or phagocytic responses (e.g., Job syndrome, Wiskott-Aldrich syndrome, chronic granulomatous disease) are highly susceptible. Other high-risk groups include patients with intravascular catheters/shunts, neutropenia, diabetes mellitus, severe eczema, antecedent viral respiratory infections (e.g., [[Influenza]]), cystic fibrosis, IV drug abusers, and those with poor personal hygiene.

@@ -51,7 +51,7 @@ draft: false
 *   **Entry & Attachment Mechanism:** Transmitted to humans via the bite of an infected tick (specifically the nymph stage, which is most commonly associated with human disease).
 *   **Intracellular vs Extracellular Survival:** Obligate intracellular pathogen. It specifically infects circulating leukocytes, localizing in granulocytes (neutrophils, eosinophils, and basophils). It multiplies within phagocytic vacuoles to form characteristic mulberry-like clusters called morulae.
 *   **Immune Evasion Strategies:** Intracellular growth protects the bacteria from immune clearance. It successfully survives by preventing the fusion of the phagosome with lysosomes inside granulocytes.
-*   **Host Defense & Immunodeficiency Links:** The pathology of the disease appears to be related to [[Macrophage]] activation and the host's initiated inflammatory response.
+*   **Host Defense & Immunodeficiency Links:** The pathology of the disease appears to be related to [[Monocyte and Macrophage]] activation and the host's initiated inflammatory response.
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Human granulocytic anaplasmosis (HGA), formerly known as human granulocytic ehrlichiosis (HGE). It predominantly presents as an acute, nonspecific flulike illness characterized by high fever, headache, malaise, nausea, vomiting, anorexia, weight loss, and myalgias.

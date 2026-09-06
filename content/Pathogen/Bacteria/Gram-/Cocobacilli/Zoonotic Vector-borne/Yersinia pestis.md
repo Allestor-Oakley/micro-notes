@@ -53,15 +53,15 @@ draft: false
 *   **Secretion Systems:** Possesses a Type III secretion system (T3SS), encoded by the 70-kb pCD1 plasmid, that translocates effector proteins (Yops) into the host cell cytoplasm.
 *   **Exotoxins:**
     *   **Toxin Name:** Yersinia outer proteins (Yops), including YopE, YopH, and YopJ/P.
-    *   **Mechanism of Action:** Effector proteins are injected via the T3SS. YopH dephosphorylates proteins required for phagocytosis; YopE induces cytotoxicity by disrupting actin filaments; and YopJ/P initiates apoptosis in [[Macrophage|macrophages]] and suppresses host cytokine production.
+    *   **Mechanism of Action:** Effector proteins are injected via the T3SS. YopH dephosphorylates proteins required for phagocytosis; YopE induces cytotoxicity by disrupting actin filaments; and YopJ/P initiates apoptosis in [[Monocyte and Macrophage|macrophages]] and suppresses host cytokine production.
 *   **Endotoxins & Superantigens:** Lipopolysaccharide (LPS) possesses typical endotoxin activity when released.
 *   **Enzymes:** Temperature-dependent coagulase/plasminogen-activating protease (active at 20-28°C to block the flea proventriculus), which exhibits fibrinolytic activity at 35-37°C to degrade fibrin clots and complement components C3b and C5a, facilitating dissemination. Also produces phospholipase D, required for survival in the flea midgut.
 *   **Genetic Elements:** Features three critical plasmids (pCD1, pPCP1, and pFra). It also contains a chromosomal pathogenicity island (HPI/pgm) encoding the iron-scavenging siderophore yersiniabactin, and a chromosomal hms gene required for biofilm formation in the insect vector. Genetically, it evolved from Yersinia pseudotuberculosis within the last 20,000 years.
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Typically enters the mammalian host via the bite of an infected flea. In the flea, the bacteria form a biofilm that blocks the proventriculus; the starving flea bites ferociously and regurgitates the pathogen into the bite wound. Infection can also occur via direct contact with infected animal fluids/tissue or inhalation of infectious aerosols.
-*   **Intracellular vs Extracellular Survival:** Facultative intracellular. After inoculation, the organisms are phagocytosed; while polymorphonuclear cells kill them, they multiply successfully within [[Macrophage|macrophages]].
-*   **Immune Evasion Strategies:** The F1 protein capsule strongly resists phagocytosis. The organism utilizes its Type III secretion system to inject Yop effectors that block phagocytosis, suppress the inflammatory cytokine response, and induce [[Macrophage]] apoptosis. It also uses its plasminogen activator to degrade complement opsonins and expresses V and W antigens (LcrV) to circumvent the host immune system.
+*   **Intracellular vs Extracellular Survival:** Facultative intracellular. After inoculation, the organisms are phagocytosed; while polymorphonuclear cells kill them, they multiply successfully within [[Monocyte and Macrophage|macrophages]].
+*   **Immune Evasion Strategies:** The F1 protein capsule strongly resists phagocytosis. The organism utilizes its Type III secretion system to inject Yop effectors that block phagocytosis, suppress the inflammatory cytokine response, and induce [[Monocyte and Macrophage]] apoptosis. It also uses its plasminogen activator to degrade complement opsonins and expresses V and W antigens (LcrV) to circumvent the host immune system.
 *   **Host Defense & Immunodeficiency Links:** Buboes become necrotic and hemorrhagic, signaling that the host immune response has failed to contain the multiplying pathogen.
 
 #### Clinical Syndromes

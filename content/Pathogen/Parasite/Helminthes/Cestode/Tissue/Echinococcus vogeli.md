@@ -89,7 +89,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - Absorbs host nutrients directly across the outer laminated endocyst membrane into cyst fluid. Chronic advanced polycystic disease leads to abdominal distension, severe weight loss, cachexia, and secondary anemia.
 *   **Immune Evasion Strategies:**
-    - Laminated Layer & Fibrotic Encapsulation: Acellular, PAS-positive laminated layer shields inner germinal tissue and protoscolices from immediate cellular destruction by host [[Macrophage|macrophages]] and complement, permitting silent intrahepatic growth for years.
+    - Laminated Layer & Fibrotic Encapsulation: Acellular, PAS-positive laminated layer shields inner germinal tissue and protoscolices from immediate cellular destruction by host [[Monocyte and Macrophage|macrophages]] and complement, permitting silent intrahepatic growth for years.
 *   **Host Defense & Immunodeficiency Links:**
     - Elicits local host granulomatous inflammation and fibrous capsule formation. Spontaneous or intraoperative rupture of polycystic vesicles releases antigenic fluid, triggering acute IgE-mediated hypersensitivity, fever, urticaria, or anaphylactic shock.
 

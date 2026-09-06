@@ -118,7 +118,7 @@ draft: false
 *   **Nutritional Depletion & Anemia:**
     - Absorbs host simple nutrients directly across its outer laminated endocyst membrane into cyst fluid. Does NOT cause intestinal nutritional competition, Vitamin B12 deficiency, or megaloblastic anemia in the human host.
 *   **Immune Evasion Strategies:**
-    - Laminated Layer Physical Shield: Thick, acellular, non-nucleated laminated layer shields inner germinal cells and protoscolices from direct cellular contact and attack by host [[Macrophage|macrophages]], neutrophils, and complement.
+    - Laminated Layer Physical Shield: Thick, acellular, non-nucleated laminated layer shields inner germinal cells and protoscolices from direct cellular contact and attack by host [[Monocyte and Macrophage|macrophages]], neutrophils, and complement.
     - Low Immunological Reactivity: Intact, undamaged cysts maintain a state of low immunogenicity, allowing asymptomatic parasite survival in human tissues for decades.
 *   **Host Defense & Immunodeficiency Links:**
     - Severe Anaphylaxis & Dissemination Hazard: Cyst wall leakage or overt rupture (spontaneous, traumatic, or surgical/iatrogenic) releases highly antigenic hydatid fluid and protoscolices into circulation or peritoneal/pleural cavities. This triggers immediate severe IgE-mediated hypersensitivity reactions, widespread urticaria, bronchospasm, circulatory collapse, and life-threatening anaphylactic shock.

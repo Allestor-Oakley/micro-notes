@@ -49,7 +49,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is acquired via ingestion of contaminated, raw, or improperly cooked seafood (especially oysters), or through direct exposure of a superficial wound to contaminated seawater. Possesses surface proteins that mediate firm attachment to host cells.
 *   **Intracellular vs Extracellular Survival:** Extracellular pathogen.
-*   **Immune Evasion Strategies:** The acidic polysaccharide capsule protects the bacteria from phagocytosis. The organism is also capable of evading host immune responses by inducing [[Macrophage]] apoptosis.
+*   **Immune Evasion Strategies:** The acidic polysaccharide capsule protects the bacteria from phagocytosis. The organism is also capable of evading host immune responses by inducing [[Monocyte and Macrophage]] apoptosis.
 *   **Host Defense & Immunodeficiency Links:** Gastric acid provides a primary barrier; hypochlorhydria or medications like proton-pump inhibitors increase susceptibility. Extremely severe, life-threatening infections predominantly occur in immunocompromised patients, particularly those with underlying hepatic disease (cirrhosis, alcoholism), hemochromatosis, hemolytic anemia, hematopoietic malignancies, or chronic renal failure.
 
 #### Clinical Syndromes

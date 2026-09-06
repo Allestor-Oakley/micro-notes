@@ -80,7 +80,7 @@ draft: false
     - **Toxin Name:** N/A
     - **Mechanism of Action:** N/A
 *   **Endotoxins & Superantigens:**
-    - **Endotoxins:** Contains lipopolysaccharide (LPS) in its outer membrane. Although the lipid A moiety exhibits standard endotoxin activity capable of triggering [[Macrophage]] activation and systemic inflammatory cascades (contributing to severe septic shock), its activity is relatively low compared to some enteric Gram-negative rods.
+    - **Endotoxins:** Contains lipopolysaccharide (LPS) in its outer membrane. Although the lipid A moiety exhibits standard endotoxin activity capable of triggering [[Monocyte and Macrophage]] activation and systemic inflammatory cascades (contributing to severe septic shock), its activity is relatively low compared to some enteric Gram-negative rods.
     - **Superantigens:** N/A
 *   **Enzymes:**
     - Secretes extracellular degradative enzymes including proteases, lipases, lecithinase, and gelatinase, which damage host cell membranes, degrade structural proteins, and promote necrotizing tissue destruction and abscess formation.
@@ -102,7 +102,7 @@ draft: false
     - **Phenotypic Switching:** Rapidly undergoes colony morphology and phenotypic switching, allowing clonal populations to adapt dynamically to host immune pressures and tissue microenvironments.
     - **Siderophore Production:** Secretes a specialized high-affinity iron-chelating siderophore called malleobactin, which successfully sequesters host iron from iron-binding proteins (such as transferrin or lactoferrin) to support its own growth during intracellular and systemic infection.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host defense depends heavily on intact innate immune cascades, particularly functional neutrophils, [[Macrophage|macrophages]], and cell-mediated ([[T-Cell|T-cell]]) immune responses.
+    - Host defense depends heavily on intact innate immune cascades, particularly functional neutrophils, [[Monocyte and Macrophage|macrophages]], and cell-mediated ([[T-Cell|T-cell]]) immune responses.
     - Widespread systemic disease is strongly correlated with specific host predisposing factors that compromise clearance: **diabetes mellitus** represents the single most powerful clinical risk factor (strongly associated with severe, bacteremic infection). Other major links include chronic renal disease, chronic lung disease, and heavy alcohol use (alcoholism).
     - Notably, there is **no epidemiological or clinical association** between melioidosis and [[HIV]] infection or acquired CD4+ [[T-Cell|T-cell]] immunodeficiencies, though up to 20% of infected individuals present with no identifiable underlying host risk factor.
 
@@ -189,6 +189,6 @@ draft: false
     - "Monsoon wet season" (strongly correlated with peak incidence of acute [[sepsis]] and pneumonia in endemic tropical areas).
 *   **Exceptions to the Rule:**
     - **The Gram-negative Aminoglycoside/Polymyxin paradox:** Standard aerobic Gram-negative bacilli are highly susceptible to polymyxins ([[Polymyxin|colistin]]) and aminoglycosides ([[gentamicin]]), which are standard empirical agents. B. pseudomallei represents a major exception, being uniformly and intrinsically resistant to both classes.
-    - **Intracellular saprophyte:** It is extremely unusual for a free-living, environmental saprophyte (found abundantly in soil and surface mud) to also be a highly adapted, virulent facultative intracellular pathogen capable of invading host [[Macrophage|macrophages]], escaping phagosomes, and spreading directly cell-to-cell.
+    - **Intracellular saprophyte:** It is extremely unusual for a free-living, environmental saprophyte (found abundantly in soil and surface mud) to also be a highly adapted, virulent facultative intracellular pathogen capable of invading host [[Monocyte and Macrophage|macrophages]], escaping phagosomes, and spreading directly cell-to-cell.
     - **Beta-lactamase producer susceptible to [[Ceftazidime]]:** It produces active beta-lactamases that confer resistance to early penicillins and cephalosporins, yet it remains highly susceptible to [[ceftazidime]] (a third-generation [[cephalosporin]]) and carbapenems.
     - **The non-HIV immunodeficiency link:** Systemic opportunistic disease is strongly correlated with diabetes and chronic organ dysfunction rather than classic [[T-Cell|T-cell]] immunodeficiencies such as [[HIV]] infection.

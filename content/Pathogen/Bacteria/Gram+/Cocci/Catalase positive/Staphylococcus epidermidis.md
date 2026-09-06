@@ -57,7 +57,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Typically introduced through breaks in the skin, via surgical procedures, or during the insertion of foreign bodies (splinters, central venous catheters, shunts, artificial heart valves, or joint prostheses). The slime layer (biofilm) facilitates adherence to these foreign objects and host tissues. Microbial surface components recognizing adhesive matrix molecules (MSCRAMMs) may also mediate adherence.
 *   **Intracellular vs Extracellular Survival:** Primarily extracellular, but capable of phenotypic switching to Small Colony Variants (SCVs) to facilitate intracellular survival and persistence.
-*   **Immune Evasion Strategies:** The biofilm firmly protects the bacterial colony from phagocytosis by polymorphonuclear leukocytes and [[Macrophage|macrophages]], and physically blocks antimicrobial agents from reaching the bacteria.
+*   **Immune Evasion Strategies:** The biofilm firmly protects the bacterial colony from phagocytosis by polymorphonuclear leukocytes and [[Monocyte and Macrophage|macrophages]], and physically blocks antimicrobial agents from reaching the bacteria.
 *   **Host Defense & Immunodeficiency Links:** Primarily an opportunistic pathogen. Patients are at high risk when a foreign body is present, following surgical procedures, or when treated with broad-spectrum antibiotics that suppress normal microbial flora. Immunocompromised patients, the elderly, and neonates are highly susceptible.
 
 #### Clinical Syndromes

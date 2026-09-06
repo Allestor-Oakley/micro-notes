@@ -101,7 +101,7 @@ draft: false
     - Antigenic Variation (vir Multigene Family): Expresses a variant subtelomeric multigene family called vir, which encodes variable surface proteins that mediate immune evasion and potential attachment to ICAM-1.
     - Early Gametocytogenesis: Gametocytes mature rapidly (taking only ~4 days) and appear in peripheral blood almost simultaneously with initial clinical symptoms, enabling [[Mosquitoes|mosquito]] transmission before antimalarial treatment is initiated.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Parasite clearance relies on splenic filtration, [[Monocyte]]-[[Macrophage]] phagocytosis (via CD36 and Fc receptors), antibody-mediated opsonization, and proinflammatory cytokines (TNF-alpha, IFN-gamma, IL-12).
+    - Host Defense: Parasite clearance relies on splenic filtration, [[Monocyte and Macrophage]]-[[Monocyte and Macrophage]] phagocytosis (via CD36 and Fc receptors), antibody-mediated opsonization, and proinflammatory cytokines (TNF-alpha, IFN-gamma, IL-12).
     - Immunodeficiency Links: Co-infection with [[HIV]] or underlying immunosuppression (e.g., organ transplant recipients) impairs cellular and humoral clearance, leading to higher parasitemia levels, persistent disease, and elevated risk of severe complications or early relapse.
 
 #### Clinical Syndromes & Complications
@@ -154,7 +154,7 @@ draft: false
       - Schüffner's dots / stippling may be lost or fail to stain, obscuring species identification.
       - Male gametocytes exflagellate, producing long, thin microgametes that mimic Borrelia spirochetes.
       - Parasites may form ookinetes or elongated trophozoites, mimicking the crescent-shaped gametocytes of [[Plasmodium falciparum]].
-    - Automated Hematology Analyzer Abnormalities: Automated differential instruments (e.g., Sysmex XE-2100) frequently display pseudoeosinophilia and abnormal granulocyte-coded events in DIFF scattergrams (sensitivity 69.4%, specificity 100% for P. vivax). Cell-Dyn analyzers detect hemozoin-laden [[Monocyte|monocytes]]/neutrophils.
+    - Automated Hematology Analyzer Abnormalities: Automated differential instruments (e.g., Sysmex XE-2100) frequently display pseudoeosinophilia and abnormal granulocyte-coded events in DIFF scattergrams (sensitivity 69.4%, specificity 100% for P. vivax). Cell-Dyn analyzers detect hemozoin-laden [[Monocyte and Macrophage|monocytes]]/neutrophils.
 *   **Concentration & Stool O&P Techniques:**
     - N/A (Plasmodium vivax is a blood parasite; stool O&P methods play no role in diagnosis. QBC microhematocrit centrifugation with acridine orange pre-coated tubes concentrates parasites at the top of the RBC layer for fluorescent screening).
 *   **Serology & Rapid Antigen Tests:**

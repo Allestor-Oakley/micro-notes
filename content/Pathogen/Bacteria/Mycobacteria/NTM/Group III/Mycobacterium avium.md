@@ -53,7 +53,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is acquired primarily through the ingestion of contaminated water or food; the inhalation of infectious aerosols is believed to play a relatively minor role in human transmission.
 *   **Intracellular vs Extracellular Survival:** Obligate intracellular pathogen capable of establishing lifelong infection. After exposure, replication is initiated in localized [[Lymph Nodes]], followed by systemic spread.
-*   **Immune Evasion Strategies:** The highly hydrophobic, lipid-rich cell wall protects the bacterium against [[Macrophage]]-mediated intracellular killing and enables it to replicate safely within host phagosomes.
+*   **Immune Evasion Strategies:** The highly hydrophobic, lipid-rich cell wall protects the bacterium against [[Monocyte and Macrophage]]-mediated intracellular killing and enables it to replicate safely within host phagosomes.
 *   **Host Defense & Immunodeficiency Links:** Cell-mediated immunity is critical for control. The risk of developing severe, overwhelming disseminated MAC infection in [[HIV]]-infected persons is greatly increased when the CD4-positive T-lymphocyte count falls below 100 cells/μL (and particularly below 50 cells/μL). Prior [[Pneumocystis jirovecii]] infection, severe anemia, and interruption of antiretroviral therapy heavily increase the risk.
 
 #### Clinical Syndromes

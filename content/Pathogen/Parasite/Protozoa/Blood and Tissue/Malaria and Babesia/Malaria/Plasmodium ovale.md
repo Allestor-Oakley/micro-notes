@@ -88,7 +88,7 @@ draft: false
     - Dormant Liver Hypnozoites: Persistence of latent hypnozoites in hepatocytes enables the parasite to remain clinically silent and sheltered from host blood-stage immune clearance, causing true relapses months to years later.
     - Intracellular Location: Asexual blood stages reside inside host red blood cells, avoiding direct exposure to circulating antibodies and complement.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Clearance of circulating blood-stage parasites depends on splenic filtration, [[Monocyte]]-[[Macrophage]] phagocytosis, and antibody-mediated opsonization.
+    - Host Defense: Clearance of circulating blood-stage parasites depends on splenic filtration, [[Monocyte and Macrophage]]-[[Monocyte and Macrophage]] phagocytosis, and antibody-mediated opsonization.
     - Immunodeficiency Links: Co-infection with [[HIV]] or immunosuppression impa[[T-Cell|irs T-]]cell and macrophage function, leading to higher parasitemia levels and an increased risk of severe clinical complications.
 
 #### Clinical Syndromes & Complications

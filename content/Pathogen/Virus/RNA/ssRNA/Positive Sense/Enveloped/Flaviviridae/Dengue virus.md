@@ -65,7 +65,7 @@ draft: false
 *   **Structural & Non-Structural Proteins:**
     - **Structural Proteins:**
         - **C (Capsid) Protein:** Structural core protein; binds to and packages the genomic RNA to form the nucleocapsid.
-        - **prM (Pre-membrane) Protein:** Glycoprotein precursor cleaved by host furin to produce the mature M (membrane) protein. In secondary infections, anti-prM antibodies facilitate the binding and uptake of immature, non-infectious virions into [[Macrophage|macrophages]] via antibody-dependent enhancement (ADE); once internalized, host furin processes prM to M, rendering the virion mature and fully infectious.
+        - **prM (Pre-membrane) Protein:** Glycoprotein precursor cleaved by host furin to produce the mature M (membrane) protein. In secondary infections, anti-prM antibodies facilitate the binding and uptake of immature, non-infectious virions into [[Monocyte and Macrophage|macrophages]] via antibody-dependent enhancement (ADE); once internalized, host furin processes prM to M, rendering the virion mature and fully infectious.
         - **E (Envelope) Glycoprotein:** The primary structural envelope glycoprotein. Functions as the Viral Attachment Protein (VAP), binding to host cell surface receptors and promoting envelope-membrane fusion. It is the principal target for neutralizing, protective antibodies.
     - **Non-Structural Proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, NS5) :**
         - **NS1:** A secreted and membrane-bound glycoprotein that is highly significant in pathogenesis. It protects the virus from complement- and lectin-mediated neutralization by binding to C4b-binding protein (C4bp). Soluble NS1 directly binds to heparan sulfate and chondroitin sulfate E in the host endothelial glycocalyx, inducing host sialidases and heparinase to disrupt the glycocalyx, triggering cytokine-independent capillary leakage and vascular hyperpermeability.
@@ -80,7 +80,7 @@ draft: false
 *   **Attachment, Host Receptors & Tropism:**
     - **Attachment:** The E glycoprotein binds to receptors on the host cell surface.
     - **Host Receptors:** Primary attachment is to receptors expressed on myeloid cells. In the presence of sub-neutralizing concentrations of cross-reactive antibodies, entry is mediated via host cell Fcγ receptors (FcγR), which enhances viral uptake 200- to 1000-fold. The E protein also interacts with cell-surface glycosaminoglycans like heparan sulfate.
-    - **Tropism:** Strictly tropic for cells of the [[Monocyte]]-[[Macrophage]] lineage, including [[Dendritic Cell|dendritic cells]], [[Monocyte|monocytes]], and [[Macrophage|macrophages]]. Also exhibits tropism for capillary endothelial cells.
+    - **Tropism:** Strictly tropic for cells of the [[Monocyte and Macrophage]]-[[Monocyte and Macrophage]] lineage, including [[Dendritic Cell|dendritic cells]], [[Monocyte and Macrophage|monocytes]], and [[Monocyte and Macrophage|macrophages]]. Also exhibits tropism for capillary endothelial cells.
 *   **Entry Mechanism:**
     - Enters the host cell via receptor-mediated endocytosis into clathrin-coated vesicles.
     - Employs Antibody-Dependent Enhancement (ADE) in secondary infections, utilizing pre-existing heterologous non-neutralizing antibodies to bind Fcγ receptors on macrophages, bypassing standard extracellular neutralization and dramatically increasing internalizing efficiency.
@@ -99,7 +99,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Direct Cytopathic Effects:**
-    - Direct lytic infection, cytolysis, and necrosis occur in [[Monocyte|monocytes]], [[Macrophage|macrophages]], [[Dendritic Cell|dendritic cells]], and capillary endothelial cells.
+    - Direct lytic infection, cytolysis, and necrosis occur in [[Monocyte and Macrophage|monocytes]], [[Monocyte and Macrophage|macrophages]], [[Dendritic Cell|dendritic cells]], and capillary endothelial cells.
     - Bone marrow suppression during the early phase of illness leads to depression of all marrow elements and a reversible maturation arrest of megakaryocytes.
 *   **Latent Infection & Reactivation Triggers:**
     - N/A.
@@ -108,7 +108,7 @@ draft: false
 *   **Immune Evasion Strategies:**
     - **Secreted NS1:** NS1 binds to C4b-binding protein (C4bp) to downregulate and modulate classical and lectin complement pathway activation, protecting the virus from complement-mediated lysis.
     - **sfRNA (Subgenomic Flaviviral RNA):** Disrupts host innate immunity. The sfRNA binds to TRIM25, a host ubiquitin ligase, which prevents RIG-I ubiquitination and subsequently inhibits type I interferon expression and signaling. sfRNA in [[Mosquitoes|mosquito]] saliva also suppresses vector salivary gland immunity to increase transmission efficiency.
-    - **ADE (Antibody-Dependent Enhancement):** Uses sub-neutralizing heterologous antibodies from a prior infection to facilitate entry into FcγR-bearing host cells ([[Macrophage|macrophages]]/[[Monocyte|monocytes]]), effectively shielding the virus from extracellular neutralization and increasing intracellular replication.
+    - **ADE (Antibody-Dependent Enhancement):** Uses sub-neutralizing heterologous antibodies from a prior infection to facilitate entry into FcγR-bearing host cells ([[Monocyte and Macrophage|macrophages]]/[[Monocyte and Macrophage|monocytes]]), effectively shielding the virus from extracellular neutralization and increasing intracellular replication.
     - **Intracellular Replication Compartments:** Replication occurs within ER-derived membrane vesicles ("replication organelles") that sequester viral dsRNA intermediates, shielding them from cytoplasmic pattern recognition receptors (PRRs like RIG-I and MDA5) and avoiding interferon induction.
 *   **Host Defense & Immunodeficiency Links:**
     - **Host Defense:** Type I Interferons (IFN-α/β) and [[T-Cell|T-cell]]-mediated cellular immunity are critical for primary viral clearance. Neutralizing antibodies (directed against E glycoprotein) provide lifelong serotype-specific protection.
@@ -165,7 +165,7 @@ draft: false
     - **Liver Pathology:** Focal necrosis of hepatocytes and Kupffer cells with the formation of Councilman-like bodies (acidophilic, apoptotic hepatocytes). Eosinophilic degeneration of hepatocytes.
     - **Lymphoid Tissues:** Proliferation of reticuloendothelial cells with accelerated phagocytosis (erythrophagocytosis) ; active proliferation of [[Plasma Cell & Memory B Cell|plasma cells]] and lymphoblastoid cells in [[Spleen]], [[Thymus]], and [[Lymph Nodes]].
     - **Vascular Changes:** Vasodilation, microvascular congestion, perivascular hemorrhage, and arterial wall edema.
-    - **Antigen Localization:** Dengue viral antigen detectable by immunohistochemistry predominantly in splenic [[Macrophage|macrophages]], thymic cells, Kupffer cells, and lymph node sinusoidal lining cells.
+    - **Antigen Localization:** Dengue viral antigen detectable by immunohistochemistry predominantly in splenic [[Monocyte and Macrophage|macrophages]], thymic cells, Kupffer cells, and lymph node sinusoidal lining cells.
     - **Inclusion Bodies:** N/A (Unlike herpesviruses or [[rabies]], dengue does not produce pathognomonic intracellular inclusion bodies like Negri bodies or Cowdry A bodies).
 *   **Molecular Testing:**
     - **RT-PCR (Reverse Transcriptase [[PCR]]):** The gold standard for rapid, highly sensitive identification and serotyping (DENV1–4) of viral RNA in acute-phase serum during the febrile/viraemic phase (typically days 1–5 after onset).

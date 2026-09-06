@@ -50,7 +50,7 @@ draft: false
 *   **Structural & Non-Structural Proteins:** The genome encodes seven polypeptides. Nucleoprotein (NP) is part of the nucleocapsid and is involved in transcription and replication. VP35 is a polymerase cofactor and inhibits innate immune responses. VP40 is the matrix protein that facilitates assembly. GP is the peplomer envelope glycoprotein. VP30 is a transcriptional activator. VP24 initiates budding and inhibits innate immune responses. The L protein is the RNA-dependent RNA polymerase. Unlike [[Ebola virus]], Marburg virus does not require transcriptional editing to express its full-length GP.
 
 #### Viral Replication Cycle
-*   **Attachment, Host Receptors & Tropism:** Exhibits tropism for cells of the [[Macrophage]] system, [[Dendritic Cell|dendritic cells]], interstitial fibroblasts, and endothelial cells.
+*   **Attachment, Host Receptors & Tropism:** Exhibits tropism for cells of the [[Monocyte and Macrophage]] system, [[Dendritic Cell|dendritic cells]], interstitial fibroblasts, and endothelial cells.
 *   **Entry Mechanism:** Enters the host cell after receptor binding.
 *   **Uncoating & Intracellular Trafficking:** N/A
 *   **Transcription & Translation Strategy:** Replicates entirely in the host cell cytoplasm. The viral RNA-dependent RNA polymerase (L protein) transcribes the negative-sense RNA genome into mRNAs.
@@ -61,7 +61,7 @@ draft: false
 *   **Latent Infection & Reactivation Triggers:** N/A
 *   **Oncogenesis Mechanisms:** N/A
 *   **Immune Evasion Strategies:** The VP35, VP24, and L proteins actively interfere with and inhibit the host's interferon-mediated innate immune responses. Filovirus infections appear to be directly immunosuppressive, and fatal cases frequently demonstrate impaired humoral immune responses.
-*   **Host Defense & Immunodeficiency Links:** Viral replication in [[Macrophage|macrophages]], [[Monocyte|monocytes]], and [[Dendritic Cell|dendritic cells]] elicits a massive "cytokine storm" of proinflammatory cytokines. This intense immunopathologic response drives severe systemic inflammatory responses, sepsis-like symptoms, and shock.
+*   **Host Defense & Immunodeficiency Links:** Viral replication in [[Monocyte and Macrophage|macrophages]], [[Monocyte and Macrophage|monocytes]], and [[Dendritic Cell|dendritic cells]] elicits a massive "cytokine storm" of proinflammatory cytokines. This intense immunopathologic response drives severe systemic inflammatory responses, sepsis-like symptoms, and shock.
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Marburg hemorrhagic fever (a severe African viral hemorrhagic fever).

@@ -52,7 +52,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection occurs when the bacteria are embedded into the epidermis or deeper tissues following trauma or abrasion to the skin, with subsequent exposure to contaminated fresh water, saltwater, or fish tanks.
 *   **Intracellular vs Extracellular Survival:** Intracellular pathogen capable of surviving within host cells.
-*   **Immune Evasion Strategies:** The highly hydrophobic, lipid-rich cell wall protects the bacterium against [[Macrophage]]-mediated intracellular killing and other host immune responses.
+*   **Immune Evasion Strategies:** The highly hydrophobic, lipid-rich cell wall protects the bacterium against [[Monocyte and Macrophage]]-mediated intracellular killing and other host immune responses.
 *   **Host Defense & Immunodeficiency Links:** Elicits a robust granulomatous inflammatory response.
 
 #### Clinical Syndromes

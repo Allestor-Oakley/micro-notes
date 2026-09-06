@@ -40,7 +40,7 @@ draft: false
 *   **Spore Characteristics & Germination:** N/A
 
 #### Growth & Biochemical Profile
-*   **Optimal Growth Conditions:** Historically considered an unculturable organism. More recently, it has been successfully cultured exclusively in association with eukaryotic host cells (e.g., human fibroblasts and deactivated peripheral blood [[Monocyte|monocytes]]).
+*   **Optimal Growth Conditions:** Historically considered an unculturable organism. More recently, it has been successfully cultured exclusively in association with eukaryotic host cells (e.g., human fibroblasts and deactivated peripheral blood [[Monocyte and Macrophage|monocytes]]).
 *   **Primary Agar:** Cannot be easily cultivated on standard cell-free agar media (e.g., it does not grow on chocolate agar after 3 days of incubation). Routine cultures of clinical specimens are typically negative.
 *   **Selective / Enriched Agar:** N/A
 *   **Metabolic Profile & Biochemical Testing:** N/A
@@ -56,15 +56,15 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** N/A
-*   **Intracellular vs Extracellular Survival:** Can be found both intracellularly and extracellularly in host tissues. It survives and accumulates prominently within host [[Macrophage|macrophages]].
-*   **Immune Evasion Strategies:** Infection leads to a prominent [[Macrophage]] infiltration and massive glycoprotein deposition. The bacteria exist within characteristic vacuoles inside the [[Macrophage|macrophages]], altering the host cell's morphology.
+*   **Intracellular vs Extracellular Survival:** Can be found both intracellularly and extracellularly in host tissues. It survives and accumulates prominently within host [[Monocyte and Macrophage|macrophages]].
+*   **Immune Evasion Strategies:** Infection leads to a prominent [[Monocyte and Macrophage]] infiltration and massive glycoprotein deposition. The bacteria exist within characteristic vacuoles inside the [[Monocyte and Macrophage|macrophages]], altering the host cell's morphology.
 *   **Host Defense & Immunodeficiency Links:** N/A
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Whipple disease. This presents clinically as a malabsorption disease typically characterized by fever, abdominal pain, diarrhea, severe weight loss, and migratory polyarthralgia.
 *   **Secondary, Atypical & Alternate Presentations:** The infection is capable of systemic spread beyond the gastrointestinal tract and mesenteric [[Lymph Nodes]], potentially affecting any organ. Notable secondary manifestations include severe musculoskeletal, neurologic, cardiac, and ophthalmic complications.
 *   **Incubation Period:** N/A
-*   **Pathognomonic Signs:** The presence of "foamy [[Macrophage|macrophages]]" ([[Macrophage|macrophages]] packed with characteristic vacuoles containing PAS-positive intracellular and extracellular bacilli) observed in histological sections (e.g., a small bowel biopsy).
+*   **Pathognomonic Signs:** The presence of "foamy [[Monocyte and Macrophage|macrophages]]" ([[Monocyte and Macrophage|macrophages]] packed with characteristic vacuoles containing PAS-positive intracellular and extracellular bacilli) observed in histological sections (e.g., a small bowel biopsy).
 *   **Complications & Sequelae:** Can cause chronic and progressive multiorgan disease if left undiagnosed and untreated.
 
 #### Epidemiology & Transmission
@@ -74,7 +74,7 @@ draft: false
 *   **Public Health & Isolation:** Disease is observed most commonly in middle-aged men.
 
 #### Advanced Laboratory Diagnostics
-*   **Direct Visualization & Stains:** Light microscopy of biopsy specimens (such as small bowel tissue) is useful for detecting the pathognomonic periodic acid-Schiff (PAS)-positive inclusions within foamy [[Macrophage|macrophages]].
+*   **Direct Visualization & Stains:** Light microscopy of biopsy specimens (such as small bowel tissue) is useful for detecting the pathognomonic periodic acid-Schiff (PAS)-positive inclusions within foamy [[Monocyte and Macrophage|macrophages]].
 *   **Molecular Testing:** Nucleic acid amplification testing (NAAT) / PCR amplification of specific bacterial 16S ribosomal RNA sequences from affected tissues (e.g., bowel biopsy, brain biopsy) is the diagnostic test of choice and the gold standard for definitive diagnosis.
 *   **Serology & Immunology:** Antigen and antibody detection assays are generally not useful for the diagnosis of this pathogen.
 
@@ -86,5 +86,5 @@ draft: false
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Whipple disease", "foamy [[Macrophage|macrophages]]", PAS-positive inclusions in bowel biopsy, 16S rRNA sequencing, Gram-positive actinomycete.
+*   **Buzzwords & Descriptors:** "Whipple disease", "foamy [[Monocyte and Macrophage|macrophages]]", PAS-positive inclusions in bowel biopsy, 16S rRNA sequencing, Gram-positive actinomycete.
 *   **Exceptions to the Rule:** *Tropheryma whipplei* represents a classic example of a pathogen that was identified entirely via molecular techniques (16S rRNA sequencing) long before it could ever be successfully cultured in a laboratory. The genus name *Tropheryma* is derived from the Greek words "trophe" (nourishment) and "eryma" (barrier), perfectly describing the malabsorption pathology it causes, while the species name honors George Whipple, who first described the disease in 1907.

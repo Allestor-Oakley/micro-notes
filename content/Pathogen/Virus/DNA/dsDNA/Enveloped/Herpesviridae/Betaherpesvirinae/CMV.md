@@ -53,7 +53,7 @@ draft: false
 *   **Structural & Non-Structural Proteins:** Encodes approximately 200 proteins, though only a few have been characterized. Key proteins include a viral polymerase and a cell surface glycoprotein that functions as an Fc receptor.
 
 #### Viral Replication Cycle
-*   **Attachment, Host Receptors & Tropism:** Human CMV replicates only in human cells. Fibroblasts, epithelial cells, granulocytes, [[Macrophage|macrophages]], and other cells (lymphocytes, myeloid stem cells, [[Monocyte|monocytes]]) are permissive for CMV replication.
+*   **Attachment, Host Receptors & Tropism:** Human CMV replicates only in human cells. Fibroblasts, epithelial cells, granulocytes, [[Monocyte and Macrophage|macrophages]], and other cells (lymphocytes, myeloid stem cells, [[Monocyte and Macrophage|monocytes]]) are permissive for CMV replication.
 *   **Entry Mechanism:** N/A
 *   **Uncoating & Intracellular Trafficking:** Delivers its DNA genome and pre-packaged specific viral mRNAs into the host cell.
 *   **Transcription & Translation Strategy:** N/A
@@ -61,7 +61,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Direct Cytopathic Effects:** Causes massive enlargement of infected cells (cytomegaly) accompanied by characteristic intranuclear inclusion bodies. It is highly cell-associated and is spread throughout the body within infected cells, especially lymphocytes and leukocytes.
-*   **Latent Infection & Reactivation Triggers:** Establishes latency in hematopoietic progenitor cells in the [[Bone Marrow]] and [[Monocyte|monocytes]]. Reactivation is triggered by immunosuppression (e.g., corticosteroids, [[HIV]]/AIDS infection) and possibly by allogeneic stimulation (the host response to transfused or transplanted cells).
+*   **Latent Infection & Reactivation Triggers:** Establishes latency in hematopoietic progenitor cells in the [[Bone Marrow]] and [[Monocyte and Macrophage|monocytes]]. Reactivation is triggered by immunosuppression (e.g., corticosteroids, [[HIV]]/AIDS infection) and possibly by allogeneic stimulation (the host response to transfused or transplanted cells).
 *   **Oncogenesis Mechanisms:** Present in a large percentage of medulloblastomas (the most common malignant brain tumor in children). CMV induces inflammation and promotes the production of interleukin-6, vascular endothelial growth factor, and prostaglandin E2, which directly promote the growth of the medulloblastoma cells.
 *   **Immune Evasion Strategies:** The virion's cell surface glycoprotein acts as an Fc receptor that can nonspecifically bind the Fc portion of host immunoglobulins. This helps infected cells evade immune elimination by providing a protective coating of irrelevant host immunoglobulins. Its extremely slow replication cycle also facilitates the establishment of latent infection.
 *   **Host Defense & Immunodeficiency Links:** Cell-mediated immunity is absolutely required for the resolution of acute infection and the maintenance of latency. It also contributes to disease symptoms. The role of antibodies is limited. Suppression of cell-mediated immunity allows recurrence and severe disease, heavily impacting [[HIV]]/AIDS patients, transplant recipients, burn victims, and neonates with immature immune systems.

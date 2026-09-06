@@ -77,7 +77,7 @@ draft: false
 *   **Secretion Systems:** N/A
 *   **Exotoxins:**
     *   **Toxin Name:** Streptococcal pyrogenic exotoxins (SpeA, SpeB, SpeC, SpeF) / Erythrogenic toxins.
-    *   **Mechanism of Action:** Heat-labile exotoxins that act as superantigens, interacting with [[Macrophage|macrophages]] and helper [[T-Cell|T cells]] to heavily enhance the release of proinflammatory cytokines. They are responsible for the severe clinical manifestations of necrotizing fasciitis, streptococcal toxic shock syndrome, and the diffuse rash of scarlet fever. SpeB specifically functions as a potent protease that interferes with phagocytosis.
+    *   **Mechanism of Action:** Heat-labile exotoxins that act as superantigens, interacting with [[Monocyte and Macrophage|macrophages]] and helper [[T-Cell|T cells]] to heavily enhance the release of proinflammatory cytokines. They are responsible for the severe clinical manifestations of necrotizing fasciitis, streptococcal toxic shock syndrome, and the diffuse rash of scarlet fever. SpeB specifically functions as a potent protease that interferes with phagocytosis.
     *   **Toxin Name:** Streptolysin O.
     *   **Mechanism of Action:** A highly immunogenic, oxygen-labile cytolytic exotoxin that degrades host cells.
     *   **Toxin Name:** Streptolysin S.

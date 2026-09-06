@@ -8,6 +8,10 @@ aliases:
   - Kupffer cell
   - Microglial cell
   - Alveolar macrophage
+  - Monocyte
+  - Macrophage
+  - Monocytes
+  - Macrophages
 defining_cd_markers:
   - CD11b
   - CD14

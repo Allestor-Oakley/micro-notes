@@ -72,7 +72,7 @@ draft: false
     - Hemolysis & Discoloration: Massive intravascular and extravascular rupture of parasitized and unparasitized RBCs causes profound anemia, hemoglobinemia, gross hemoglobinuria ("blackwater fever"), indirect hyperbilirubinemia, and dark gray/brown discoloration of the brain, liver, and [[Spleen]] on autopsy.
 *   **Immune Evasion Strategies:**
     - Clonal Antigenic Variation: PfEMP-1 is encoded by a multigene family of ~60 polymorphic *var* genes (along with *rifin*, *stevor*, and *surfin* gene families) located in subtelomeric and internal chromosomal regions. Only a single *var* gene is expressed at a time per parasite. Through transcriptional switching, the parasite population changes its expressed PfEMP-1 coat once every few generations, systematically evading host antibody neutralization.
-    - Anatomic Sequestration: Sequestration of mature parasite stages in deep microvascular beds prevents parasitized erythrocytes from passing through the [[Spleen]], bypassing splenic [[Macrophage]] filtration and destruction.
+    - Anatomic Sequestration: Sequestration of mature parasite stages in deep microvascular beds prevents parasitized erythrocytes from passing through the [[Spleen]], bypassing splenic [[Monocyte and Macrophage]] filtration and destruction.
     - Intracellular Shielding: Ring forms hide inside host erythrocytes, shielding parasite proteins from cytotoxic T-lymphocytes and complement-mediated lysis.
 *   **Host Defense & Immunodeficiency Links:**
     - Genetic / Innate Resistance Factors: Innate erythrocyte variants confer significant protection against severe falciparum malaria: Sickle cell trait (HbAS heterozygosity), Hemoglobin C, Hemoglobin E, Alpha- and Beta-thalassemias, Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency, and Ovalocytosis (impair intraerythrocytic growth and promote early splenic clearance).
@@ -101,7 +101,7 @@ draft: false
     - Multiple rings per RBC, double-chromatin dots ("headphone" configuration), and appliqué/accolé forms inside normal-sized, non-stippled red blood cells.
     - Gross dark-black or port-wine urine (hemoglobinuria in blackwater fever).
 *   **Host Immune Response & Laboratory Findings:**
-    - Hematology: Severe normocytic normochromic anemia, marked thrombocytopenia (platelets <100,000/µL), normal or reduced WBC count with a left shift. Presence of intraleukocytic malarial pigment (hemozoin in >5% of circulating neutrophils/[[Monocyte|monocytes]] indicates poor prognosis). Elevated erythrocyte sedimentation rate (ESR).
+    - Hematology: Severe normocytic normochromic anemia, marked thrombocytopenia (platelets <100,000/µL), normal or reduced WBC count with a left shift. Presence of intraleukocytic malarial pigment (hemozoin in >5% of circulating neutrophils/[[Monocyte and Macrophage|monocytes]] indicates poor prognosis). Elevated erythrocyte sedimentation rate (ESR).
     - Biochemistry & Urinalysis: Elevated serum lactate dehydrogenase (LDH), elevated total and indirect bilirubin, reduced haptoglobin, elevated BUN and creatinine, hypoglycemia, metabolic acidosis (low plasma bicarbonate, elevated blood lactate). Urinalysis shows dark hemoglobinuria, dipstick blood positivity without intact RBCs on microscopy, and proteinuria.
 
 #### Epidemiology & Exposures

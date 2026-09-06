@@ -41,7 +41,7 @@ draft: false
 *   **Structural & Non-Structural Proteins:** Encodes the Large T antigen, small t antigen, and agno protein. The individual early and late mRNAs are processed from larger nested transcripts. The function of the agno protein is not completely clear.
 
 #### Viral Replication Cycle
-*   **Attachment, Host Receptors & Tropism:** Infects tonsils and lymphocytes, and spreads via viremia to other body sites. Exhibits tropism for kidney cells, [[Monocyte|monocytes]], lymphocytes, oligodendrocytes, and astrocytes.
+*   **Attachment, Host Receptors & Tropism:** Infects tonsils and lymphocytes, and spreads via viremia to other body sites. Exhibits tropism for kidney cells, [[Monocyte and Macrophage|monocytes]], lymphocytes, oligodendrocytes, and astrocytes.
 *   **Entry Mechanism:** N/A
 *   **Uncoating & Intracellular Trafficking:** N/A
 *   **Transcription & Translation Strategy:** Individual early and late mRNAs are processed from larger nested transcripts.
@@ -49,7 +49,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Direct Cytopathic Effects:** Production of the virus in oligodendrocytes is strictly lytic and causes subsequent demyelination of nerves. Infection of astrocytes results in abnormal growth and appearance (astrocytosis with atypical nuclei).
-*   **Latent Infection & Reactivation Triggers:** The virus is ubiquitous, and primary infections are asymptomatic. Following primary exposure, the virus establishes a persistent and latent infection in kidney cells, [[Monocyte|monocytes]], lymphocytes, oligodendrocytes, and astrocytes. The virus is maintained in a latent state by the host's cell-mediated immunity. Reactivation occurs when a decrease in immune control by [[T-Cell|T cells]] allows the virus to actively replicate and spread.
+*   **Latent Infection & Reactivation Triggers:** The virus is ubiquitous, and primary infections are asymptomatic. Following primary exposure, the virus establishes a persistent and latent infection in kidney cells, [[Monocyte and Macrophage|monocytes]], lymphocytes, oligodendrocytes, and astrocytes. The virus is maintained in a latent state by the host's cell-mediated immunity. Reactivation occurs when a decrease in immune control by [[T-Cell|T cells]] allows the virus to actively replicate and spread.
 *   **Oncogenesis Mechanisms:** The viral Large T antigen inactivates the host cellular tumor suppressor proteins p53 and RB (retinoblastoma) to allow unchecked cell growth. It also binds to other growth-promoting proteins.
 *   **Immune Evasion Strategies:** Establishes lifelong latency, hiding from active immune surveillance until the host becomes immunocompromised.
 *   **Host Defense & Immunodeficiency Links:** [[T-Cell|T cells]] play a critical role in controlling the infection and maintaining viral latency. Immunosuppressed patients—such as individuals with acquired immunodeficiency syndrome (AIDS) and organ transplant recipients receiving immunosuppressive therapy—are at severe risk for viral reactivation, unrestricted replication in the CNS, and progression to progressive multifocal leukoencephalopathy (PML).

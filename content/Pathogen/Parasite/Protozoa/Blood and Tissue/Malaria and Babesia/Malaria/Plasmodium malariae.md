@@ -80,7 +80,7 @@ draft: false
     - Intracellular Location: Resides inside host erythrocytes, protected from direct humoral antibody-mediated destruction.
     - Absence of Hypnozoites: Does NOT produce dormant liver hypnozoites (true relapses do not occur), but exhibits recrudescence from persistent blood-stage asexual forms.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Clearance of circulating blood-stage parasites relies on splenic filtration and [[Monocyte]]-[[Macrophage]] phagocytosis.
+    - Host Defense: Clearance of circulating blood-stage parasites relies on splenic filtration and [[Monocyte and Macrophage]]-[[Monocyte and Macrophage]] phagocytosis.
     - Immunodeficiency & Splenectomy Links: Host stress or loss of splenic clearance function (splenectomy) can trigger clinical recrudescence of long-dormant, subpatent blood infections.
 
 #### Clinical Syndromes & Complications

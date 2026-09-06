@@ -45,7 +45,7 @@ draft: false
 
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Infection is sexually transmitted.
-*   **Intracellular vs Extracellular Survival:** Intracellular pathogen. The bacteria reside within the cytoplasmic vacuoles of myeloid cells, specifically mononuclear cells ([[Macrophage|macrophages]]) and neutrophils.
+*   **Intracellular vs Extracellular Survival:** Intracellular pathogen. The bacteria reside within the cytoplasmic vacuoles of myeloid cells, specifically mononuclear cells ([[Monocyte and Macrophage|macrophages]]) and neutrophils.
 *   **Immune Evasion Strategies:** N/A
 *   **Host Defense & Immunodeficiency Links:** N/A
 
@@ -53,7 +53,7 @@ draft: false
 *   **Primary Diseases:** Granuloma inguinale (Donovanosis), a chronic genital ulcerative disease.
 *   **Secondary, Atypical & Alternate Presentations:** N/A
 *   **Incubation Period:** N/A
-*   **Pathognomonic Signs:** Characterized by genital ulcers that can mimic the chancre of syphilis. The hallmark diagnostic sign is the presence of "Donovan bodies" (pleomorphic bacilli within the cytoplasm of [[Macrophage|macrophages]] and neutrophils).
+*   **Pathognomonic Signs:** Characterized by genital ulcers that can mimic the chancre of syphilis. The hallmark diagnostic sign is the presence of "Donovan bodies" (pleomorphic bacilli within the cytoplasm of [[Monocyte and Macrophage|macrophages]] and neutrophils).
 *   **Complications & Sequelae:** N/A
 
 #### Epidemiology & Transmission
@@ -75,5 +75,5 @@ draft: false
 *   **Prophylaxis & Vaccine Protocols:** N/A
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** "Donovan bodies", "Granuloma inguinale", "Donovanosis", "intracellular pleomorphic bacilli in [[Macrophage|macrophages]]", "genital ulcerative disease".
+*   **Buzzwords & Descriptors:** "Donovan bodies", "Granuloma inguinale", "Donovanosis", "intracellular pleomorphic bacilli in [[Monocyte and Macrophage|macrophages]]", "genital ulcerative disease".
 *   **Exceptions to the Rule:** Unlike the vast majority of other Enterobacteriaceae/Enterobacterales, this organism cannot be grown in standard laboratory culture.

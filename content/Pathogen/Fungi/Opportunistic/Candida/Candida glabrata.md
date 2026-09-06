@@ -51,7 +51,7 @@ draft: false
 *   **Host Immune Evasion:** Exhibits a strong propensity for both intrinsic and acquired resistance to azoles (e.g., [[Fluconazole]]) and other commonly used antifungal agents, providing a distinct survival advantage in hospitalized patients exposed to these drugs. Additional virulence factors include cellular adherence capabilities, cell-surface hydrophobicity, cell wall mannans, and phenotypic switching.
 *   **Thermal Tolerance Mechanisms:** Readily grows and proliferates at mammalian body temperatures (37°C).
 *   **Toxins:** N/A
-*   **Host Defense & Immunodeficiency Links:** Innate host defenses, specifically neutrophils and [[Monocyte|monocytes]], provide crucial protection against systemic infection. Dissemination and invasive disease are heavily linked to severe immunosuppression, prolonged neutropenia, hematologic malignancies, stem cell or solid organ transplantation, and extensive gastrointestinal mucosal damage induced by cytotoxic chemotherapy.
+*   **Host Defense & Immunodeficiency Links:** Innate host defenses, specifically neutrophils and [[Monocyte and Macrophage|monocytes]], provide crucial protection against systemic infection. Dissemination and invasive disease are heavily linked to severe immunosuppression, prolonged neutropenia, hematologic malignancies, stem cell or solid organ transplantation, and extensive gastrointestinal mucosal damage induced by cytotoxic chemotherapy.
 
 #### Clinical Syndromes
 *   **Primary Infection:** Endogenous opportunistic infections. Usually presents as simple mucosal colonization, mucocutaneous candidiasis, oral thrush, or vulvovaginitis. Also a frequent cause of urinary tract infections, including cystitis and pyelonephritis.

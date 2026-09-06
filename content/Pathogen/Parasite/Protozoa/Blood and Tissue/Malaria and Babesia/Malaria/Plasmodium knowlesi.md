@@ -94,7 +94,7 @@ draft: false
     - Immunomodulation: Associated with the elevation of anti-inflammatory cytokines such as IL-1ra and IL-10, with overall lower proinflammatory cytokine induction compared to [[Plasmodium falciparum]].
     - Asynchronous Blood Stage Development: Development of parasites within host red blood cells is asynchronous, producing overlapping broods.
 *   **Host Defense & Immunodeficiency Links:**
-    - Host Defense: Clearance of asexual stages depends on splenic [[Monocyte]]-[[Macrophage]] phagocytosis and antibody-mediated opsonization. Immunologically naive individuals (such as international travelers with no prior malaria exposure) lack acquired immunity, experiencing rapid onset of high fever and severe symptoms at very low parasitemia levels.
+    - Host Defense: Clearance of asexual stages depends on splenic [[Monocyte and Macrophage]]-[[Monocyte and Macrophage]] phagocytosis and antibody-mediated opsonization. Immunologically naive individuals (such as international travelers with no prior malaria exposure) lack acquired immunity, experiencing rapid onset of high fever and severe symptoms at very low parasitemia levels.
     - Immunodeficiency Links: Co-infection with [[HIV]] or underlying immunosuppression impairs cell-mediated and humoral parasite clearance, leading to significantly higher parasitemia levels and heightened risk of fatal complications.
 
 #### Clinical Syndromes & Complications

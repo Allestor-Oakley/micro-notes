@@ -50,7 +50,7 @@ draft: false
 #### Pathogenesis & Host Immune Evasion
 *   **Entry & Attachment Mechanism:** Enters the host cell via phagocytosis.
 *   **Intracellular vs Extracellular Survival:** Obligate intracellular pathogen. It highly adapts to reside and replicate within the acidic phagolysosome until the host cell dies.
-*   **Immune Evasion Strategies:** The organism regulates host cell signaling pathways to delay programmed cell death (apoptosis). While in the presence of interferon-gamma phagosome-lysosome fusion normally leads to bacterial death, during chronic infections, the host cell overproduces interleukin-10 (IL-10). This overproduction interferes with fusion, allows intracellular survival, and causes deficient killing of *C. burnetii* within [[Monocyte|monocytes]].
+*   **Immune Evasion Strategies:** The organism regulates host cell signaling pathways to delay programmed cell death (apoptosis). While in the presence of interferon-gamma phagosome-lysosome fusion normally leads to bacterial death, during chronic infections, the host cell overproduces interleukin-10 (IL-10). This overproduction interferes with fusion, allows intracellular survival, and causes deficient killing of *C. burnetii* within [[Monocyte and Macrophage|monocytes]].
 *   **Host Defense & Immunodeficiency Links:** Host factors profoundly dictate the severity of the disease. Patients with underlying heart disease (e.g., congenital heart disease, surgical shunts, calcified or prosthetic valves) are at major risk for developing severe, chronic Q fever endocarditis.
 
 #### Clinical Syndromes
