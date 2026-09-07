@@ -25,7 +25,7 @@ key_plasmids:
   - N/A
 resistance_genes:
   - N/A
-date:
+date: 2026-09-07
 draft: false
 ---
 ### Treponema pallidum subsp. pertenue

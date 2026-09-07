@@ -27,7 +27,7 @@ cyp_interactions:
   - CYP3A inhibitors
   - CYP2D6 inhibitors
   - CYP2E1 inducers
-date:
+date: 2026-09-07
 draft: false
 ---
 

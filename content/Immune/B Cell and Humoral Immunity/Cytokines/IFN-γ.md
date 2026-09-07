@@ -4,4 +4,4 @@ draft: false
 aliases:
   - Interferon-γ
 ---
-**This file is empty**
+The signature Th1 cytokine. It classically activates macrophages (increasing microbicidal functions), drives Th1 differentiation, increases MHC class I/II expression for antigen presentation, and stimulates B cells to switch to opsonizing/complement-fixing IgG subclasses.

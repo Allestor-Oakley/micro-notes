@@ -2,6 +2,6 @@
 date: 2026-09-07
 draft: false
 aliases:
-  - Interleukin-8
+  - Interleukin-9
 ---
-**This file is empty**
+Provides survival and activation signals to mast cells, B cells, T cells, and other tissue cells.

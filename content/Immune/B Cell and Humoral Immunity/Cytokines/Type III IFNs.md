@@ -1,7 +1,7 @@
 ---
 date: 2026-09-07
-draft: true
+draft: false
 aliases:
   - Interferon-λ
 ---
-**This file is empty**
+Specifically target epithelial cells to induce an antiviral state at barrier surfaces.

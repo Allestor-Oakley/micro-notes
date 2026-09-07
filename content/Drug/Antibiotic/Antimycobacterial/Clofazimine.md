@@ -18,7 +18,7 @@ contraindications:
   - N/A
 cyp_interactions:
   - N/A
-date:
+date: 2026-09-07
 draft: false
 ---
 

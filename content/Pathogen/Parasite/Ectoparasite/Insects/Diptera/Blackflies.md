@@ -23,7 +23,7 @@ infestation_site: Skin surface (temporary blood feeding)
 vector_capacity:
   - Onchocerca volvulus
   - Mansonella ozzardi
-date:
+date: 2026-09-07
 draft: false
 ---
 

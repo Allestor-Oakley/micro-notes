@@ -31,7 +31,7 @@ envelope_status:
   - Enveloped
 capsid_symmetry:
   - Icosadeltahedral (162 capsomeres)
-date:
+date: 2026-09-07
 draft: false
 ---
 ### Human Herpesvirus 6

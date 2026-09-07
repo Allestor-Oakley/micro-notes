@@ -30,7 +30,7 @@ contraindications:
   - History of hypersensitivity or allergic reactions to sulfonamides or trimethoprim
 cyp_interactions:
   - N/A
-date:
+date: 2026-09-07
 draft: false
 ---
 

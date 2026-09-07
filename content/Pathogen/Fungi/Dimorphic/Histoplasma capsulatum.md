@@ -48,7 +48,7 @@ mold_features:
   - Small oval microconidia (2 to 5 μm)
 hyphae_type:
   - Branching septate hyphae
-date:
+date: 2026-09-07
 draft: false
 ---
 ### Histoplasma capsulatum

@@ -33,7 +33,7 @@ mold_features:
   - Phialides (sterigmata) producing basipetal chains of spheric conidia
 hyphae_type:
   - Hyaline, septate hyphae
-date:
+date: 2026-09-07
 draft: false
 ---
 ## Aspergillus flavus

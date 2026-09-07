@@ -48,7 +48,7 @@ mold_features:
   - Round microconidia 2 to 3 μm in diameter
 hyphae_type:
   - Branching septate hyphae
-date:
+date: 2026-09-07
 draft: false
 ---
 ### Paracoccidioides brasiliensis

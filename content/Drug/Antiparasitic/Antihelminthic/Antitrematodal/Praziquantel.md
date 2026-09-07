@@ -34,7 +34,7 @@ contraindications:
 cyp_interactions:
   - Bioavailability reduced by CYP inducers including phenytoin carbamazepine and phenobarbital
   - Bioavailability increased by CYP inhibitors including cimetidine
-date:
+date: 2026-09-07
 draft: false
 ---
 
