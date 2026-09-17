@@ -170,9 +170,9 @@ draft: false
 *   **Molecular Testing:**
     - **RT-PCR (Reverse Transcriptase [[PCR]]):** The gold standard for rapid, highly sensitive identification and serotyping (DENV1–4) of viral RNA in acute-phase serum during the febrile/viraemic phase (typically days 1–5 after onset).
 *   **Serology & Seroconversion Windows:**
-    - **NS1 Antigen Capture [[Lab/Molecular and Immunological/ELISA]]:** Detects circulating non-structural protein 1 in serum. Highly useful for early diagnosis, as NS1 is detectable from day 1 of fever and remains positive for up to 9 days in both primary and secondary infections.
-    - **IgM Capture [[Lab/Molecular and Immunological/ELISA]] (MAC-ELISA):** Detects dengue-specific IgM antibodies, which develop within 3–5 days of illness onset, peak at 2 weeks, and remain detectable for up to 2–3 months.
-    - **IgG [[Lab/Molecular and Immunological/ELISA]]:** IgG antibodies appear around day 7 in primary infection and persist for life. In secondary infections, high-titer IgG is detectable rapidly in the acute phase (cross-reactive with other serotypes).
+    - **NS1 Antigen Capture [[ELISA and Immunoassays]]:** Detects circulating non-structural protein 1 in serum. Highly useful for early diagnosis, as NS1 is detectable from day 1 of fever and remains positive for up to 9 days in both primary and secondary infections.
+    - **IgM Capture [[ELISA and Immunoassays]] (MAC-ELISA):** Detects dengue-specific IgM antibodies, which develop within 3–5 days of illness onset, peak at 2 weeks, and remain detectable for up to 2–3 months.
+    - **IgG [[ELISA and Immunoassays]]:** IgG antibodies appear around day 7 in primary infection and persist for life. In secondary infections, high-titer IgG is detectable rapidly in the acute phase (cross-reactive with other serotypes).
     - **Hemagglutination Inhibition (HI) Test:** Measures titers of neutralizing/cross-reactive antibodies; a four-fold or greater rise in antibody titer between paired acute and convalescent sera is diagnostic.
     - **Cross-Reactivity Challenges:** Serological assays show significant cross-reactivity with other flaviviruses (e.g., [[Zika virus|Zika]], [[Yellow fever virus|Yellow Fever]], [[West nile virus|West Nile]], [[Japanese encephalitis virus|Japanese Encephalitis]]). Epitope-blocking ELISAs or Neutralization (N) tests are required to confirm species-specific antibodies.
 *   **Cell Culture & Assays:**
