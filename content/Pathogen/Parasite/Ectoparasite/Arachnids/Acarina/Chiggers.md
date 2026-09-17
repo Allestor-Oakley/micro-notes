@@ -1,77 +1,122 @@
 ---
 aliases:
-  - Red bug
-  - Harvest mite
-  - Chigger mite
-  - Trombiculid
-  - Chigger
+  - Red bugs
+  - Harvest mites
+  - Harvest bugs
+  - Berry bugs
+  - Scrub typhus mites
+  - Mite larvae
+  - Trombiculid mites
+  - Chigger mites
 clinical_syndromes:
-  - Chigger dermatitis (Trombiculiasis)
-  - Scrub typhus (tsutsugamushi disease)
-  - Severe allergic dermatitis / Pruritic papular eruption
-  - Secondary bacterial skin infection
+  - Scrub itch
+  - Harvest-bug itch
+  - Autumnal itch
+  - Trombidiosis
+  - Scrub typhus
+  - Mite-borne typhus
+  - Japanese river fever
+  - Chigger-borne rickettsiosis
+  - Tsutsugamushi disease
+  - Trombiculid dermatitis
 endemic_regions:
-  - Worldwide
   - Asia-Pacific region
+  - Primorye region of Siberia
+  - Pakistan
+  - India
+  - Myanmar
+  - Thailand
+  - Malaysia
+  - Indonesia
+  - Vietnam
+  - China
+  - Taiwan
+  - Philippines
+  - Japan
+  - Papua New Guinea
+  - New Zealand
+  - Northeastern Australia
+  - Pacific islands
+  - North America
+  - United States
+  - Mexico
+  - Central America
+  - South America
+  - Europe
 target_organs:
   - Skin
   - Epidermis
-arthropod_class: Arachnida (Chelicerata)
-leg_count: 6 legs (larval stage) / 8 legs (nymph and adult stages)
-infestation_site: Skin (ankles, lower legs, waistline, belt line, groin, flexural skin creases)
+  - Dermis
+  - Cutaneous microvasculature
+  - Lymphatic system
+arthropod_class: Arachnida
+leg_count: 6 legs (larval chiggers); 8 legs (nymphs and adults)
+infestation_site: Skin (stratum corneum / epidermis, particularly where clothing is tight or restricted)
 vector_capacity:
   - Orientia tsutsugamushi
-  - Rickettsia species
-date: 2026-07-29
+date: 2026-09-15
 draft: false
 ---
-### Chigger
+
+### Chiggers
 
 #### Arthropod Anatomy & Physical Morphology
-*   **Adult Physical Features & Size:** Adult trombiculid mites possess 8 legs (4 pairs) and are free-living, non-parasitic arthropods inhabiting soil and outdoor vegetation.
-*   **Mouthparts & Feeding Apparatus:** Larvae possess specialized capitulum and piercing chelicerae adapted for penetrating host skin; they do not feed on host blood, but instead inject digestive salivary enzymes to dissolve host epidermal cells and lymph, forming a hard feeding tube called a stylostome through which liquid tissue cell breakdown products are ingested.
-*   **Egg / Nit Morphology & Attachment:** Eggs are deposited in dark, damp soil, leaf litter, and outdoor vegetation by free-living adult female mites.
-*   **Immature Stages:** Chiggers represent the microscopic, parasitic larval stage of mites belonging to the family Trombiculidae (e.g., *Trombicula* spp., *Leptotrombidium* spp.). Morphologically, larvae possess 3 pairs of legs (6 legs total) and are densely covered with characteristic, distinct, branched, feather-like hairs. They are tiny, orange to bright red in color.
+*   **Adult Physical Features & Size:** Adult trombiculid mites are non-parasitic, free-living soil arachnids measuring approximately 1.0 mm to 2.0 mm in length. They possess eight legs (four pairs) and exhibit a characteristic figure-eight or dumbbell-shaped body with a distinct transverse constriction behind the second pair of legs. Adults display a bright reddish, orange, or yellowish coloration due to a dense coating of fine, velvety, feathered hairs (setae) covering the body and legs. The gnathosoma (false head) and body are heavily hirsute. Eyes are present on either side of the anterior body. Adult mites do not attack or bite humans or animals and are not of direct medical importance.
+*   **Mouthparts & Feeding Apparatus:** Larval chiggers possess hooked chelicerae and large, conspicuous 5-segmented palps (pedipalps) that form a prominent capitulum (false head). Chelicerae are blade-like or hooked and function to pierce the host epidermis (stratum corneum). Chiggers lack true blood-sucking stylets; instead, they inject lytic salivary secretions containing powerful hydrolytic and proteolytic enzymes into the host skin. These enzymes cause tissue necrosis, liquefaction, and disintegration of epidermal and dermal host cells. Repeated salivary injection and host tissue reaction form a vertical, hardened, proteinaceous feeding tube extending into the dermis known as a stylostome (or histiosiphon). The chigger suctions lymph, digested cellular debris, and tissue fluid through the stylostome.
+*   **Egg / Nit Morphology & Attachment:** Eggs are small, spherical, measuring 0.1 mm to 0.2 mm in diameter, and are pale or translucent. Female mites deposit 1 to 5 spherical eggs per day individually on leaf litter, damp soil, riverbanks, grassy fields, scrub brush, and neglected gardens. After 4 to 7 days, the eggshell splits open, revealing a non-feeding pre-larval stage inside called the deutovum. After another 5 to 7 days, the active larva emerges from the deutovum. Eggs and nits are laid strictly off-host in environmental soil and leaf litter and are never attached to host hairs or skin.
+*   **Immature Stages:** The parasitic stage is exclusively the larva (chigger), which measures 0.15 mm to 0.3 mm unengorged (barely visible to the unaided eye as minute orange or red dots) and swells up to sixfold in size (up to 1.5 mm to 2.0 mm, turning pale yellowish or reddish-white) after feeding. Larvae possess 3 pairs of legs (6 legs) terminating in large paired claws, and both legs and body are densely covered with feathered setae. Dorsally, the anterior body bears a weakly sclerotized, rectangular or pentagonal scutum containing 5 feathered scutal setae, a pair of lateral eyes, and 1 pair of specialized flagelliform, feathered sensory hairs known as sensillae arising from distinct bases. Post-larval immature stages occur in soil and include the protonymph (nymphochrysalis; inactive, non-feeding 8-legged stage), the deutonymph (active, 8-legged predatory stage feeding on soil arthropods and insect eggs), and the tritonymph (imagochrysalis; inactive, non-feeding 8-legged pre-adult stage).
 
 #### Lifecycle, Habitat & Host Attachment
-*   **Primary Host Range:** Humans, domestic animals, wild vertebrates, small mammals, rodents, and birds. Adult and nymphal stages live in grass, soil, and low bushes.
-*   **Developmental Stages:** Four-stage lifecycle: Egg -> Larva (chigger; 6-legged parasitic stage) -> Nymph (8-legged free-living stage) -> Adult (8-legged free-living stage).
-*   **Attachment Mechanics & Burrowing Behavior:** Larvae crawl onto low vegetation and transfer onto passing hosts. They attach to the skin surface (frequently where clothing fits tightly against skin, such as ankles, belt lines, waistbands, or armpits) and insert their mouthparts into hair follicles or skin pores. Chiggers do NOT burrow under the skin; they remain attached externally while feeding via a stylostome and fall off host skin once engorged.
-*   **Environmental Survival Off-Host:** Free-living nymphs and adults survive in moist, shaded soil, leaf litter, lawns, forest floors, and tall grass. Larvae survive on low plants while seeking vertebrate hosts.
+*   **Primary Host Range:** The natural primary hosts for parasitic larvae are small wild mammals, particularly rodents (species of Rattus, Apodemus, and Microtus) and insectivores such as shrews (Suncus species) and tree shrews (Tupaia species). Domestic rats play little to no role in the maintenance or ecology of chiggers. Birds, reptiles, and wild or domestic mammals serve as secondary or incidental hosts and assist in the geographic dispersal of larvae. Humans are accidental dead-end hosts.
+*   **Developmental Stages:** Complete 7-stage metamorphosis: Egg -> Deutovum (pre-larva) -> Larva (chigger; parasitic) -> Protonymph (nymphochrysalis; inactive) -> Deutonymph (predatory) -> Tritonymph (imagochrysalis; inactive) -> Adult (predatory). The entire lifecycle typically requires 40 to 75 days in warm tropical environments but may extend up to 12 months in cooler climates. Oviposition continues year-round in hot tropical zones, whereas adults undergo partial or complete hibernation during cooler months in temperate regions.
+*   **Attachment Mechanics & Burrowing Behavior:** Chiggers do not burrow under the skin or embed their entire body (a common misconception). They transfer from grass tips or low vegetation onto passing hosts and crawl rapidly upward until reaching areas where clothing fits tightly against the skin (waistbands, belt lines, ankle socks, elastic bands, groin, axillae, popliteal folds). Larvae attach externally to the skin surface at hair follicles or skin pores using hooked chelicerae, insert salivary digestive enzymes, and construct the stylostome. Vector species (Leptotrombidium) remain attached to humans for 3 to 10 days, while non-vector harvest mites may remain attached for several days to a month on animal hosts if undisturbed. Fully engorged larvae detach voluntarily and drop to the ground.
+*   **Environmental Survival Off-Host:** Free-living nymphs and adults inhabit damp, well-drained soil, leaf litter, riverbanks, scrub jungle, grass fields, and forest margins with high relative humidity. They feed as predators on small soil-inhabiting arthropods (such as collembolans) and insect eggs. Unfed host-seeking larvae swarm over ground soil and climb vegetation; they can survive off-host for weeks in humid microclimates but dry out rapidly and die in low-humidity or arid environments.
 
 #### Pathogenesis & Vector Dynamics
-*   **Direct Dermatologic Damage:** Attachment and secretion of lytic salivary enzymes cause local epidermal necrosis, mechanical tissue disruption, stylostome formation, intense local dermal edema, and surrounding inflammatory reactions.
-*   **Hypersensitivity & Immune Response:** Salivary proteins and digested tissue fluids trigger a intense IgE- and cell-mediated allergic hypersensitivity reaction, manifesting as severe pruritus, localized erythema, papules, and urticarial wheals.
-*   **Pathogens Transmitted as a Vector:** Chiggers (specifically larvae of *Leptotrombidium* species) are the primary biological vectors of *[[Orientia tsutsugamushi]]* (formerly *[[Orientia tsutsugamushi|Rickettsia tsutsugamushi]]*), the causative agent of scrub typhus (tsutsugamushi disease). They also vector other rickettsial pathogens.
-*   **Host Defense & Predisposing Factors:** Outdoor occupational or recreational activities in tall grass, brush, forests, riverbanks, or uncultivated vegetation; walking barefoot; or wearing exposed clothing in endemic habitats.
+*   **Direct Dermatologic Damage:** Caused by the chemical liquefaction of epidermal and papillary dermal tissues by salivary enzymes and the formation of the stylostome. The tissue destruction and host inflammatory response yield erythematous macules, papules, urticarial wheals, and intense pruritus. If larvae are forcibly removed or crushed by scratching, broken mouthparts remain embedded in the skin, eliciting prolonged foreign-body reactions and persistent papular dermatitis.
+*   **Hypersensitivity & Immune Response:** Severe itching and localized dermatitis stem from host hypersensitivity reactions (both immediate and delayed-type) directed against chigger salivary proteins and stylostome antigens. Symptoms typically commence 3 to 24 hours post-attachment and peak within 24 to 48 hours. Pruritus and papular lesions can persist for weeks after larvae have detached. Heavy infestations cause sleep disruption, systemic fever, and excoriation.
+*   **Pathogens Transmitted as a Vector:** Leptotrombidium chiggers transmit [[Orientia tsutsugamushi]] (formerly Rickettsia tsutsugamushi), an obligate intracellular Gram-negative bacterium that causes scrub typhus (tsutsugamushi disease / mite-borne typhus / Japanese river fever). Key vector species include Leptotrombidium deliense, L. akamushi, L. fletcheri, L. pallidum, L. scutellare, L. pavlovskyi, and L. gaohuense. Transmission dynamics include:
+    *   *Transovarial Transmission:* The primary mechanism maintaining [[Orientia tsutsugamushi]] in nature. Infected female mites pass rickettsiae through their ovaries into eggs, rendering emerging 6-legged larvae infected and capable of transmitting the pathogen during their first and only blood/tissue meal. Leptotrombidium mites act as both vector and primary reservoir.
+    *   *Transstadial Transmission:* Rickettsiae persist across larval, protonymphal, deutonymphal, tritonymphal, and adult metamorphic transitions.
+    *   *Co-feeding Transmission:* Uninfected larvae feeding in close physical proximity to infected larvae on the same host skin ("mite islands") acquire [[Orientia tsutsugamushi]] through localized tissue fluid/lymph exchange and pass the pathogen transstadially to their offspring.
+    *   *Non-vector Chiggers:* Species such as Neotrombicula autumnalis and Eutrombicula alfreddugesi cause severe scrub itch (trombidiosis) but do not transmit [[Orientia tsutsugamushi]] or other human pathogens.
+*   **Host Defense & Predisposing Factors:** Risk is tied to occupational or recreational exposure in endemic vegetation zones: clearing brush, timber cutting, agricultural work, rubber plantation labor, military field maneuvers, camping, and hiking. High risk occurs in "mite islands" and "fringe habitats"—isolated patches of secondary scrub vegetation created by clearing primary forests, which favor dense populations of wild rodent hosts and vector mites. Host immune defenses against [[Orientia tsutsugamushi]] provide strain-specific long-term immunity but limited cross-protection against heterologous strains.
 
 #### Clinical Syndromes & Presentations
-*   **Primary Infestation Presentation:** Onset of intense itching (pruritus) several hours after exposure, accompanied by the appearance of red macules that quickly progress to highly pruritic, raised erythematous papules, urticarial wheals, or small central vesicles at attachment sites.
-*   **Pathognomonic Lesions & Distribution Pattern:** Extremely itchy erythematous papular eruptions characteristically distributed around ankles, lower legs, calves, waistline, belt line, groin, or areas constricted by socks and underwear. In scrub typhus, an eschar (a punched-out skin ulcer covered by a dark black crust) develops at the chigger bite site, accompanied by regional lymphadenopathy.
-*   **Secondary Complications:** Secondary bacterial skin infections (e.g., impetigo, pyoderma, cellulitis caused by *[[Staphylococcus aureus]]* or *[[Streptococcus pyogenes]]*) resulting from excoriation and vigorous scratching; systemic scrub typhus infection (fever, headache, myalgia, generalized lymphadenopathy, rash, and multi-organ involvement).
-*   **Laboratory & Dermoscopic Findings:** Direct visualization under dermoscopy or microscopy reveals a minute red/orange 6-legged larva anchored in a hair follicle surrounded by a dense inflammatory halo. Systemic scrub typhus leads to leukopenia/leukocytosis, elevated liver enzymes, and positive serology, PCR, or immunohistochemistry for *[[Orientia tsutsugamushi]]*.
+*   **Primary Infestation Presentation:**
+    *   *Scrub Itch / Trombidiosis:* Intense, intolerable pruritus starting hours after exposure, followed by small erythematous macules, papules, or urticarial wheals at attachment sites (ankles, waistline, groin, axillae).
+    *   *Scrub Typhus Eschar:* At the site of an infected Leptotrombidium bite, a painless or mildly tender papule develops, enlarges, undergoes central vesiculation and necrosis, and forms a pathognomonic black, punched-out ulcer covered by a dark crust (eschar) surrounded by an erythematous border.
+*   **Pathognomonic Lesions & Distribution Pattern:** Lesions cluster where clothing fits tightly against skin (ankles, waistline, belt line, groin, scrotum, axillae, popliteal spaces). The eschar of scrub typhus is cigarette-burn-like and most frequently located in skin folds, groin, axillae, or neck, accompanied by regional lymphadenopathy. Systemic scrub typhus presentation includes abrupt high fever, shaking chills, severe headache, generalized lymphadenopathy, myalgia, conjunctival injection, macular or maculopapular trunk rash (appearing on days 4 to 8), cough, and apathy.
+*   **Secondary Complications:** Excoriation from scratching frequently leads to secondary bacterial pyoderma, impetigo, [[cellulitis]], and staphylococcal or streptococcal superinfections. Systemic complications of untreated scrub typhus include interstitial pneumonitis, acute respiratory distress syndrome (ARDS), [[myocarditis]], meningoencephalitis, acute renal failure, disseminated intravascular coagulation (DIC), splenomegaly, circulatory collapse, and multi-organ failure, with historical mortality reaching up to 30%.
+*   **Laboratory & Dermoscopic Findings:** Scrub itch exhibits localized dermal inflammation and optional peripheral eosinophilia. Scrub typhus demonstrates leukopenia (or normal WBC with left shift), elevated hepatic transaminases, thrombocytopenia, and elevated serum IgE. Specific diagnostic confirmation for scrub typhus includes Indirect Immunofluorescence Assay (IFA; gold standard serology), [[PCR]] amplification of [[Orientia tsutsugamushi]] DNA from eschar swabs, skin biopsies, or whole blood, rapid diagnostic tests (RDTs / [[ELISA and Immunoassays|ELISA]]), or historical Weil-Felix agglutination (OX-K strain reaction).
 
 #### Epidemiology & Transmission
-*   **Geographic Distribution:** Worldwide distribution for chigger dermatitis (*Trombicula* spp.); *Leptotrombidium* vector species of scrub typhus are endemic across the Asia-Pacific region (the "Tsutsugamushi triangle", extending from East Asia to Southeast Asia, India, and Australia).
-*   **Transmission Route:** Accidental direct contact with larvae crawling from infested soil, tall grass, weeds, and low bushes onto human skin or clothing during outdoor exposure.
-*   **Institutional & Crowding Risks:** N/A (Transmission is strictly environmental from outdoor habitats; person-to-person transmission does not occur).
-*   **Public Health & Outbreak Management:** Clearing brush, weeds, and tall grass around residential yards; applying acaricides/insecticides to vegetation in scrub typhus endemic zones; public health education regarding personal protective measures during agricultural or field activities.
+*   **Geographic Distribution:**
+    *   *Scrub Typhus Vectors (Leptotrombidium spp.):* Restricted primarily to the "Tsutsugamushi Triangle" in the Asia-Pacific region, spanning from Far East Russia (Primorye) and Japan, south through China, Taiwan, Philippines, Southeast Asia (Thailand, Malaysia, Indonesia, Vietnam, Myanmar), India, Pakistan, and Sri Lanka, to Papua New Guinea, Solomon Islands, and northeastern Australia. Found from sea level up to 3,200 meters in the Himalayas.
+    *   *Scrub Itch / Nuisance Chiggers:* Neotrombicula autumnalis (harvest mite) is widely distributed across Europe and Central Asia; Eutrombicula alfreddugesi (red bug) and Eutrombicula splendens are distributed across North America (USA, Mexico), Central America, and South America.
+*   **Transmission Route:** Transmission of [[Orientia tsutsugamushi]] occurs exclusively through the bite of an infected 6-legged larval chigger during its single tissue-fluid meal on a human. Nymphs and adults do not feed on humans or transmit pathogens. No person-to-person transmission occurs.
+*   **Institutional & Crowding Risks:** High risk in military field camps, bivouac sites, outdoor training areas, agricultural work brigades, forestry camps, and refugee settlements situated in cleared scrub vegetation. Scrub typhus caused immense morbidity during World War II, ranking second only to malaria among Allied and Japanese troops operating in the Asia-Pacific theater.
+*   **Public Health & Outbreak Management:** Environmental control of "mite islands" involves mechanical clearance of secondary scrub vegetation, controlled burning, or herbicide application. Chemical vector control utilizes acaricide spraying (carbaryl, propoxur, [[permethrin]], deltamethrin, or cyhalothrin) via ultra-low-volume (ULV) ground equipment or aircraft, with pelletized acaricide formulations preferred for dense ground cover. Rodent host management around dwellings and temporary camps is recommended.
 
 #### Advanced Diagnostics
-*   **Direct Examination & Skin Scrapings:** Microscopic examination of material expressed or gently scraped from early papular lesions reveals tiny, 6-legged trombiculid larvae possessing characteristic branched, feather-like hairs.
-*   **Dermoscopy Features:** Dermoscopy demonstrates a small, bright red or orange larval body positioned in the center of an erythematous pore, surrounded by an inflamed dermal papule.
-*   **Biopsy Findings:** Histopathological examination of a bite lesion reveals superficial epidermal necrosis, intraepidermal vesicle formation, a canalicular stylostome (feeding tube), dense perivascular lymphocytic, neutrophilic, and eosinophilic dermal infiltrates, and marked upper dermal edema.
+*   **Direct Examination & Skin Scrapings:** Microscopic examination of skin scrapings or extracted specimens reveals minute (0.15 mm to 0.3 mm) 6-legged orange-red larvae. Key diagnostic features of Leptotrombidium larvae include a body covered with fine feathered setae, a dorsal scutum with 5 scutal setae, 1 pair of flagelliform sensillae arising from distinct pits, 3 pairs of legs with large claws, and conspicuous 5-segmented palps. Skin scrapings may also reveal the intact or fragmented stylostome as a dense, homogeneous, chitin-negative proteinaceous tube.
+*   **Dermoscopy Features:** Dermoscopy of early chigger infestation shows a minute orange-red or yellowish larva anchored at a hair follicle or skin pore. Dermoscopy of a scrub typhus eschar reveals a central dark black necrotic crust bordered by an erythematous, translucent halo with peripheral vascular telangiectasias.
+*   **Biopsy Findings:** Skin biopsy of a chigger bite site demonstrates epidermal necrosis surrounding a central vertical, eosinophilic, chitin-negative tubular structure (stylostome) extending into the papillary dermis, flanked by a dense dermal infiltrate of lymphocytes, histiocytes, and prominent eosinophils. Histopathology of a scrub typhus eschar shows focal cutaneous leukocytoclastic vasculitis, perivascular lymphohistiocytic infiltrates, severe dermal edema, epidermal/dermal necrosis, and intracellular [[Orientia tsutsugamushi]] organisms within vascular endothelial cells and [[Monocyte and Macrophage|monocyte]]-macrophages (visible via Giemsa stain or immunofluorescence).
 
 #### Pharmacology, Prevention & Eradication
-*   **Topical Scabicides & Pediculicides:** Application of topical anti-pruritic lotions (e.g., calamine, topical hydrocortisone) and local palliatives to relieve intense itching. Topical [[permethrin]] or insecticides can be applied if living mites remain attached to the skin.
-*   **Oral Systemic Treatments:** Oral antihistamines for severe pruritus. Systemic antibiotics (e.g., [[Doxycycline]] or [[Azithromycin]]) are mandatory if scrub typhus (*[[Orientia tsutsugamushi]]*) is transmitted or for treating secondary bacterial pyoderma.
-*   **Treatment Nuances & Re-application Schedules:** Prompt bathing with warm water and soap after outdoor exposure helps wash off unattached or loosely attached larvae before feeding commences; local palliatives provide symptomatic relief during the self-limiting course of the dermatitis.
-*   **Environmental & Laundry Decontamination Protocols:** Washing outdoor clothing in hot water with detergent immediately after field exposure; spraying clothes and boots with [[permethrin]] or insect repellents containing DEET; and removing vegetation and leaf litter around living quarters.
+*   **Topical Scabicides & Pediculicides:** For symptomatic scrub itch / chigger dermatitis, local palliative therapy includes antipruritic lotions (calamine, menthol, camphor), topical corticosteroids (e.g., hydrocortisone 1%, triamcinolone) to suppress papular inflammation, and topical local anesthetics or antiseptics. [[Permethrin]] cream is not required once larvae have detached, but [[permethrin]] sprays applied to clothing serve as an effective acaricidal barrier.
+*   **Oral Systemic Treatments:**
+    *   *Scrub Itch / Dermatitis:* Oral H1-antihistamines (diphenhydramine, cetirizine, loratadine) to alleviate severe itching and suppress scratch-induced excoriation.
+    *   *Scrub Typhus Antimicrobial Therapy:*
+        *   [[Doxycycline]]: First-line drug of choice, administered as 100 mg orally twice daily for 7 days (or a single 200 mg dose in mild outbreak settings).
+        *   [[Azithromycin]]: Alternative first-line agent, preferred in pregnant women, young children, or regions with [[doxycycline]]-resistant [[Orientia tsutsugamushi]] strains (500 mg orally daily for 3 to 5 days or a single 500 mg dose).
+        *   [[Chloramphenicol]]: Alternative second-line agent (500 mg orally four times daily for 7 to 10 days).
+*   **Treatment Nuances & Re-application Schedules:** Empirical antimicrobial therapy for scrub typhus must be started immediately based on clinical eschar identification and travel/exposure history without waiting for laboratory confirmation; rapid fever defervescence within 24 to 48 hours of starting [[doxycycline]] is characteristic. For chigger exposure, washing skin thoroughly with warm water and soap immediately after returning from infested brush removes unattached or weakly attached larvae before stylostomes are established.
+*   **Environmental & Laundry Decontamination Protocols:** Personal protection requires applying chemical repellents containing DEET (N,N-diethyl-m-toluamide), dimethyl carbamate, or benzyl benzoate to exposed skin and clothing. Pre-treating clothing, socks, and trousers with [[permethrin]] spray or impregnation provides durable protection through multiple wash cycles. Washing clothing in hot water (>60°C) or drying in a hot machine dryer destroys all mite stages. Tucking trouser cuffs into socks or boots prevents chiggers from crawling up the legs.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** Chigger, red bug, harvest mite, Trombiculidae, *Trombicula*, *Leptotrombidium*, 6-legged larva, branched feather-like hairs, intense itching, scrub typhus (*[[Orientia tsutsugamushi]]*), stylostome feeding tube, ankles/waistline distribution pattern.
+*   **Buzzwords & Descriptors:** "Stylostome" / "Histiosiphon" (proteinaceous feeding tube), "Eschar" (cigarette-burn-like black necrotic ulcer), "Tsutsugamushi Triangle", "Mite islands" / "Fringe habitats", "Transovarial transmission" (infected eggs yield pre-infected larvae), "Co-feeding transmission", "Six-legged larva" (chigger) vs "Eight-legged adult", "Feathered sensillae and scutal setae", "Scrub itch" / "Red bugs" / "Harvest mites".
 *   **Exceptions to the Rule:**
-    *   *Six-Legged Arachnid Stage:* While adult and nymphal arachnids (mites and ticks) characteristically possess 8 legs (4 pairs), chiggers represent the **larval stage** of trombiculid mites and uniquely possess only **6 legs (3 pairs)**.
-    *   *Feeding on Lymph and Dissolved Tissue, Not Blood:* Unlike ticks, [[mosquitoes]], or fleas, chiggers do NOT feed on host blood; instead, they inject digestive enzymes to lyse epidermal cells and feed on lymph and cellular fluid through a hardened canal called a stylostome.
-    *   *Only Larvae are Parasitic:* Adult and nymphal trombiculid mites are completely harmless, free-living predators in soil and vegetation; ONLY the 6-legged larval stage (chigger) is parasitic on vertebrate animals and humans.
-    *   *Nomenclature Overlap:* The colloquial term "chigger" is occasionally used to refer to the [[Tunga penetrans|sand flea]] / [[Tunga penetrans|chigoe flea]] (*[[Tunga penetrans]]*), but true parasitic chiggers in medical parasitology are trombiculid mite larvae.
+    *   Chiggers do NOT burrow into or live inside human skin, nor do they feed on host blood; they attach externally to the epidermis, feed on liquefied tissue fluids and lymph via the stylostome, and drop off when engorged.
+    *   Only 6-legged larval chiggers are parasitic and act as disease vectors; 8-legged nymphs and adults are completely free-living soil predators that never attack humans or animals.
+    *   Only vector species of the genus Leptotrombidium transmit [[Orientia tsutsugamushi]] (scrub typhus); common nuisance chiggers such as Neotrombicula autumnalis and Eutrombicula alfreddugesi cause severe scrub itch (trombidiosis) but DO NOT transmit scrub typhus or any other infectious pathogen.

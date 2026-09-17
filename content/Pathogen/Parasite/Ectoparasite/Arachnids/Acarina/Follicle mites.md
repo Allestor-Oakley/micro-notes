@@ -1,82 +1,81 @@
 ---
 aliases:
-  - Follicle mite
-  - Demodex folliculorum
-  - Demodex brevis
-  - Demodex spp.
-  - Human follicle mite
+  - Demodex mites
+  - Hair follicle mites
+  - Face mites
+  - Demodicids
 clinical_syndromes:
-  - Demodex dermatitis
-  - Scalp dermatitis
-  - Facial skin irritation
-  - Chronic follicular inflammation
+  - Demodectic folliculitis
+  - Demodicosis
+  - Rosacea
+  - Acne rosacea
+  - Blepharitis
+  - Seborrheic dermatitis
+  - Pityriasis folliculorum
+  - Impetigo contagiosa
 endemic_regions:
   - Worldwide
-  - Cosmopolitan
 target_organs:
-  - Skin
   - Hair follicles
   - Sebaceous glands
-  - Epidermis of nose
-  - Nasolabial fold
-  - Forehead
+  - Facial skin
+  - Eyelashes
   - Scalp
-  - Face
-  - Head and trunk
-arthropod_class: Arachnida (Chelicerata)
-leg_count: 8 legs (4 pairs of short, stumpy / rudimentary legs)
-infestation_site: Hair follicles above sebaceous glands (Demodex folliculorum) and sebaceous glands (Demodex brevis) of the face, head, and trunk
+arthropod_class: Arachnida
+leg_count: 8 legs (4 pairs of short stumpy legs in adults); 6 legs in larvae
+infestation_site: Hair follicles and sebaceous glands (especially face, nose, forehead, cheeks, eyelids, eyelashes, scalp, and trunk)
 vector_capacity:
   - N/A
-date: 2026-07-29
+date: 2026-09-15
 draft: false
 ---
 
-### Follicle Mite (Demodex spp.)
+### Follicle mites
 
 #### Arthropod Anatomy & Physical Morphology
-*   **Adult Physical Features & Size:** Minute, elongate, vermiform (wormlike) organisms measuring approximately 0.1 to 0.4 mm in length (specifically, *Demodex folliculorum* measures 294 µm in length by 55 µm in width, whereas *Demodex brevis* measures 208 µm in length by 54 µm in width). Anatomically divided into three distinct body regions: a short anterior gnathosoma (containing mouthparts), a middle podosoma (bearing 4 pairs of short, stumpy/rudimentary legs), and a long, annulate posterior opisthosoma that tapers to a rounded end.
-*   **Mouthparts & Feeding Apparatus:** Contained within the short anterior gnathosoma; adapted for feeding on cell contents, sebum, and follicular debris in human skin.
-*   **Egg / Nit Morphology & Attachment:** N/A
-*   **Immature Stages:** N/A
+*   **Adult Physical Features & Size:** Adult follicle mites (Demodex species) are minute (0.1 mm to 0.4 mm in length), elongated, vermiform, wormlike arachnids with a distinctly non-mite-like appearance. Two species parasitize humans: Demodex folliculorum and Demodex brevis. Demodex folliculorum is the longer, more elongate species, measuring 0.2 mm to 0.4 mm in length (specifically reported as 294 μm long by 55 μm wide). Demodex brevis is squatter and shorter, measuring 0.15 mm to 0.2 mm in length (specifically reported as 208 μm long by 54 μm wide). Adults possess three body divisions: a short anterior gnathosoma containing mouthparts, a podosoma bearing four pairs of very short, stumpy, rudimentary legs (8 legs total), and a long posterior opisthosoma that tapers to a rounded end with a transversely striated (annulate) cuticle.
+*   **Mouthparts & Feeding Apparatus:** Located on the short anterior gnathosoma. The mouthparts include pincer-like or needle-like chelicerae and short fat pedipalps used to pierce host tissues and ingest liquids. Follicle mites feed on subcutaneous tissues and cellular debris, particularly host sebum produced by sebaceous glands.
+*   **Egg / Nit Morphology & Attachment:** Demodex eggs are microscopic, translucent structures laid directly inside hair follicles or sebaceous glands. They are not attached as external nits to hair shafts or environmental surfaces.
+*   **Immature Stages:** Eggs hatch within hair follicles or sebaceous glands into minute six-legged larvae, which undergo subsequent molts into eight-legged protonymphs, then eight-legged nymphs, before maturing into adult mites.
 
 #### Lifecycle, Habitat & Host Attachment
-*   **Primary Host Range:** Humans (obligate parasites of the human integument).
-*   **Developmental Stages:** Complete lifecycle occurs on host skin within hair follicles and sebaceous glands.
-*   **Attachment Mechanics & Burrowing Behavior:** Resides naturally inside hair follicles above the sebaceous glands (*D. folliculorum*) or directly within sebaceous glands (*D. brevis*); does not actively burrow beneath the epidermal basement membrane.
-*   **Environmental Survival Off-Host:** N/A
+*   **Primary Host Range:** Humans are the sole obligate hosts for Demodex folliculorum and Demodex brevis; these mites occur exclusively on humans as obligate ectoparasites of the human integument.
+*   **Developmental Stages:** Complete developmental lifecycle proceeds through 5 stages: Egg -> 6-Legged Larva -> Protonymph -> Nymph -> Adult. The entire lifecycle from egg to adult takes approximately 13 to 15 days and occurs entirely within human hair follicles or sebaceous glands.
+*   **Attachment Mechanics & Burrowing Behavior:** Mites reside directly inside hair follicles and sebaceous glands. Demodex folliculorum primarily inhabits hair follicles and eyelash hair follicles above the level of the sebaceous glands, where up to 25 mites may accumulate in a single follicle. Demodex brevis inhabits the deeper sebaceous glands of hair follicles and eyelashes on the head and trunk, where much smaller numbers are found per gland. They do not excavate linear epidermal burrows or tunnels in the stratum corneum like scabies mites.
+*   **Environmental Survival Off-Host:** Follicle mites are obligate parasites that depend entirely on the microenvironment of human hair follicles and sebaceous glands; survival off the human host in the environment is extremely brief and limited.
 
 #### Pathogenesis & Vector Dynamics
-*   **Direct Dermatologic Damage:** Generally considered a harmless commensal organism or minor nuisance rather than a severe pathogen; however, high mite densities or host reactions can induce local tissue disruption and chronic inflammatory cell infiltration around mites within hair follicles and sebaceous glands.
-*   **Hypersensitivity & Immune Response:** May trigger localized chronic cell-mediated inflammatory reactions in a minority of susceptible individuals, manifesting as localized facial erythema or scalp dermatitis.
-*   **Pathogens Transmitted as a Vector:** N/A
-*   **Host Defense & Predisposing Factors:** Cosmopolitan distribution with near 100% prevalence in adult human populations; acquired early in human life, commonly via direct mother-to-child transmission. Clinical disease remains extremely rare.
+*   **Direct Dermatologic Damage:** Demodex mites are generally considered harmless saprophytes or commensals. However, mechanical blockage of hair follicle openings and sebaceous gland ducts by clusters of mites, combined with consumption of sebum and destruction of follicular epithelial cells, can trigger localized tissue irritation, hyperkeratosis, epithelial hyperplasia, and a mild chronic inflammatory tissue response surrounding the mites.
+*   **Hypersensitivity & Immune Response:** Clinical manifestations are often associated with host hypersensitivity reactions to mite body antigens, secretions, or bacterial products. Increased mite density or overgrowth can induce intense localized erythema, papular eruptions, and follicular inflammation.
+*   **Pathogens Transmitted as a Vector:** Follicle mites are not known to transmit any human viral, bacterial, or protozoal pathogens as a biological vector (N/A).
+*   **Host Defense & Predisposing Factors:** Mite density increases with age, with prevalence reaching 90% to 100% in elderly individuals. Factors enhancing susceptibility or causing clinical disease (demodicosis) include increased sebum production, poor personal hygiene, local or systemic immunosuppression (such as AIDS or acute lymphoblastic leukemia), and the topical use of immunosuppressive agents (e.g., topical [[tacrolimus]] ointment).
 
 #### Clinical Syndromes & Presentations
-*   **Primary Infestation Presentation:** Virtually always asymptomatic (incidental finding on skin biopsy or microscopic exam); occasionally presents with mild dermatitis, scalp irritation, or facial papular eruptions.
-*   **Pathognomonic Lesions & Distribution Pattern:** Distribution is localized predominantly to the skin of the face (nose, nasolabial folds, forehead), forehead, scalp, and upper trunk.
-*   **Secondary Complications:** Secondary bacterial infection or exacerbated facial rosacea/dermatitis in rare heavy infestations.
-*   **Laboratory & Dermoscopic Findings:** Microscopic visualization of vermiform mites in sebum or material expressed from an infested follicle, or as an incidental finding in hematoxylin and eosin (H&E) stained histologic sections of facial skin biopsy specimens.
+*   **Primary Infestation Presentation:** Most human infestations are completely asymptomatic and subclinical. When symptomatic, presentations include mild rosaceous pruritus, facial erythema, papular folliculitis, pityriasis folliculorum, acne-like or rosacea-like facial eruptions, blepharitis (eyelid margin inflammation), seborrheic dermatitis, and scalp dermatitis. In immunocompromised patients (such as children with acute lymphoblastic leukemia or individuals with AIDS), severe, extensive, or refractory papular/pustular folliculitis and truncal rashes can occur.
+*   **Pathognomonic Lesions & Distribution Pattern:** Lesions are concentrated on areas rich in sebaceous glands, specifically the nose, nasolabial folds, forehead, cheeks adjacent to the nose, eyelids, eyelashes, and scalp. In blepharitis, mites accumulate at the base of eyelashes, leading to lid margin scaling, itching, and loss of eyelashes.
+*   **Secondary Complications:** Overgrowth of Demodex mites may trigger acute pustular flares, secondary bacterial superinfections (such as impetigo contagiosa), and aggravation of pre-existing facial dermatoses like acne vulgaris or rosacea.
+*   **Laboratory & Dermoscopic Findings:** Diagnosis is supported by microscopic demonstration of multiple mites expressed from facial follicles or eyelashes. Systemic inflammatory markers, peripheral eosinophilia, and serum IgE are generally normal in routine demodicosis.
 
 #### Epidemiology & Transmission
-*   **Geographic Distribution:** Worldwide / Cosmopolitan distribution across all human populations.
-*   **Transmission Route:** Direct skin-to-skin contact, predominantly acquired early in life via mother-to-child transmission.
-*   **Institutional & Crowding Risks:** N/A
-*   **Public Health & Outbreak Management:** N/A
+*   **Geographic Distribution:** Cosmopolitan and worldwide; ubiquitous across all human populations.
+*   **Transmission Route:** Transmission occurs through direct skin-to-skin contact, predominantly mother-to-child transmission during the close physical contact of nursing in infancy.
+*   **Institutional & Crowding Risks:** Infestation rates correlate with age and close interpersonal physical contact rather than institutional crowding.
+*   **Public Health & Outbreak Management:** Public health interventions and environmental control measures are unnecessary because Demodex mites are normal, harmless commensals of the human skin in the vast majority of the population.
 
 #### Advanced Diagnostics
-*   **Direct Examination & Skin Scrapings:** Microscopic examination of material expressed from hair follicles or sebaceous secretions placed under a coverslip reveals motile, 8-legged vermiform adult mites.
-*   **Dermoscopy Features:** N/A
-*   **Biopsy Findings:** Histologic sections (H&E stain) demonstrate cross-sections or longitudinal views of elongate mites featuring a short anterior gnathosoma, a podosoma with short legs, and a long annulate opisthosoma located inside hair follicles or sebaceous glands, occasionally surrounded by perifollicular chronic inflammatory cell infiltrates.
+*   **Direct Examination & Skin Scrapings:** Microscopic examination of sebum expressed from follicles, comedone extracts, or epilated eyelashes placed on a glass slide in mineral oil or potassium hydroxide (KOH) reveals characteristic elongated, vermiform mites with 4 pairs of stumpy legs and an annulate abdomen.
+*   **Dermoscopy Features:** Dermoscopy of affected facial skin or eyelash margins may reveal "Demodex tails" (white micro-projections protruding from hair follicle openings corresponding to the posterior opisthosoma of the mites).
+*   **Biopsy Findings:** Histologic examination of skin biopsy specimens (stained with hematoxylin and eosin) reveals tiny, vermiform Demodex mites situated within hair follicles and sebaceous glands, often surrounded by chronic inflammatory cell infiltrates (lymphocytes, histiocytes) or a fibrous tissue response.
 
 #### Pharmacology, Prevention & Eradication
-*   **Topical Scabicides & Pediculicides:** Single application of topical 1% gamma benzene hexachloride (lindane) cream or lotion (effective treatment).
-*   **Oral Systemic Treatments:** N/A
-*   **Treatment Nuances & Re-application Schedules:** Treatment is indicated only for rare symptomatic dermatitis; a single topical application of 1% gamma benzene hexachloride is curative.
-*   **Environmental & Laundry Decontamination Protocols:** N/A
+*   **Topical Scabicides & Pediculicides:** Topical treatments for symptomatic demodicosis or blepharitis include 1% [[permethrin]] cream, 1% gamma benzene hexachloride (lindane) lotion/ointment applied as a single application, topical sodium sulfacetamide formulations, zinc and sulfur creams, or dilute baby shampoo scrubs followed by antibiotic ointment for ocular/eyelash involvement. Oils containing lauric and capric acids have also been tried with variable results.
+*   **Oral Systemic Treatments:** Oral [[ivermectin]] (single or repeated dosage) has shown promise and efficacy in clearing heavy Demodex mite burdens, particularly in refractory or severe demodicosis. Oral [[ciprofloxacin]] or other systemic antibiotics may be used to manage acute pustular flares or secondary bacterial infections.
+*   **Treatment Nuances & Re-application Schedules:** Repeated daily washing with mild cleansers or sulfur soaps helps reduce mite populations on the face and eyelashes. Discontinuation of offending immunosuppressive topical agents (such as topical [[tacrolimus]]) is critical to resolve iatrogenic Demodex flares.
+*   **Environmental & Laundry Decontamination Protocols:** Environmental decontamination, laundering of bedding, or fumigation is not required because follicle mites are obligate human commensals transmitted by direct person-to-person contact.
 
 #### Trivia & Edge Cases
-*   **Buzzwords & Descriptors:** Follicle mite, *Demodex folliculorum*, *Demodex brevis*, vermiform / wormlike mite, gnathosoma, podosoma with 4 pairs of stumpy legs, annulate opisthosoma, mother-to-child transmission, 1% gamma benzene hexachloride (lindane).
+*   **Buzzwords & Descriptors:** "Vermiform" / "Wormlike mite", "Four pairs of stumpy legs", "Gnathosoma, podosoma, opisthosoma", "Annulate / Striated abdomen", "Follicle mite" (Demodex folliculorum) vs "Sebaceous gland mite" (Demodex brevis), "Mother-to-child transmission during nursing", "Harmless saprophyte / Commensal", "Pityriasis folliculorum", "Demodex folliculitis".
 *   **Exceptions to the Rule:**
-    *   *High Prevalence with Low Pathogenicity:* Unlike true ectoparasitic pathogens like *[[Sarcoptes scabiei]]*, *Demodex* mites reside as normal commensal microfauna on nearly all healthy adult humans worldwide, with overt clinical disease occurring only in rare exceptional circumstances.
-    *   *Micro-Anatomical Habitat Partitioning:* The two species exhibit strict spatial niche partitioning on the human host: *Demodex folliculorum* lives in hair follicles above the sebaceous glands (primarily on the face), whereas *Demodex brevis* resides deeper inside the sebaceous glands (on the head and trunk).
+    *   Unlike typical round or oval mites, Demodex species have a highly unique, elongated, vermiform, wormlike body with 4 pairs of short stumpy legs that make them remarkably non-mite-like in appearance.
+    *   Demodex folliculorum and Demodex brevis reside entirely inside hair follicles and sebaceous glands, respectively, and do NOT burrow into or excavate tunnels within the stratum corneum (unlike [[Sarcoptes scabiei]]).
+    *   Despite infecting 90% to 100% of elderly adults worldwide, Demodex mites are normal, harmless commensals in almost all individuals and produce no disease or symptoms under normal conditions.
