@@ -142,7 +142,7 @@ draft: false
     - **Neonatal Herpes Simplex Infection:** Acquired predominantly during delivery through an infected maternal birth canal shedding HSV-2 (or HSV-1) (~85%), or in utero, or postnatally. Manifests in three distinct clinical patterns appearing in the 1st–3rd week of life:
         1. *Localized Skin, Eye, and Mouth (SEM) Disease:* Vesicular lesions on skin, scalp (fetal monitor sites), eyes, or mouth.
         2. *Central Nervous System (CNS) Disease:* Necrotizing [[encephalitis]] with seizures, lethargy, irritability, bulging fontanelle, and high mortality/morbidity.
-        3. *Disseminated Disease:* Severe [[sepsis]]-like presentation with multiorgan failure, DIC, shock, hepatitis, pneumonia, and high mortality (>60%).
+        3. *Disseminated Disease:* Severe [[Sepsis]]-like presentation with multiorgan failure, DIC, shock, hepatitis, pneumonia, and high mortality (>60%).
     - **Herpetic Whitlow:** Cutaneous infection of the fingers or hand presenting as painful, erythematous, grouped pustular/vesicular lesions. Seen in infants (autoinoculation from oral lesions), healthcare workers/dentists (occupational exposure without gloves), or sexually active individuals.
     - **Herpes Gladiatorum ("Scrum Pox"):** Cutaneous HSV-1 infection on the head, neck, or torso acquired through direct skin-to-skin contact during contact sports (wrestling).
     - **Eczema Herpeticum (Kaposi's Varicelliform Eruption):** Severe, widespread, potential life-threatening superinfection of eczematous or burned skin by HSV-1 in patients with underlying chronic eczema/atopic dermatitis; presents with extensive crops of umbilicated vesicles across affected skin, high fever, and systemic toxicity.

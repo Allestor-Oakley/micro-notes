@@ -7,7 +7,7 @@ This is a collection of microbiology notes I have gathered. Most were generated 
 
 ---
 ### **⟸** Open **Explorer Sidebar** (or click **≡**) to start exploring:
-- Disease (*In progress*)
+- Disease
 - Drug
 	- Antimicrobial
 		- Antibiotic
@@ -16,7 +16,7 @@ This is a collection of microbiology notes I have gathered. Most were generated 
 		- Antiviral
 	- Immunomodulator
 - Immune
-- Lab (*In progress*)
+- Lab
 - Pathogen
 	- Bacteria
 	- Fungi
@@ -26,6 +26,8 @@ This is a collection of microbiology notes I have gathered. Most were generated 
 ### **References:**
 
 Abbas, A. K., Lichtman, A. H., Pillai, S., & Henrickson, S. (2025). _Cellular and molecular immunology_. Elsevier.
+
+Bennett, J. E., Dolin, R., Blaser, M. J., Douglas, R. G., Mandell, G. L., & Elsevier. (2020). _Mandell, Douglas, and Bennett’s principles and practice of infectious diseases_.
 
 Farrar, J., Garcia, P. J., Hotez, P. J., Junghanss, T., Kang, G., Lalloo, D., & White, N. J. (2023). _Manson’s Tropical Diseases_. Elsevier.
 

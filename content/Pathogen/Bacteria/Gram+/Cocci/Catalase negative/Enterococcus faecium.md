@@ -70,7 +70,7 @@ draft: false
     *   **[[Peritonitis]]:** Polymicrobial abdominal infections following bowel rupture or trauma.
     *   **Bacteremia:** Systemic bloodstream infection, frequently associated with intravascular catheters.
     *   **[[Endocarditis]]:** Serious infection of previously damaged or prosthetic heart valves.
-*   **Secondary, Atypical & Alternate Presentations:** Prostatitis, infections of burns, and catheter-related [[sepsis]].
+*   **Secondary, Atypical & Alternate Presentations:** Prostatitis, infections of burns, and catheter-related [[Sepsis]].
 *   **Incubation Period:** Variable and dependent on the clinical setting (often nosocomial, occurring days to weeks into hospital stays or following urologic/surgical procedures).
 *   **Pathognomonic Signs:** N/A
 *   **Complications & Sequelae:** Heart valve destruction requiring surgical replacement, paravalvular abscesses, and septic shock.

@@ -49,7 +49,6 @@ draft: false
     - Structurally non-enveloped in mature, infectious virions.
     - Acquires a transient "pseudoenvelope" or lipid membrane during morphogenesis when double-layered particles (DLPs) dock onto NSP4 and bud into the lumen of the rough endoplasmic reticulum (RER).
     - This temporary membrane envelope is subsequently cleaved/lost in the ER as the outer capsid proteins (VP7 and VP4) are added, yielding mature non-enveloped triple-layered particles (TLPs).
-    - Extremely stable against environmental degradation: resistant to ether, chloroform, detergents, lipid solvents, acidic pH (pH 3.5 to 10), and repeated freezing and thawing.
 *   **Virion Size & Physical Morphology:**
     - Spherical icosahedral particles with a characteristic "wheel-like" appearance on negative-stain electron microscopy (derived from the Latin word "rota", meaning wheel), featuring a well-defined outer rim of capsomeres connected by spoke-like structures to a central core.
     - Outer diameter of 60–80 nm (nearly 100 nm including the VP4 surface spikes).
@@ -105,7 +104,7 @@ draft: false
     - **Immense Antigenic Diversity:** High frequency of genomic reassortment between co-infecting human and animal strains, coupled with point mutations in outer capsid genes (VP4 and VP7), generates extensive antigenic drift and shift, producing multiple G and P serotype/genotype combinations that evade existing neutralizing [[Antibodies, Immunoglobulins|antibodies]].
 *   **Host Defense & Immunodeficiency Links:**
     - **Host Defense:** Mucosal immunity, primarily mediated by rotavirus-specific secretory IgA (sIgA) in the intestinal lumen directed against outer capsid proteins VP7 and VP4, provides the main protection against reinfection and severe disease. Passively acquired maternal [[Antibodies, Immunoglobulins|antibodies]] (transplacental IgG and IgA in colostrum/breast milk) protect neonates during the first months of life.
-    - **Immunodeficiency Links:** In children with severe primary or secondary immunodeficiencies (such as severe [[Severe Combined Immunodeficiency (SCID)|combined immunodeficiency]] [[[Severe Combined Immunodeficiency (SCID)|SCID]]] or advanced [[HIV]]/AIDS), rotavirus can cause chronic, persistent, extraintestinal, or life-threatening severe gastroenteritis with prolonged viral shedding (lasting up to 50 days or more). Note: Routine live rotavirus vaccines are contraindicated in infants with [[Severe Combined Immunodeficiency (SCID)|SCID]].
+    - **Immunodeficiency Links:** In children with severe primary or secondary immunodeficiencies (such as severe [[Severe Combined Immunodeficiency (SCID)|combined immunodeficiency]] or advanced [[HIV]]/AIDS), rotavirus can cause chronic, persistent, extraintestinal, or life-threatening severe gastroenteritis with prolonged viral shedding (lasting up to 50 days or more). Note: Routine live rotavirus vaccines are contraindicated in infants with [[Severe Combined Immunodeficiency (SCID)|SCID]].
 
 #### Clinical Syndromes
 *   **Primary Diseases:**

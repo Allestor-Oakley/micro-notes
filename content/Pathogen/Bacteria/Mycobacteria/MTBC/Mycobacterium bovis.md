@@ -56,7 +56,7 @@ draft: false
 
 #### Clinical Syndromes
 *   **Primary Diseases:** Tuberculosis-like disease. It is capable of causing pulmonary tuberculosis that is clinically indistinguishable from tuberculosis caused by [[Mycobacterium tuberculosis]].
-*   **Secondary, Atypical & Alternate Presentations:** Extrapulmonary tuberculosis, including cervical [[lymphadenitis]], miliary tuberculosis, and meningeal tuberculosis.
+*   **Secondary, Atypical & Alternate Presentations:** Extrapulmonary tuberculosis, including cervical [[Lymphadenitis and Lymphangitis]], miliary tuberculosis, and meningeal tuberculosis.
 *   **Incubation Period:** N/A
 *   **Pathognomonic Signs:** Concentric granulomas showing central caseous necrosis.
 *   **Complications & Sequelae:** Progression to severe pulmonary disease, extensive tissue destruction, miliary dissemination, and fatal tuberculous [[meningitis]].

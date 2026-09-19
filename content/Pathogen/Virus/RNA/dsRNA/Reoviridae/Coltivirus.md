@@ -1,9 +1,8 @@
 ---
 aliases:
-  - Colorado Tick Fever
+  - Colorado Tick Fever Virus
   - CTFV
   - Mountain Tick Fever
-  - Coltivirus
 clinical_syndromes:
   - Colorado Tick Fever
   - Mountain Fever
