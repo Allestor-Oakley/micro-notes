@@ -253,12 +253,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:quartz-themes/core
-    enabled: true
-    options:
-      theme: "vanilla-palettes"
-      variation: "horizon"
-      mode: "both"
 layout:
   groups:
     toolbar:

@@ -1,3 +1,110 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Dracula Dark Background
+$dracula-bg: #282a36;
+
+// Muted Dracula Colors (80% neon, 20% background)
+$dracula-cyan: mix(#8be9fd, $dracula-bg, 80%);
+$dracula-green: mix(#50fa7b, $dracula-bg, 80%);
+$dracula-orange: mix(#ffb86c, $dracula-bg, 80%);
+$dracula-pink: mix(#ff79c6, $dracula-bg, 80%);
+$dracula-purple: mix(#bd93f9, $dracula-bg, 80%);
+$dracula-red: mix(#ff5555, $dracula-bg, 80%);
+$dracula-yellow: mix(#f1fa8c, $dracula-bg, 80%);
+
+// Reading Mode & Quartz Rendered Elements
+.markdown-rendered {
+  h1 {
+    color: $dracula-purple !important;
+  }
+
+  h2 {
+    color: $dracula-pink !important;
+  }
+
+  h3 {
+    color: $dracula-cyan !important;
+  }
+
+  h4 {
+    color: $dracula-green !important;
+  }
+
+  h5 {
+    color: $dracula-orange !important;
+  }
+
+  h6 {
+    color: $dracula-yellow !important;
+  }
+
+  strong {
+    color: $dracula-orange !important;
+  }
+
+  em {
+    color: $dracula-yellow !important;
+  }
+
+  a {
+    color: $dracula-pink !important;
+    background-color: transparent !important;
+    text-decoration: underline !important;
+    text-decoration-color: $dracula-pink !important;
+  }
+
+  u {
+    text-decoration: underline;
+    text-decoration-color: $dracula-green !important;
+    color: $dracula-green !important;
+  }
+}
+
+// Obsidian Live Preview (Editing Mode)
+.cm-header-1 {
+  color: $dracula-purple !important;
+}
+
+.cm-header-2 {
+  color: $dracula-pink !important;
+}
+
+.cm-header-3 {
+  color: $dracula-cyan !important;
+}
+
+.cm-header-4 {
+  color: $dracula-green !important;
+}
+
+.cm-header-5 {
+  color: $dracula-orange !important;
+}
+
+.cm-header-6 {
+  color: $dracula-yellow !important;
+}
+
+.cm-strong {
+  color: $dracula-orange !important;
+}
+
+.cm-em {
+  color: $dracula-yellow !important;
+}
+
+.cm-link,
+.cm-hmd-internal-link {
+  color: $dracula-pink !important;
+  background-color: transparent !important;
+  text-decoration: underline !important;
+  text-decoration-color: $dracula-pink !important;
+}
+
+.cm-underline {
+  text-decoration: underline;
+  text-decoration-color: $dracula-green !important;
+  color: $dracula-green !important;
+}

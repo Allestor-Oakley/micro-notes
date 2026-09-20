@@ -22,8 +22,9 @@ This is a collection of microbiology notes I have gathered. Most were generated 
 	- Fungi
 	- Parasite
 	- Virus
+
 ---
-### **References:**
+### **Textbooks:**
 
 Abbas, A. K., Lichtman, A. H., Pillai, S., & Henrickson, S. (2025). _Cellular and molecular immunology_. Elsevier.
 
@@ -40,8 +41,6 @@ Michael, P. R. . R. M. P., Murray, P. R., PhD, Rosenthal, K., & Pfaller, M. A. (
 Riedel, S., Morse, S. A., Mietzner, T. A., & Miller, S. (2019). _Jawetz Melnick & Adelbergs Medical Microbiology 28 e_. McGraw Hill Professional.
 
 Ritter, J. M., Flower, R. J., Henderson, G., Loke, Y. K., MacEwan, D., & Rang, H. P. (2019a). _Rang and Dale’s Pharmacology_. Elsevier.
-
-Ritter, J. M., Flower, R. J., Henderson, G., Loke, Y. K., MacEwan, D., & Rang, H. P. (2019b). _Rang and Dale’s Pharmacology_. Elsevier.
 
 Service, M. W., & Service, M. (2012). _Medical entomology for students_. Cambridge University Press.
 
