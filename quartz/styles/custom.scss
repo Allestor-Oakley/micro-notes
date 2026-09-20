@@ -2,109 +2,96 @@
 
 // put your custom CSS here!
 
-// Dracula Dark Background
-$dracula-bg: #282a36;
+// Base Background
+$bg-color: #161618;
 
-// Muted Dracula Colors (80% neon, 20% background)
-$dracula-cyan: mix(#8be9fd, $dracula-bg, 80%);
-$dracula-green: mix(#50fa7b, $dracula-bg, 80%);
-$dracula-orange: mix(#ffb86c, $dracula-bg, 80%);
-$dracula-pink: mix(#ff79c6, $dracula-bg, 80%);
-$dracula-purple: mix(#bd93f9, $dracula-bg, 80%);
-$dracula-red: mix(#ff5555, $dracula-bg, 80%);
-$dracula-yellow: mix(#f1fa8c, $dracula-bg, 80%);
+// Original Material Theme Colors
+$mt-purple-base: #C792EA;
+$mt-blue-base: #82AAFF;
+$mt-cyan-base: #89DDFF;
+$mt-green-base: #C3E88D;
+$mt-yellow-base: #FFCB6B;
+$mt-orange-base: #F78C6C;
+$mt-red-base: #F07178;
 
-// Reading Mode & Quartz Rendered Elements
-.markdown-rendered {
-  h1 {
-    color: $dracula-purple !important;
+$gradient: 80%;
+
+// Muted Colors
+$mt-purple: mix($mt-purple-base, $bg-color, $gradient);
+$mt-blue: mix($mt-blue-base, $bg-color, $gradient);
+$mt-cyan: mix($mt-cyan-base, $bg-color, $gradient);
+$mt-green: mix($mt-green-base, $bg-color, $gradient);
+$mt-yellow: mix($mt-yellow-base, $bg-color, $gradient);
+$mt-orange: mix($mt-orange-base, $bg-color, $gradient);
+$mt-red: mix($mt-red-base, $bg-color, $gradient);
+
+// Target both Reading View and Live Preview (Editing Mode)
+.markdown-rendered,
+.markdown-source-view.mod-cm6 .cm-content {
+
+  // Headers (H1 - H6)
+  h1,
+  .cm-header-1 {
+    color: $mt-purple;
   }
 
-  h2 {
-    color: $dracula-pink !important;
+  h2,
+  .cm-header-2 {
+    color: $mt-blue;
   }
 
-  h3 {
-    color: $dracula-cyan !important;
+  h3,
+  .cm-header-3 {
+    color: $mt-cyan;
   }
 
-  h4 {
-    color: $dracula-green !important;
+  h4,
+  .cm-header-4 {
+    color: $mt-green;
   }
 
-  h5 {
-    color: $dracula-orange !important;
+  h5,
+  .cm-header-5 {
+    color: $mt-yellow;
   }
 
-  h6 {
-    color: $dracula-yellow !important;
+  h6,
+  .cm-header-6 {
+    color: $mt-orange;
   }
 
-  strong {
-    color: $dracula-orange !important;
+  // Bold Text
+  strong,
+  .cm-strong {
+    color: $mt-orange;
   }
 
-  em {
-    color: $dracula-yellow !important;
+  // Italic Text
+  em,
+  .cm-em {
+    color: $mt-yellow;
   }
 
-  a {
-    color: $dracula-pink !important;
+  // Underline Text (Using HTML <u> tag)
+  u,
+  .cm-underline {
+    color: $mt-red;
+  }
+
+  // Links (Internal and External)
+  a,
+  .cm-hmd-internal-link,
+  .cm-link {
+    color: $mt-cyan !important;
     background-color: transparent !important;
     text-decoration: underline !important;
-    text-decoration-color: $dracula-pink !important;
+    text-decoration-color: rgba($mt-cyan, 0.4) !important; // Lowered opacity on the underline for subtlety
+    text-underline-offset: 3px;
+
+    &:hover {
+      // Lighten slightly on hover for interactive feedback, but keep it muted
+      color: lighten($mt-cyan, 5%) !important;
+      text-decoration-color: $mt-cyan !important;
+    }
   }
-
-  u {
-    text-decoration: underline;
-    text-decoration-color: $dracula-green !important;
-    color: $dracula-green !important;
-  }
-}
-
-// Obsidian Live Preview (Editing Mode)
-.cm-header-1 {
-  color: $dracula-purple !important;
-}
-
-.cm-header-2 {
-  color: $dracula-pink !important;
-}
-
-.cm-header-3 {
-  color: $dracula-cyan !important;
-}
-
-.cm-header-4 {
-  color: $dracula-green !important;
-}
-
-.cm-header-5 {
-  color: $dracula-orange !important;
-}
-
-.cm-header-6 {
-  color: $dracula-yellow !important;
-}
-
-.cm-strong {
-  color: $dracula-orange !important;
-}
-
-.cm-em {
-  color: $dracula-yellow !important;
-}
-
-.cm-link,
-.cm-hmd-internal-link {
-  color: $dracula-pink !important;
-  background-color: transparent !important;
-  text-decoration: underline !important;
-  text-decoration-color: $dracula-pink !important;
-}
-
-.cm-underline {
-  text-decoration: underline;
-  text-decoration-color: $dracula-green !important;
-  color: $dracula-green !important;
 }
