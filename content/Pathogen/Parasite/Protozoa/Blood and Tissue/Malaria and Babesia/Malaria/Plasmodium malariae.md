@@ -106,7 +106,7 @@ draft: false
 *   **Geographic Endemicity:**
     - Endemic Region: Cosmopolitan / Global distribution throughout tropical, subtropical, and temperate zones worldwide (sub-Saharan Africa, Asia, South and Central America). Co-exists with other Plasmodium species but generally occurs at lower prevalence (0.5% to 3% in endemic regions).
 *   **Environmental Reservoir & Water Systems:**
-    - Environmental Reservoir: Breeding sites of female Anopheles [[mosquitoes]] in clean, open, or standing water collections where eggs are laid and larvae develop.
+    - Environmental Reservoir: Breeding sites of female Anopheles [[Mosquitoes]] in clean, open, or standing water collections where eggs are laid and larvae develop.
 *   **High-Risk Activities & Dietary Exposures:**
     - High-Risk Exposures: Outdoor nighttime activities in Anopheles-endemic regions; receiving blood transfusions (donors harboring undetected subpatent infection); sharing unsterilized needles/syringes.
     - Dietary Exposures: None (transmission is strictly vector-borne or parenteral).

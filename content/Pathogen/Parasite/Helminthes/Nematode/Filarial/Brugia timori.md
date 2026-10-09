@@ -68,7 +68,7 @@ draft: false
     - Human Lymphatic Migration: Inoculated L3 larvae penetrate the dermis, enter lymphatic capillaries, and migrate to afferent lymphatic channels and regional [[Lymph Nodes]] (primarily in the lower extremities).
     - Maturation: Larvae undergo two molts inside host lymphatics over 3 to 12 months to develop into sexually mature adult male and female filarial worms.
     - Microfilaria Circulation: Fertilized female adult worms release sheathed microfilariae into lymphatic fluid, which pass through regional nodes into the thoracic duct to enter systemic blood circulation.
-    - [[Mosquitoes|Mosquito]] Cycle: Feeding *[[Mosquitoes|Anopheles]] barbirostris* [[mosquitoes]] ingest circulating microfilariae from peripheral blood at night. Ingested larvae exsheath, cross the midgut wall, migrate to thoracic muscles, undergo two molts (L1 -> L2 -> L3) over 10 to 14 days, and migrate to the [[Mosquitoes|mosquito]] proboscis.
+    - [[Mosquitoes|Mosquito]] Cycle: Feeding *[[Mosquitoes|Anopheles]] barbirostris* [[Mosquitoes]] ingest circulating microfilariae from peripheral blood at night. Ingested larvae exsheath, cross the midgut wall, migrate to thoracic muscles, undergo two molts (L1 -> L2 -> L3) over 10 to 14 days, and migrate to the [[Mosquitoes|mosquito]] proboscis.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Sheathed microfilariae (290–325 μm long, 3:1 head space, colorless sheath on Giemsa, 2 distinct terminal tail nuclei) in peripheral night blood.
     - Shedding Site: Bloodstream / vascular system. Microfilariae are NOT passed in stool, urine, or sputum.
@@ -110,7 +110,7 @@ draft: false
     - Geographically restricted exclusively to Eastern Indonesia and East Timor (Timor-Leste).
     - Endemic Islands: Timor, Flores, Roti, Alor, and adjacent small islands of the Lesser Sunda Archipelago.
 *   **Soil & Environmental Requirements:**
-    - Requires lowland rural agricultural environments, irrigated rice fields, marshy river valleys, and slow-moving streams supporting high population densities of *[[Mosquitoes|Anopheles]] barbirostris* [[mosquitoes]].
+    - Requires lowland rural agricultural environments, irrigated rice fields, marshy river valleys, and slow-moving streams supporting high population densities of *[[Mosquitoes|Anopheles]] barbirostris* [[Mosquitoes]].
 *   **Dietary Exposures & Intermediate Host Foods:**
     - N/A (Transmitted exclusively by [[Mosquitoes|mosquito]] vectors; no dietary or waterborne acquisition).
 *   **Public Health & Mass Drug Administration:**

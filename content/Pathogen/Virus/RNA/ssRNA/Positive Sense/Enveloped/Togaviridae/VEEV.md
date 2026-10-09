@@ -64,7 +64,7 @@ draft: false
 
 #### Epidemiology & Transmission
 *   **Reservoir:** The virus circulates silently enzootically in small mammals (rodents). During epidemics, horses act as major amplifying hosts.
-*   **Transmission Route:** The virus is an arbovirus transmitted zoonotically via the bite of infected [[mosquitoes]]. Following high rainfall, [[Mosquitoes|mosquito]] populations expand; horses become infected and act as amplifiers, with equine cases typically preceding human cases.
+*   **Transmission Route:** The virus is an arbovirus transmitted zoonotically via the bite of infected [[Mosquitoes]]. Following high rainfall, [[Mosquitoes|mosquito]] populations expand; horses become infected and act as amplifiers, with equine cases typically preceding human cases.
 *   **Vectors:** [[Mosquitoes]], predominantly of the genera *Aedes*, *Culex*, and *Psorophora*.
 *   **Public Health & Isolation:** Extensive outbreaks of VEEV have occurred in Venezuela, Colombia, Trinidad, Brazil, Panama, Mexico, and the southern United States (e.g., Florida). A massive 1962 epidemic in Venezuela resulted in 100,000 equine cases, almost entirely wiping out the equine population. Because a high proportion of equines develop immunity following an outbreak, approximately 10 years are usually required to build up another susceptible amplifying population. The infection-to-clinical case ratio is heavily age-dependent: 25:1 for individuals <15 years of age, and 1000:1 for those >15 years of age.
 

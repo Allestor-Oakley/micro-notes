@@ -69,7 +69,7 @@ draft: false
 *   **Intermediate Host & Vector Dynamics:**
     - Natural Primary Intermediate / Reservoir Hosts: Old World monkeys/macaques, specifically long-tailed macaques (Macaca fascicularis) and pig-tailed macaques (Macaca nemestrina), in which it causes a chronic, naturally acquired infection.
     - Secondary / Accidental Intermediate Host: Humans (permissive host under natural and experimental conditions).
-    - Vector Dynamics: Transmitted by blood-feeding female [[mosquitoes]] belonging to the Anopheles leucosphyrus group (e.g., Anopheles latens, Anopheles cracens). These vectors reside predominantly in the upper forest canopy and forest fringes, biting outdoors mainly at dusk and at night.
+    - Vector Dynamics: Transmitted by blood-feeding female [[Mosquitoes]] belonging to the Anopheles leucosphyrus group (e.g., Anopheles latens, Anopheles cracens). These vectors reside predominantly in the upper forest canopy and forest fringes, biting outdoors mainly at dusk and at night.
 *   **Transmission Route:**
     - Primary Route: Vector-borne transmission via the bite wound of an infected female Anopheles mosquito during a blood meal.
     - General Plasmodium Transmission Routes: Blood transfusion (transfusion malaria), shared contaminated needles/syringes among drug misusers, and vertical transplacental transmission from mother to fetus.
@@ -161,7 +161,7 @@ draft: false
     - Absence of Hypnozoite Therapy: Because Plasmodium knowlesi does not produce dormant liver hypnozoites, anti-relapse therapy with [[Primaquine]] for liver-stage clearance is not biologically required (though [[Primaquine]] may be co-administered in general clinical regimens).
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Personal Protection: Application of insect repellents containing DEET to exposed skin, wearing protective long-sleeved clothing and trousers, and sleeping under insecticide-treated bed nets (ITNs).
-    - Vector Control Limitations: Standard indoor residual insecticide spraying (IRS) and indoor bed nets have limited effectiveness against primary Plasmodium knowlesi vectors (Anopheles leucosphyrus group) because these [[mosquitoes]] feed primarily outdoors in forest settings and canopy environments.
+    - Vector Control Limitations: Standard indoor residual insecticide spraying (IRS) and indoor bed nets have limited effectiveness against primary Plasmodium knowlesi vectors (Anopheles leucosphyrus group) because these [[Mosquitoes]] feed primarily outdoors in forest settings and canopy environments.
     - Chemoprophylaxis: Standard malarial chemoprophylaxis regimens (e.g., [[Atovaquone]]-[[Proguanil]], [[Doxycycline]], or [[Mefloquine]]) for travelers visiting endemic forest regions of Southeast Asia.
 
 #### Trivia & Edge Cases

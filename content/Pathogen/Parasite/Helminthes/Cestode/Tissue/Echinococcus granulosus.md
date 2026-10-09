@@ -113,7 +113,7 @@ draft: false
     - Liver & Lung Damage: Hepatic cysts compress adjacent hepatic lobes and portal system; pulmonary cysts compress alveolar airways and pleura.
     - Bone Destruction: In osseous hydatid disease, the absence of a restrictive host fibrous pericyst allows infiltrative growth along trabecular spaces, leading to bone erosion, cavity formation, and pathologic fractures.
 *   **Mechanical Obstruction:**
-    - Biliary Duct Occlusion & Cysto-Biliary Fistulae: Erosion and rupture of hepatic hydatid cysts into the biliary tree (cysto-biliary fistula) causes mechanical obstruction of the common bile duct by daughter cysts, hydatid membranes, and debris, leading to obstructive jaundice, biliary colic, and acute cholangitis.
+    - Biliary Duct Occlusion & Cysto-Biliary Fistulae: Erosion and rupture of hepatic hydatid cysts into the biliary tree (cysto-biliary fistula) causes mechanical obstruction of the common bile duct by daughter cysts, hydatid membranes, and debris, leading to obstructive jaundice, biliary colic, and acute [[cholangitis]].
     - Airway Blockage: Rupture of lung cysts into bronchial tree leads to sudden bronchial obstruction and coughing up of cyst fluid and membranes (vomica).
 *   **Nutritional Depletion & Anemia:**
     - Absorbs host simple nutrients directly across its outer laminated endocyst membrane into cyst fluid. Does NOT cause intestinal nutritional competition, Vitamin B12 deficiency, or megaloblastic anemia in the human host.
@@ -121,7 +121,7 @@ draft: false
     - Laminated Layer Physical Shield: Thick, acellular, non-nucleated laminated layer shields inner germinal cells and protoscolices from direct cellular contact and attack by host [[Monocyte and Macrophage|macrophages]], neutrophils, and complement.
     - Low Immunological Reactivity: Intact, undamaged cysts maintain a state of low immunogenicity, allowing asymptomatic parasite survival in human tissues for decades.
 *   **Host Defense & Immunodeficiency Links:**
-    - Severe Anaphylaxis & Dissemination Hazard: Cyst wall leakage or overt rupture (spontaneous, traumatic, or surgical/iatrogenic) releases highly antigenic hydatid fluid and protoscolices into circulation or peritoneal/pleural cavities. This triggers immediate severe IgE-mediated hypersensitivity reactions, widespread urticaria, bronchospasm, circulatory collapse, and life-threatening anaphylactic shock.
+    - Severe Anaphylaxis & Dissemination Hazard: Cyst wall leakage or overt rupture (spontaneous, traumatic, or surgical/iatrogenic) releases highly antigenic hydatid fluid and protoscolices into circulation or peritoneal/pleural cavities. This triggers immediate severe [[Type I Hypersensitivity|IgE-mediated hypersensitivity]] reactions, widespread urticaria, bronchospasm, circulatory collapse, and life-threatening anaphylactic shock.
     - Secondary Cystic Echinococcosis: Spilled protoscolices and brood capsules seed the peritoneal or pleural cavity, engrafting on serosal surfaces to form dozens of secondary hydatid cysts.
 
 #### Clinical Syndromes & Complications
@@ -129,7 +129,7 @@ draft: false
     - Early oncosphere penetration and migration through the intestinal wall and portal vascular system is completely asymptomatic; no acute systemic migration syndrome occurs.
 *   **Chronic Intestinal or Tissue Presentation:**
     - Latent Asymptomatic Period: Cysts remain clinically silent for 5 to 10+ years or longer while slowly expanding in tissue.
-    - Hepatic Cystic Echinococcosis (60–70% of Cases): Manifests with dull right upper quadrant abdominal pain, palpable hepatomegaly, abdominal fullness, cholestatic jaundice, portal hypertension, hepatosplenomegaly, and secondary bacterial infection converting the cyst into a pyogenic liver abscess.
+    - Hepatic Cystic Echinococcosis (60–70% of Cases): Manifests with dull right upper quadrant abdominal pain, palpable hepatomegaly, abdominal fullness, cholestatic jaundice, portal hypertension, hepatosplenomegaly, and secondary bacterial infection converting the cyst into a [[Liver abscess|pyogenic liver abscess]].
     - Pulmonary Cystic Echinococcosis (20–30% of Cases): Presents with chronic cough, pleuritic chest pain, dyspnea, hemoptysis, and (upon bronchial rupture) sudden expectoration of salty hydatid fluid, blood, and grape-skin-like hydatid membranes (vomica).
     - Extraintestinal / Extrapulmonary Sites:
       - Central Nervous System: Increased intracranial pressure, focal neurological deficits, Jacksonian seizures.
@@ -190,7 +190,7 @@ draft: false
     - Oral [[Praziquantel]]: Administered at 40 mg/kg once weekly or in combination with [[albendazole]] to enhance protoscolecidal activity prior to surgery or percutaneous procedures.
 *   **Treatment Nuances & Corticosteroid Protocols:**
     - PAIR Technique (Puncture, Aspiration, Injection, Re-aspiration): Interventional procedure indicated for active unilocular cysts (CE1, CE3a). The cyst is punctured under ultrasound guidance, fluid aspirated, a scolicidal agent (20% hypertonic saline or 95% ethanol) injected for 15–20 minutes, and then re-aspirated.
-    - Mandatory Exclusion of Cysto-Biliary Fistulae: Prior to injecting any scolicidal agent during PAIR or surgery, cysto-biliary communication MUST be rigorously excluded (via contrast fluoroscopy or bilirubin testing of aspirate). Injection of scolicides (hypertonic saline, formalin, ethanol) into a cyst communicating with the biliary tree causes severe, irreversible, catastrophic sclerosing cholangitis.
+    - Mandatory Exclusion of Cysto-Biliary Fistulae: Prior to injecting any scolicidal agent during PAIR or surgery, cysto-biliary communication MUST be rigorously excluded (via contrast fluoroscopy or bilirubin testing of aspirate). Injection of scolicides (hypertonic saline, formalin, ethanol) into a cyst communicating with the biliary tree causes severe, irreversible, catastrophic sclerosing [[cholangitis]].
     - Surgical Intervention: Conservative (cystectomy, partial pericystectomy) or radical (total pericystectomy, hepatic lobectomy) surgical resection is mandatory for large (>10 cm) multilocular cysts (CE2, CE3b), infected cysts, ruptured cysts, or cysts causing critical biliary/vascular compression. Pre- and post-operative coverage with [[albendazole]] (started 1–2 weeks prior to surgery and continued for 1–3 months post-op) is required.
     - "Watch and Wait" Approach: Recommended for inactive, asymptomatic, completely calcified cysts (WHO stage CE4 and CE5).
 *   **Prophylaxis, Sanitation & Food Safety:**

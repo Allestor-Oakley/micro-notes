@@ -66,7 +66,7 @@ draft: false
 *   **Definitive Host:**
     - Primary Definitive Host: Humans (*Homo sapiens*) serve as the only recognized, natural definitive host for *Mansonella ozzardi* (exclusively an anthroponotic infection with no established animal reservoir hosts).
 *   **Intermediate Host(s):**
-    - [[Biting Midges]]: *Culicoides* species (principally *Culicoides furens* and *Culicoides [[Sand flies|phlebotomus]]*), serving as primary vectors in the West Indies, Caribbean islands, and Central America.
+    - [[Biting midges]]: *Culicoides* species (principally *Culicoides furens* and *Culicoides [[Sand flies|phlebotomus]]*), serving as primary vectors in the West Indies, Caribbean islands, and Central America.
     - [[Blackflies]]: *Simulium* species (principally *Simulium amazonicum* and *Simulium sanchezi*), serving as primary vectors in South America, particularly throughout the Amazon river basin.
 *   **Transmission Mode & Ingestion/Penetration:**
     - Vector-Borne Inoculation: Inoculation of infective third-stage larvae (L3) through human skin during the blood meal of an infected female [[Biting midges|biting midge]] (*Culicoides*) or [[Blackflies|blackfly]] (*Simulium*).
@@ -74,7 +74,7 @@ draft: false
 *   **Intra-Host Larval Migration Pathway:**
     - Human Tissue Migration: Injected L3 larvae penetrate the dermis, enter subcutaneous connective tissue, and migrate to serous body cavities (peritoneal and pleural cavities).
     - Maturation & Microfilarial Production: Larvae undergo molting over several months to mature into sexually active adult male and female worms. Fertilized female worms discharge unsheathed microfilariae into visceral fluids and subcutaneous tissues, which migrate into dermal capillaries and systemic vascular circulation.
-    - Insect Life Cycle: Feeding midges or [[blackflies]] ingest circulating microfilariae from human peripheral blood or skin. Ingested larvae cross the midgut wall, migrate to thoracic flight muscles, undergo two developmental molts (L1 -> L2 -> L3) over 7 to 12 days, and move to the vector mouthparts/proboscis.
+    - Insect Life Cycle: Feeding midges or [[Blackflies]] ingest circulating microfilariae from human peripheral blood or skin. Ingested larvae cross the midgut wall, migrate to thoracic flight muscles, undergo two developmental molts (L1 -> L2 -> L3) over 7 to 12 days, and move to the vector mouthparts/proboscis.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Unsheathed microfilaria (180–240 μm long, pointed flexed tail, long nuclear-free caudal space, non-periodic) in peripheral blood or skin snips.
     - Shedding Site: Bloodstream and subcutaneous skin tissue. Microfilariae are NOT shed in stool, urine, or sputum.
@@ -113,9 +113,9 @@ draft: false
     - Confined strictly to the New World (Neotropics): Central America, South America, and Caribbean islands (West Indies).
     - Endemic High-Prevalence Regions: Northern Argentina, Bolivia (Chaco region), Brazil (Amazon basin), Colombia, Ecuador, Peru (northeastern Amazonian Peru), and Haiti.
 *   **Soil & Environmental Requirements:**
-    - Dependent on tropical humid rainforests, river basin networks (Amazon basin), and coastal/island ecosystems that provide favorable breeding habitats for [[biting midges]] (*Culicoides*) and [[blackflies]] (*Simulium*).
+    - Dependent on tropical humid rainforests, river basin networks (Amazon basin), and coastal/island ecosystems that provide favorable breeding habitats for [[Biting midges]] (*Culicoides*) and [[Blackflies]] (*Simulium*).
 *   **Dietary Exposures & Intermediate Host Foods:**
-    - N/A (Transmitted exclusively by the bite of infected female *Culicoides* midges or *Simulium* [[blackflies]]; no foodborne or waterborne acquisition).
+    - N/A (Transmitted exclusively by the bite of infected female *Culicoides* midges or *Simulium* [[Blackflies]]; no foodborne or waterborne acquisition).
 *   **Public Health & Mass Drug Administration:**
     - Recognized as a neglected tropical filarial disease in Latin America, often co-endemic with [[Plasmodium sp.|malaria]], *[[Onchocerca volvulus]]*, or *[[Mansonella perstans]]*.
     - Control & Suppression: Vector management targeting midge and [[Blackflies|blackfly]] breeding sites, alongside community-wide Mass Drug Administration (MDA) programs using [[ivermectin]].
@@ -147,19 +147,19 @@ draft: false
     - High Tolerability & Safety: Single-dose [[ivermectin]] (200 μg/kg) is well tolerated with low incidence of post-treatment Mazzotti-like allergic reactions due to the low intrinsic immunogenicity and pathogenicity of *M. ozzardi* microfilariae.
     - Mandatory Speciation Before Therapy: Clinicians must carefully differentiate *M. ozzardi* (treated with [[Ivermectin]], resistant to DEC) from *M. perstans* (treated with DEC or [[Doxycycline]], refractory to [[Ivermectin]]) prior to initiating antiparasitic chemotherapy.
 *   **Prophylaxis, Sanitation & Food Safety:**
-    - Personal Protection & Vector Control: Applying topical insect repellents containing DEET to exposed skin, wearing long-sleeved clothing, installing fine-mesh window screens, and using bed nets to prevent bites from tiny [[biting midges]] (*Culicoides*) and blackflies (*Simulium*).
+    - Personal Protection & Vector Control: Applying topical insect repellents containing DEET to exposed skin, wearing long-sleeved clothing, installing fine-mesh window screens, and using bed nets to prevent bites from tiny [[Biting midges]] (*Culicoides*) and blackflies (*Simulium*).
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
     - "New World / Neotropical mansonelliasis"
     - "Unsheathed microfilaria with a pointed, flexed tail"
     - "Long nuclear-free caudal space"
-    - "Dual vector transmission (Culicoides midges & Simulium [[blackflies]])"
+    - "Dual vector transmission (Culicoides midges & Simulium [[Blackflies]])"
     - "Single-dose [[Ivermectin]] therapy (200 μg/kg)"
     - "Refractory to [[Diethylcarbamazine]] (DEC)"
     - "Exclusively human natural definitive host"
 *   **Exceptions to the Rule:**
     - The DEC Refractory Exception: While [[Diethylcarbamazine]] (DEC) is the standard microfilaricidal agent for most human filarial nematodes (including *[[Wuchereria bancrofti]]*, *Brugia* species, *[[Loa loa]]*, and *[[Mansonella perstans]]*), *Mansonella ozzardi* is uniquely refractory to DEC treatment, making single-dose [[Ivermectin]] mandatory for clinical cure.
-    - Dual Insect Vector Family Capacity: *Mansonella ozzardi* is uniquely transmitted by two completely different family groups of dipteran insect vectors depending on geographic zone: Ceratopogonid [[biting midges]] (*Culicoides*) in the Caribbean and Central America, and Simuliid [[blackflies]] (*Simulium*) in the South American Amazon basin.
+    - Dual Insect Vector Family Capacity: *Mansonella ozzardi* is uniquely transmitted by two completely different family groups of dipteran insect vectors depending on geographic zone: Ceratopogonid [[Biting midges]] (*Culicoides*) in the Caribbean and Central America, and Simuliid [[Blackflies]] (*Simulium*) in the South American Amazon basin.
     - Caudal Tail Morphological Differential: Easily distinguished from *[[Mansonella perstans]]* microfilariae under oil immersion light microscopy by its pointed, slightly flexed tail tip containing a distinct, long nuclear-free caudal space (whereas *M. perstans* microfilariae possess a blunt, rounded tail with somatic nuclei extending all the way to the extreme posterior tip).
     - Strictly Neotropical Geographical Isolation: Unlike *[[Mansonella perstans]]* (endemic in both Sub-Saharan Africa and South America) and *[[Mansonella streptocerca]]* (restricted to West/Central Africa), *Mansonella ozzardi* is strictly confined to the Americas and Caribbean (New World).

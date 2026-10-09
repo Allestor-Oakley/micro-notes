@@ -39,7 +39,7 @@ host_definitive:
 host_intermediate_1:
   - Freshwater snails
 host_intermediate_2:
-  - N/A
+  - Aquatic plants / vegetation
 date: 2026-07-29
 draft: false
 ---

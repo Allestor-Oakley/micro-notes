@@ -72,7 +72,7 @@ draft: false
       - Cephalic (head) space has a length-to-width ratio of approximately 1:1.
       - Body contains discrete somatic nuclei distributed regularly along its length.
       - The tail tip is characteristically tapered and COMPLETELY FREE OF NUCLEI (nuclear-free tail tip). This key morphological feature distinguishes *Wuchereria bancrofti* from *[[Brugia malayi]]* and *[[Brugia timori]]* (which have two isolated terminal tail nuclei) and *[[Loa loa]]* (whose nuclei extend continuously to the extreme tail tip).
-    - Vector Developmental Larvae (L1 to L3): Microfilariae ingested by feeding female [[mosquitoes]] shed their sheaths, penetrate the [[Mosquitoes|mosquito]] stomach wall, migrate to thoracic flight muscles to become short, sausage-shaped L1/L2 larvae, and develop over 10 to 14 days into slender, motile, infective L3 larvae (~1.4 to 1.6 mm long) residing in the mosquito proboscis.
+    - Vector Developmental Larvae (L1 to L3): Microfilariae ingested by feeding female [[Mosquitoes]] shed their sheaths, penetrate the [[Mosquitoes|mosquito]] stomach wall, migrate to thoracic flight muscles to become short, sausage-shaped L1/L2 larvae, and develop over 10 to 14 days into slender, motile, infective L3 larvae (~1.4 to 1.6 mm long) residing in the mosquito proboscis.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Dioecious: Distinct male and female adult worms. Adult males feature a distinctly coiled posterior tail equipped with unequal copulatory spicules; adult females contain paired uterine structures filled with thousands of developing embryos.
     - Lifespan & Fecundity: Adult worms can persist attached inside human lymphatic channels for up to 10 to 15+ years. Fertilized female worms continuously release thousands of sheathed microfilariae into lymphatic fluid daily.
@@ -93,7 +93,7 @@ draft: false
 *   **Intra-Host Larval Migration Pathway:**
     - Human Lymphatic Migration: Injected L3 larvae enter the dermis, penetrate cutaneous lymphatic capillaries, and migrate through regional afferent lymphatic channels to lodge in [[Lymph Nodes]] and major lymphatic vessels (primarily in the groin, lower extremities, upper extremities, and male spermatic cord/scrotum).
     - Maturation & Reproduction: Larvae undergo two molts inside lymphatic vessels over 3 to 12 months to mature into adult male and female worms. Sexually active adult worms mate within lymphatic lumens. Fertilized female worms discharge sheathed microfilariae into lymphatic fluid; microfilariae travel through regional [[Lymph Nodes]] into the thoracic duct and enter systemic blood circulation.
-    - Insect Life Cycle: Feeding [[mosquitoes]] ingest circulating microfilariae from human peripheral blood during nocturnal feeding. Ingested microfilariae exsheath in the midgut, migrate to thoracic flight muscles, undergo two molts (L1 -> L2 -> L3) over 10 to 14 days, and migrate to the [[Mosquitoes|mosquito]] head/proboscis.
+    - Insect Life Cycle: Feeding [[Mosquitoes]] ingest circulating microfilariae from human peripheral blood during nocturnal feeding. Ingested microfilariae exsheath in the midgut, migrate to thoracic flight muscles, undergo two molts (L1 -> L2 -> L3) over 10 to 14 days, and migrate to the [[Mosquitoes|mosquito]] head/proboscis.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Sheathed microfilariae (240–300 μm long, nuclear-free tail tip, nocturnal periodicity) in peripheral night blood; or Circulating Filarial Antigen (CFA) in daytime blood.
     - Shedding Site: Bloodstream / vascular system. Microfilariae are NOT passed in stool, urine, or sputum under standard conditions (except in chylous urine / chyluria where lymphatic fluid ruptures into the urinary tract).
@@ -141,7 +141,7 @@ draft: false
 *   **Soil & Environmental Requirements:**
     - Requires environmental conditions supporting [[Mosquitoes|mosquito]] vector reproduction: tropical humid climates, standing surface water, flooded ditches, pit latrines, unsealed septic tanks, and open sewage drains in overcrowded urban/rural settlements.
 *   **Dietary Exposures & Intermediate Host Foods:**
-    - N/A (Transmitted exclusively by the bite of infected female [[mosquitoes]]; no foodborne or waterborne acquisition).
+    - N/A (Transmitted exclusively by the bite of infected female [[Mosquitoes]]; no foodborne or waterborne acquisition).
 *   **Public Health & Mass Drug Administration:**
     - Targeted by WHO for global elimination under the Global Programme to Eliminate Lymphatic Filariasis (GPELF).
     - Mass Drug Administration (MDA) Protocols:
@@ -164,7 +164,7 @@ draft: false
       - Rapid Immunochromatographic Tests (ICT / Alere Filariasis Strip Test): Qualitative point-of-care card or lateral flow strip tests detecting *W. bancrofti* circulating filarial antigen (released by adult worms) in day or night fingerstick blood.
       - Microplate ELISA (TropBio / CELISA): Quantitative ELISA measuring serum CFA levels. Does NOT require nocturnal blood collection.
     - Anti-Filarial Antibody Detection: Antifilarial IgG and IgG4 ELISAs detect anti-filarial antibodies in serum, serving a supportive role (cross-reactivity with other helminths occurs).
-    - Molecular Diagnostics (PCR / NAAT): Polymerase Chain Reaction (PCR) and PCR-RFLP targeting small subunit ribosomal RNA (18S rRNA) or SspI repeat sequences provide exquisite species identification in human blood or vector [[mosquitoes]].
+    - Molecular Diagnostics (PCR / NAAT): Polymerase Chain Reaction (PCR) and PCR-RFLP targeting small subunit ribosomal RNA (18S rRNA) or SspI repeat sequences provide exquisite species identification in human blood or vector [[Mosquitoes]].
     - Histopathology & Biopsy: H&E-stained tissue sections of resected [[Lymph Nodes]] reveal adult filarial worms inside dilated lymphatic lumens surrounded by intense eosinophilic infiltrates, epithelioid granulomas, foreign-body giant cells, and perilymphatic fibrosis. Diagnostic biopsy is discouraged due to the risk of accelerating lymphatic disruption.
 *   **Imaging Findings:**
     - High-Resolution Doppler Ultrasonography (Scrotal / Inguinal): Visualizes dilated, tortuous, hypoechoic lymphatic vessels containing live, motile, thrashing adult filarial worms ("filarial dance sign").

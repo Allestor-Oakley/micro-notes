@@ -74,7 +74,7 @@ draft: false
     - Female Anopheles [[Mosquitoes|mosquito]] (in which gametocyte activation, microgamete exflagellation, fertilization, zygote/ookinete development, oocyst formation, and sporogony take place).
 *   **Intermediate Host & Vector Dynamics:**
     - Intermediate Host: Humans.
-    - Vector Dynamics: Transmitted by blood-feeding female [[mosquitoes]] of the genus Anopheles. Vector survival is essential to permit completion of sporogony, which requires ambient temperatures between 16°C and 33°C (Plasmodium vivax completes sporogony at lower temperatures and higher altitudes than [[Plasmodium falciparum]]).
+    - Vector Dynamics: Transmitted by blood-feeding female [[Mosquitoes]] of the genus Anopheles. Vector survival is essential to permit completion of sporogony, which requires ambient temperatures between 16°C and 33°C (Plasmodium vivax completes sporogony at lower temperatures and higher altitudes than [[Plasmodium falciparum]]).
 *   **Transmission Route:**
     - Primary Route: Vector-borne transmission via the bite wound of an infected female Anopheles [[Mosquitoes|mosquito]] injecting sporozoites in saliva during a blood meal.
     - Parenteral / Transfusion Route: Blood transfusion from asymptomatic infected donors carrying blood-stage asexual parasites ("transfusion malaria").
@@ -132,7 +132,7 @@ draft: false
     - Major Foci: South America and Southeast Asia account for >80% of all clinical cases. Also prevalent in Central America, the Middle East, the Indian subcontinent, Horn of Africa, North Africa, and Oceania (Papua New Guinea, Solomon Islands).
     - Rarity in West Africa: Historically rare in West Africa due to high prevalence of Duffy-negativity in local populations, though sparse cases occur.
 *   **Environmental Reservoir & Water Systems:**
-    - Environmental Reservoir: Breeding grounds of female Anopheles [[mosquitoes]] in clean, standing, or slow-moving water collections across rural, agricultural, and semi-urban environments.
+    - Environmental Reservoir: Breeding grounds of female Anopheles [[Mosquitoes]] in clean, standing, or slow-moving water collections across rural, agricultural, and semi-urban environments.
 *   **High-Risk Activities & Dietary Exposures:**
     - High-Risk Exposures: Outdoor nighttime or dusk activities in Anopheles-endemic regions; receiving blood transfusions from donors harboring low-grade parasitemia; sharing unsterilized intravenous needles.
     - Dietary Exposures: None (transmission is strictly vector-borne or parenteral).

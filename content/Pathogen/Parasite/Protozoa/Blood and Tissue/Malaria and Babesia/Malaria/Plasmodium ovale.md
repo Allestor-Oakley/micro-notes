@@ -63,7 +63,7 @@ draft: false
     - Female Anopheles [[Mosquitoes|mosquito]] (in which gametocyte activation, exflagellation of microgametes, fertilization, zygote/ookinete formation, oocyst maturation, and sporogony take place).
 *   **Intermediate Host & Vector Dynamics:**
     - Intermediate Host: Humans.
-    - Vector Dynamics: Transmitted by blood-feeding female [[mosquitoes]] of the genus Anopheles. Vector longevity is essential to permit completion of sporogony (which requires ambient temperatures between 16°C and 33°C).
+    - Vector Dynamics: Transmitted by blood-feeding female [[Mosquitoes]] of the genus Anopheles. Vector longevity is essential to permit completion of sporogony (which requires ambient temperatures between 16°C and 33°C).
 *   **Transmission Route:**
     - Primary Route: Vector-borne transmission via the bite wound of an infected female Anopheles [[Mosquitoes|mosquito]] discharging sporozoites in saliva during a blood meal.
     - Parenteral / Transfusion Route: Blood transfusion from infected donors harboring blood-stage parasites ("transfusion malaria").

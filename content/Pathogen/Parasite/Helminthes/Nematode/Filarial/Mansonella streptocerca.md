@@ -51,7 +51,7 @@ draft: false
     - Unsheathed Microfilaria (Diagnostic Skin Stage): Small, unsheathed larva measuring approximately 180 to 240 μm (range 180–210 μm) in length by 3 to 5 μm in width.
     - Tail & Caudal Hook Morphology (Key Diagnostic Feature): When fixed or immobile in skin preparations, the posterior tail end characteristically curves into a distinct single-bend or "shepherd's crook" configuration.
     - Caudal Nuclei Pattern: Somatic nuclei extend continuously in an unbroken chain all the way to the extreme, hooked tip of the tail, differentiating *Mansonella streptocerca* from *[[Onchocerca volvulus]]* (which has a straight, tapered tail tip devoid of nuclei at the extreme apex) and blood-borne filariae (*[[Mansonella ozzardi]]*).
-    - Vector Developmental Larvae (L1 to L3): Ingested microfilariae penetrate the midgut of [[biting midges]] (*Culicoides*), migrate to thoracic flight muscles to become sausage-shaped L1/L2 larvae, and undergo two molts over 7 to 10 days to form infective, elongated L3 larvae (~0.6 to 0.8 mm long) residing in the insect proboscis.
+    - Vector Developmental Larvae (L1 to L3): Ingested microfilariae penetrate the midgut of [[Biting midges]] (*Culicoides*), migrate to thoracic flight muscles to become sausage-shaped L1/L2 larvae, and undergo two molts over 7 to 10 days to form infective, elongated L3 larvae (~0.6 to 0.8 mm long) residing in the insect proboscis.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Dioecious: Distinct male and female adult filarial worms. Adult males feature a coiled posterior tail with copulatory spicules; adult females possess uterine branches packed with developing microfilariae.
     - Fecundity & Dermal Migration: Fertilized adult females continuously release unsheathed microfilariae into the surrounding dermis over a multi-year lifespan.
@@ -62,7 +62,7 @@ draft: false
     - Primary Definitive Host: Humans (*Homo sapiens*).
     - Wild Reservoir Hosts: Non-human primates (wild monkeys in Central and West African rainforests) serve as natural reservoir hosts.
 *   **Intermediate Host(s):**
-    - [[Biting Midges]] (Obligatory Vector Intermediate Hosts): Dipteran [[biting midges]] belonging to the genus *Culicoides*, principally *Culicoides grahami*.
+    - [[Biting midges]] (Obligatory Vector Intermediate Hosts): Dipteran [[Biting midges]] belonging to the genus *Culicoides*, principally *Culicoides grahami*.
 *   **Transmission Mode & Ingestion/Penetration:**
     - Vector-Borne Inoculation: Inoculation of infective third-stage larvae (L3) through human skin during the blood meal of an infected female [[Biting midges|biting midge]] (*Culicoides*).
     - Penetration Mechanics: L3 larvae emerge from the midge proboscis onto the skin surface and actively migrate into the bite puncture wound.
@@ -109,9 +109,9 @@ draft: false
     - Restricted geographically to Tropical West and Central Africa.
     - High-Prevalence Regions: Particularly dense endemic foci in the Congo river basin (Democratic Republic of Congo, Republic of Congo), Cameroon, Gabon, Nigeria, and Uganda.
 *   **Soil & Environmental Requirements:**
-    - Strictly tied to tropical humid rainforest environments, swampy river valleys, and banana/plantain plantations that provide rich decaying organic vegetation and shaded moist breeding sites for *Culicoides* [[biting midges]].
+    - Strictly tied to tropical humid rainforest environments, swampy river valleys, and banana/plantain plantations that provide rich decaying organic vegetation and shaded moist breeding sites for *Culicoides* [[Biting midges]].
 *   **Dietary Exposures & Intermediate Host Foods:**
-    - N/A (Transmitted exclusively by the bite of infected female *Culicoides* [[biting midges]]; no foodborne or waterborne acquisition).
+    - N/A (Transmitted exclusively by the bite of infected female *Culicoides* [[Biting midges]]; no foodborne or waterborne acquisition).
 *   **Public Health & Mass Drug Administration:**
     - Recognized as a neglected tropical filarial disease, often co-endemic with *[[Onchocerca volvulus]]*, *[[Loa loa]]*, and *[[Mansonella perstans]]*.
     - Mass Drug Administration (MDA) Impact: Community-wide MDA campaigns using [[Ivermectin]] targeting onchocerciasis simultaneously clear *Mansonella streptocerca* from endemic human populations.

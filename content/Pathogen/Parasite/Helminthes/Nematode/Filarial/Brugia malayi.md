@@ -80,7 +80,7 @@ draft: false
     - Human Lymphatic Migration: Injected L3 larvae penetrate the dermis, enter cutaneous lymphatic capillaries, and migrate to regional [[Lymph Nodes]] and major afferent lymphatic vessels (primarily in the lower limbs).
     - Maturation: Larvae undergo two molts inside host lymphatics over 3 to 12 months, developing into sexually mature adult male and female filarial worms.
     - Circulation of Microfilariae: Fertilized female worms release sheathed microfilariae into lymphatic fluid; microfilariae pass through regional lymph nodes into the thoracic duct and enter systemic blood circulation.
-    - Vector Life Cycle: Feeding [[mosquitoes]] ingest circulating microfilariae from human peripheral blood. Ingested microfilariae shed their sheaths, penetrate the [[Mosquitoes|mosquito]] midgut wall, migrate to thoracic flight muscles, and undergo two developmental molts (L1 -> L2 -> L3) over 10 to 14 days before migrating to the [[Mosquitoes|mosquito]] salivary structure/proboscis.
+    - Vector Life Cycle: Feeding [[Mosquitoes]] ingest circulating microfilariae from human peripheral blood. Ingested microfilariae shed their sheaths, penetrate the [[Mosquitoes|mosquito]] midgut wall, migrate to thoracic flight muscles, and undergo two developmental molts (L1 -> L2 -> L3) over 10 to 14 days before migrating to the [[Mosquitoes|mosquito]] salivary structure/proboscis.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Sheathed microfilariae (177–230 μm long, 2 distinct terminal tail nuclei) in peripheral blood.
     - Shedding Site: Bloodstream / vascular system. Microfilariae are NOT shed in stool, urine, or sputum under standard conditions.

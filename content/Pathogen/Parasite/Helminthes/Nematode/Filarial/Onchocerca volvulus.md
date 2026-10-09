@@ -68,7 +68,7 @@ draft: false
 *   **Larval Stage Morphologies:**
     - Unsheathed Microfilaria (Diagnostic Skin Stage): Measures 220 to 360 μm (commonly 300 to 315 μm) in length by 5 to 9 μm in width. Completely lacks an outer sheath (unsheathed).
     - Tail & Caudal Nuclei Pattern (Key Diagnostic Feature): The tail is slender and sharply tapered to a pointed tip. Somatic nuclei do NOT extend to the extreme tip of the tail (the extreme posterior tail tip is completely free of nuclei / nuclear-free caudal space). This nuclear arrangement distinguishes *Onchocerca volvulus* from *[[Mansonella streptocerca]]* (which has a shepherd's crook tail with nuclei extending to the extreme tip) and *[[Loa loa]]* (sheathed, nuclei extending to tip).
-    - Vector Developmental Stages (L1 to L3): Microfilariae ingested by feeding female *Simulium* [[blackflies]] penetrate the midgut stomach wall, migrate to thoracic flight muscles, and undergo two developmental molts (L1 -> L2 -> L3) over 6 to 12 days (approximately 1 week) to form infective L3 larvae (~0.6–1.0 mm long) residing in the fly proboscis.
+    - Vector Developmental Stages (L1 to L3): Microfilariae ingested by feeding female *Simulium* [[Blackflies]] penetrate the midgut stomach wall, migrate to thoracic flight muscles, and undergo two developmental molts (L1 -> L2 -> L3) over 6 to 12 days (approximately 1 week) to form infective L3 larvae (~0.6–1.0 mm long) residing in the fly proboscis.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Dioecious: Distinct male and female adult worms. Males feature a coiled posterior tail with unequal copulatory spicules; females contain paired uterine branches filled with developing microfilariae.
     - Lifespan & Fecundity: Adult macrofilariae live inside fibrous nodules for up to 12 to 15+ years. Each fertilized adult female continuously releases up to 500 to 2,000 unsheathed microfilariae daily into subcutaneous tissue. Microfilariae themselves have a tissue lifespan of 1 to 2 years.
@@ -84,7 +84,7 @@ draft: false
 *   **Intra-Host Larval Migration Pathway:**
     - Human Subcutaneous Migration: Injected L3 larvae enter the dermis and subcutaneous tissue, migrating locally and undergoing two developmental molts (L3 -> L4 -> Adult) over 6 to 12 months.
     - Nodule Formation & Microfilarial Dispersion: Maturing adult worms become encased in host fibrous connective tissue capsules (onchocercomas) in subcutaneous sites over bony prominences. Fertilized females discharge unsheathed microfilariae, which exit the capsule wall and actively migrate throughout the dermis, dermal papillae, ocular structures, and [[Lymph Nodes]].
-    - Insect Life Cycle: Female *Simulium* [[blackflies]] ingest microfilariae from dermal tissue fluid during blood feeding. Ingested microfilariae penetrate the midgut wall, enter thoracic flight muscles, molt twice into infective L3 larvae over ~7 days, and migrate to the fly mouthparts/proboscis.
+    - Insect Life Cycle: Female *Simulium* [[Blackflies]] ingest microfilariae from dermal tissue fluid during blood feeding. Ingested microfilariae penetrate the midgut wall, enter thoracic flight muscles, molt twice into infective L3 larvae over ~7 days, and migrate to the fly mouthparts/proboscis.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Unsheathed microfilaria (220–360 μm long, tapered tail free of nuclei at tip) in bloodless skin snips, skin biopsy, or ocular anterior chamber; or coiled adult worms within resected subcutaneous nodules (onchocercomas).
     - Shedding Site: Dermis / skin tissue spaces and ocular structures. Microfilariae do NOT circulate in high numbers in blood (rarely found in blood or urine in extremely heavy infections). Eggs and larvae are NOT shed in stool.
@@ -132,7 +132,7 @@ draft: false
     - Sub-Saharan Africa (Primary Range): Over 99% of all cases occur across 31 countries in Sub-Saharan Africa, particularly in West and Central Africa (Congo river basin, Volta river basin, Nigeria, Cameroon, DRC, South Sudan, Uganda, Ghana, Gabon).
     - Other Endemic Regions: Yemen (Arabian Peninsula); and small, isolated, declining endemic foci in Latin America (Mexico, Guatemala, Ecuador, Colombia, Venezuela, Brazil / Yanomami area). (Transmission has been eliminated in several Latin American countries including Colombia, Ecuador, Mexico, and Guatemala).
 *   **Soil & Environmental Requirements:**
-    - Fast-Flowing Rivers & Oxygenated Water: Vector *Simulium* [[blackflies]] breed exclusively in rapidly flowing, well-oxygenated rivers, streams, and cascades. Consequently, the highest prevalence of infection and blinding disease occurs in villages situated directly along riverbanks ("river blindness").
+    - Fast-Flowing Rivers & Oxygenated Water: Vector *Simulium* [[Blackflies]] breed exclusively in rapidly flowing, well-oxygenated rivers, streams, and cascades. Consequently, the highest prevalence of infection and blinding disease occurs in villages situated directly along riverbanks ("river blindness").
 *   **Dietary Exposures & Intermediate Host Foods:**
     - N/A (Transmitted exclusively by the bite of infected *Simulium* blackflies; no foodborne or waterborne transmission).
 *   **Public Health & Mass Drug Administration:**

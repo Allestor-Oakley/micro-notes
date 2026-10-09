@@ -44,7 +44,7 @@ reviewed_date:
 
 #### Lifecycle & Transmission
 *   **Definitive Host:** Mammals (primarily humans in anthroponotic cycles; wild rodents, carnivores, and domestic dogs in zoonotic cycles). Note: Mammals act as the vertebrate host for the asexual amastigote stage, while female phlebotomine sand flies serve as insect vectors / intermediate hosts for the sexual/developmental promastigote stage.
-*   **Intermediate Host & Vector Dynamics:** Transmitted by blood-feeding adult female phlebotomine [[sand flies]] belonging to the genus *Phlebotomus* in the Old World (specifically *Phlebotomus argentipes* in the Indian subcontinent, and *Phlebotomus orientalis*, *Phlebotomus martini*, and *Phlebotomus duboscqi* in East Africa) and *Lutzomyia* in the New World. Ingested amastigotes transform inside the [[Sand flies|sand fly]] midgut into promastigotes, which multiply by binary/longitudinal fission, undergo metacyclogenesis, and migrate to the fly pharynx and proboscis to be inoculated during subsequent blood meals.
+*   **Intermediate Host & Vector Dynamics:** Transmitted by blood-feeding adult female phlebotomine [[Sand flies]] belonging to the genus *Phlebotomus* in the Old World (specifically *Phlebotomus argentipes* in the Indian subcontinent, and *Phlebotomus orientalis*, *Phlebotomus martini*, and *Phlebotomus duboscqi* in East Africa) and *Lutzomyia* in the New World. Ingested amastigotes transform inside the [[Sand flies|sand fly]] midgut into promastigotes, which multiply by binary/longitudinal fission, undergo metacyclogenesis, and migrate to the fly pharynx and proboscis to be inoculated during subsequent blood meals.
 *   **Transmission Route:**
     - Vector-borne: Inoculation of metacyclic promastigotes into human skin during a blood meal taken by an infected female [[Sand flies|sand fly]].====
     - Anthroponotic Transmission: Direct human-vector-human transmission cycle predominant in South Asia (India, Bangladesh, Nepal) and East Africa, where humans (including PKDL patients) serve as the primary infection reservoir.
@@ -122,7 +122,7 @@ reviewed_date:
     - PKDL Treatment: Prolonged treatment courses required ([[Miltefosine]] 50 mg PO BID for 12 weeks in India; L-AmB or antimonials for 60 to 90 days in East Africa).
 *   **Prophylaxis, Water Treatment & Vector Control:**
     - Vector Control: Indoor residual spraying (IRS) with insecticides (DDT, pyrethroids) on indoor wall surfaces of homes and animal shelters to kill resting *[[Sand flies|Phlebotomus]]*.
-    - Personal Protection: Use of [[permethrin]]-treated bed nets (ITNs / LLINs), fine-mesh screening ([[sand flies]] are small, 1.5–3.5 mm, requiring smaller mesh sizes than [[mosquitoes]]), insect repellents (DEET) on exposed skin, and wearing long-sleeved clothing during evening hours.
+    - Personal Protection: Use of [[permethrin]]-treated bed nets (ITNs / LLINs), fine-mesh screening ([[Sand flies]] are small, 1.5–3.5 mm, requiring smaller mesh sizes than [[Mosquitoes]]), insect repellents (DEET) on exposed skin, and wearing long-sleeved clothing during evening hours.
     - Reservoir Control: Active case detection and prompt treatment of active VL and PKDL patients to eliminate human infection reservoirs.
     - Vaccine Status: No human vaccine currently approved for *L. donovani* (candidate subunit vaccines like LEISH-F3 / GLA-SE and ChAd63-KH in clinical trials).
 

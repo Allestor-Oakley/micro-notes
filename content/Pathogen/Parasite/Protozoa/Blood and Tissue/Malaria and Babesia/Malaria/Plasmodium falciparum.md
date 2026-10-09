@@ -48,7 +48,7 @@ draft: false
 *   **Locomotion Mechanics:** Sporozoites and merozoites lack cilia or flagella, utilizing an actin-myosin motor complex for substrate-dependent gliding motility, twirling, and active cell invasion. In the [[Mosquitoes|mosquito]] vector gut (or in blood specimens left at room temperature / in EDTA for >12 hours), male microgametocytes undergo rapid exflagellation, extending up to 8 highly motile, whip-like flagellated microgametes that swim actively to fertilize macrogametes (microgametes can easily be misidentified as spirochetes or treponemes under light microscopy).
 
 #### Lifecycle & Transmission
-*   **Definitive Host:** Female *Anopheles* [[mosquitoes]] (sexual reproduction / gametogony and sporogony occur inside the mosquito midgut and salivary glands).
+*   **Definitive Host:** Female *Anopheles* [[Mosquitoes]] (sexual reproduction / gametogony and sporogony occur inside the mosquito midgut and salivary glands).
 *   **Intermediate Host & Vector Dynamics:** Humans (and non-human primates / African great apes) serve as intermediate hosts in which asexual multiplication (hepatic and erythrocytic schizogony) occurs. Primary vectors are female *Anopheles* mosquitoes (e.g., *Anopheles gambiae*, *Anopheles funestus*, *Anopheles freeborni*, *Anopheles quadrimaculatus*). Mosquitoes require a blood meal for egg development, acquiring microgametocytes and macrogametocytes from parasitemic hosts.
 *   **Transmission Route:**
     - Vector-Borne Transmission: Primary mode; inoculation of infective sporozoites through the skin into the host microvasculature during the bite of a blood-feeding female *[[Mosquitoes|Anopheles]]* mosquito.

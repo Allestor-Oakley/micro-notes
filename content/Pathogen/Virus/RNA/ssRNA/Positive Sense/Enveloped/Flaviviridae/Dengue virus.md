@@ -147,7 +147,7 @@ draft: false
     - **Primary Reservoir:** Humans in urban/peridomestic transmission cycles.
     - **Sylvatic Reservoir:** Non-human primates (monkeys) in jungle/sylvatic cycles in Southeast Asia and West Africa.
 *   **Transmission Route:**
-    - **Vector-Borne:** Bites of infected female [[mosquitoes]].
+    - **Vector-Borne:** Bites of infected female [[Mosquitoes]].
     - **Blood-Borne (Rare):** Person-to-person transmission via blood transfusion or organ transplantation.
     - **Vertical Transmission:** In utero or peripartum vertical transmission from viraemic mothers to their newborns at the time of delivery.
     - **Breast Milk:** Detected in breast milk of viraemic mothers, though not yet confirmed as a definitive transmission route.
@@ -209,6 +209,6 @@ draft: false
     - "NS1 Antigen" (key diagnostic marker and pathogenic trigger).
     - "Councilman bodies" (apoptotic hepatocytes).
 *   **Exceptions to the Rule:**
-    - **Detergent-labile but vector-borne:** Unlike most enveloped RNA viruses, which are extremely fragile and cannot survive environmental conditions (limiting transmission to direct contact or secretions), dengue survives and replicates persistently inside mosquito vectors, using day-biting [[mosquitoes]] to traverse skin barriers directly into the bloodstream.
+    - **Detergent-labile but vector-borne:** Unlike most enveloped RNA viruses, which are extremely fragile and cannot survive environmental conditions (limiting transmission to direct contact or secretions), dengue survives and replicates persistently inside mosquito vectors, using day-biting [[Mosquitoes]] to traverse skin barriers directly into the bloodstream.
     - **The ADE paradox:** Typically, pre-existing antibodies provide protective immunity against viral re-infection. For dengue, pre-existing cross-reactive antibodies to a different serotype are instead the primary driver of severe, life-threatening immunopathology (DHF/DSS) via ADE.
     - **Vaccine that causes severe disease:** Dengvaxia is one of the very few vaccines where administration to a naive (seronegative) recipient is contraindicated because it increases the risk of severe, life-threatening disease upon subsequent natural infection.

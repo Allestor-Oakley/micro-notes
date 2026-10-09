@@ -190,7 +190,7 @@ draft: false
     - **Parenteral Exposure:** Transfusion of unscreened blood or blood products, sharing of contaminated needles or syringes among people who inject drugs (PWID), and accidental occupational needlestick injuries (per-act needlestick risk is approximately 0.3%).
     - **Vertical (Mother-to-Child) Transmission (MTCT):** Occurs in utero (transplacental), intrapartum (during labor and delivery via exposure to blood and cervicovaginal secretions), or postpartum through breastfeeding.
 *   **Vectors:**
-    - None. HIV is not transmitted by [[mosquitoes]], [[bedbugs]], or other biting insect vectors.
+    - None. HIV is not transmitted by [[Mosquitoes]], [[bedbugs]], or other biting insect vectors.
 *   **Public Health & Isolation:**
     - **PMTCT Regimens (Option B+):** Places all pregnant and breastfeeding women living with HIV on lifelong combination ART immediately, regardless of CD4 count, to suppress viral load below 50 copies/mL. Exposed infants receive prophylactic ARVs (such as [[zidovudine]] or [[nevirapine]]) from birth for 4-6 weeks to prevent transmission. Avoidance of breastfeeding (or exclusive breastfeeding if safe alternatives are unavailable) is recommended.
     - **PrEP & PEP:** Pre-Exposure Prophylaxis (PrEP; daily oral [[tenofovir]]/[[emtricitabine]] for high-risk individuals) and Post-Exposure Prophylaxis (PEP; 3-drug regimen initiated within 72 hours of occupational or sexual exposure, continued for 28 days) are highly effective.

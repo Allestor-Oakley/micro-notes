@@ -66,7 +66,7 @@ draft: false
 *   **Reservoir:** Small mammals and rodents (e.g., chipmunks, squirrels, rabbits, marsupials).
 *   **Transmission Route:** Zoonotic transmission via the bite of an infected [[Mosquitoes|mosquito]].
 *   **Vectors:** [[Mosquitoes]], specifically of the *Aedes* genus (e.g., *Aedes triseriatus*).
-*   **Public Health & Isolation:** Endemic primarily in North America (United States and Canada). Most clinical cases occur in patients less than 20 years of age. Transmission is prevented by reducing exposure to the [[Mosquitoes|mosquito]] vector (e.g., draining breeding spots, spraying to kill [[mosquitoes]], and avoiding wooded areas).
+*   **Public Health & Isolation:** Endemic primarily in North America (United States and Canada). Most clinical cases occur in patients less than 20 years of age. Transmission is prevented by reducing exposure to the [[Mosquitoes|mosquito]] vector (e.g., draining breeding spots, spraying to kill [[Mosquitoes]], and avoiding wooded areas).
 
 #### Advanced Laboratory Diagnostics
 *   **Histopathology & Inclusion Bodies:** N/A

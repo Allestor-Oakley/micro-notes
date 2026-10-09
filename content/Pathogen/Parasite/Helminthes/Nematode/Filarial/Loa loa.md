@@ -53,7 +53,7 @@ draft: false
     - Tail Nuclei Pattern (Diagnostic Key): The body contains dense somatic nuclei that extend CONTINUOUSLY in a single line all the way to the extreme tip of the tail (distinguishing *Loa loa* from *[[Wuchereria bancrofti]]*, which has a nuclear-free tail tip, and *Brugia* species, which have two isolated terminal tail nuclei).
     - Staining Features: The sheath stains poorly, faintly, or remains clear/dilute on routine Giemsa blood stains.
     - Microfilarial Diurnal Periodicity: Exhibits strict diurnal periodicity (diurnally periodic), with microfilariae circulating in host peripheral blood in high concentrations during daylight hours (peak parasitemia occurs between 10:00 AM and 3:00 PM), sequestering in pulmonary capillaries at night.
-    - Vector Developmental Stages (L1 to L3): Microfilariae ingested by female *[[Deerflies|Chrysops]]* flies shed their sheaths in the midgut, penetrate the hemocoel, migrate to thoracic flight muscles, and undergo two developmental molts (L1 -> L2 -> L3) over 10 to 12 days to form infective L3 larvae (~2 mm long) residing in the fly head/proboscis.
+    - Vector Developmental Stages (L1 to L3): Microfilariae ingested by female *[[Deer flies|Chrysops]]* flies shed their sheaths in the midgut, penetrate the hemocoel, migrate to thoracic flight muscles, and undergo two developmental molts (L1 -> L2 -> L3) over 10 to 12 days to form infective L3 larvae (~2 mm long) residing in the fly head/proboscis.
 *   **Sexual Dimorphism & Reproductive Characteristics:**
     - Dioecious: Distinct male and female adult worms. Adult males feature a curved posterior tail equipped with short, unequal copulatory spicules and sensory papillae; females possess paired uterine structures packed with microfilariae.
     - Lifespan & Fecundity: Adult worms can survive and actively migrate in human subcutaneous tissues for 15 to 20+ years, with fertilized females continuously discharging thousands of live sheathed microfilariae into the bloodstream daily.
@@ -62,14 +62,14 @@ draft: false
 *   **Definitive Host:**
     - Humans (*Homo sapiens*) serve as the primary natural definitive host. (Related simian strains infect wild monkeys in forest canopies, but human loiasis is primarily an anthroponotic cycle).
 *   **Intermediate Host(s):**
-    - Day-Biting Tabanid Deerflies / Red Flies (Obligatory Vector Intermediate Hosts): Female flies of the genus *Chrysops*, principally *[[Deerflies|Chrysops silacea]]* and *[[Deerflies|Chrysops dimidiata]]*.
+    - Day-Biting Tabanid Deerflies / Red Flies (Obligatory Vector Intermediate Hosts): Female flies of the genus *Chrysops*, principally *[[Deer flies|Chrysops silacea]]* and *[[Deer flies|Chrysops dimidiata]]*.
 *   **Transmission Mode & Ingestion/Penetration:**
-    - Vector-Borne Inoculation: Inoculation of infective third-stage larvae (L3) during the blood meal of an infected female *[[Deerflies|Chrysops]]* fly.
+    - Vector-Borne Inoculation: Inoculation of infective third-stage larvae (L3) during the blood meal of an infected female *[[Deer flies|Chrysops]]* fly.
     - Penetration Mechanics: The fly lacerates the skin with biting mouthparts to form a pool of blood; L3 larvae emerge from the fly proboscis onto the skin surface and actively crawl into the bite puncture wound.
 *   **Intra-Host Larval Migration Pathway:**
     - Human Subcutaneous Migration: Injected L3 larvae penetrate the dermis, enter subcutaneous connective tissue, and undergo two developmental molts (L3 -> L4 -> Adult) over 6 to 12 months.
     - Maturation & Microfilarial Production: Sexually mature adult male and female worms migrate continuously through subcutaneous tissue and connective fascia. Fertilized female worms discharge sheathed microfilariae into local tissue, which enter cutaneous lymphatic capillaries and the systemic vascular circulation to circulate in blood during daytime hours.
-    - Insect Cycle: Female *[[Deerflies|Chrysops]]* flies feed during the daytime, ingesting circulating microfilariae from human peripheral blood. Ingested larvae exsheath in the midgut, penetrate thoracic muscles, molt twice into infective L3 larvae, and migrate to the fly proboscis.
+    - Insect Cycle: Female *[[Deer flies|Chrysops]]* flies feed during the daytime, ingesting circulating microfilariae from human peripheral blood. Ingested larvae exsheath in the midgut, penetrate thoracic muscles, molt twice into infective L3 larvae, and migrate to the fly proboscis.
 *   **Diagnostic Stage & Shedding Site:**
     - Diagnostic Stage: Sheathed microfilariae (230–250 μm long, nuclei extending to extreme tail tip, diurnal periodicity) in peripheral blood, or live adult worms extracted from the subconjunctiva or skin.
     - Shedding Site: Bloodstream / vascular system. Microfilariae are NOT shed in stool or urine.
@@ -113,9 +113,9 @@ draft: false
     - Endemic exclusively in the humid rainforests and swamp-forest regions of Central and West Africa.
     - High-Prevalence Endemic Countries: Cameroon, Gabon, Republic of Congo, Democratic Republic of Congo, Central African Republic, Equatorial Guinea, Gabon, and Southeastern Nigeria. (An estimated 14 million people are infected).
 *   **Soil & Environmental Requirements:**
-    - Strictly tied to environmental habitats that support *[[Deerflies|Chrysops]]* vector breeding: dense, shaded tropical rainforests, swamp forests, and slow-moving muddy streams containing decaying organic forest debris. *[[Deerflies|Chrysops]]* flies are daytime biters attracted to shade, movement, dark clothing, and wood-fire smoke.
+    - Strictly tied to environmental habitats that support *[[Deer flies|Chrysops]]* vector breeding: dense, shaded tropical rainforests, swamp forests, and slow-moving muddy streams containing decaying organic forest debris. *[[Deer flies|Chrysops]]* flies are daytime biters attracted to shade, movement, dark clothing, and wood-fire smoke.
 *   **Dietary Exposures & Intermediate Host Foods:**
-    - N/A (Transmitted exclusively by the bite of infected day-biting *[[Deerflies|Chrysops]]* deerflies; no foodborne or waterborne acquisition).
+    - N/A (Transmitted exclusively by the bite of infected day-biting *[[Deer flies|Chrysops]]* deerflies; no foodborne or waterborne acquisition).
 *   **Public Health & Mass Drug Administration:**
     - Major Complication for Global Elimination Programs: *Loa loa* hyper-endemicity creates a critical safety barrier for Mass Drug Administration (MDA) programs targeting Onchocerciasis (using [[ivermectin]]) and Lymphatic Filariasis (using DEC). Giving [[ivermectin]] or DEC to populations co-infected with high-density *Loa loa* causes fatal post-treatment encephalopathy.
     - "Test-and-Not-Treat" (TNT) Strategy & LoaScope: Implementation of point-of-care LoaScope quantitative cell-phone microscopy screening in co-endemic regions allows field workers to measure *Loa loa* microfilarial density in real time; individuals with >20,000 mf/mL are excluded from [[ivermectin]]/[[Diethylcarbamazine|DEC]] MDA to ensure safety.
@@ -152,13 +152,13 @@ draft: false
     - Ineffectiveness of [[Doxycycline]]: Anti-*Wolbachia* antibiotic therapy with [[Doxycycline]] is COMPLETELY INEFFECTIVE against *Loa loa* because *Loa loa* does not harbor *Wolbachia* endosymbionts.
 *   **Prophylaxis, Sanitation & Food Safety:**
     - Chemoprophylaxis for Travelers: Oral [[Diethylcarbamazine]] (DEC) administered at a dosage of 300 mg PO once weekly is highly effective as pre-exposure prophylaxis for long-term visitors, military personnel, and outdoor workers in endemic Central/West African rainforests.
-    - Vector Protection: Wearing long-sleeved shirts, long trousers, applying DEET insect repellents to exposed skin, and avoiding shaded riverbanks and wood smoke during daytime hours when *[[Deerflies|Chrysops]]* flies actively bite.
+    - Vector Protection: Wearing long-sleeved shirts, long trousers, applying DEET insect repellents to exposed skin, and avoiding shaded riverbanks and wood smoke during daytime hours when *[[Deer flies|Chrysops]]* flies actively bite.
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:**
     - "African eye worm"
     - "Calabar swellings / Fugitive swellings"
-    - "[[Deerflies|Chrysops]] deerfly / Red fly vector"
+    - "[[Deer flies|Chrysops]] deerfly / Red fly vector"
     - "Nuclei extend continuously to the extreme tip of the tail"
     - "Diurnal periodicity (day blood)"
     - "Absence of Wolbachia endosymbionts"
@@ -168,5 +168,5 @@ draft: false
 *   **Exceptions to the Rule:**
     - The *Wolbachia* Exception: While almost all major human filarial nematodes (*Wuchereria*, *Brugia*, *Onchocerca*) harbor obligate endosymbiotic *Wolbachia* bacteria and can be treated or sterilized using [[Doxycycline]], *Loa loa* is the notable exception that UNIQUELY LACKS *Wolbachia*; consequently, [[Doxycycline]] has zero efficacy against loiasis.
     - Tail Tip Nuclei Differential: Unlike *[[Wuchereria bancrofti]]* (whose tail tip is completely free of nuclei) and *Brugia* species (whose tail tip has two isolated terminal nuclei), *Loa loa* microfilariae feature somatic nuclei that extend continuously in an unbroken line to the very end of the tail tip.
-    - Diurnal Blood Periodicity: In direct contrast to *[[Wuchereria bancrofti]]* and *Brugia* species (which exhibit nocturnal periodicity, circulating at night), *Loa loa* microfilariae exhibit diurnal periodicity, appearing in peripheral blood exclusively during daytime hours matching the feeding habits of day-biting *[[Deerflies|Chrysops]]* flies.
+    - Diurnal Blood Periodicity: In direct contrast to *[[Wuchereria bancrofti]]* and *Brugia* species (which exhibit nocturnal periodicity, circulating at night), *Loa loa* microfilariae exhibit diurnal periodicity, appearing in peripheral blood exclusively during daytime hours matching the feeding habits of day-biting *[[Deer flies|Chrysops]]* flies.
     - The MDA Barrier Paradox: *Loa loa* is famous in global public health as the primary obstacle preventing the elimination of river blindness (*[[Onchocerca volvulus]]*) and lymphatic filariasis in Central Africa. Standard mass drug administration of [[ivermectin]] cannot be distributed in *Loa loa* endemic zones without prior screening because rapid microfilarial clearance causes lethal brain microvascular destruction and post-filarial encephalopathy in highly parasitemic individuals.

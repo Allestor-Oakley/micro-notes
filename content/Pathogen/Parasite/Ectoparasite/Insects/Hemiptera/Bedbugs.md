@@ -71,4 +71,4 @@ draft: false
 
 #### Trivia & Edge Cases
 *   **Buzzwords & Descriptors:** "Cimex lectularius", "Cimex hemipterus", "mahogany brown", "dorsoventrally flattened", "vestigial wing pads", "linear or clustered bite pattern", "breakfast, lunch, and dinner pattern", "fecal specks on bedding", "attracted to CO2 and heat (>2°C above ambient)", "aggregation pheromones", "resurgence due to pyrethroid resistance".
-*   **Exceptions to the Rule:** Bed bugs are completely wingless/non-aerial insects that cannot fly or jump (unlike fleas or [[mosquitoes]]); despite being obligate blood-sucking parasites that feed on humans, bed bugs do not live or stay on the host's body and are not natural biological vectors of any infectious disease.
+*   **Exceptions to the Rule:** Bed bugs are completely wingless/non-aerial insects that cannot fly or jump (unlike fleas or [[Mosquitoes]]); despite being obligate blood-sucking parasites that feed on humans, bed bugs do not live or stay on the host's body and are not natural biological vectors of any infectious disease.
